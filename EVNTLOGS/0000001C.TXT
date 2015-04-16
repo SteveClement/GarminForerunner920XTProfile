@@ -1,0 +1,828 @@
+File Name: 0:\GARMIN\EVNTLOGS/0000001C.TXT
+
+
+>>>>> EVL_CURR_LOGS <<<<<
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   0F
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  10
+timeDay:    2015/ 4/16 11:36:21
+cycle_cnt:  21
+
+10* A8 00 00 00   0:00:05.316 HWM main  CHKDSK Error: line:983
+11* A8 00 00 00   0:00:05.317 HWM main  CHKDSK Error: line:983
+12* A8 00 00 00   0:00:05.317 HWM main  CHKDSK Error: line:983
+13* A8 00 00 00   0:00:05.318 HWM main  CHKDSK Error: line:983
+14* A8 00 00 00   0:00:05.318 HWM main  CHKDSK Error: line:983
+15* A8 00 00 00   0:00:05.319 HWM main  CHKDSK Error: line:983
+16* A8 00 00 00   0:00:05.319 HWM main  CHKDSK Error: line:983
+17* A8 00 00 00   0:00:05.319 HWM main  CHKDSK Error: line:983
+18* A8 00 00 00   0:00:05.320 HWM main  CHKDSK Error: line:983
+19* A8 00 00 00   0:00:05.320 HWM main  CHKDSK Error: line:983
+1A* A8 00 00 00   0:00:05.321 HWM main  CHKDSK Error: line:983
+1B* A8 00 00 00   0:00:05.323 HWM main  CHKDSK Error: line:983
+1C* A8 00 00 00   0:00:05.323 HWM main  CHKDSK Error: line:983
+1D* A8 00 00 00   0:00:05.324 HWM main  CHKDSK Error: line:983
+1E* A8 00 00 00   0:00:05.324 HWM main  CHKDSK Error: line:983
+1F* A8 00 00 00   0:00:05.325 HWM main  CHKDSK Error: line:983
+00* A8 00 00 00   0:00:05.336 HWM main  CHKDSK Error: line:983
+01* A8 00 00 00   0:00:05.353 HWM main  CHKDSK Error: line:983
+02* A8 00 00 00   0:00:05.354 HWM main  CHKDSK Error: line:983
+03* A8 00 00 00   0:00:05.354 HWM main  CHKDSK Error: line:983
+04* A8 00 00 00   0:00:05.355 HWM main  CHKDSK Error: line:983
+05* A8 00 00 00   0:00:05.355 HWM main  CHKDSK Error: line:983
+06* A8 00 00 00   0:00:05.356 HWM main  CHKDSK Error: line:983
+07* A8 00 00 00   0:00:05.356 HWM main  CHKDSK Error: line:983
+08* A8 00 00 00   0:00:05.357 HWM main  CHKDSK Error: line:983
+09* A8 00 00 00   0:00:05.357 HWM main  CHKDSK Error: line:983
+0A* A8 00 00 00   0:00:05.357 HWM main  CHKDSK Error: line:983
+0B* A8 00 00 00   0:00:05.435 HWM main  CHKDSK Error: line:983
+0C* A8 00 00 00   0:00:05.483 HWM main  CHKDSK Error: line:983
+0D: E0 00 00 00   0:00:05.543 HWM main  CHKDSK Report: Time:1722msec Dirs:34 Files:94 Free:0 Diff:0
+0E* 74 03 00 00   0:00:08.478 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+0F* 74 03 00 00   0:00:08.481 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+
+verNum:     8/13/2014 (00)
+ownerID:    00000009
+OwnerName:  CSM
+status:     11
+pri_thresh:  2
+archived:   00
+max_arch:   00
+num_recs:   00
+rec_size:   18
+next_evnt:  00
+timeDay:    2015/ 4/16 11:36:13
+cycle_cnt:  21
+
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000A
+OwnerName:  NET
+status:     11
+pri_thresh:  2
+archived:   00
+max_arch:   00
+num_recs:   00
+rec_size:   18
+next_evnt:  00
+timeDay:    2015/ 4/16 11:36:13
+cycle_cnt:  21
+
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000B
+OwnerName:  FIT WIFI
+status:     11
+pri_thresh:  2
+archived:   00
+max_arch:   14
+num_recs:   17
+rec_size:   20
+next_evnt:  17
+timeDay:    2015/ 4/16 11:36:13
+cycle_cnt:  21
+
+00: D0 16 03 00   0:00:31.938 CDP main  Fitness Wi-Fi Status: 0x2
+01: D0 16 05 00   0:01:08.787 CDP main  Fitness Wi-Fi Status: 0x2
+02: D0 16 05 00   0:30:07.690 CDP main  Fitness Wi-Fi Status: 0x2
+03: D0 16 06 00   0:00:10.635 CDP main  Fitness Wi-Fi Status: 0x2
+04: D0 16 06 00   0:00:13.074 CDP main  Fitness Wi-Fi Status: 0x2
+05: D0 16 07 00   0:00:27.552 CDP main  Fitness Wi-Fi Status: 0x2
+06: D0 16 08 00   0:01:43.258 CDP main  Fitness Wi-Fi Status: 0x2
+07: D0 16 08 00   0:04:40.054 CDP main  Fitness Wi-Fi Status: 0x2
+08: D0 16 09 00   0:00:15.535 CDP main  Fitness Wi-Fi Status: 0x2
+09: D0 16 09 00   0:00:16.417 CDP main  Fitness Wi-Fi Status: 0x2
+0A: D0 16 0A 00   0:00:17.655 CDP main  Fitness Wi-Fi Status: 0x2
+0B: D0 16 0A 00   0:06:22.454 CDP main  Fitness Wi-Fi Status: 0x2
+0C: D0 16 0B 00   0:01:25.323 CDP main  Fitness Wi-Fi Status: 0x2
+0D: D0 16 0C 00   0:00:10.903 CDP main  Fitness Wi-Fi Status: 0x2
+0E: D0 16 0D 00   0:00:10.829 CDP main  Fitness Wi-Fi Status: 0x2
+0F: D0 16 0E 00   0:00:38.239 CDP main  Fitness Wi-Fi Status: 0x2
+10: D0 16 0E 00   0:03:06.854 CDP main  Fitness Wi-Fi Status: 0x2
+11: D0 16 0F 00   0:01:55.221 CDP main  Fitness Wi-Fi Status: 0x2
+12: D0 16 0F 00   0:02:16.362 CDP main  Fitness Wi-Fi Status: 0x2
+13: D0 16 0F 00   0:15:57.260 CDP main  Fitness Wi-Fi Status: 0x2
+14: D0 16 10 00   0:21:20.817 CDP main  Fitness Wi-Fi Status: 0x2
+15: D0 16 10 00   0:23:04.998 CDP main  Fitness Wi-Fi Status: 0x2
+16: D0 16 10 00   0:32:35.779 CDP main  Fitness Wi-Fi Status: 0x2
+
+
+
+>>>>> EVL_ARCH_LOGS <<<<<
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   0F
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    1990/ 1/ 1 20:07:47
+cycle_cnt:  8
+
+00: FF 00 00 00   0:00:01.792 HWM main 1989/12/31  0:00:01 C:2
+01: E0 00 00 00   0:00:04.597 HWM main  CHKDSK Report: Time:952msec Dirs:3 Files:20 Free:18607 Diff:0
+02* 74 03 00 00   0:00:05.885 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+03: FE 01 08 00   0:01:24.531 HWM main 1989/12/31  0:01:24 V:0
+
+04: FF 00 00 00   0:00:01.850 HWM main 1989/12/31  0:00:01 C:3
+05: E0 00 00 00   0:00:04.967 HWM main  CHKDSK Report: Time:1233msec Dirs:23 Files:56 Free:18527 Diff:0
+06* 74 03 00 00   0:00:05.392 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+07* 74 03 00 00   0:00:05.393 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+08: FE 01 08 00   0:01:01.831 HWM main 1989/12/31  0:01:01 V:0
+
+09: FF 00 00 00   0:00:01.858 HWM main 1989/12/31  0:00:01 C:4
+0A: E0 00 00 00   0:00:04.930 HWM main  CHKDSK Report: Time:1194msec Dirs:23 Files:57 Free:18524 Diff:0
+0B* 74 03 00 00   0:00:05.513 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+0C* 74 03 00 00   0:00:05.514 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+0D: E0 00 00 00   0:01:13.647 HWM misc  CHKDSK Report: Time:987msec Dirs:23 Files:57 Free:18523 Diff:0
+0E: FE 01 08 00   0:01:36.604 HWM main 1989/12/31  0:01:36 V:0
+
+0F: FF 00 00 00   0:00:01.857 HWM main 1989/12/31  0:00:01 C:5
+10: E0 00 00 00   0:00:04.969 HWM main  CHKDSK Report: Time:1233msec Dirs:23 Files:57 Free:18523 Diff:0
+11* 74 03 00 00   0:00:05.691 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+12* 74 03 00 00   0:00:05.692 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+13: FE 01 08 00   0:30:15.600 HWM main 1989/12/31  0:30:15 V:0
+
+14: FF 00 00 00   0:00:01.534 HWM main 1989/12/31  0:53:04 C:6
+15: E0 00 00 00   0:00:04.663 HWM main  CHKDSK Report: Time:1251msec Dirs:23 Files:57 Free:18521 Diff:0
+16* 74 03 00 00   0:00:05.474 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+17* 74 03 00 00   0:00:05.475 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+18: FE 01 08 00   0:01:36.702 HWM main 1989/12/31  0:54:39 V:0
+
+19: FF 00 00 00   0:00:01.534 HWM main 1989/12/31  1:19:08 C:7
+1A: E0 00 00 00   0:00:04.665 HWM main  CHKDSK Report: Time:1252msec Dirs:23 Files:57 Free:18518 Diff:0
+1B* 74 03 00 00   0:00:05.362 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+1C* 74 03 00 00   0:00:05.363 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+1D: FE 01 08 00   0:01:44.702 HWM main 1989/12/31  1:20:51 V:0
+
+1E: FF 00 00 00   0:00:01.537 HWM main 1990/ 1/ 1 20:07:44 C:8
+1F: E0 00 00 00   0:00:04.704 HWM main  CHKDSK Report: Time:1289msec Dirs:23 Files:57 Free:18515 Diff:0
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   0F
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2015/ 3/16  7:38:51
+cycle_cnt:  14
+
+00* 74 03 00 00   0:00:05.672 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+01* 74 03 00 00   0:00:05.674 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+02: E0 00 00 00   0:04:56.970 HWM misc  CHKDSK Report: Time:1021msec Dirs:23 Files:57 Free:18508 Diff:0
+03: FE 01 08 00   0:06:23.678 HWM main 1990/ 1/ 1 20:14:06 V:0
+
+04: FF 00 00 00   0:00:01.537 HWM main 1990/ 1/ 1 20:27:15 C:9
+05: E0 00 00 00   0:00:04.716 HWM main  CHKDSK Report: Time:1302msec Dirs:23 Files:57 Free:18508 Diff:0
+06* 74 03 00 00   0:00:05.816 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+07* 74 03 00 00   0:00:05.817 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+08: E0 00 00 00   0:00:32.955 HWM misc  CHKDSK Report: Time:1030msec Dirs:23 Files:57 Free:18501 Diff:0
+09: FE 01 08 00   0:01:56.076 HWM main 1990/ 1/ 1 20:29:09 V:0
+
+0A: FF 00 00 00   0:00:01.535 HWM main 1990/ 1/ 1 20:31:27 C:10
+0B: E0 00 00 00   0:00:04.658 HWM main  CHKDSK Report: Time:1248msec Dirs:23 Files:57 Free:18501 Diff:0
+0C* 74 03 00 00   0:00:05.502 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+0D* 74 03 00 00   0:00:05.503 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+0E: FE 01 08 00   0:07:45.714 HWM main 1990/ 1/ 1 20:39:11 V:0
+
+0F: FF 00 00 00   0:00:01.545 HWM main 1990/ 1/ 1 20:42:49 C:11
+10: E0 00 00 00   0:00:04.742 HWM main  CHKDSK Report: Time:1320msec Dirs:23 Files:57 Free:18500 Diff:0
+11* 74 03 00 00   0:00:05.963 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+12* 74 03 00 00   0:00:05.964 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+13: FE 01 08 00   0:03:11.826 HWM main 1990/ 1/ 1 20:45:59 V:0
+
+14: FF 00 00 00   0:00:01.552 HWM main 1990/ 1/ 1 20:47:06 C:12
+15: E0 00 00 00   0:00:04.750 HWM main  CHKDSK Report: Time:1322msec Dirs:23 Files:57 Free:18500 Diff:0
+16* 74 03 00 00   0:00:05.799 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+17* 74 03 00 00   0:00:05.800 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+18: FE 01 08 00   0:02:23.745 HWM main 1990/ 1/ 1 20:49:29 V:0
+
+19: FF 00 00 00   0:00:01.553 HWM main 1990/ 1/ 1 21:44:49 C:13
+1A: E0 00 00 00   0:00:04.759 HWM main  CHKDSK Report: Time:1330msec Dirs:23 Files:57 Free:18500 Diff:0
+1B* 74 03 00 00   0:00:05.723 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+1C* 74 03 00 00   0:00:05.724 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+1D: FE 01 08 00   0:02:09.974 HWM main 2015/ 3/16  7:38:40 V:0
+
+1E: FF 00 00 00   0:00:01.553 HWM main 2015/ 3/16  7:38:48 C:14
+1F: E0 00 00 00   0:00:04.752 HWM main  CHKDSK Report: Time:1323msec Dirs:23 Files:57 Free:18500 Diff:0
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   0F
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2015/ 4/16 10:39:41
+cycle_cnt:  17
+
+00* 74 03 00 00   0:00:09.695 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+01: FE 01 08 00   0:03:39.067 HWM main 2015/ 3/16  7:42:26 V:0
+
+02: FF 00 00 00   0:00:01.542 HWM main 2015/ 4/16  9:25:29 C:15
+03: E0 00 00 00   0:00:04.672 HWM main  CHKDSK Report: Time:1258msec Dirs:23 Files:57 Free:18494 Diff:0
+04* 74 03 00 00   0:00:05.973 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+05* 74 03 00 00   0:00:05.974 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+06: D8 00 00 00   0:00:18.276 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+07: D8 00 00 00   0:01:53.057 HWM main 02040A00D7250B00000000005C3F0020 .....%......\?. 
+08* A8 00 00 00   0:01:54.732 HWM main  CHKDSK Error: line:1512
+09: E0 00 00 00   0:01:54.732 HWM main  CHKDSK Report: Time:1211msec Dirs:25 Files:63 Free:18475 Diff:65525
+0A: D8 00 00 00   0:02:06.196 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+0B: D8 00 00 00   0:02:14.615 HWM main 02040A00D7250B00000000005C3F0020 .....%......\?. 
+0C: E0 00 00 00   0:02:15.868 HWM main  CHKDSK Report: Time:1253msec Dirs:25 Files:63 Free:18473 Diff:0
+0D: D8 00 00 00   0:02:26.853 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+0E: D8 00 00 00   0:15:55.184 HWM main 02040A00D7250B00000000005C3F0020 .....%......\?. 
+0F: E0 00 00 00   0:15:56.735 HWM main  CHKDSK Report: Time:1533msec Dirs:25 Files:63 Free:18472 Diff:0
+10: FE 01 08 00   0:16:52.640 HWM main 2015/ 4/16  9:42:20 V:0
+
+11: FF 00 00 00   0:00:01.566 HWM main 2015/ 4/16 10:06:33 C:16
+12: E0 00 00 00   0:00:05.198 HWM main  CHKDSK Report: Time:1769msec Dirs:25 Files:64 Free:18471 Diff:0
+13* 74 03 00 00   0:00:06.383 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+14* 74 03 00 00   0:00:06.384 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+15: D8 00 00 00   0:22:32.257 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+16: D8 00 00 00   0:23:02.998 HWM main 02040A00D7250B00000000005C3F0020 .....%......\?. 
+17: E0 00 00 00   0:23:04.353 HWM main  CHKDSK Report: Time:1051msec Dirs:25 Files:66 Free:18469 Diff:0
+18: D8 00 00 00   0:23:20.521 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+19: D8 00 00 00   0:32:34.028 HWM main 02040A00D7250B00000000005C3F0020 .....%......\?. 
+1A: E0 00 00 00   0:32:35.155 HWM main  CHKDSK Report: Time:942msec Dirs:25 Files:67 Free:18468 Diff:0
+1B: FE 01 08 00   0:32:53.732 HWM main 2015/ 4/16 10:39:25 V:0
+
+1C: FF 00 00 00   0:00:01.583 HWM main 2015/ 4/16 10:39:36 C:17
+1D: E0 00 00 00   0:00:05.252 HWM main  CHKDSK Report: Time:1808msec Dirs:25 Files:67 Free:18468 Diff:0
+1E* 74 03 00 00   0:00:06.205 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+1F* 74 03 00 00   0:00:06.207 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   0F
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2015/ 4/16 11:02:19
+cycle_cnt:  18
+
+00: FF 00 00 00   0:00:01.653 HWM main 2015/ 4/16 10:52:25 C:18
+01: E0 00 00 00   0:00:05.205 HWM main  CHKDSK Report: Time:1693msec Dirs:25 Files:69 Free:18466 Diff:0
+02* 74 03 00 00   0:00:06.620 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+03* 74 03 00 00   0:00:06.621 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+04: D8 00 00 00   0:00:20.350 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+05: D8 00 00 00   0:09:53.524 HWM main 02040A00D7250B00000000005C3F0020 .....%......\?. 
+06* A8 00 00 00   0:09:55.739 HWM main  CHKDSK Error: line:1032
+07* A8 00 00 00   0:09:55.740 HWM main  CHKDSK Error: line:1032
+08* A8 00 00 00   0:09:55.740 HWM main  CHKDSK Error: line:1032
+09* A8 00 00 00   0:09:56.030 HWM main  CHKDSK Error: line:1032
+0A* A8 00 00 00   0:09:56.030 HWM main  CHKDSK Error: line:1032
+0B* A8 00 00 00   0:09:56.030 HWM main  CHKDSK Error: line:1032
+0C* A8 00 00 00   0:09:56.031 HWM main  CHKDSK Error: line:1032
+0D* A8 00 00 00   0:09:56.031 HWM main  CHKDSK Error: line:1032
+0E* A8 00 00 00   0:09:56.032 HWM main  CHKDSK Error: line:1032
+0F* A8 00 00 00   0:09:56.034 HWM main  CHKDSK Error: line:1032
+10* A8 00 00 00   0:09:56.034 HWM main  CHKDSK Error: line:1032
+11* A8 00 00 00   0:09:56.035 HWM main  CHKDSK Error: line:1032
+12* A8 00 00 00   0:09:56.035 HWM main  CHKDSK Error: line:1032
+13* A8 00 00 00   0:09:56.036 HWM main  CHKDSK Error: line:1032
+14* A8 00 00 00   0:09:56.036 HWM main  CHKDSK Error: line:1032
+15* A8 00 00 00   0:09:56.037 HWM main  CHKDSK Error: line:1032
+16* A8 00 00 00   0:09:56.037 HWM main  CHKDSK Error: line:1032
+17* A8 00 00 00   0:09:56.145 HWM main  CHKDSK Error: line:1032
+18* A8 00 00 00   0:09:56.146 HWM main  CHKDSK Error: line:1032
+19* A8 00 00 00   0:09:56.146 HWM main  CHKDSK Error: line:1032
+1A* A8 00 00 00   0:09:56.147 HWM main  CHKDSK Error: line:1032
+1B* A8 00 00 00   0:09:56.147 HWM main  CHKDSK Error: line:1032
+1C* A8 00 00 00   0:09:56.148 HWM main  CHKDSK Error: line:1032
+1D* A8 00 00 00   0:09:56.148 HWM main  CHKDSK Error: line:1032
+1E* A8 00 00 00   0:09:56.149 HWM main  CHKDSK Error: line:1032
+1F* A8 00 00 00   0:09:56.150 HWM main  CHKDSK Error: line:1032
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   0F
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2015/ 4/16 11:02:20
+cycle_cnt:  18
+
+00* A8 00 00 00   0:09:56.286 HWM main  CHKDSK Error: line:1032
+01* A8 00 00 00   0:09:56.467 HWM main  CHKDSK Error: line:1032
+02* A8 00 00 00   0:09:56.468 HWM main  CHKDSK Error: line:1032
+03* A8 00 00 00   0:09:56.468 HWM main  CHKDSK Error: line:1032
+04* A8 00 00 00   0:09:56.469 HWM main  CHKDSK Error: line:1032
+05* A8 00 00 00   0:09:56.469 HWM main  CHKDSK Error: line:1032
+06* A8 00 00 00   0:09:56.470 HWM main  CHKDSK Error: line:1032
+07* A8 00 00 00   0:09:56.612 HWM main  CHKDSK Error: line:1032
+08* A8 00 00 00   0:09:56.613 HWM main  CHKDSK Error: line:1032
+09* A8 00 00 00   0:09:56.613 HWM main  CHKDSK Error: line:1032
+0A* A8 00 00 00   0:09:56.614 HWM main  CHKDSK Error: line:1032
+0B* A8 00 00 00   0:09:56.614 HWM main  CHKDSK Error: line:1032
+0C* A8 00 00 00   0:09:56.614 HWM main  CHKDSK Error: line:1032
+0D* A8 00 00 00   0:09:56.615 HWM main  CHKDSK Error: line:1032
+0E* A8 00 00 00   0:09:56.615 HWM main  CHKDSK Error: line:1032
+0F* A8 00 00 00   0:09:56.616 HWM main  CHKDSK Error: line:1032
+10* A8 00 00 00   0:09:56.616 HWM main  CHKDSK Error: line:1032
+11* A8 00 00 00   0:09:56.617 HWM main  CHKDSK Error: line:1032
+12* A8 00 00 00   0:09:56.617 HWM main  CHKDSK Error: line:1032
+13* A8 00 00 00   0:09:56.618 HWM main  CHKDSK Error: line:1032
+14* A8 00 00 00   0:09:56.618 HWM main  CHKDSK Error: line:1032
+15* A8 00 00 00   0:09:56.619 HWM main  CHKDSK Error: line:1032
+16* A8 00 00 00   0:09:56.619 HWM main  CHKDSK Error: line:1032
+17* A8 00 00 00   0:09:56.730 HWM main  CHKDSK Error: line:1032
+18* A8 00 00 00   0:09:56.731 HWM main  CHKDSK Error: line:1032
+19* A8 00 00 00   0:09:56.731 HWM main  CHKDSK Error: line:1032
+1A* A8 00 00 00   0:09:56.732 HWM main  CHKDSK Error: line:1032
+1B* A8 00 00 00   0:09:56.732 HWM main  CHKDSK Error: line:1032
+1C* A8 00 00 00   0:09:56.733 HWM main  CHKDSK Error: line:1032
+1D* A8 00 00 00   0:09:56.733 HWM main  CHKDSK Error: line:1032
+1E* A8 00 00 00   0:09:56.734 HWM main  CHKDSK Error: line:1032
+1F* A8 00 00 00   0:09:56.734 HWM main  CHKDSK Error: line:1032
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   0F
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2015/ 4/16 11:06:40
+cycle_cnt:  19
+
+00* A8 00 00 00   0:09:56.747 HWM main  CHKDSK Error: line:1032
+01* A8 00 00 00   0:09:56.767 HWM main  CHKDSK Error: line:1032
+02* A8 00 00 00   0:09:56.768 HWM main  CHKDSK Error: line:1032
+03* A8 00 00 00   0:09:56.768 HWM main  CHKDSK Error: line:1032
+04* A8 00 00 00   0:09:56.918 HWM main  CHKDSK Error: line:1032
+05: E0 00 00 00   0:09:57.039 HWM main  CHKDSK Report: Time:3514msec Dirs:31 Files:96 Free:0 Diff:0
+06: FE 01 08 00   0:13:49.316 HWM main 2015/ 4/16 11:06:12 V:0
+
+07: FF 00 00 00   0:00:01.616 HWM main 2015/ 4/16 11:06:37 C:19
+08* A8 00 00 00   0:00:04.675 HWM main  CHKDSK Error: line:983
+09* A8 00 00 00   0:00:04.675 HWM main  CHKDSK Error: line:983
+0A* A8 00 00 00   0:00:04.676 HWM main  CHKDSK Error: line:983
+0B* A8 00 00 00   0:00:04.839 HWM main  CHKDSK Error: line:983
+0C* A8 00 00 00   0:00:04.839 HWM main  CHKDSK Error: line:983
+0D* A8 00 00 00   0:00:04.840 HWM main  CHKDSK Error: line:983
+0E* A8 00 00 00   0:00:04.840 HWM main  CHKDSK Error: line:983
+0F* A8 00 00 00   0:00:04.842 HWM main  CHKDSK Error: line:983
+10* A8 00 00 00   0:00:04.843 HWM main  CHKDSK Error: line:983
+11* A8 00 00 00   0:00:04.843 HWM main  CHKDSK Error: line:983
+12* A8 00 00 00   0:00:04.844 HWM main  CHKDSK Error: line:983
+13* A8 00 00 00   0:00:04.844 HWM main  CHKDSK Error: line:983
+14* A8 00 00 00   0:00:04.845 HWM main  CHKDSK Error: line:983
+15* A8 00 00 00   0:00:04.845 HWM main  CHKDSK Error: line:983
+16* A8 00 00 00   0:00:04.846 HWM main  CHKDSK Error: line:983
+17* A8 00 00 00   0:00:04.846 HWM main  CHKDSK Error: line:983
+18* A8 00 00 00   0:00:04.847 HWM main  CHKDSK Error: line:983
+19* A8 00 00 00   0:00:04.891 HWM main  CHKDSK Error: line:983
+1A* A8 00 00 00   0:00:04.892 HWM main  CHKDSK Error: line:983
+1B* A8 00 00 00   0:00:04.892 HWM main  CHKDSK Error: line:983
+1C* A8 00 00 00   0:00:04.892 HWM main  CHKDSK Error: line:983
+1D* A8 00 00 00   0:00:04.893 HWM main  CHKDSK Error: line:983
+1E* A8 00 00 00   0:00:04.893 HWM main  CHKDSK Error: line:983
+1F* A8 00 00 00   0:00:04.894 HWM main  CHKDSK Error: line:983
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   0F
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2015/ 4/16 11:06:41
+cycle_cnt:  19
+
+00* A8 00 00 00   0:00:05.004 HWM main  CHKDSK Error: line:983
+01* A8 00 00 00   0:00:05.203 HWM main  CHKDSK Error: line:983
+02* A8 00 00 00   0:00:05.204 HWM main  CHKDSK Error: line:983
+03* A8 00 00 00   0:00:05.204 HWM main  CHKDSK Error: line:983
+04* A8 00 00 00   0:00:05.205 HWM main  CHKDSK Error: line:983
+05* A8 00 00 00   0:00:05.205 HWM main  CHKDSK Error: line:983
+06* A8 00 00 00   0:00:05.206 HWM main  CHKDSK Error: line:983
+07* A8 00 00 00   0:00:05.206 HWM main  CHKDSK Error: line:983
+08* A8 00 00 00   0:00:05.207 HWM main  CHKDSK Error: line:983
+09* A8 00 00 00   0:00:05.282 HWM main  CHKDSK Error: line:983
+0A* A8 00 00 00   0:00:05.283 HWM main  CHKDSK Error: line:983
+0B* A8 00 00 00   0:00:05.283 HWM main  CHKDSK Error: line:983
+0C* A8 00 00 00   0:00:05.283 HWM main  CHKDSK Error: line:983
+0D* A8 00 00 00   0:00:05.284 HWM main  CHKDSK Error: line:983
+0E* A8 00 00 00   0:00:05.284 HWM main  CHKDSK Error: line:983
+0F* A8 00 00 00   0:00:05.285 HWM main  CHKDSK Error: line:983
+10* A8 00 00 00   0:00:05.285 HWM main  CHKDSK Error: line:983
+11* A8 00 00 00   0:00:05.286 HWM main  CHKDSK Error: line:983
+12* A8 00 00 00   0:00:05.286 HWM main  CHKDSK Error: line:983
+13* A8 00 00 00   0:00:05.287 HWM main  CHKDSK Error: line:983
+14* A8 00 00 00   0:00:05.287 HWM main  CHKDSK Error: line:983
+15* A8 00 00 00   0:00:05.288 HWM main  CHKDSK Error: line:983
+16* A8 00 00 00   0:00:05.288 HWM main  CHKDSK Error: line:983
+17* A8 00 00 00   0:00:05.289 HWM main  CHKDSK Error: line:983
+18* A8 00 00 00   0:00:05.289 HWM main  CHKDSK Error: line:983
+19* A8 00 00 00   0:00:05.334 HWM main  CHKDSK Error: line:983
+1A* A8 00 00 00   0:00:05.335 HWM main  CHKDSK Error: line:983
+1B* A8 00 00 00   0:00:05.335 HWM main  CHKDSK Error: line:983
+1C* A8 00 00 00   0:00:05.336 HWM main  CHKDSK Error: line:983
+1D* A8 00 00 00   0:00:05.336 HWM main  CHKDSK Error: line:983
+1E* A8 00 00 00   0:00:05.337 HWM main  CHKDSK Error: line:983
+1F* A8 00 00 00   0:00:05.337 HWM main  CHKDSK Error: line:983
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   0F
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2015/ 4/16 11:17:04
+cycle_cnt:  19
+
+00* A8 00 00 00   0:00:05.349 HWM main  CHKDSK Error: line:983
+01* A8 00 00 00   0:00:05.363 HWM main  CHKDSK Error: line:983
+02* A8 00 00 00   0:00:05.363 HWM main  CHKDSK Error: line:983
+03* A8 00 00 00   0:00:05.364 HWM main  CHKDSK Error: line:983
+04* A8 00 00 00   0:00:05.364 HWM main  CHKDSK Error: line:983
+05* A8 00 00 00   0:00:05.365 HWM main  CHKDSK Error: line:983
+06* A8 00 00 00   0:00:05.446 HWM main  CHKDSK Error: line:983
+07: E0 00 00 00   0:00:05.500 HWM main  CHKDSK Report: Time:1702msec Dirs:31 Files:93 Free:0 Diff:0
+08* 74 03 00 00   0:00:07.724 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+09* 74 03 00 00   0:00:07.725 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+0A: D8 00 00 00   0:05:21.916 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+0B: D8 00 00 00   0:10:27.548 HWM main 02040A0013AD0B000000000000430020 .............C. 
+0C* A8 00 00 00   0:10:28.525 HWM main  CHKDSK Error: line:983
+0D* A8 00 00 00   0:10:28.525 HWM main  CHKDSK Error: line:983
+0E* A8 00 00 00   0:10:28.526 HWM main  CHKDSK Error: line:983
+0F* A8 00 00 00   0:10:28.670 HWM main  CHKDSK Error: line:983
+10* A8 00 00 00   0:10:28.671 HWM main  CHKDSK Error: line:983
+11* A8 00 00 00   0:10:28.671 HWM main  CHKDSK Error: line:983
+12* A8 00 00 00   0:10:28.672 HWM main  CHKDSK Error: line:983
+13* A8 00 00 00   0:10:28.672 HWM main  CHKDSK Error: line:983
+14* A8 00 00 00   0:10:28.673 HWM main  CHKDSK Error: line:983
+15* A8 00 00 00   0:10:28.673 HWM main  CHKDSK Error: line:983
+16* A8 00 00 00   0:10:28.674 HWM main  CHKDSK Error: line:983
+17* A8 00 00 00   0:10:28.674 HWM main  CHKDSK Error: line:983
+18* A8 00 00 00   0:10:28.674 HWM main  CHKDSK Error: line:983
+19* A8 00 00 00   0:10:28.675 HWM main  CHKDSK Error: line:983
+1A* A8 00 00 00   0:10:28.675 HWM main  CHKDSK Error: line:983
+1B* A8 00 00 00   0:10:28.676 HWM main  CHKDSK Error: line:983
+1C* A8 00 00 00   0:10:28.676 HWM main  CHKDSK Error: line:983
+1D* A8 00 00 00   0:10:28.722 HWM main  CHKDSK Error: line:983
+1E* A8 00 00 00   0:10:28.723 HWM main  CHKDSK Error: line:983
+1F* A8 00 00 00   0:10:28.723 HWM main  CHKDSK Error: line:983
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   0F
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2015/ 4/16 11:17:04
+cycle_cnt:  19
+
+00* A8 00 00 00   0:10:28.731 HWM main  CHKDSK Error: line:983
+01* A8 00 00 00   0:10:28.945 HWM main  CHKDSK Error: line:983
+02* A8 00 00 00   0:10:28.945 HWM main  CHKDSK Error: line:983
+03* A8 00 00 00   0:10:28.948 HWM main  CHKDSK Error: line:983
+04* A8 00 00 00   0:10:28.948 HWM main  CHKDSK Error: line:983
+05* A8 00 00 00   0:10:28.950 HWM main  CHKDSK Error: line:983
+06* A8 00 00 00   0:10:28.950 HWM main  CHKDSK Error: line:983
+07* A8 00 00 00   0:10:28.951 HWM main  CHKDSK Error: line:983
+08* A8 00 00 00   0:10:28.952 HWM main  CHKDSK Error: line:983
+09* A8 00 00 00   0:10:28.952 HWM main  CHKDSK Error: line:983
+0A* A8 00 00 00   0:10:28.953 HWM main  CHKDSK Error: line:983
+0B* A8 00 00 00   0:10:28.955 HWM main  CHKDSK Error: line:983
+0C* A8 00 00 00   0:10:28.955 HWM main  CHKDSK Error: line:983
+0D* A8 00 00 00   0:10:29.004 HWM main  CHKDSK Error: line:983
+0E* A8 00 00 00   0:10:29.004 HWM main  CHKDSK Error: line:983
+0F* A8 00 00 00   0:10:29.005 HWM main  CHKDSK Error: line:983
+10* A8 00 00 00   0:10:29.006 HWM main  CHKDSK Error: line:983
+11* A8 00 00 00   0:10:29.006 HWM main  CHKDSK Error: line:983
+12* A8 00 00 00   0:10:29.007 HWM main  CHKDSK Error: line:983
+13* A8 00 00 00   0:10:29.007 HWM main  CHKDSK Error: line:983
+14* A8 00 00 00   0:10:29.008 HWM main  CHKDSK Error: line:983
+15* A8 00 00 00   0:10:29.008 HWM main  CHKDSK Error: line:983
+16* A8 00 00 00   0:10:29.009 HWM main  CHKDSK Error: line:983
+17* A8 00 00 00   0:10:29.009 HWM main  CHKDSK Error: line:983
+18* A8 00 00 00   0:10:29.010 HWM main  CHKDSK Error: line:983
+19* A8 00 00 00   0:10:29.010 HWM main  CHKDSK Error: line:983
+1A* A8 00 00 00   0:10:29.010 HWM main  CHKDSK Error: line:983
+1B* A8 00 00 00   0:10:29.011 HWM main  CHKDSK Error: line:983
+1C* A8 00 00 00   0:10:29.011 HWM main  CHKDSK Error: line:983
+1D* A8 00 00 00   0:10:29.058 HWM main  CHKDSK Error: line:983
+1E* A8 00 00 00   0:10:29.058 HWM main  CHKDSK Error: line:983
+1F* A8 00 00 00   0:10:29.059 HWM main  CHKDSK Error: line:983
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   0F
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2015/ 4/16 11:17:04
+cycle_cnt:  19
+
+00* A8 00 00 00   0:10:29.075 HWM main  CHKDSK Error: line:983
+01* A8 00 00 00   0:10:29.085 HWM main  CHKDSK Error: line:983
+02* A8 00 00 00   0:10:29.087 HWM main  CHKDSK Error: line:983
+03* A8 00 00 00   0:10:29.087 HWM main  CHKDSK Error: line:983
+04* A8 00 00 00   0:10:29.088 HWM main  CHKDSK Error: line:983
+05* A8 00 00 00   0:10:29.088 HWM main  CHKDSK Error: line:983
+06* A8 00 00 00   0:10:29.089 HWM main  CHKDSK Error: line:983
+07* A8 00 00 00   0:10:29.089 HWM main  CHKDSK Error: line:983
+08* A8 00 00 00   0:10:29.090 HWM main  CHKDSK Error: line:983
+09* A8 00 00 00   0:10:29.090 HWM main  CHKDSK Error: line:983
+0A* A8 00 00 00   0:10:29.090 HWM main  CHKDSK Error: line:983
+0B* A8 00 00 00   0:10:29.091 HWM main  CHKDSK Error: line:983
+0C* A8 00 00 00   0:10:29.091 HWM main  CHKDSK Error: line:983
+0D* A8 00 00 00   0:10:29.122 HWM main  CHKDSK Error: line:983
+0E* A8 00 00 00   0:10:29.122 HWM main  CHKDSK Error: line:983
+0F* A8 00 00 00   0:10:29.124 HWM main  CHKDSK Error: line:983
+10* A8 00 00 00   0:10:29.124 HWM main  CHKDSK Error: line:983
+11* A8 00 00 00   0:10:29.125 HWM main  CHKDSK Error: line:983
+12* A8 00 00 00   0:10:29.125 HWM main  CHKDSK Error: line:983
+13* A8 00 00 00   0:10:29.125 HWM main  CHKDSK Error: line:983
+14* A8 00 00 00   0:10:29.126 HWM main  CHKDSK Error: line:983
+15* A8 00 00 00   0:10:29.126 HWM main  CHKDSK Error: line:983
+16* A8 00 00 00   0:10:29.127 HWM main  CHKDSK Error: line:983
+17* A8 00 00 00   0:10:29.127 HWM main  CHKDSK Error: line:983
+18* A8 00 00 00   0:10:29.128 HWM main  CHKDSK Error: line:983
+19* A8 00 00 00   0:10:29.128 HWM main  CHKDSK Error: line:983
+1A* A8 00 00 00   0:10:29.129 HWM main  CHKDSK Error: line:983
+1B* A8 00 00 00   0:10:29.129 HWM main  CHKDSK Error: line:983
+1C* A8 00 00 00   0:10:29.130 HWM main  CHKDSK Error: line:983
+1D* A8 00 00 00   0:10:29.131 HWM main  CHKDSK Error: line:983
+1E* A8 00 00 00   0:10:29.180 HWM main  CHKDSK Error: line:983
+1F: E0 00 00 00   0:10:29.197 HWM main  CHKDSK Report: Time:1647msec Dirs:34 Files:94 Free:0 Diff:0
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   0F
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2015/ 4/16 11:31:01
+cycle_cnt:  20
+
+00: FE 01 08 00   0:23:51.197 HWM main 2015/ 4/16 11:30:26 V:0
+
+01: FF 00 00 00   0:00:01.641 HWM main 2015/ 4/16 11:30:58 C:20
+02* A8 00 00 00   0:00:04.856 HWM main  CHKDSK Error: line:983
+03* A8 00 00 00   0:00:04.856 HWM main  CHKDSK Error: line:983
+04* A8 00 00 00   0:00:04.857 HWM main  CHKDSK Error: line:983
+05* A8 00 00 00   0:00:05.044 HWM main  CHKDSK Error: line:983
+06* A8 00 00 00   0:00:05.044 HWM main  CHKDSK Error: line:983
+07* A8 00 00 00   0:00:05.045 HWM main  CHKDSK Error: line:983
+08* A8 00 00 00   0:00:05.045 HWM main  CHKDSK Error: line:983
+09* A8 00 00 00   0:00:05.046 HWM main  CHKDSK Error: line:983
+0A* A8 00 00 00   0:00:05.046 HWM main  CHKDSK Error: line:983
+0B* A8 00 00 00   0:00:05.047 HWM main  CHKDSK Error: line:983
+0C* A8 00 00 00   0:00:05.047 HWM main  CHKDSK Error: line:983
+0D* A8 00 00 00   0:00:05.048 HWM main  CHKDSK Error: line:983
+0E* A8 00 00 00   0:00:05.048 HWM main  CHKDSK Error: line:983
+0F* A8 00 00 00   0:00:05.050 HWM main  CHKDSK Error: line:983
+10* A8 00 00 00   0:00:05.050 HWM main  CHKDSK Error: line:983
+11* A8 00 00 00   0:00:05.051 HWM main  CHKDSK Error: line:983
+12* A8 00 00 00   0:00:05.051 HWM main  CHKDSK Error: line:983
+13* A8 00 00 00   0:00:05.096 HWM main  CHKDSK Error: line:983
+14* A8 00 00 00   0:00:05.096 HWM main  CHKDSK Error: line:983
+15* A8 00 00 00   0:00:05.097 HWM main  CHKDSK Error: line:983
+16* A8 00 00 00   0:00:05.097 HWM main  CHKDSK Error: line:983
+17* A8 00 00 00   0:00:05.098 HWM main  CHKDSK Error: line:983
+18* A8 00 00 00   0:00:05.098 HWM main  CHKDSK Error: line:983
+19* A8 00 00 00   0:00:05.099 HWM main  CHKDSK Error: line:983
+1A* A8 00 00 00   0:00:05.099 HWM main  CHKDSK Error: line:983
+1B* A8 00 00 00   0:00:05.100 HWM main  CHKDSK Error: line:983
+1C* A8 00 00 00   0:00:05.100 HWM main  CHKDSK Error: line:983
+1D* A8 00 00 00   0:00:05.100 HWM main  CHKDSK Error: line:983
+1E* A8 00 00 00   0:00:05.101 HWM main  CHKDSK Error: line:983
+1F* A8 00 00 00   0:00:05.102 HWM main  CHKDSK Error: line:983
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   0F
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2015/ 4/16 11:31:02
+cycle_cnt:  20
+
+00* A8 00 00 00   0:00:05.153 HWM main  CHKDSK Error: line:983
+01* A8 00 00 00   0:00:05.377 HWM main  CHKDSK Error: line:983
+02* A8 00 00 00   0:00:05.378 HWM main  CHKDSK Error: line:983
+03* A8 00 00 00   0:00:05.458 HWM main  CHKDSK Error: line:983
+04* A8 00 00 00   0:00:05.459 HWM main  CHKDSK Error: line:983
+05* A8 00 00 00   0:00:05.459 HWM main  CHKDSK Error: line:983
+06* A8 00 00 00   0:00:05.460 HWM main  CHKDSK Error: line:983
+07* A8 00 00 00   0:00:05.460 HWM main  CHKDSK Error: line:983
+08* A8 00 00 00   0:00:05.461 HWM main  CHKDSK Error: line:983
+09* A8 00 00 00   0:00:05.461 HWM main  CHKDSK Error: line:983
+0A* A8 00 00 00   0:00:05.462 HWM main  CHKDSK Error: line:983
+0B* A8 00 00 00   0:00:05.462 HWM main  CHKDSK Error: line:983
+0C* A8 00 00 00   0:00:05.462 HWM main  CHKDSK Error: line:983
+0D* A8 00 00 00   0:00:05.463 HWM main  CHKDSK Error: line:983
+0E* A8 00 00 00   0:00:05.463 HWM main  CHKDSK Error: line:983
+0F* A8 00 00 00   0:00:05.464 HWM main  CHKDSK Error: line:983
+10* A8 00 00 00   0:00:05.464 HWM main  CHKDSK Error: line:983
+11* A8 00 00 00   0:00:05.465 HWM main  CHKDSK Error: line:983
+12* A8 00 00 00   0:00:05.465 HWM main  CHKDSK Error: line:983
+13* A8 00 00 00   0:00:05.512 HWM main  CHKDSK Error: line:983
+14* A8 00 00 00   0:00:05.512 HWM main  CHKDSK Error: line:983
+15* A8 00 00 00   0:00:05.513 HWM main  CHKDSK Error: line:983
+16* A8 00 00 00   0:00:05.513 HWM main  CHKDSK Error: line:983
+17* A8 00 00 00   0:00:05.514 HWM main  CHKDSK Error: line:983
+18* A8 00 00 00   0:00:05.514 HWM main  CHKDSK Error: line:983
+19* A8 00 00 00   0:00:05.514 HWM main  CHKDSK Error: line:983
+1A* A8 00 00 00   0:00:05.515 HWM main  CHKDSK Error: line:983
+1B* A8 00 00 00   0:00:05.515 HWM main  CHKDSK Error: line:983
+1C* A8 00 00 00   0:00:05.516 HWM main  CHKDSK Error: line:983
+1D* A8 00 00 00   0:00:05.516 HWM main  CHKDSK Error: line:983
+1E* A8 00 00 00   0:00:05.517 HWM main  CHKDSK Error: line:983
+1F* A8 00 00 00   0:00:05.517 HWM main  CHKDSK Error: line:983
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   0F
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2015/ 4/16 11:36:17
+cycle_cnt:  21
+
+00* A8 00 00 00   0:00:05.533 HWM main  CHKDSK Error: line:983
+01* A8 00 00 00   0:00:05.544 HWM main  CHKDSK Error: line:983
+02* A8 00 00 00   0:00:05.545 HWM main  CHKDSK Error: line:983
+03* A8 00 00 00   0:00:05.582 HWM main  CHKDSK Error: line:983
+04* A8 00 00 00   0:00:05.582 HWM main  CHKDSK Error: line:983
+05* A8 00 00 00   0:00:05.583 HWM main  CHKDSK Error: line:983
+06* A8 00 00 00   0:00:05.583 HWM main  CHKDSK Error: line:983
+07* A8 00 00 00   0:00:05.584 HWM main  CHKDSK Error: line:983
+08* A8 00 00 00   0:00:05.584 HWM main  CHKDSK Error: line:983
+09* A8 00 00 00   0:00:05.585 HWM main  CHKDSK Error: line:983
+0A* A8 00 00 00   0:00:05.585 HWM main  CHKDSK Error: line:983
+0B* A8 00 00 00   0:00:05.585 HWM main  CHKDSK Error: line:983
+0C* A8 00 00 00   0:00:05.586 HWM main  CHKDSK Error: line:983
+0D* A8 00 00 00   0:00:05.586 HWM main  CHKDSK Error: line:983
+0E* A8 00 00 00   0:00:05.587 HWM main  CHKDSK Error: line:983
+0F* A8 00 00 00   0:00:05.588 HWM main  CHKDSK Error: line:983
+10* A8 00 00 00   0:00:05.589 HWM main  CHKDSK Error: line:983
+11* A8 00 00 00   0:00:05.589 HWM main  CHKDSK Error: line:983
+12* A8 00 00 00   0:00:05.589 HWM main  CHKDSK Error: line:983
+13* A8 00 00 00   0:00:05.635 HWM main  CHKDSK Error: line:983
+14* A8 00 00 00   0:00:05.684 HWM main  CHKDSK Error: line:983
+15: E0 00 00 00   0:00:05.743 HWM main  CHKDSK Report: Time:1918msec Dirs:34 Files:94 Free:0 Diff:0
+16* 74 03 00 00   0:00:09.063 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+17* 74 03 00 00   0:00:09.065 HWM main 2E53545200556E61626C6520746F2061 .STR.Unable to a
+18: FE 01 08 00   0:02:32.285 HWM main 2015/ 4/16 11:33:29 V:0
+
+19: FF 00 00 00   0:00:01.635 HWM main 2015/ 4/16 11:36:14 C:21
+1A* A8 00 00 00   0:00:04.667 HWM main  CHKDSK Error: line:983
+1B* A8 00 00 00   0:00:04.667 HWM main  CHKDSK Error: line:983
+1C* A8 00 00 00   0:00:04.668 HWM main  CHKDSK Error: line:983
+1D* A8 00 00 00   0:00:04.855 HWM main  CHKDSK Error: line:983
+1E* A8 00 00 00   0:00:04.855 HWM main  CHKDSK Error: line:983
+1F* A8 00 00 00   0:00:04.857 HWM main  CHKDSK Error: line:983
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   0F
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2015/ 4/16 11:36:17
+cycle_cnt:  21
+
+00* A8 00 00 00   0:00:04.938 HWM main  CHKDSK Error: line:983
+01* A8 00 00 00   0:00:05.103 HWM main  CHKDSK Error: line:983
+02* A8 00 00 00   0:00:05.103 HWM main  CHKDSK Error: line:983
+03* A8 00 00 00   0:00:05.104 HWM main  CHKDSK Error: line:983
+04* A8 00 00 00   0:00:05.104 HWM main  CHKDSK Error: line:983
+05* A8 00 00 00   0:00:05.105 HWM main  CHKDSK Error: line:983
+06* A8 00 00 00   0:00:05.105 HWM main  CHKDSK Error: line:983
+07* A8 00 00 00   0:00:05.106 HWM main  CHKDSK Error: line:983
+08* A8 00 00 00   0:00:05.106 HWM main  CHKDSK Error: line:983
+09* A8 00 00 00   0:00:05.106 HWM main  CHKDSK Error: line:983
+0A* A8 00 00 00   0:00:05.107 HWM main  CHKDSK Error: line:983
+0B* A8 00 00 00   0:00:05.152 HWM main  CHKDSK Error: line:983
+0C* A8 00 00 00   0:00:05.152 HWM main  CHKDSK Error: line:983
+0D* A8 00 00 00   0:00:05.153 HWM main  CHKDSK Error: line:983
+0E* A8 00 00 00   0:00:05.153 HWM main  CHKDSK Error: line:983
+0F* A8 00 00 00   0:00:05.155 HWM main  CHKDSK Error: line:983
+10* A8 00 00 00   0:00:05.156 HWM main  CHKDSK Error: line:983
+11* A8 00 00 00   0:00:05.156 HWM main  CHKDSK Error: line:983
+12* A8 00 00 00   0:00:05.156 HWM main  CHKDSK Error: line:983
+13* A8 00 00 00   0:00:05.157 HWM main  CHKDSK Error: line:983
+14* A8 00 00 00   0:00:05.157 HWM main  CHKDSK Error: line:983
+15* A8 00 00 00   0:00:05.158 HWM main  CHKDSK Error: line:983
+16* A8 00 00 00   0:00:05.158 HWM main  CHKDSK Error: line:983
+17* A8 00 00 00   0:00:05.159 HWM main  CHKDSK Error: line:983
+18* A8 00 00 00   0:00:05.159 HWM main  CHKDSK Error: line:983
+19* A8 00 00 00   0:00:05.160 HWM main  CHKDSK Error: line:983
+1A* A8 00 00 00   0:00:05.160 HWM main  CHKDSK Error: line:983
+1B* A8 00 00 00   0:00:05.205 HWM main  CHKDSK Error: line:983
+1C* A8 00 00 00   0:00:05.205 HWM main  CHKDSK Error: line:983
+1D* A8 00 00 00   0:00:05.206 HWM main  CHKDSK Error: line:983
+1E* A8 00 00 00   0:00:05.206 HWM main  CHKDSK Error: line:983
+1F* A8 00 00 00   0:00:05.207 HWM main  CHKDSK Error: line:983
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   0F
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  00
+timeDay:    2015/ 4/16 11:36:17
+cycle_cnt:  21
+
+00* A8 00 00 00   0:00:05.219 HWM main  CHKDSK Error: line:983
+01* A8 00 00 00   0:00:05.231 HWM main  CHKDSK Error: line:983
+02* A8 00 00 00   0:00:05.233 HWM main  CHKDSK Error: line:983
+03* A8 00 00 00   0:00:05.233 HWM main  CHKDSK Error: line:983
+04* A8 00 00 00   0:00:05.234 HWM main  CHKDSK Error: line:983
+05* A8 00 00 00   0:00:05.234 HWM main  CHKDSK Error: line:983
+06* A8 00 00 00   0:00:05.235 HWM main  CHKDSK Error: line:983
+07* A8 00 00 00   0:00:05.235 HWM main  CHKDSK Error: line:983
+08* A8 00 00 00   0:00:05.236 HWM main  CHKDSK Error: line:983
+09* A8 00 00 00   0:00:05.236 HWM main  CHKDSK Error: line:983
+0A* A8 00 00 00   0:00:05.236 HWM main  CHKDSK Error: line:983
+0B* A8 00 00 00   0:00:05.313 HWM main  CHKDSK Error: line:983
+0C* A8 00 00 00   0:00:05.313 HWM main  CHKDSK Error: line:983
+0D* A8 00 00 00   0:00:05.315 HWM main  CHKDSK Error: line:983
+0E* A8 00 00 00   0:00:05.315 HWM main  CHKDSK Error: line:983
+0F* A8 00 00 00   0:00:05.316 HWM main  CHKDSK Error: line:983
+10* A8 00 00 00   0:00:05.316 HWM main  CHKDSK Error: line:983
+11* A8 00 00 00   0:00:05.317 HWM main  CHKDSK Error: line:983
+12* A8 00 00 00   0:00:05.317 HWM main  CHKDSK Error: line:983
+13* A8 00 00 00   0:00:05.318 HWM main  CHKDSK Error: line:983
+14* A8 00 00 00   0:00:05.318 HWM main  CHKDSK Error: line:983
+15* A8 00 00 00   0:00:05.319 HWM main  CHKDSK Error: line:983
+16* A8 00 00 00   0:00:05.319 HWM main  CHKDSK Error: line:983
+17* A8 00 00 00   0:00:05.319 HWM main  CHKDSK Error: line:983
+18* A8 00 00 00   0:00:05.320 HWM main  CHKDSK Error: line:983
+19* A8 00 00 00   0:00:05.320 HWM main  CHKDSK Error: line:983
+1A* A8 00 00 00   0:00:05.321 HWM main  CHKDSK Error: line:983
+1B* A8 00 00 00   0:00:05.323 HWM main  CHKDSK Error: line:983
+1C* A8 00 00 00   0:00:05.323 HWM main  CHKDSK Error: line:983
+1D* A8 00 00 00   0:00:05.324 HWM main  CHKDSK Error: line:983
+1E* A8 00 00 00   0:00:05.324 HWM main  CHKDSK Error: line:983
+1F* A8 00 00 00   0:00:05.325 HWM main  CHKDSK Error: line:983
+
