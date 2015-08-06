@@ -1,4 +1,4 @@
-006-D5003-04|v02.40
+006-D5003-04|v03.00
 TXT_LANG_ID_STR_M	Deutsch
 TXT_ALARM_PAGE_Press_Up_or_Down_STR_M	Zum Verw. %1 o. %2
 TXT_ALARM_PAGE_to_Dismiss_STR_M	drücken
@@ -88,13 +88,15 @@ TXT_BIKE_Lap_Cadence_STR_M	Trittfrequenz - Runde
 TXT_BIKE_Lap_Cadence_STR_S	Trittfr. Runde
 TXT_BIKE_Last_Lap_Cadence_STR_L	Trittfrequenz - Letzte Runde
 TXT_BIKE_Last_Lap_Cadence_STR_M	Trittfr. le. Runde
-TXT_BIKE_Last_Lap_Cadence_STR_S	Trittfreq. le. Ru.
+TXT_BIKE_Last_Lap_Cadence_STR_S	Trittfr. - Le. Ru.
 TXT_Back_STR	Rücken
-TXT_Back_STR_S	Rücken
+TXT_Back_STR_L	Rücken
+TXT_Back_STR_M	Rücken
 TXT_Best_Power_STR_L	Beste Watt-Leistung!
 TXT_Bike_STR	Fahrrad
 TXT_Breast_STR	Brust
-TXT_Breast_STR_S	Brust
+TXT_Breast_STR_L	Brust
+TXT_Breast_STR_M	Brust
 TXT_CNFG_LIST_L_DUMMY_1	Unbekannt
 TXT_CNFG_LIST_L_DUMMY_10	Unbekannt
 TXT_CNFG_LIST_L_DUMMY_11	Unbekannt
@@ -162,12 +164,99 @@ TXT_Calories_STR_S	Kalorien
 TXT_Cals_To_Go_STR_L	Verbleibende Kalorien
 TXT_Cals_To_Go_STR_M	Verbleibende Kalorien
 TXT_Cals_To_Go_STR_S	Verbl. Kalorien
+TXT_Cnfg_List_Avg_CAD_Seated_STR_L	Durchschnittliche Trittfrequenz in Sitzen
+TXT_Cnfg_List_Avg_CAD_Seated_STR_M	Trittfrequenz sitzend
+TXT_Cnfg_List_Avg_CAD_Seated_STR_S	Tr.fr. sitzend
+TXT_Cnfg_List_Avg_CAD_Standing_STR_L	Durchschnittliche Trittfrequenz stehend
+TXT_Cnfg_List_Avg_CAD_Standing_STR_M	Trittfrequenz stehend
+TXT_Cnfg_List_Avg_CAD_Standing_STR_S	Trittfr. stehend
+TXT_Cnfg_List_Avg_PWR_Seated_STR_L	Durchschnittliche Leistung im Sitzen
+TXT_Cnfg_List_Avg_PWR_Seated_STR_M	Leistung sitzend
+TXT_Cnfg_List_Avg_PWR_Seated_STR_S	Leistung sitzend
+TXT_Cnfg_List_Avg_PWR_Standing_STR_L	Durchschnittliche Leistung stehend
+TXT_Cnfg_List_Avg_PWR_Standing_STR_M	Leistung stehend
+TXT_Cnfg_List_Avg_PWR_Standing_STR_S	Leist. stehend
+TXT_Cnfg_List_Cadence_Eccentricity_STR_L	Trittfrequenz-Effizienz
+TXT_Cnfg_List_Cadence_Eccentricity_STR_M	Trittfrequenz-Effizienz
+TXT_Cnfg_List_Cadence_Eccentricity_STR_S	Trittfr.-Eff.
 TXT_Cnfg_List_Debug_State_STR_L	Debug-Status
 TXT_Cnfg_List_Debug_State_STR_M	Debug-Status
 TXT_Cnfg_List_Debug_State_STR_S	Debug-Status
+TXT_Cnfg_List_Lap_CAD_Seated_STR_L	Trittfrequenz sitzend - Runde
+TXT_Cnfg_List_Lap_CAD_Seated_STR_M	Trittfr. sitzend - Runde
+TXT_Cnfg_List_Lap_CAD_Seated_STR_S	Tr.fr. sitz. - Ru.
+TXT_Cnfg_List_Lap_CAD_Standing_STR_L	Trittfrequenz stehend - Runde
+TXT_Cnfg_List_Lap_CAD_Standing_STR_M	Tr.fr. steh. - Ru.
+TXT_Cnfg_List_Lap_CAD_Standing_STR_S	Tr.fr. steh. - Ru.
 TXT_Cnfg_List_Lap_Error_STR_L	Runde/Fehler
 TXT_Cnfg_List_Lap_Error_STR_M	Runde/Fehler
 TXT_Cnfg_List_Lap_Error_STR_S	Runde/Fehler
+TXT_Cnfg_List_Lap_PWR_Seated_STR_L	Leistung sitzend - Runde
+TXT_Cnfg_List_Lap_PWR_Seated_STR_M	Leistung sitzend - Runde
+TXT_Cnfg_List_Lap_PWR_Seated_STR_S	Leist. sitz. - Ru.
+TXT_Cnfg_List_Lap_PWR_Standing_STR_L	Leistung stehend - Runde
+TXT_Cnfg_List_Lap_PWR_Standing_STR_M	Leist. stehend - Runde
+TXT_Cnfg_List_Lap_PWR_Standing_STR_S	Leist. steh. - Ru.
+TXT_Cnfg_List_Left_PP_Peak_Start_Avg_STR_L	PPP links - Ø
+TXT_Cnfg_List_Left_PP_Peak_Start_Avg_STR_M	Ø linke PPP
+TXT_Cnfg_List_Left_PP_Peak_Start_Avg_STR_S	Ø linke PPP
+TXT_Cnfg_List_Left_PP_Peak_Start_Lap_STR_L	PPP links - Runde
+TXT_Cnfg_List_Left_PP_Peak_Start_Lap_STR_M	PPP links - Runde
+TXT_Cnfg_List_Left_PP_Peak_Start_Lap_STR_S	PPP li. - Ru.
+TXT_Cnfg_List_Left_PP_Peak_Start_STR_L	Max. PP links
+TXT_Cnfg_List_Left_PP_Peak_Start_STR_M	Max. PP links
+TXT_Cnfg_List_Left_PP_Peak_Start_STR_S	Max. PP links
+TXT_Cnfg_List_Left_PP_Start_Avg_STR_L	Durchschnittliche linke Power Phase
+TXT_Cnfg_List_Left_PP_Start_Avg_STR_M	Ø linke PP
+TXT_Cnfg_List_Left_PP_Start_Avg_STR_S	Ø linke PP
+TXT_Cnfg_List_Left_PP_Start_Lap_STR_L	Power Phase links - Runde
+TXT_Cnfg_List_Left_PP_Start_Lap_STR_M	PP links - Runde
+TXT_Cnfg_List_Left_PP_Start_Lap_STR_S	PP li. - Ru.
+TXT_Cnfg_List_Left_PP_Start_STR_L	Linke Power Phase
+TXT_Cnfg_List_Left_PP_Start_STR_M	PP links
+TXT_Cnfg_List_Left_PP_Start_STR_S	PP links
+TXT_Cnfg_List_PCO_Avg_STR_L	PCO - Ø
+TXT_Cnfg_List_PCO_Avg_STR_M	PCO - Ø
+TXT_Cnfg_List_PCO_Avg_STR_S	PCO - Ø
+TXT_Cnfg_List_PCO_Lap_STR_L	PCO - Runde
+TXT_Cnfg_List_PCO_Lap_STR_M	PCO - Runde
+TXT_Cnfg_List_PCO_Lap_STR_S	PCO - Runde
+TXT_Cnfg_List_PCO_STR_L	PCO
+TXT_Cnfg_List_PCO_STR_M	PCO
+TXT_Cnfg_List_PCO_STR_S	PCO
+TXT_Cnfg_List_Pedal_Weight_STR_L	Pedalgewicht
+TXT_Cnfg_List_Pedal_Weight_STR_M	Pedalgewicht
+TXT_Cnfg_List_Pedal_Weight_STR_S	Pedalgewicht
+TXT_Cnfg_List_Right_PP_Peak_Start_Avg_STR_L	PPP rechts - Ø
+TXT_Cnfg_List_Right_PP_Peak_Start_Avg_STR_M	PPP rechts - Ø
+TXT_Cnfg_List_Right_PP_Peak_Start_Avg_STR_S	PPP rechts - Ø
+TXT_Cnfg_List_Right_PP_Peak_Start_Lap_STR_L	PPP rechts - Runde
+TXT_Cnfg_List_Right_PP_Peak_Start_Lap_STR_M	PPP rechts - Runde
+TXT_Cnfg_List_Right_PP_Peak_Start_Lap_STR_S	PPP re. - Ru.
+TXT_Cnfg_List_Right_PP_Peak_Start_STR_L	Maximale PP rechts
+TXT_Cnfg_List_Right_PP_Peak_Start_STR_M	Maximale PP rechts
+TXT_Cnfg_List_Right_PP_Peak_Start_STR_S	Max. PP re.
+TXT_Cnfg_List_Right_PP_Start_Avg_STR_L	Power Phase rechts - Ø
+TXT_Cnfg_List_Right_PP_Start_Avg_STR_M	PP rechts - Ø
+TXT_Cnfg_List_Right_PP_Start_Avg_STR_S	PP rechts - Ø
+TXT_Cnfg_List_Right_PP_Start_Lap_STR_L	Power Phase rechts - Runde
+TXT_Cnfg_List_Right_PP_Start_Lap_STR_M	PP rechts - Runde
+TXT_Cnfg_List_Right_PP_Start_Lap_STR_S	PP rechts - Ru.
+TXT_Cnfg_List_Right_PP_Start_STR_L	Power Phase rechts
+TXT_Cnfg_List_Right_PP_Start_STR_M	PP rechts
+TXT_Cnfg_List_Right_PP_Start_STR_S	PP rechts
+TXT_Cnfg_List_Time_Seated_Lap_STR_L	Zeit sitzend - Runde
+TXT_Cnfg_List_Time_Seated_Lap_STR_M	Zeit sitzend - Runde
+TXT_Cnfg_List_Time_Seated_Lap_STR_S	Zeit sitz. - Ru.
+TXT_Cnfg_List_Time_Seated_STR_L	Zeit sitzend
+TXT_Cnfg_List_Time_Seated_STR_M	Zeit sitzend
+TXT_Cnfg_List_Time_Seated_STR_S	Zeit sitzend
+TXT_Cnfg_List_Time_Standing_Lap_STR_L	Zeit stehend - Runde
+TXT_Cnfg_List_Time_Standing_Lap_STR_M	Zeit stehend - Runde
+TXT_Cnfg_List_Time_Standing_Lap_STR_S	Zeit steh. - Ru.
+TXT_Cnfg_List_Time_Standing_STR_L	Zeit stehend
+TXT_Cnfg_List_Time_Standing_STR_M	Zeit stehend
+TXT_Cnfg_List_Time_Standing_STR_S	Zeit stehend
 TXT_Cnfg_List_Vector_State_STR_L	Vector-Status
 TXT_Cnfg_List_Vector_State_STR_M	Vector-Status
 TXT_Cnfg_List_Vector_State_STR_S	Vector-Status
@@ -185,9 +274,9 @@ TXT_Cnfg_Title_Torque_Effectiveness_STR_S	Drehmom.-Eff. %
 TXT_ConnectIQ_STR_L	Connect IQ
 TXT_ConnectIQ_STR_M	Connect IQ
 TXT_ConnectIQ_STR_S	Connect IQ
-TXT_Cooldown_Bike_STR	Abkühlen
-TXT_Cooldown_STR	Abkühlen
-TXT_Cooldown_Swim_STR	Abkühlen
+TXT_Cooldown_Bike_STR	Ausfahren
+TXT_Cooldown_STR	Auslaufen 
+TXT_Cooldown_Swim_STR	Ausschwi.
 TXT_Current_Run_STR_M	Aktuelle Abfahrt
 TXT_DEC_STR_M	Dez
 TXT_DIST_REM_STR_S	Verbl. Distanz
@@ -195,6 +284,9 @@ TXT_DRILL_LOG_PAGE_Drill_Ended_STR_M	Übung beendet
 TXT_DRILL_LOG_PAGE_TITL_Drill_Log_STR_M	Übungsaufzeichnung
 TXT_DRILL_LOG_PAGE_To_Begin_STR_M	für Übungsbeginn
 TXT_DRILL_LOG_PAGE_To_End_STR_M	für Übungsende
+TXT_Di2_Battery_STR_L	Di2-Akku
+TXT_Di2_Battery_STR_M	Di2-Akku
+TXT_Di2_Battery_STR_S	Di2-Akku
 TXT_Dist_Ahead_STR_L	Vosprung
 TXT_Dist_Ahead_STR_M	Vosprung
 TXT_Dist_Ahead_STR_S	Vorsprung
@@ -228,15 +320,26 @@ TXT_Fastest_Half_STR_L	Schnellster Halbmar.!
 TXT_Fastest_Marathon_STR_L	Schnellster Marathon!
 TXT_Fastest_Mile_STR_L	Schnellste Meile!
 TXT_Fly_STR	Schmetterl.
-TXT_Fly_STR_S	Schmetterl.
+TXT_Fly_STR_L	Schmetterling
+TXT_Fly_STR_M	Schmett.
 TXT_Free_STR	Kraul
-TXT_Free_STR_S	Kraul
+TXT_Free_STR_L	Kraul
+TXT_Free_STR_M	Kraul
 TXT_Fri_STR_M	Fr
+TXT_Front_Gear_STR_L	Vorne
+TXT_Front_Gear_STR_M	Vorne
+TXT_Front_Gear_STR_S	Vorne
 TXT_GENERIC_Product_STR_L	Kona
 TXT_GPS_Accuracy_STR_L	GPS-Genauigkeit
 TXT_GPS_Accuracy_STR_M	GPS-Genauigkeit
 TXT_GPS_Accuracy_STR_S	GPS-Genauigk.
 TXT_GPS_Version_STR_M	GPS-Version
+TXT_Gear_Ratio_STR_L	Verhältnis Kettenbl./Ritzel
+TXT_Gear_Ratio_STR_M	Verh. Blatt/Ri.
+TXT_Gear_Ratio_STR_S	Verh. Blatt/Ri.
+TXT_Gears_STR_L	Gänge
+TXT_Gears_STR_M	Gänge
+TXT_Gears_STR_S	Gänge
 TXT_Go_STR	Los
 TXT_Grade_STR_L	Neigung
 TXT_Grade_STR_M	Neigung
@@ -249,6 +352,7 @@ TXT_HNDL_Using_Profiles_2_FRMT_STR	Mit %1, %2
 TXT_HNDL_Using_Profiles_3_FRMT_STR	Mit %1, %2, %3
 TXT_HNDL_Using_Profiles_4_FRMT_STR	Mit %1, %2, %3, %4
 TXT_HNDL_Using_Profiles_5_FRMT_STR	Mit %1, %2, %3, %4, %5
+TXT_HOME_SCREEN_Apps_STR_L	Apps
 TXT_HR_Crnt_PHRR_STR_L	%HFR
 TXT_HR_Crnt_PHRR_STR_M	%HFR
 TXT_HR_Crnt_PHRR_STR_S	%HFR
@@ -292,6 +396,24 @@ TXT_IF_PWR_STR_L	Intensity Factor
 TXT_IF_PWR_STR_M	Intensity Factor
 TXT_IF_PWR_STR_S	IF
 TXT_IM_STR	IM
+TXT_Int_Avg_HR_PHRR_STR_L	Intervall - Ø %HFR
+TXT_Int_Avg_HR_PHRR_STR_M	Intervall - Ø %HFR
+TXT_Int_Avg_HR_PHRR_STR_S	Int. - Ø %HFR
+TXT_Int_Avg_HR_PMax_STR_L	Intervall - Durchschnitt %Maximal
+TXT_Int_Avg_HR_PMax_STR_M	Intervall - Ø %Max.
+TXT_Int_Avg_HR_PMax_STR_S	Int. - Ø %Max.
+TXT_Int_Avg_HR_STR_L	Intervall - Ø HF
+TXT_Int_Avg_HR_STR_M	Intervall - Ø HF
+TXT_Int_Avg_HR_STR_S	Intervall - Ø HF
+TXT_Int_Max_HR_PHRR_STR_L	Intervall - Maximale %Herzfrequenzreserve
+TXT_Int_Max_HR_PHRR_STR_M	Intervall - Max. %HFR
+TXT_Int_Max_HR_PHRR_STR_S	Int. - Max. %HFR
+TXT_Int_Max_HR_PMax_STR_L	Intervall - Maximal %Maximal
+TXT_Int_Max_HR_PMax_STR_M	Intervall - Max. %Max.
+TXT_Int_Max_HR_PMax_STR_S	Int. Max. %Max.
+TXT_Int_Max_HR_STR_L	Intervall - Maximale Herzfrequenz
+TXT_Int_Max_HR_STR_M	Intervall - Max. HF
+TXT_Int_Max_HR_STR_S	Int. - Max. HF
 TXT_Int_Stroke_Distance_STR_L	Intervall - Zugdistanz
 TXT_Int_Stroke_Distance_STR_M	Intervall Zugdistanz
 TXT_Int_Stroke_Distance_STR_S	Interv. Zugdist.
@@ -337,7 +459,7 @@ TXT_LIST_SELECT_Custom_STR_L	Benutzerdefiniert
 TXT_LIST_SELECT_Distance_STR_L	Distanz
 TXT_LIST_SELECT_Every_Beat_STR_L	Jeder Schlag
 TXT_LIST_SELECT_Every_Fourth_Beat_STR_L	Jeder vierte Schlag
-TXT_LIST_SELECT_Every_Other_Beat_STR_L	Jeder zweite Schlag
+TXT_LIST_SELECT_Every_Other_Beat_STR_L	Jeder 2. Schlag
 TXT_LIST_SELECT_Every_Sixth_Beat_STR_L	Jeder sechste Schlag
 TXT_LIST_SELECT_Every_Third_Beat_STR_L	Jeder dritte Schlag
 TXT_LIST_SELECT_Fast_STR_L	Schnell
@@ -532,12 +654,14 @@ TXT_MESSAGE_BANNER_Cancel_workout_to_change_profile_STR_M	Train. abbr. o. been.,
 TXT_MESSAGE_BANNER_Cannot_Calibrate_STR_M	Aktuelle Aktivität vor Kalibrierung zurücksetzen.
 TXT_MESSAGE_BANNER_Complete_multisport_activity_to_change_profile_STR_M	Multisport-Akt. beend., um Profilausw. zu änd.
 TXT_MESSAGE_BANNER_Database_Error_STR_M	Datenbankfehler
+TXT_MESSAGE_BANNER_Device_Unlocked_STR_M	Gerät entsperrt
 TXT_MESSAGE_BANNER_Error_Creating_Race_STR_M	Fehler beim Erstellen des Wettkampfs.
 TXT_MESSAGE_BANNER_Foot_Pod_Detected_Low_Batt_STR_M	Batterie des Laufsensors schwach.
 TXT_MESSAGE_BANNER_HR_batt_low_STR_M	Batterie Herzfr.sensor schwach.
 TXT_MESSAGE_BANNER_Hold_MODE_key_to_access_page_options_STR_M	Modustaste gedr. halten, um Seitenopt. zu öffn.
 TXT_MESSAGE_BANNER_Hold_MODE_key_to_connect_STR_M	WLAN-Netzw. hinzugef. Für Verb. Mod.ta. gedr. halten.
 TXT_MESSAGE_BANNER_Hold_MODE_to_calibrate_power_before_each_ride_STR_M	F. Kalib. Leist.sens. Modustaste gedr. halten.
+TXT_MESSAGE_BANNER_Hold_mode_key_to_unlock_device_STR_M	Zum Entsperren des Geräts Modustaste gedrückt halten.
 TXT_MESSAGE_BANNER_In_Desired_Zone_STR_M	Im gewünschten Bereich
 TXT_MESSAGE_BANNER_Invalid_Msg_STR_M	Nachricht ungültig
 TXT_MESSAGE_BANNER_Location_Memory_Full_STR_M	Positionsspeicher voll.
@@ -555,6 +679,7 @@ TXT_MESSAGE_BANNER_PWR_batt_low_STR_M	Batterie des \nLeistungsmessers \nschwach.
 TXT_MESSAGE_BANNER_Phone_Battery_Low_STR_M	Akku des Telefons schwach
 TXT_MESSAGE_BANNER_Race_Memory_Full_STR_M	Wettkampfspeicher ist voll.
 TXT_MESSAGE_BANNER_Recovery_Heart_Rate_STR_M	Erholungsherzfrequenz: %1
+TXT_MESSAGE_BANNER_Shimano_Di2_batt_low_STR_M	Shimano Di2-Batterie schwach.
 TXT_MESSAGE_BANNER_Slow_Fast_Values_Adjusted_STR_M	Oberer- und Unterer Alarm angepasst.
 TXT_MESSAGE_BANNER_Speed_Cadence_Battery_Low_STR_M	Batterie Geschw.-/Trittfrequenzsensors schwach.
 TXT_MESSAGE_BANNER_Speed_batt_low_STR_M	Batterie Geschw.sensor schwach.
@@ -563,6 +688,7 @@ TXT_MESSAGE_BANNER_Timer_Error_STR_M	Timer-Fehler
 TXT_MESSAGE_BANNER_Virb_batt_low_STR_M	VIRB-Akku ist schwach.
 TXT_MESSAGE_BANNER_Weight_Scale_Detected_STR_M	Waage erkannt
 TXT_MESSAGE_BANNER_Wheel_Size_Computed_STR_M	Radgröße errechnet.
+TXT_MESSAGE_BANNER_to_view_installed_apps_FRMT_STR_M	%1 zum Anzeigen von IQ-Apps.
 TXT_METRONOME_PAGE_Metronome_STR_S	Metronom
 TXT_MULTISPORT_TRANSITION_Transition_FRMT_STR_M	Übergang %1
 TXT_Max_Lap_PWR_STR_L	Maximale Rundenleistung
@@ -578,7 +704,8 @@ TXT_Maximum_Speed_STR_L	Maximales Tempo
 TXT_Maximum_Speed_STR_M	Maximales Tempo
 TXT_Maximum_Speed_STR_S	Max. Geschw.
 TXT_Mixed_STR	Verschieden
-TXT_Mixed_STR_S	Verschied.
+TXT_Mixed_STR_L	Verschieden
+TXT_Mixed_STR_M	Verschied.
 TXT_Mon_STR_M	Mo
 TXT_Most_Ascent_STR_L	Größter Anstieg!
 TXT_Mov_Avg_L_R_Balance_10s_STR_L	10s - Durchschnittliche Balance
@@ -604,6 +731,7 @@ TXT_NAVIGATION_Course_Complete_STR_S	Strecke fertig
 TXT_NAVIGATION_End_STR_S	Ende
 TXT_NAVIGATION_Start_STR_S	Start
 TXT_NOTIFICATION_Cadence_Connected_STR_M	Trittfr.sensor verb.
+TXT_NOTIFICATION_Di2_Connected_STR_M	Di2 verbunden
 TXT_NOTIFICATION_Foot_Pod_Connected_STR_M	Laufsensor verbund.
 TXT_NOTIFICATION_GPS_is_Ready_STR_M	GPS ist bereit
 TXT_NOTIFICATION_HR_Connected_STR_M	HF-Sensor verbunden
@@ -630,6 +758,7 @@ TXT_NUM_PICK_PERCENT_FTP_STR_M	% FTP
 TXT_NUM_PICK_PERCENT_HRR_STR_M	%HFR
 TXT_NUM_PICK_PERCENT_Max_STR_M	% max.
 TXT_NUM_PICK_Reps_STR_M	Wdh.:
+TXT_NUM_PICK_Teeth_STR_M	Zähne
 TXT_NUM_PICK_Year_STR_M	Jahr
 TXT_NUM_PICK_calib_STR_M	Kalib.
 TXT_No_STR_M	Nein
@@ -709,7 +838,8 @@ TXT_Pedal_Smoothness_STR_M	Gleichmäßiges Treten
 TXT_Power_save_in_STR_M	Standby-Modus in
 TXT_Press_ENTER_to_Exit_Sleep_Mode_STR_M	ENTER: Schlafmod. beenden.
 TXT_Press_Lap_For_Rest_STR	Für Erholung 'Lap' drücken
-TXT_RUNNING_DYNAMICS_Cad_STR_S	Sch.fr.
+TXT_Press_Up_or_Down_FRMT_STR_M	Zum Verw. %1 o. %2
+TXT_RUNNING_DYNAMICS_Cad_STR_S	SF
 TXT_RUNNING_DYNAMICS_V_Osc_STR_S	V. Bw.
 TXT_RUN_Avg_Cadence_STR_L	Ø Schrittfrequenz
 TXT_RUN_Avg_Cadence_STR_M	Ø Schrittfrequenz
@@ -723,22 +853,28 @@ TXT_RUN_Lap_Cadence_STR_S	Schrittfr. Runde
 TXT_RUN_Last_Lap_Cadence_STR_L	Schrittfrequenz - Letzte Runde
 TXT_RUN_Last_Lap_Cadence_STR_M	Schrittfreq. letzte Runde
 TXT_RUN_Last_Lap_Cadence_STR_S	Schrittfr. le. Ru.
+TXT_Rear_Gear_STR_L	Hinten
+TXT_Rear_Gear_STR_M	Hinten
+TXT_Rear_Gear_STR_S	Hinten
 TXT_Recover_STR	Erholung
 TXT_Rep_Time_STR	Zeit für Wiederh.
 TXT_Repeat_FRMT_STR	%1 wiederh.
 TXT_Repeat_On_STR_L	Wiederholung ein
 TXT_Repeat_On_STR_M	Wiederholung ein
 TXT_Repeat_On_STR_S	Wiederholung ein
-TXT_Repeat__FRMT_STR	%1 - %2 wdh.
+TXT_Repeat__FRMT_STR	Wdh. %1-%2
 TXT_Repetition_STR_L	Wiederholung
 TXT_Repetition_STR_M	Wiederholung
 TXT_Repetition_STR_S	Wiederholung
-TXT_Rest_STR	Pause
+TXT_Rest_STR	Erholung
 TXT_Rest_Time_STR	Erholungszeit
 TXT_Rest_Timer_STR_L	Erholungs-Timer
 TXT_Rest_Timer_STR_M	Erholungs-Timer
 TXT_Rest_Timer_STR_S	Erholungs-Timer
 TXT_Run_STR	Laufen
+TXT_SELECT_ALARM_Tone_STR_L	Nur Signalton
+TXT_SELECT_ALARM_Tone_and_Vibration_STR_L	Ton und Vibration
+TXT_SELECT_ALARM_Vibration_STR_L	Vibration
 TXT_SELECT_BACKLIGHT_MODE_Keys_and_Alerts_STR_L	Tasten/Alarme
 TXT_SELECT_BACKLIGHT_MODE_Manual_STR_L	Manuell
 TXT_SELECT_BLUETOOTH_CANCEL_LIVETRACK_Continue_STR_M	Fortfahren
@@ -775,6 +911,9 @@ TXT_SELECT_HEIGHT_UNITS_Centimeters_STR_L	Zentimeter
 TXT_SELECT_HEIGHT_UNITS_Feet_STR_L	Fuß
 TXT_SELECT_MAP_ORIENTATION_North_Up_STR_L	Norden oben
 TXT_SELECT_MAP_ORIENTATION_Track_Up_STR_L	In Bewegungsricht.
+TXT_SELECT_NO_HRM_CONNECTION_No_HRM_Connection_STR_L	Keine Verbindung mit Herzfrequenzsensor
+TXT_SELECT_NO_HRM_CONNECTION_Search_Again_STR_L	Erneut suchen
+TXT_SELECT_NO_HRM_CONNECTION_Skip_STR_L	Überspringen
 TXT_SELECT_PACE_SPEED_UNITS_Kilometers_STR_L	Kilometer
 TXT_SELECT_PACE_SPEED_UNITS_Miles_STR_L	Meilen
 TXT_SELECT_PAGE_APPLY_PROFILE_Apply_profile_FRMT_STR_M	Profil '%1' aktivieren?
@@ -821,9 +960,9 @@ TXT_SELECT_PAGE_TITL_Clear_All_STR_M	Alle löschen?
 TXT_SELECT_PAGE_TITL_Clear_Record_STR_M	Rekord löschen?
 TXT_SELECT_PAGE_TITL_Clear_User_Data_STR_M	Benutzerdaten löschen?
 TXT_SELECT_PAGE_TITL_Clock_STR_M	Uhr
-TXT_SELECT_PAGE_TITL_Cool_Down_Bike_STR_M	Abkühlen
-TXT_SELECT_PAGE_TITL_Cool_Down_Run_STR_M	Abkühlen
-TXT_SELECT_PAGE_TITL_Cool_Down_Swim_STR_M	Abkühlen
+TXT_SELECT_PAGE_TITL_Cool_Down_Bike_STR_M	Ausfahren
+TXT_SELECT_PAGE_TITL_Cool_Down_Run_STR_M	Auslaufen 
+TXT_SELECT_PAGE_TITL_Cool_Down_Swim_STR_M	Ausschwimmen 
 TXT_SELECT_PAGE_TITL_Cycling_STR_M	Radfahren
 TXT_SELECT_PAGE_TITL_Data_Recording_STR_M	Datenaufzeichnung
 TXT_SELECT_PAGE_TITL_Delete_Activities_STR_M	Aktivitäten löschen?
@@ -847,7 +986,7 @@ TXT_SELECT_PAGE_TITL_Key_Tones_STR_M	Tastentöne
 TXT_SELECT_PAGE_TITL_Keyboard_Cancel_Confirm_STR_M	Ohne Speichern beenden?
 TXT_SELECT_PAGE_TITL_Low_Alert_STR_M	Unterer Alarm
 TXT_SELECT_PAGE_TITL_Metronome_STR_M	Metronom
-TXT_SELECT_PAGE_TITL_Move_Alert_STR_M	Aktivitätsalarm
+TXT_SELECT_PAGE_TITL_Move_Alert_STR_M	Inaktivitätsalarm
 TXT_SELECT_PAGE_TITL_Orientation_STR_M	Ausrichtung
 TXT_SELECT_PAGE_TITL_Other_STR_M	Sonstiges
 TXT_SELECT_PAGE_TITL_Pace_Speed_STR_M	Pace/Geschwindigkeit
@@ -871,7 +1010,7 @@ TXT_SELECT_PAGE_TITL_Slow_Alert_STR_M	Unterer Alarm
 TXT_SELECT_PAGE_TITL_Smart_Notifications_STR_M	Smart Notifications
 TXT_SELECT_PAGE_TITL_Speed_Source_STR_M	Quelle Geschwindigkeit
 TXT_SELECT_PAGE_TITL_Status_STR_M	Status
-TXT_SELECT_PAGE_TITL_Stop_Course_STR_M	Navigation beenden?
+TXT_SELECT_PAGE_TITL_Stop_Course_STR_M	Strecke anhalten?
 TXT_SELECT_PAGE_TITL_Stop_Navigation_STR_M	Navigation anhalten?
 TXT_SELECT_PAGE_TITL_Stop_STR_M	Stoppen?
 TXT_SELECT_PAGE_TITL_Stroke_Type_Detection_STR_M	Schwimmstilerkennung
@@ -883,9 +1022,9 @@ TXT_SELECT_PAGE_TITL_Use_Color_STR_M	Profilfarbe verwenden?
 TXT_SELECT_PAGE_TITL_User_Locations_STR_M	Benutzerpositionen
 TXT_SELECT_PAGE_TITL_VO2_Max_STR_M	VO2max
 TXT_SELECT_PAGE_TITL_Vibration_STR_M	Vibration
-TXT_SELECT_PAGE_TITL_Warm_Up_Bike_STR_M	Aufwärmen
-TXT_SELECT_PAGE_TITL_Warm_Up_STR_M	Aufwärmen
-TXT_SELECT_PAGE_TITL_Warm_Up_Swim_STR_M	Aufwärmen
+TXT_SELECT_PAGE_TITL_Warm_Up_Bike_STR_M	Warm up
+TXT_SELECT_PAGE_TITL_Warm_Up_STR_M	Warm up
+TXT_SELECT_PAGE_TITL_Warm_Up_Swim_STR_M	Warm up
 TXT_SELECT_PAGE_TITL_Weight_STR_M	Gewicht
 TXT_SELECT_PAGE_TITL_Wifi_Auto_Upload_STR_M	Automatisch hochladen
 TXT_SELECT_PAGE_TITL_Wifi_Stop_Transfer_STR_M	Übertragung stoppen?
@@ -917,11 +1056,18 @@ TXT_SELECT_REMOVE_ACTIVITY_PROFILE_Yes_STR_L	Ja
 TXT_SELECT_REMOVE_SENSOR_No_STR_L	Nein
 TXT_SELECT_REMOVE_SENSOR_Remove_STR_L	Entfernen?
 TXT_SELECT_REMOVE_SENSOR_Yes_STR_L	Ja
+TXT_SELECT_RETRY_HR_DATA_Download_failed_Retry_STR_L	Downloadfehler. Wiederholen?
+TXT_SELECT_RETRY_HR_DATA_No_STR_L	Nein
+TXT_SELECT_RETRY_HR_DATA_Yes_STR_L	Ja
 TXT_SELECT_SAVE_LOCATION_Save_Location_STR_M	Position speichern
+TXT_SELECT_SAVE_WITHOUT_HR_Save_Session_without_HR_STR_L	Training ohne HF-Daten speichern?
+TXT_SELECT_SAVE_WITHOUT_HR_Search_Again_STR_L	Erneut suchen
+TXT_SELECT_SAVE_WITHOUT_HR_Yes_STR_L	Ja
 TXT_SELECT_SENSOR_NOT_FOUND_Foot_Pod_STR_L	Gehen Sie ein wenig herum, um den Sensor zu aktivieren.
 TXT_SELECT_SENSOR_NOT_FOUND_Heart_Rate_STR_L	Herzfrequenzsensor tragen, um Verbindung herzustellen.
 TXT_SELECT_SENSOR_NOT_FOUND_No_Sensors_Found_STR_L	Keine Sensoren gefunden
 TXT_SELECT_SENSOR_NOT_FOUND_Power_STR_L	Treten, um den Sensor zu aktivieren.
+TXT_SELECT_SENSOR_NOT_FOUND_Shimano_Di2_STR_L	Vorderen oder hinteren Gang ändern, um den Shimano Di2-Sensor zu verbinden.
 TXT_SELECT_SENSOR_NOT_FOUND_Speed_Cadence_STR_L	Treten, um den Sensor zu aktivieren.
 TXT_SELECT_SENSOR_NOT_FOUND_Try_Again_STR_L	Erneut versuchen
 TXT_SELECT_SENSOR_NOT_FOUND_Virb_STR_L	Kamera einsch. u. Fernbedienungseinst. akt., um Verbindung herzustellen.
@@ -949,7 +1095,7 @@ TXT_SELECT_USER_LOCATIONS_Hide_STR_L	Ausblenden
 TXT_SELECT_USER_LOCATIONS_Show_STR_L	Einblenden
 TXT_SELECT_VO2_MAX_SPORT_Cycling_STR_L	Radfahren
 TXT_SELECT_VO2_MAX_SPORT_Running_STR_L	Laufen
-TXT_SELECT_WATCH_FACE_Watch_Face_STR_S	Uhrenoberfläche
+TXT_SELECT_WATCH_FACE_Watch_Face_STR_S	Displaydesign
 TXT_SELECT_WEIGHT_UNITS_Kilograms_STR_L	Kilogramm
 TXT_SELECT_WEIGHT_UNITS_Pounds_STR_L	Pfund (GB)
 TXT_SELECT_WHEEL_SIZE_Auto_STR_L	Automatisch
@@ -989,6 +1135,7 @@ TXT_SETUP_ACTIVITY_MULTI_OPTIONS_Overall_STR_L	Gesamt
 TXT_SETUP_ACTIVITY_MULTI_OPTIONS_Transition_FRMT_STR_M	Übergang %1
 TXT_SETUP_ACTIVITY_OPTIONS_Delete_STR_L	Löschen
 TXT_SETUP_ACTIVITY_OPTIONS_Details_STR_L	Details
+TXT_SETUP_ACTIVITY_OPTIONS_Download_Heart_Rate_STR_L	Herzfrequenz herunterladen
 TXT_SETUP_ACTIVITY_OPTIONS_Intervals_STR_L	Intervalle
 TXT_SETUP_ACTIVITY_OPTIONS_Invalid_STR_S	Ungültig
 TXT_SETUP_ACTIVITY_OPTIONS_Laps_STR_L	Runden
@@ -1023,7 +1170,7 @@ TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Run_STR_L	Laufen
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Ski_STR_L	Skifahren
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Snowboard_STR_L	Snowboarden
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Strength_STR_L	Krafttraining
-TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Trail_STR_L	Weg/Pfad
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Trail_STR_L	Trailrunning
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Trainer_STR_L	Trainer
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Treadmill_STR_L	Laufband
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Triathlon_STR_L	Triathlon
@@ -1072,7 +1219,7 @@ TXT_SETUP_ACTIVITY_TRACKING_Activity_Tracking_STR_M	Aktivitätsanzeige
 TXT_SETUP_ACTIVITY_TRACKING_Off_STR_L	Aus
 TXT_SETUP_ACTIVITY_TRACKING_On_STR_L	Ein
 TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Activity_Tracking_STR_S	Aktivitätsanzeige
-TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Move_Alert_STR_L	Aktivitätsalarm
+TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Move_Alert_STR_L	Inaktivitätsalarm
 TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Options_STR_S	Optionen
 TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Show_on_Clock_STR_L	Auf Uhrseite anzeigen
 TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Start_Sleep_Mode_STR_L	Schlafmodus starten
@@ -1082,9 +1229,11 @@ TXT_SETUP_ADD_SENSORS_Foot_Pod_STR_L	Laufsensor
 TXT_SETUP_ADD_SENSORS_Heart_Rate_STR_L	Herzfrequenz
 TXT_SETUP_ADD_SENSORS_Power_STR_L	Leistung
 TXT_SETUP_ADD_SENSORS_Search_All_STR_L	Alle durchsuchen
-TXT_SETUP_ADD_SENSORS_Speed_Cadence_STR_L	Geschwindigkeit/Trittfrequenz
+TXT_SETUP_ADD_SENSORS_Shimano_Di2_STR_L	Shimano Di2
+TXT_SETUP_ADD_SENSORS_Speed_Cadence_STR_L	Geschwindigkeit/\nTrittfrequenz
 TXT_SETUP_ADD_SENSORS_Virb_STR_L	VIRB
 TXT_SETUP_ALARM_Alarm_STR_S	Alarm
+TXT_SETUP_ALARM_Sounds_STR_L	Töne
 TXT_SETUP_ALARM_Status_STR_L	Status
 TXT_SETUP_ALARM_Time_STR_L	Zeit
 TXT_SETUP_ALERTS_Add_New_STR_L	Neu hinzufügen
@@ -1185,10 +1334,11 @@ TXT_SETUP_BACKLIGHT_Stays_On_STR_M	Bleibt an
 TXT_SETUP_BACKLIGHT_Timeout_STR_L	Zeitlimit
 TXT_SETUP_BLUETOOTH_Bluetooth_STR_S	Bluetooth
 TXT_SETUP_BLUETOOTH_Connected_STR_M	Verbunden
-TXT_SETUP_BLUETOOTH_Pair_Mobile_Device_STR_L	Mobiles Gerät koppeln
+TXT_SETUP_BLUETOOTH_Pair_Mobile_Device_STR_L	Mobilgerät koppeln
 TXT_SETUP_BLUETOOTH_Smart_Notifications_STR_L	Smart Notifications
 TXT_SETUP_BLUETOOTH_Status_STR_L	Status
 TXT_SETUP_BLUETOOTH_Stop_LiveTrack_STR_L	LiveTrack anhalten
+TXT_SETUP_BLUETOOTH_Waiting_for_App_STR_M	Warten auf App
 TXT_SETUP_BLUETOOTH_Waiting_to_Connect_STR_M	Auf Verbindung warten
 TXT_SETUP_CHANGE_MULTISPORT_LEGS_HDR_Choose_Final_Profile_STR_S	Letztes Profil wählen
 TXT_SETUP_CHANGE_MULTISPORT_LEGS_HDR_Choose_Profile_FRMT_STR_S	Profil %1 wählen
@@ -1197,6 +1347,7 @@ TXT_SETUP_CHOOSE_WRKT_PROFILE_HDR_Other_STR_S	Sonstiges Profil wählen
 TXT_SETUP_CHOOSE_WRKT_PROFILE_HDR_Running_STR_S	Laufprofil wählen
 TXT_SETUP_CHOOSE_WRKT_PROFILE_HDR_Swim_STR_S	Schwimmprofil wählen
 TXT_SETUP_CLOCK_Clock_STR_S	Uhr
+TXT_SETUP_CONNECT_IQ_APPS_LIST_IQ_Apps_STR_S	Connect IQ-Apps
 TXT_SETUP_COURSE_LIST_Courses_Bike_STR_M	Strecken
 TXT_SETUP_COURSE_LIST_Courses_Run_STR_M	Strecken
 TXT_SETUP_COURSE_LIST_Downloaded_Races_STR_M	Heruntergel. Wettkä.
@@ -1225,12 +1376,15 @@ TXT_SETUP_DATA_FLD_CAT_Advanced_Power_STR_L	Erweiterte Leistungsfelder
 TXT_SETUP_DATA_FLD_CAT_Advanced_Power_STR_S	Erw. Leistungsfelder
 TXT_SETUP_DATA_FLD_CAT_BIKE_Cadence_STR_L	Trittfrequenzfelder
 TXT_SETUP_DATA_FLD_CAT_ConnectIQ_STR_L	Connect IQ
+TXT_SETUP_DATA_FLD_CAT_Cycling_Dynamics_STR_L	Cycling Dynamics-Felder
+TXT_SETUP_DATA_FLD_CAT_Cycling_Dynamics_STR_S	Cycling Dynamics-Felder
 TXT_SETUP_DATA_FLD_CAT_Data_Fields_STR_S	Datenfelder
 TXT_SETUP_DATA_FLD_CAT_Debug_STR_L	Debug-Felder
 TXT_SETUP_DATA_FLD_CAT_Distance_STR_L	Distanzfelder
 TXT_SETUP_DATA_FLD_CAT_Elevation_STR_L	Höhenfelder
 TXT_SETUP_DATA_FLD_CAT_FTP_STR_L	%-FTP-Felder
 TXT_SETUP_DATA_FLD_CAT_FTP_STR_S	%-FTP-Felder
+TXT_SETUP_DATA_FLD_CAT_Gears_STR_L	Gänge
 TXT_SETUP_DATA_FLD_CAT_Heart_Rate_STR_L	Herzfrequenzfelder
 TXT_SETUP_DATA_FLD_CAT_Length_STR_L	Bahnenfelder
 TXT_SETUP_DATA_FLD_CAT_Options_STR_S	Optionen
@@ -1260,6 +1414,7 @@ TXT_SETUP_DRILL_DIST_FRMT_Yards_STR_M	%1 Yards
 TXT_SETUP_EDIT_MULTISPORT_PROFILE_Add_New_STR_L	Neu hinzufügen
 TXT_SETUP_EDIT_MULTISPORT_PROFILE_Profile_FRMT_STR_L	Profil %1
 TXT_SETUP_EDIT_MULTISPORT_PROFILE_Profiles_FRMT_STR_S	%1 Profile
+TXT_SETUP_FOOTPOD_CAL_Auto_Calibrate_STR_L	Auto-Kalibrierung
 TXT_SETUP_FOOTPOD_CAL_Calibration_Factor_STR_L	Kalibrierungsfaktor
 TXT_SETUP_FOOTPOD_CAL_Set_Value_STR_L	Wert einrichten
 TXT_SETUP_FOOT_POD_Calibration_Factor_STR_L	Kalibrierungsfaktor
@@ -1319,16 +1474,16 @@ TXT_SETUP_HISTORY_Upload_Pending_STR_L	Upload steht aus
 TXT_SETUP_INITIAL_Birth_Year_STR_S	Geburtsjahr
 TXT_SETUP_INITIAL_Height_STR_S	Größe
 TXT_SETUP_INITIAL_Weight_STR_S	Gewicht
-TXT_SETUP_INTERVAL_EDIT_Cool_Down_Bike_STR_L	Abkühlen
-TXT_SETUP_INTERVAL_EDIT_Cool_Down_Run_STR_L	Abkühlen
-TXT_SETUP_INTERVAL_EDIT_Cool_Down_Swim_STR_L	Abkühlen
+TXT_SETUP_INTERVAL_EDIT_Cool_Down_Bike_STR_L	Ausfahren
+TXT_SETUP_INTERVAL_EDIT_Cool_Down_Run_STR_L	Auslaufen 
+TXT_SETUP_INTERVAL_EDIT_Cool_Down_Swim_STR_L	Ausschwimmen 
 TXT_SETUP_INTERVAL_EDIT_Edit_Workout_STR_S	Training bearbeiten
 TXT_SETUP_INTERVAL_EDIT_Interval_STR_L	Intervall
 TXT_SETUP_INTERVAL_EDIT_Repeat_STR_L	Wiederholen
-TXT_SETUP_INTERVAL_EDIT_Rest_STR_L	Pause
-TXT_SETUP_INTERVAL_EDIT_Warm_Up_Bike_STR_L	Aufwärmen
-TXT_SETUP_INTERVAL_EDIT_Warm_Up_Run_STR_L	Aufwärmen
-TXT_SETUP_INTERVAL_EDIT_Warm_Up_Swim_STR_L	Aufwärmen
+TXT_SETUP_INTERVAL_EDIT_Rest_STR_L	Erholung
+TXT_SETUP_INTERVAL_EDIT_Warm_Up_Bike_STR_L	Warm up
+TXT_SETUP_INTERVAL_EDIT_Warm_Up_Run_STR_L	Warm up
+TXT_SETUP_INTERVAL_EDIT_Warm_Up_Swim_STR_L	Warm up
 TXT_SETUP_INTERVAL_OPTIONS_Cancel_Workout_STR_L	Training abbrechen
 TXT_SETUP_INTERVAL_OPTIONS_Do_Workout_STR_L	Training starten
 TXT_SETUP_INTERVAL_OPTIONS_Duration_Rest_FRMT_STR_S	%1 Erholung
@@ -1393,7 +1548,7 @@ TXT_SETUP_NAVIGATION_Courses_Bike_STR_L	Strecken
 TXT_SETUP_NAVIGATION_Courses_Run_STR_L	Strecken
 TXT_SETUP_NAVIGATION_MENU_Navigation_STR_L	Navigation
 TXT_SETUP_NAVIGATION_Saved_Locations_STR_L	Favoriten
-TXT_SETUP_NAVIGATION_Stop_Course_STR_L	Navigation beenden
+TXT_SETUP_NAVIGATION_Stop_Course_STR_L	Strecke anhalten
 TXT_SETUP_NAVIGATION_Stop_Navigation_STR_L	Navigation anhalten
 TXT_SETUP_NAVIGATION_Where_Am_I_STR_L	Wo bin ich?
 TXT_SETUP_PACE_SPEED_PREF_Cycling_STR_L	Radfahren
@@ -1426,6 +1581,7 @@ TXT_SETUP_POWER_Calibrate_STR_L	Kalibrieren
 TXT_SETUP_POWER_Crank_Length_STR_L	Kurbellänge
 TXT_SETUP_POWER_Left_Scale_Factor_STR_L	Linker Maßstabsfaktor
 TXT_SETUP_POWER_Manual_FRMT_STR_M	Manuell: %1 mm
+TXT_SETUP_POWER_Power_Phase_Peak_TXT_L	Max. Power Phase
 TXT_SETUP_POWER_Right_Scale_Factor_STR_L	Re. Maßstabsfaktor
 TXT_SETUP_POWER_Slope_STR_L	Steigung
 TXT_SETUP_POWER_Updating_STR_S	Aktualisieren
@@ -1468,10 +1624,25 @@ TXT_SETUP_SENSORS_Foot_Pod_FRMT_STR_L	Laufs. - %1
 TXT_SETUP_SENSORS_Heart_Rate_FRMT_STR_L	HF - %1
 TXT_SETUP_SENSORS_Power_FRMT_STR_L	Leistung - %1
 TXT_SETUP_SENSORS_Sensors_STR_S	Sensoren und Zubehör
+TXT_SETUP_SENSORS_Shimano_Di2_FRMT_STR_L	Di2 - %1
 TXT_SETUP_SENSORS_Speed_Cadence_FRMT_STR_L	G./Tr.fr. - %1
 TXT_SETUP_SENSORS_Speed_FRMT_STR_L	Geschw. - %1
 TXT_SETUP_SENSORS_Virb_FRMT_STR_L	VIRB - %1
 TXT_SETUP_SENSOR_About_STR_L	Info
+TXT_SETUP_SENSOR_DETAILS_Custom_STR_M	Benutzerdefiniert
+TXT_SETUP_SENSOR_DETAILS_Front_46_36T_STR_M	46-36Z
+TXT_SETUP_SENSOR_DETAILS_Front_50_34T_STR_M	50-34T
+TXT_SETUP_SENSOR_DETAILS_Front_52_36T_STR_M	52-36Z
+TXT_SETUP_SENSOR_DETAILS_Front_52_38T_STR_M	52-38T
+TXT_SETUP_SENSOR_DETAILS_Front_53_39T_STR_M	53-39Z
+TXT_SETUP_SENSOR_DETAILS_Front_54_42T_STR_M	54-42T
+TXT_SETUP_SENSOR_DETAILS_Front_55_42T_STR_M	55-42Z
+TXT_SETUP_SENSOR_DETAILS_Rear_11_23T_STR_M	11-23T
+TXT_SETUP_SENSOR_DETAILS_Rear_11_25T_STR_M	11-25Z
+TXT_SETUP_SENSOR_DETAILS_Rear_11_28T_STR_M	11-28T
+TXT_SETUP_SENSOR_DETAILS_Rear_11_32T_STR_M	11-32Z
+TXT_SETUP_SENSOR_DETAILS_Rear_12_25T_STR_M	12-25T
+TXT_SETUP_SENSOR_DETAILS_Rear_12_28T_STR_M	12-28Z
 TXT_SETUP_SENSOR_SETTINGS_Connect_STR_L	Verbinden
 TXT_SETUP_SENSOR_SETTINGS_Name_STR_L	Name
 TXT_SETUP_SENSOR_SETTINGS_Remove_STR_L	Entfernen
@@ -1504,6 +1675,10 @@ TXT_SETUP_SET_TARGET_TIME_Enter_Manually_STR_L	Manuell eingeben
 TXT_SETUP_SET_TARGET_TIME_Select_Time_STR_S	Zeit wählen
 TXT_SETUP_SET_TARGET_TIME_Use_Prediction_STR_L	Prognose verwenden
 TXT_SETUP_SET_TARGET_TIME_Use_Record_STR_L	Rekord verwenden
+TXT_SETUP_SHIMANO_DI2_GEARS_Front_Gears_STR_L	Kettenblätter
+TXT_SETUP_SHIMANO_DI2_GEARS_Gear_FRMT_STR_L	Zahnrad %1
+TXT_SETUP_SHIMANO_DI2_GEARS_Gear_Presets_STR_L	Gang-Voreinstellungen
+TXT_SETUP_SHIMANO_DI2_GEARS_Rear_Gears_STR_L	Ritzel
 TXT_SETUP_SHORTCUTS_Alert_Frequency_STR_L	Alarmfrequenz
 TXT_SETUP_SHORTCUTS_Alert_Type_STR_L	Töne
 TXT_SETUP_SHORTCUTS_Back_to_Start_STR_M	Zurück zum Start
@@ -1514,7 +1689,9 @@ TXT_SETUP_SHORTCUTS_Cancel_Target_STR_M	Ziel abbrechen
 TXT_SETUP_SHORTCUTS_Cancel_Workout_STR_M	Training abbrechen
 TXT_SETUP_SHORTCUTS_Connect_to_WiFi_STR_M	Mit WLAN verbinden
 TXT_SETUP_SHORTCUTS_Edit_Data_Fields_STR_M	Datenfelder bearbeiten
+TXT_SETUP_SHORTCUTS_Lock_Device_STR_M	Garmin Lock
 TXT_SETUP_SHORTCUTS_Mute_STR_L	Stumm schalten
+TXT_SETUP_SHORTCUTS_Mute_Smart_Notifications_STR_M	Smart Notifications stumm
 TXT_SETUP_SHORTCUTS_Options_STR_S	Optionen
 TXT_SETUP_SHORTCUTS_Orientation_STR_M	Ausrichtung
 TXT_SETUP_SHORTCUTS_Primary_Metric_STR_M	Primärer Wert
@@ -1523,11 +1700,12 @@ TXT_SETUP_SHORTCUTS_Save_Location_STR_M	Position speichern
 TXT_SETUP_SHORTCUTS_Set_Pace_STR_M	Pace einstellen
 TXT_SETUP_SHORTCUTS_Set_Speed_STR_M	Geschw. einstellen
 TXT_SETUP_SHORTCUTS_Start_Recording_STR_M	Aufzeichnung starten
-TXT_SETUP_SHORTCUTS_Stop_Course_STR_M	Navigation beenden
+TXT_SETUP_SHORTCUTS_Stop_Course_STR_M	Strecke anhalten
 TXT_SETUP_SHORTCUTS_Stop_Navigation_STR_M	Navigation anhalten
 TXT_SETUP_SHORTCUTS_Stop_Recording_STR_M	Aufzeichnung anhalten
 TXT_SETUP_SHORTCUTS_Take_Picture_STR_M	Bild aufnehmen
 TXT_SETUP_SHORTCUTS_Unmute_STR_L	Laut
+TXT_SETUP_SHORTCUTS_Unmute_Smart_Notifications_STR_M	Smart Notifications laut
 TXT_SETUP_SHORTCUTS_User_Locations_STR_M	Benutzerpositionen
 TXT_SETUP_SHORTCUTS_Zoom_STR_M	Zoom
 TXT_SETUP_SMART_NTFCTN_LIST_Notifications_STR_S	Benachrichtigungen
@@ -1598,7 +1776,7 @@ TXT_SETUP_TIME_Time_FRMT_STR_S	Zeit %1
 TXT_SETUP_TIME_Time_Format_STR_L	Zeitformat
 TXT_SETUP_TIME_Time_STR_L	Uhrzeit
 TXT_SETUP_TIME_Use_Color_STR_L	Profilfarbe verwenden
-TXT_SETUP_TIME_Watch_Face_STR_L	Uhrenoberfläche
+TXT_SETUP_TIME_Watch_Face_STR_L	Displaydesign
 TXT_SETUP_TIME_White_STR_M	Weiß
 TXT_SETUP_TIME_Yes_STR_M	Ja
 TXT_SETUP_TOTALS_Cycling_STR_L	Radfahren
@@ -1717,9 +1895,22 @@ TXT_STATUS_PAGE_DISCARDING_ACTIVITY_Discarding_STR_M	Verwerfen
 TXT_STATUS_PAGE_DOWNLOAD_CALENDAR_Download_Training_Calendar_STR_M	Laden Sie den Trainingskalender von Garmin Connect herunter.
 TXT_STATUS_PAGE_DOWNLOAD_WORKOUTS_Download_workouts_STR_M	Laden Sie Trainings von Garmin Connect herunter.
 TXT_STATUS_PAGE_DUPLICATE_PROFILE_NAME_Profile_Name_Exists_STR_M	Aktivitätsprofil bereits vorhanden
+TXT_STATUS_PAGE_Downloading_stored_HR_data_STR_M	Gespeicherte Herzfrequenzdaten herunterladen
 TXT_STATUS_PAGE_HRM_Run_Enabled_STR_M	Seite wird angezeigt, wenn HRM-Run verwendet wird.
+TXT_STATUS_PAGE_HR_data_download_successful_STR_M	Herzfrequenzdaten erfolgreich heruntergeladen
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Complete_STR_M	Sensor-Update abgeschlossen
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Connected_STR_M	Verbunden
 TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Installing_Update_STR_M	Update wird installiert
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Left_Pedal_Complete_STR_M	Linkes Pedal abgeschlossen
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Left_pedal_STR_M	Linkes Pedal aktualisieren
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Right_Pedal_Complete_STR_M	Rechtes Pedal abgeschlossen
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Right_pedal_STR_M	Rechtes Pedal aktualisieren
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Searching_STR_M	Suche läuft
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Searching_left_STR_M	Linkes Pedal wird gesucht.  Dieser Vorgang kann einige Minuten dauern.
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Searching_right_STR_M	Rechtes Pedal wird gesucht.  Dieser Vorgang kann einige Minuten dauern.
 TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Update_Complete_STR_M	Update abgeschlossen
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Updating_STR_M	Aktualisieren
+TXT_STATUS_PAGE_INSTALLING_SW_UPDATE_Waiting_For_Sensor_reboot_STR_M	Neustart des Sensors wird erwartet.
 TXT_STATUS_PAGE_LIVETRACK_Ending_LiveTrack_Session_STR_M	LiveTrack-Sitzung wird beendet
 TXT_STATUS_PAGE_LOADING_ELEVATION_DATA_Loading_STR_M	Ladevorgang
 TXT_STATUS_PAGE_LOADING_LAP_DATA_Loading_STR_M	Ladevorgang
@@ -1749,6 +1940,7 @@ TXT_STATUS_PAGE_NEW_RECORDS_New_Records_STR_L	%1\nneue Rekorde!
 TXT_STATUS_PAGE_NO_ACTIVITIES_SAVED_No_Activities_Saved_STR_M	Keine Aktivitäten gespeichert
 TXT_STATUS_PAGE_NO_BLUETOOTH_CONNECTION_No_Bluetooth_Connection_STR_M	Keine Bluetooth-Verbindung
 TXT_STATUS_PAGE_NO_COURSES_SAVED_No_Courses_Saved_STR_M	Keine Strecken gespeichert
+TXT_STATUS_PAGE_NO_CUSTOM_WATCHFACE_Download_From_ConnectIQ_STR_M	Vom Connect IQ-Shop herunterladen
 TXT_STATUS_PAGE_NO_ELEV_DATA_No_Elevation_Data_STR_M	Keine Strecken-Höhendaten
 TXT_STATUS_PAGE_NO_SAVED_LOCATIONS_No_Locations_Saved_STR_M	Keine Positionen gespeichert
 TXT_STATUS_PAGE_NO_SMART_NOTIFICATIONS_No_Notifications_STR_M	Keine Benachrichtigungen
@@ -1756,6 +1948,8 @@ TXT_STATUS_PAGE_NO_SW_UPDATES_Go_to_Garmin_Connect_STR_M	Suchen Sie bei Garmin C
 TXT_STATUS_PAGE_NO_SW_UPDATES_Last_WiFi_Connection_STR_M	Letzte WLAN-Verbindung:
 TXT_STATUS_PAGE_NO_SW_UPDATES_No_Updates_STR_M	Keine Updates
 TXT_STATUS_PAGE_NO_UPCOMING_WORKOUTS_No_upcoming_workouts_STR_M	Keine anstehenden Trainings.
+TXT_STATUS_PAGE_No_HR_data_to_download_STR_M	Keine herunterzuladenden Herzfrequenzdaten
+TXT_STATUS_PAGE_Processing_downloaded_HR_data_STR_M	Heruntergeladene Herzfrequenzdaten verarbeiten
 TXT_STATUS_PAGE_RACE_PREDICTOR_VO2_Max_Needed_STR_M	Mit HF-Sensor 10:00 min im Freien laufen, um Wettkampfprognose zu erhalten.
 TXT_STATUS_PAGE_RESETTING_TOTALS_All_Totals_Reset_STR_M	Alle Gesamtwerte zurückgesetzt
 TXT_STATUS_PAGE_RESETTING_TOTALS_Resetting_All_Totals_STR_M	Alle Gesamtwerte werden zurückgesetzt
@@ -1764,6 +1958,7 @@ TXT_STATUS_PAGE_SAVING_COURSE_NAME_Saving_STR_M	Speichern
 TXT_STATUS_PAGE_SETTING_UNAVAILABLE_Cancel_workout_STR_M	Aktives Training abbrechen oder beenden, um die Einstellung zu ändern.
 TXT_STATUS_PAGE_SETTING_UNAVAILABLE_Setting_Unavailable_STR_M	Aktuelle Aktivität beenden, um die Einstellung zu ändern.
 TXT_STATUS_PAGE_SET_UP_WIFI_Set_up_wifi_STR_M	WLAN über Garmin Express einrichten.
+TXT_STATUS_PAGE_Searching_for_stored_HR_data_STR_M	Gespeicherte Herzfrequenzdaten suchen
 TXT_STATUS_PAGE_Set_Run_Time_STR_M	Laufzeit festlegen
 TXT_STATUS_PAGE_Set_Walk_Time_STR_M	Gehzeit festlegen
 TXT_STATUS_PAGE_TARGET_Ahead_by_FRMT_STR_M	-%1
@@ -1773,7 +1968,7 @@ TXT_STATUS_PAGE_TARGET_Target_Finished_STR_M	Ziel abgeschl.
 TXT_STATUS_PAGE_VO2MAX_DETECTED_New_Cycling_VO2Max_Detected_STR_M	Neue Radfahr-VO2max erkannt
 TXT_STATUS_PAGE_VO2MAX_DETECTED_New_Running_VO2Max_Detected_STR_M	Neue Lauf-VO2max erkannt
 TXT_STATUS_PAGE_VO2MAX_DETECTED_New_VO2Max_Detected_STR_M	Neue VO2max erkannt
-TXT_STATUS_PAGE_VO2_MAX_ESTIMATE_Ride_for_20_00_high_intensity_STR_M	Mit HF-Sensor und Leistungsmesser für VO2max 20:00 min mit gleichbleibender, hoher Intensität fahren.
+TXT_STATUS_PAGE_VO2_MAX_ESTIMATE_Ride_for_20_00_high_intensity_STR_M	Für VO2max 20 min mit HF-Sensor und Leistungsmesser bei konstant hoher Intensität fahren.
 TXT_STATUS_PAGE_VO2_MAX_ESTIMATE_Run_for_10_00_outdoors_STR_M	Mit Herzfrequenzsensor für 10:00 min im Freien laufen, um VO2max zu erhalten.
 TXT_STATUS_PAGE_WAIT_UNTIL_GPS_Wait_until_GPS_STR_M	Warten, bis GPS bereit ist, um aktuelle Position anzuzeigen.
 TXT_STATUS_PAGE_WIFI_XFER_IN_PROG_WiFi_transfer_in_progress_STR_M	WLAN-Übertragung läuft bereits.
@@ -1800,6 +1995,7 @@ TXT_STATUS_REPLACE_SENSOR_Failed_to_Connect_FRMT_STR_L	Keine Verbindung mit %1
 TXT_STATUS_REPLACE_SENSOR_Searching_for_FRMT_STR_L	Suche nach %1
 TXT_STATUS_SEARCHING_SENSOR_Searching_For_All_Sensors_STR_L	Suche nach allen Sensoren und Zubehörteilen läuft.
 TXT_STATUS_SEARCHING_SENSOR_Searching_For_Sensor_STR_L	Sensorsuche
+TXT_SUMMART_ACTIVITY_LAP_DETAILS_Rear_Shifts_STR_S	Gangw. h.:
 TXT_SUMMARY_ACTIVITY_DETAILS_TITL_Overall_STR_S	Gesamt
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Ascent_STR_S	Anstieg:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Avg_HR_STR_S	Ø HF:
@@ -1813,17 +2009,24 @@ TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Descent_STR_S	Abstieg:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Distance_STR_S	Distanz:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_FLY_FRMT_STR_S	%1 - SCHM.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_FREE_FRMT_STR_S	%1 - KRA:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Front_Shifts_STR_S	Gangw. v.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_GCT_STR_S	BKZ:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Int_Factor_STR_S	IF:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_LR_Balance_STR_S	Balance:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_LR_Smoothness_STR_S	Gleichmäß.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_LR_Torque_Eff_STR_S	Drehm.-Eff.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Left_Avg_PCO_STR_M	PCO links:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Left_Power_Phase_Peak_STR_T	PPP links:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Left_Power_Phase_STR_T	PP links:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Max_HR_STR_S	Max. HF:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Max_Power_STR_S	Max. Leist.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Max_Speed_STR_S	Max. Gesch.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Norm_Power_STR_S	NP:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Pace_STR_S	Pace:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_RUN_Cadence_STR_S	Schrittfreq.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Right_Avg_PCO_STR_M	PCO rechts:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Right_Power_Phase_Peak_STR_T	PPP rechts:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Right_Power_Phase_STR_T	PP rechts:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_SWOLF_STR_S	SWOLF:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Stroke_Distance_STR_S	Zugdistanz:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Stroke_Rate_STR_S	Zugzahl:
@@ -1850,6 +2053,7 @@ TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Wednesday_FRMT_STR_S	Mittwoch, %1
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TITL_Yesterday_FRMT_STR_S	Gestern, %1
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_TSS_STR_S	TSS:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Time_STR_S	Zeit:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Time_Standing_STR_S	Zeit steh.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Training_Effect_STR_S	TE:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Vert_Osc_STR_S	V. Bew.:
 TXT_SUMMARY_LOCATION_DETAILS_Elevation_STR_S	Höhe:
@@ -1901,8 +2105,8 @@ TXT_Speed_STR_S	Geschwindigkeit
 TXT_Speed_Vertical_AVG_STR_L	30s - Ø Vertikalgeschw.
 TXT_Speed_Vertical_AVG_STR_M	30s - Ø Vertikalgeschw.
 TXT_Speed_Vertical_AVG_STR_S	VG - 30s Ø
-TXT_Speed_Vertical_STR_L	Vertikalgeschwindigkeit
-TXT_Speed_Vertical_STR_M	Vertikalgeschwindigkeit
+TXT_Speed_Vertical_STR_L	Vertikaltempo
+TXT_Speed_Vertical_STR_M	Vertikaltempo
 TXT_Speed_Vertical_STR_S	Vertikalgeschw.
 TXT_Stroke_Rate_STR_L	Zugzahl
 TXT_Stroke_Rate_STR_M	Zugzahl
@@ -1959,7 +2163,8 @@ TXT_Transition_STR	Übergang
 TXT_Tue_STR_M	Di
 TXT_UNLOCK_PAGE_Press_ENTER_to_Unlock_STR_M	Zum Entsperren 'ENTER' drücken
 TXT_Unit_ID_STR_M	Geräte-ID
-TXT_Unknown_STR_S	Unbekannt
+TXT_Unknown_STR_L	Unbekannt
+TXT_Unknown_STR_M	Unbekannt
 TXT_Until_Cal_FRMT_STR	Bis %1 Kcal
 TXT_Until_HR_GT_BPM_FRMT_STR	Bis HF > %1 bpm
 TXT_Until_HR_GT_PERCENT_HRR_FRMT_STR	Bis HF > %1% HFR
@@ -1994,9 +2199,9 @@ TXT_WIDGET_SMRT_NTFCTN_More_STR_M	Mehr...
 TXT_WIDGET_SMRT_NTFCTN_No_Notifications_STR_M	Keine Benachricht.
 TXT_WIDGET_SMRT_NTFCTN_Notifications_STR_M	Benachrichtigungen
 TXT_WRKT_TRANSITION_TIP_to_Begin_STR_M	: Starten
-TXT_Warmup_Bike_STR	Aufwärmen
-TXT_Warmup_STR	Aufwärmen
-TXT_Warmup_Swim_STR	Aufwärmen
+TXT_Warmup_Bike_STR	Warm up
+TXT_Warmup_STR	Warm up
+TXT_Warmup_Swim_STR	Warm up
 TXT_Watts_abbr_STR	W
 TXT_Watts_per_kg_STR_L	Leistung - Gewicht
 TXT_Watts_per_kg_STR_M	Leistung - Gewicht
