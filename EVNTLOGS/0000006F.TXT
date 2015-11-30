@@ -1,4 +1,4 @@
-File Name: 0:\GARMIN\EVNTLOGS/0000006D.TXT
+File Name: 0:\GARMIN\EVNTLOGS/0000006F.TXT
 
 
 >>>>> EVL_CURR_LOGS <<<<<
@@ -12,43 +12,42 @@ archived:   10
 max_arch:   10
 num_recs:   20
 rec_size:   20
-next_evnt:  0D
-timeDay:    2015/11/22 12:34:39
+next_evnt:  17
+timeDay:    2015/11/22 13:58:06
 cycle_cnt:  35
 
-0D* A8 00 00 00 281:53:03.529 HWM main  CHKDSK Error: line:983
-0E* A8 00 00 00 281:53:03.530 HWM main  CHKDSK Error: line:983
-0F* A8 00 00 00 281:53:03.531 HWM main  CHKDSK Error: line:983
-10* A8 00 00 00 281:53:03.532 HWM main  CHKDSK Error: line:983
-11* A8 00 00 00 281:53:03.532 HWM main  CHKDSK Error: line:983
-12* A8 00 00 00 281:53:03.543 HWM main  CHKDSK Error: line:983
-13* A8 00 00 00 281:53:03.544 HWM main  CHKDSK Error: line:983
-14* A8 00 00 00 281:53:03.569 HWM main  CHKDSK Error: line:983
-15* A8 00 00 00 281:53:03.569 HWM main  CHKDSK Error: line:983
-16: E0 00 00 00 281:53:03.577 HWM main  CHKDSK Report: Time:1491msec Dirs:30 Files:131 Free:0 Diff:0
-17: FE 01 08 00 281:56:32.253 HWM main 2015/11/22 12:34:11 V:0
-
-18: FF 00 00 00   0:00:01.735 HWM main 2015/11/22 12:34:35 C:35
-19* A8 00 00 00   0:00:04.957 HWM main  CHKDSK Error: line:983
-1A* A8 00 00 00   0:00:04.960 HWM main  CHKDSK Error: line:983
-1B* A8 00 00 00   0:00:04.960 HWM main  CHKDSK Error: line:983
-1C* A8 00 00 00   0:00:04.961 HWM main  CHKDSK Error: line:983
-1D* A8 00 00 00   0:00:04.961 HWM main  CHKDSK Error: line:983
-1E* A8 00 00 00   0:00:04.961 HWM main  CHKDSK Error: line:983
-1F* A8 00 00 00   0:00:05.074 HWM main  CHKDSK Error: line:983
-00* A8 00 00 00   0:00:05.074 HWM main  CHKDSK Error: line:983
-01* A8 00 00 00   0:00:05.074 HWM main  CHKDSK Error: line:983
-02* A8 00 00 00   0:00:05.075 HWM main  CHKDSK Error: line:983
-03* A8 00 00 00   0:00:05.075 HWM main  CHKDSK Error: line:983
-04* A8 00 00 00   0:00:05.076 HWM main  CHKDSK Error: line:983
-05* A8 00 00 00   0:00:05.076 HWM main  CHKDSK Error: line:983
-06* A8 00 00 00   0:00:05.077 HWM main  CHKDSK Error: line:983
-07* A8 00 00 00   0:00:05.088 HWM main  CHKDSK Error: line:983
-08* A8 00 00 00   0:00:05.088 HWM main  CHKDSK Error: line:983
-09* A8 00 00 00   0:00:05.113 HWM main  CHKDSK Error: line:983
-0A* A8 00 00 00   0:00:05.114 HWM main  CHKDSK Error: line:983
-0B: E0 00 00 00   0:00:05.120 HWM main  CHKDSK Report: Time:1341msec Dirs:30 Files:126 Free:0 Diff:0
-0C: D0 00 00 00   0:00:05.121 HWM main 0000F8F00020E30C0000000200003B11 ..... ........;.
+17* A8 00 00 00   0:37:35.138 HWM main  CHKDSK Error: line:983
+18* A8 00 00 00   0:37:35.139 HWM main  CHKDSK Error: line:983
+19* A8 00 00 00   0:37:35.139 HWM main  CHKDSK Error: line:983
+1A* A8 00 00 00   0:37:35.140 HWM main  CHKDSK Error: line:983
+1B* A8 00 00 00   0:37:35.140 HWM main  CHKDSK Error: line:983
+1C* A8 00 00 00   0:37:35.141 HWM main  CHKDSK Error: line:983
+1D* A8 00 00 00   0:37:35.153 HWM main  CHKDSK Error: line:983
+1E* A8 00 00 00   0:37:35.153 HWM main  CHKDSK Error: line:983
+1F* A8 00 00 00   0:37:35.179 HWM main  CHKDSK Error: line:983
+00* A8 00 00 00   0:37:35.180 HWM main  CHKDSK Error: line:983
+01: E0 00 00 00   0:37:35.187 HWM main  CHKDSK Report: Time:1248msec Dirs:31 Files:131 Free:0 Diff:0
+02: D8 00 00 00   0:49:00.145 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+03: D8 00 00 00   1:23:31.272 HWM main 02040A00931A0C0000000000B8460020 .............F. 
+04* A8 00 00 00   1:23:32.606 HWM main  CHKDSK Error: line:983
+05* A8 00 00 00   1:23:32.606 HWM main  CHKDSK Error: line:983
+06* A8 00 00 00   1:23:32.607 HWM main  CHKDSK Error: line:983
+07* A8 00 00 00   1:23:32.607 HWM main  CHKDSK Error: line:983
+08* A8 00 00 00   1:23:32.608 HWM main  CHKDSK Error: line:983
+09* A8 00 00 00   1:23:32.608 HWM main  CHKDSK Error: line:983
+0A* A8 00 00 00   1:23:32.608 HWM main  CHKDSK Error: line:983
+0B* A8 00 00 00   1:23:32.609 HWM main  CHKDSK Error: line:983
+0C* A8 00 00 00   1:23:32.609 HWM main  CHKDSK Error: line:983
+0D* A8 00 00 00   1:23:32.610 HWM main  CHKDSK Error: line:983
+0E* A8 00 00 00   1:23:32.610 HWM main  CHKDSK Error: line:983
+0F* A8 00 00 00   1:23:32.612 HWM main  CHKDSK Error: line:983
+10* A8 00 00 00   1:23:32.613 HWM main  CHKDSK Error: line:983
+11* A8 00 00 00   1:23:32.613 HWM main  CHKDSK Error: line:983
+12* A8 00 00 00   1:23:32.624 HWM main  CHKDSK Error: line:983
+13* A8 00 00 00   1:23:32.625 HWM main  CHKDSK Error: line:983
+14* A8 00 00 00   1:23:32.651 HWM main  CHKDSK Error: line:983
+15* A8 00 00 00   1:23:32.652 HWM main  CHKDSK Error: line:983
+16: E0 00 00 00   1:23:32.658 HWM main  CHKDSK Report: Time:1384msec Dirs:30 Files:118 Free:0 Diff:0
 
 verNum:     8/13/2014 (00)
 ownerID:    00000009
@@ -190,11 +189,10 @@ archived:   07
 max_arch:   14
 num_recs:   64
 rec_size:   20
-next_evnt:  3B
-timeDay:    2015/11/22 12:34:35
+next_evnt:  3C
+timeDay:    2015/11/29 19:22:57
 cycle_cnt:  35
 
-3B: D1 00 22 00 823:49:48.341 HWM misc  Local: 2015/ 9/ 6 18:21:09, UTC: 2015/ 9/ 6 16:21:09
 3C: D0 11 22 00 823:50:04.909 HWM misc  Fitness Wi-Fi Status: 0xA
 3D: D0 11 22 00 823:50:21.676 HWM misc  Fitness Wi-Fi Status: 0x2
 3E: D1 00 22 00 823:55:21.692 HWM misc  Local: 2015/ 9/ 6 18:26:43, UTC: 2015/ 9/ 6 16:26:43
@@ -294,6 +292,7 @@ cycle_cnt:  35
 38* 10 00 22 00 556:45:21.857 HWM misc 03000000000000000000000000006563 ..............ec
 39* 10 00 22 00 999:28:07.703 HWM misc 03000000000000000000000000006563 ..............ec
 3A* 10 00 22 00  96:15:20.984 HWM misc 03000000000000000000000000006563 ..............ec
+3B* 10 00 23 00 174:48:23.079 HWM misc 03000000000000000000000000006563 ..............ec
 
 
 
