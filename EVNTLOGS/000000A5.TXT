@@ -1,4 +1,4 @@
-File Name: 0:\GARMIN\EVNTLOGS/000000A3.TXT
+File Name: 0:\GARMIN\EVNTLOGS/000000A5.TXT
 
 
 >>>>> EVL_CURR_LOGS <<<<<
@@ -12,17 +12,10 @@ archived:   10
 max_arch:   10
 num_recs:   20
 rec_size:   20
-next_evnt:  1B
-timeDay:    2016/ 3/29 12:51:08
-cycle_cnt:  56
+next_evnt:  02
+timeDay:    2016/ 3/29 12:55:49
+cycle_cnt:  57
 
-1B: FF 00 00 00   0:00:01.696 HWM main 2016/ 3/18 17:07:27 C:54
-1C: E0 00 00 00   0:00:04.830 HWM main  CHKDSK Report: Time:1053msec Dirs:29 Files:122 Free:18529 Diff:0
-1D: D0 00 00 00   0:00:04.833 HWM main 000038F4002000000000000200002F25 ..8.. ......../%
-1E: D8 00 00 00   0:00:26.188 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
-1F: D8 00 00 00   0:01:53.600 HWM main 02040A00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
-00: E0 00 00 00   0:01:54.485 HWM main  CHKDSK Report: Time:885msec Dirs:28 Files:120 Free:18532 Diff:0
-01: D8 00 00 00 209:58:06.330 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
 02: D8 00 00 00 210:10:51.467 HWM main 02040A00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
 03: E0 00 00 00 210:10:52.492 HWM main  CHKDSK Report: Time:1023msec Dirs:28 Files:120 Free:18520 Diff:0
 04: D8 00 00 00 234:25:56.920 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
@@ -50,6 +43,14 @@ cycle_cnt:  56
 18: FF 00 00 00   0:00:01.755 HWM main 2016/ 3/29 12:51:05 C:56
 19: E0 00 00 00   0:00:04.814 HWM main  CHKDSK Report: Time:967msec Dirs:28 Files:130 Free:18472 Diff:0
 1A: D0 00 00 00   0:00:04.817 HWM main 000038F4002000000000000200002F25 ..8.. ......../%
+1B: D8 00 00 00   0:00:33.320 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+1C: D8 00 00 00   0:04:07.850 HWM main 02040A00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+1D: E0 00 00 00   0:04:08.744 HWM main  CHKDSK Report: Time:891msec Dirs:29 Files:142 Free:17990 Diff:0
+1E: FE 01 08 00   0:04:27.942 HWM main 2016/ 3/29 12:55:31 V:0
+
+1F: FF 00 00 00   0:00:01.766 HWM main 2016/ 3/29 12:55:46 C:57
+00: E0 00 00 00   0:00:04.861 HWM main  CHKDSK Report: Time:1064msec Dirs:29 Files:137 Free:18009 Diff:0
+01: D0 00 00 00   0:00:04.862 HWM main 000038F40020E30C0000000200002F25 ..8.. ......../%
 
 verNum:     8/13/2014 (00)
 ownerID:    00000009
@@ -61,8 +62,8 @@ max_arch:   00
 num_recs:   64
 rec_size:   18
 next_evnt:  05
-timeDay:    2016/ 3/29 12:51:05
-cycle_cnt:  56
+timeDay:    2016/ 3/29 12:55:46
+cycle_cnt:  57
 
 05* 11 00 15 00 150:14:23.110 HWM misc 0400000000000000 ........
 06* 11 00 1F 00 425:17:51.946 HWM misc 05412A0800000000 .A*.....
@@ -175,8 +176,8 @@ max_arch:   00
 num_recs:   04
 rec_size:   18
 next_evnt:  04
-timeDay:    2016/ 3/29 12:51:05
-cycle_cnt:  56
+timeDay:    2016/ 3/29 12:55:46
+cycle_cnt:  57
 
 00* 11 00 1F 00 426:18:47.748 HWM misc 0201000000101801 ........
 01* 11 00 1F 00 426:24:26.910 HWM misc 0200000000000000 ........
@@ -193,8 +194,8 @@ max_arch:   14
 num_recs:   64
 rec_size:   20
 next_evnt:  49
-timeDay:    2016/ 3/29 12:51:05
-cycle_cnt:  56
+timeDay:    2016/ 3/29 12:55:46
+cycle_cnt:  57
 
 49: D0 11 24 00 489:33:38.812 HWM misc  Fitness Wi-Fi Status: 0xA
 4A: D0 11 24 00 489:33:55.598 HWM misc  Fitness Wi-Fi Status: 0x2
