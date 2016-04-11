@@ -1,4 +1,4 @@
-006-D5003-04|v03.00
+006-D5003-04|v03.20
 TXT_LANG_ID_STR_M	Deutsch
 TXT_ALARM_PAGE_Press_Up_or_Down_STR_M	Zum Verw. %1 o. %2
 TXT_ALARM_PAGE_to_Dismiss_STR_M	drücken
@@ -38,8 +38,8 @@ TXT_Any_STR	Beliebig
 TXT_Avg_Ground_Cont_STR_S	Ø BKZ
 TXT_Avg_Ground_Contact_STR_L	Ø Bodenkontaktzeit
 TXT_Avg_Ground_Contact_STR_M	Ø Bodenkontaktzeit
-TXT_Avg_HR_PHRR_STR_L	Ø HFR
-TXT_Avg_HR_PHRR_STR_M	Ø HFR
+TXT_Avg_HR_PHRR_STR_L	Ø %HFR
+TXT_Avg_HR_PHRR_STR_M	Ø %HFR
 TXT_Avg_HR_PHRR_STR_S	Ø %HFR
 TXT_Avg_HR_PMax_STR_L	Ø HF % Maximum
 TXT_Avg_HR_PMax_STR_M	Ø HF % Maximum
@@ -62,6 +62,9 @@ TXT_Avg_Last_Lap_PWR_STR_S	Le. Ru. - Leist.
 TXT_Avg_PWR_STR_L	Ø Leistung
 TXT_Avg_PWR_STR_M	Ø Leistung
 TXT_Avg_PWR_STR_S	Ø Leistung
+TXT_Avg_Stride_Length_STR_L	Durchschnittliche Schrittlänge
+TXT_Avg_Stride_Length_STR_M	Ø Schrittlänge
+TXT_Avg_Stride_Length_STR_S	Ø Schrittlänge
 TXT_Avg_Stroke_Distance_STR_L	Durchschnittliche Zugdistanz
 TXT_Avg_Stroke_Distance_STR_M	Ø Zugdistanz
 TXT_Avg_Stroke_Distance_STR_S	Ø Zugdistanz
@@ -77,6 +80,9 @@ TXT_Avg_Swolf_STR_S	Ø SWOLF
 TXT_Avg_Vert_Osc_STR_S	Ø vert. Bew.
 TXT_Avg_Vertical_Oscillation_STR_L	Ø vertikale Bewegung
 TXT_Avg_Vertical_Oscillation_STR_M	Ø vertikale Bewegung
+TXT_Avg_Vertical_Ratio_STR_L	Ø vertikales Verhältnis
+TXT_Avg_Vertical_Ratio_STR_M	Ø vertikales Verhältnis
+TXT_Avg_Vertical_Ratio_STR_S	Ø vert. Verh.
 TXT_BIKE_Avg_Cadence_STR_L	Ø Trittfrequenz
 TXT_BIKE_Avg_Cadence_STR_M	Ø Trittfrequenz
 TXT_BIKE_Avg_Cadence_STR_S	Ø Trittfrequenz
@@ -329,6 +335,18 @@ TXT_Fri_STR_M	Fr
 TXT_Front_Gear_STR_L	Vorne
 TXT_Front_Gear_STR_M	Vorne
 TXT_Front_Gear_STR_S	Vorne
+TXT_GCT_Avg_Balance_STR_L	Ø Balance der Bodenkontaktzeit
+TXT_GCT_Avg_Balance_STR_M	Ø Balance der BKZ
+TXT_GCT_Avg_Balance_STR_S	Ø Bal. BKZ
+TXT_GCT_Bal_STR_S	Balance der BKZ
+TXT_GCT_Balance_STR_L	Balance der Bodenkontaktzeit
+TXT_GCT_Balance_STR_M	Balance der BKZ
+TXT_GCT_Lap_Balance_STR_L	Runde - Balance der Bodenkontaktzeit
+TXT_GCT_Lap_Balance_STR_M	Ru. - Bal. BKZ
+TXT_GCT_Lap_Balance_STR_S	Ru. - Bal. BKZ
+TXT_GCT_Last_Lap_Balance_STR_L	Letzte Runde - Balance der Bodenkontaktzeit
+TXT_GCT_Last_Lap_Balance_STR_M	Letzte Ru. - Bal. BKZ
+TXT_GCT_Last_Lap_Balance_STR_S	L. Ru. Bal. BKZ
 TXT_GENERIC_Product_STR_L	Kona
 TXT_GPS_Accuracy_STR_L	GPS-Genauigkeit
 TXT_GPS_Accuracy_STR_M	GPS-Genauigkeit
@@ -468,6 +486,8 @@ TXT_LIST_SELECT_HDR_Alert_Type_STR_S	Töne
 TXT_LIST_SELECT_HDR_Auto_Pause_STR_S	Auto Pause
 TXT_LIST_SELECT_HDR_Auto_Scroll_STR_S	Auto-Seitenwechsel
 TXT_LIST_SELECT_HDR_Based_On_STR_S	Basiert auf
+TXT_LIST_SELECT_HDR_Field_2_STR_S	Feld 2
+TXT_LIST_SELECT_HDR_Field_3_STR_S	Feld 3
 TXT_LIST_SELECT_HDR_Language_STR_S	Sprache
 TXT_LIST_SELECT_HDR_Notifications_STR_S	Benachrichtigungen
 TXT_LIST_SELECT_HDR_Primary_Field_STR_M	Primäres Feld
@@ -505,7 +525,7 @@ TXT_LIST_SELECT_When_Stopped_STR_L	Wenn angehalten
 TXT_LST_SLCT_Choose_Zone_STR_S	Bereich wählen
 TXT_L_R_Balance_STR_L	Balance
 TXT_L_R_Balance_STR_M	Balance
-TXT_L_R_Balance_STR_S	Verhältnis %
+TXT_L_R_Balance_STR_S	Balance %
 TXT_Lap_Dist_STR_L	Rundendistanz
 TXT_Lap_Dist_STR_M	Rundendistanz
 TXT_Lap_Dist_STR_S	Rundendistanz
@@ -527,9 +547,15 @@ TXT_Lap_Num_STR_S	Runden
 TXT_Lap_PWR_STR_L	Rundenleistung
 TXT_Lap_PWR_STR_M	Rundenleistung
 TXT_Lap_PWR_STR_S	Rundenleistung
+TXT_Lap_Stride_Length_STR_L	Runde - Schrittlänge
+TXT_Lap_Stride_Length_STR_M	Runde - Schrittlänge
+TXT_Lap_Stride_Length_STR_S	Runde - Schrittl.
 TXT_Lap_Vert_Osc_STR_S	R. - Vert. Bew.
 TXT_Lap_Vertical_Oscillation_STR_L	Runde - Vertikale Bewegung
 TXT_Lap_Vertical_Oscillation_STR_M	Runde - Vert. Bewegung
+TXT_Lap_Vertical_Ratio_STR_L	Runde - Vertikales Verhältnis
+TXT_Lap_Vertical_Ratio_STR_M	Runde - Vert. Verhältnis
+TXT_Lap_Vertical_Ratio_STR_S	Ru.: vert. Verh.
 TXT_Last_Int_Distance_STR_L	Letztes Intervall - Distanz
 TXT_Last_Int_Distance_STR_M	Le. Inter. - Dist.
 TXT_Last_Int_Distance_STR_S	Le. Int. - Dist.
@@ -565,7 +591,7 @@ TXT_Last_Lap_Dist_STR_M	Distanz - Letzte Runde
 TXT_Last_Lap_Dist_STR_S	Dist. - Le. Rd.
 TXT_Last_Lap_Ground_Cont_STR_S	Le. Ru. - BKZ
 TXT_Last_Lap_Ground_Contact_STR_L	Letzte Runde - Bodenkontaktzeit
-TXT_Last_Lap_Ground_Contact_STR_M	Le. Ru. - Bodenkont.zeit
+TXT_Last_Lap_Ground_Contact_STR_M	Letzte Runde - BKZ
 TXT_Last_Lap_HR_PHRR_STR_L	Letzte Runde - % HFR
 TXT_Last_Lap_HR_PHRR_STR_M	Letzte Runde - % HFR
 TXT_Last_Lap_HR_PHRR_STR_S	Le. Ru. - % HFR
@@ -575,9 +601,15 @@ TXT_Last_Lap_HR_PMax_STR_S	L. Ru. HF % Max.
 TXT_Last_Lap_HR_STR_L	Letzte Runde - HF
 TXT_Last_Lap_HR_STR_M	Letzte Runde - HF
 TXT_Last_Lap_HR_STR_S	Le. Ru. - HF
+TXT_Last_Lap_Stride_Length_STR_L	Letzte Runde - Schrittlänge
+TXT_Last_Lap_Stride_Length_STR_M	Letzte Ru. - Schrittlänge
+TXT_Last_Lap_Stride_Length_STR_S	Le. Ru. Schrittl.
 TXT_Last_Lap_Vert_Osc_STR_S	Le. Ru. - V. Bew.
 TXT_Last_Lap_Vertical_Oscillation_STR_L	Letzte Runde - Vertikale Bewegung
 TXT_Last_Lap_Vertical_Oscillation_STR_M	Le. Ru. - Vert. Bew.
+TXT_Last_Lap_Vertical_Ratio_STR_L	Letzte Runde - Vertikales Verhältnis
+TXT_Last_Lap_Vertical_Ratio_STR_M	Le. Ru.: vert. Verh.
+TXT_Last_Lap_Vertical_Ratio_STR_S	L. Ru.: v. Verh.
 TXT_Last_Leg_Distance_STR_L	Letztes Teilstück - Distanz
 TXT_Last_Leg_Distance_STR_M	Letztes Teilstück - Dist.
 TXT_Last_Leg_Distance_STR_S	Le. Teilst. - Dist.
@@ -615,7 +647,7 @@ TXT_MENU_HISTORY_TOTALS_Weekly_STR_L	Wöchentlich
 TXT_MENU_HISTORY_TOTALS_Weekly_Totals_STR_L	Zsfg. Woche
 TXT_MENU_RECORDS_10k_STR_M	10 Kilometer
 TXT_MENU_RECORDS_1_mi_STR_M	1 Meile
-TXT_MENU_RECORDS_1k_STR_M	1 Kilometer
+TXT_MENU_RECORDS_1k_STR_M	1 km
 TXT_MENU_RECORDS_40k_STR_M	40 Kilometer
 TXT_MENU_RECORDS_5k_STR_M	5 Kilometer
 TXT_MENU_RECORDS_Best_Power_STR_M	Beste Watt-Leistung
@@ -700,8 +732,8 @@ TXT_Max_PWR_Last_Lap_STR_M	L. Runde - Max. Leistung
 TXT_Max_PWR_STR_L	Maximale Leistung
 TXT_Max_PWR_STR_M	Maximale Leistung
 TXT_Max_PWR_STR_S	Max. Leistung
-TXT_Maximum_Speed_STR_L	Maximales Tempo
-TXT_Maximum_Speed_STR_M	Maximales Tempo
+TXT_Maximum_Speed_STR_L	Maximale Geschwindigkeit
+TXT_Maximum_Speed_STR_M	Max. Geschwindigkeit
 TXT_Maximum_Speed_STR_S	Max. Geschw.
 TXT_Mixed_STR	Verschieden
 TXT_Mixed_STR_L	Verschieden
@@ -839,8 +871,12 @@ TXT_Power_save_in_STR_M	Standby-Modus in
 TXT_Press_ENTER_to_Exit_Sleep_Mode_STR_M	ENTER: Schlafmod. beenden.
 TXT_Press_Lap_For_Rest_STR	Für Erholung 'Lap' drücken
 TXT_Press_Up_or_Down_FRMT_STR_M	Zum Verw. %1 o. %2
-TXT_RUNNING_DYNAMICS_Cad_STR_S	SF
+TXT_RUNNING_DYNAMICS_Cad_STR_S	Schrittfrequenz
+TXT_RUNNING_DYNAMICS_GCT_B_STR_S	Bal. Bo.kont.zeit
+TXT_RUNNING_DYNAMICS_GCT_STR_S	BKZ
+TXT_RUNNING_DYNAMICS_Stride_STR_S	Schritt
 TXT_RUNNING_DYNAMICS_V_Osc_STR_S	V. Bw.
+TXT_RUNNING_DYNAMICS_V_Rat_STR_S	Vert. Verh.
 TXT_RUN_Avg_Cadence_STR_L	Ø Schrittfrequenz
 TXT_RUN_Avg_Cadence_STR_M	Ø Schrittfrequenz
 TXT_RUN_Avg_Cadence_STR_S	Ø Schrittfreq.
@@ -881,6 +917,7 @@ TXT_SELECT_BLUETOOTH_CANCEL_LIVETRACK_Continue_STR_M	Fortfahren
 TXT_SELECT_BLUETOOTH_CANCEL_LIVETRACK_This_will_suspend_STR_M	Hiermit wird die aktuelle LiveTrack-Sitzung ausgesetzt.
 TXT_SELECT_BLUETOOTH_CANCEL_TRANSFER_Continue_STR_M	Fortfahren
 TXT_SELECT_BLUETOOTH_CANCEL_TRANSFER_This_will_cancel_STR_M	Hiermit wird die aktuelle Bluetooth-Übertragung abgebrochen.
+TXT_SELECT_BLUETOOTH_CONNECTION_ALERT_Connection_Alert_STR_M	Verbindungsalarm
 TXT_SELECT_BLUETOOTH_Follow_steps_on_Garmin_Connect_Mobile_STR_M	Folgen Sie zum Koppeln den Schritten in Garmin Connect Mobile.
 TXT_SELECT_BLUETOOTH_Try_Again_STR_L	Erneut versuchen
 TXT_SELECT_BLUETOOTH_Unable_to_end_LiveTrack_session_STR_M	Fehler beim Beenden der LiveTrack-Sitzung.
@@ -939,7 +976,7 @@ TXT_SELECT_PAGE_PROFILE_REMOVAL_WARNING_This_will_modify_the_profile_FRMT_STR_M	
 TXT_SELECT_PAGE_PROFILE_REMOVAL_WARNING_This_will_remove_multisport_profiles_FRMT_STR_M	Hiermit werden %1 Multisport-Profile entfernt.
 TXT_SELECT_PAGE_PROFILE_REMOVAL_WARNING_This_will_remove_the_profile_FRMT_STR_M	Hiermit wird folgendes Multisport-Profil entfernt: %1.
 TXT_SELECT_PAGE_Power_STR_L	Leistung
-TXT_SELECT_PAGE_TITL_Activity_Tracking_STR_M	Aktivitätsanzeige
+TXT_SELECT_PAGE_TITL_Activity_Tracking_STR_M	Fitness Tracker
 TXT_SELECT_PAGE_TITL_Alarm_STR_M	Alarm
 TXT_SELECT_PAGE_TITL_Alert_Tones_STR_M	Warntöne
 TXT_SELECT_PAGE_TITL_Alerts_STR_M	Alarme
@@ -1014,6 +1051,7 @@ TXT_SELECT_PAGE_TITL_Stop_Course_STR_M	Strecke anhalten?
 TXT_SELECT_PAGE_TITL_Stop_Navigation_STR_M	Navigation anhalten?
 TXT_SELECT_PAGE_TITL_Stop_STR_M	Stoppen?
 TXT_SELECT_PAGE_TITL_Stroke_Type_Detection_STR_M	Schwimmstilerkennung
+TXT_SELECT_PAGE_TITL_Temperature_STR_M	Temperatur
 TXT_SELECT_PAGE_TITL_Time_FRMT_STR_M	Zeit %1
 TXT_SELECT_PAGE_TITL_Time_Format_STR_M	Zeitformat
 TXT_SELECT_PAGE_TITL_Time_STR_M	Zeit
@@ -1085,10 +1123,14 @@ TXT_SELECT_TARGET_DETAIL_Pace_FRMT_STR_M	Pace: %1
 TXT_SELECT_TARGET_DETAIL_Speed_FRMT_STR_M	Geschwind.: %1
 TXT_SELECT_TARGET_DETAIL_Target_FRMT_STR_M	Ziel: %1
 TXT_SELECT_TARGET_DETAIL_Time_FRMT_STR_M	Zeit: %1
+TXT_SELECT_TEMPERATURE_UNITS_Celsius_STR_M	Celsius
+TXT_SELECT_TEMPERATURE_UNITS_Fahrenheit_STR_M	Fahrenheit
 TXT_SELECT_TIMEOUT_Extended_STR_L	Verlängert
 TXT_SELECT_TIMEOUT_Normal_STR_L	Normal
 TXT_SELECT_TIME_FORMAT_12_Hour_STR_L	12 Stunden
 TXT_SELECT_TIME_FORMAT_24_Hour_STR_L	24 Stunden
+TXT_SELECT_UNITS_Celsius_STR_L	Celsius
+TXT_SELECT_UNITS_Fahrenheit_STR_L	Fahrenheit
 TXT_SELECT_USER_DATA_ERASED_Continue_STR_L	Fortfahren
 TXT_SELECT_USER_DATA_ERASED_User_data_will_be_erased_STR_S	Einstellungen werden gelöscht.
 TXT_SELECT_USER_LOCATIONS_Hide_STR_L	Ausblenden
@@ -1215,10 +1257,10 @@ TXT_SETUP_ACTIVITY_SETTINGS_Training_Pages_STR_L	Trainingsseiten
 TXT_SETUP_ACTIVITY_SETTINGS_Transitions_STR_L	Übergänge
 TXT_SETUP_ACTIVITY_SETTINGS_When_Stopped_STR_M	Wenn angehalten
 TXT_SETUP_ACTIVITY_SETTINGS_Yards_FRMT_STR_M	%1 Yards
-TXT_SETUP_ACTIVITY_TRACKING_Activity_Tracking_STR_M	Aktivitätsanzeige
+TXT_SETUP_ACTIVITY_TRACKING_Activity_Tracking_STR_M	Fitness Tracker
 TXT_SETUP_ACTIVITY_TRACKING_Off_STR_L	Aus
 TXT_SETUP_ACTIVITY_TRACKING_On_STR_L	Ein
-TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Activity_Tracking_STR_S	Aktivitätsanzeige
+TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Activity_Tracking_STR_S	Fitness Tracker
 TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Move_Alert_STR_L	Inaktivitätsalarm
 TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Options_STR_S	Optionen
 TXT_SETUP_ACTIVITY_TRACKING_SETTINGS_Show_on_Clock_STR_L	Auf Uhrseite anzeigen
@@ -1334,6 +1376,7 @@ TXT_SETUP_BACKLIGHT_Stays_On_STR_M	Bleibt an
 TXT_SETUP_BACKLIGHT_Timeout_STR_L	Zeitlimit
 TXT_SETUP_BLUETOOTH_Bluetooth_STR_S	Bluetooth
 TXT_SETUP_BLUETOOTH_Connected_STR_M	Verbunden
+TXT_SETUP_BLUETOOTH_Connection_Alert_STR_L	Verbindungsalarm
 TXT_SETUP_BLUETOOTH_Pair_Mobile_Device_STR_L	Mobilgerät koppeln
 TXT_SETUP_BLUETOOTH_Smart_Notifications_STR_L	Smart Notifications
 TXT_SETUP_BLUETOOTH_Status_STR_L	Status
@@ -1365,7 +1408,6 @@ TXT_SETUP_DATA_CNFG_OPTIONS_Layout_STR_L	Layout
 TXT_SETUP_DATA_CNFG_OPTIONS_Num_Fields_FRMT_STR_M	%1 Felder
 TXT_SETUP_DATA_CNFG_OPTIONS_One_Field_STR_M	1 Feld
 TXT_SETUP_DATA_CNFG_OPTIONS_Page_Heart_Rate_STR_S	Herzfrequenz
-TXT_SETUP_DATA_CNFG_OPTIONS_Page_Running_Dynamics_STR_S	Laufeffizienz
 TXT_SETUP_DATA_CNFG_OPTIONS_Rest_Screen_STR_S	Erholungsseite
 TXT_SETUP_DATA_CNFG_OPTIONS_Screen_1_STR_S	Seite 1
 TXT_SETUP_DATA_CNFG_OPTIONS_Screen_2_STR_S	Seite 2
@@ -1418,6 +1460,8 @@ TXT_SETUP_FOOTPOD_CAL_Auto_Calibrate_STR_L	Auto-Kalibrierung
 TXT_SETUP_FOOTPOD_CAL_Calibration_Factor_STR_L	Kalibrierungsfaktor
 TXT_SETUP_FOOTPOD_CAL_Set_Value_STR_L	Wert einrichten
 TXT_SETUP_FOOT_POD_Calibration_Factor_STR_L	Kalibrierungsfaktor
+TXT_SETUP_FOOT_POD_Dist_Source_select_STR_L	Distanz
+TXT_SETUP_FOOT_POD_Speed_Source_Select_STR_L	Für Pace verwenden
 TXT_SETUP_FORMAT_Format_STR_S	Format
 TXT_SETUP_FORMAT_Monday_STR_M	Montag
 TXT_SETUP_FORMAT_Pace_Speed_Preference_STR_L	Präferenz für Pace/Geschwindigkeit
@@ -1441,7 +1485,7 @@ TXT_SETUP_HEART_RATE_ZONES_Resting_HR_STR_L	HF Ruhephase
 TXT_SETUP_HEART_RATE_ZONES_Running_STR_S	Laufen
 TXT_SETUP_HEART_RATE_ZONES_SPORTS_Cycling_STR_L	Radfahren
 TXT_SETUP_HEART_RATE_ZONES_SPORTS_Default_STR_L	Standard
-TXT_SETUP_HEART_RATE_ZONES_SPORTS_Heart_Rate_Zones_STR_S	Herzfrequenzbereiche
+TXT_SETUP_HEART_RATE_ZONES_SPORTS_Heart_Rate_Zones_STR_S	HF-Bereiche
 TXT_SETUP_HEART_RATE_ZONES_SPORTS_Running_STR_L	Laufen
 TXT_SETUP_HEART_RATE_ZONES_SPORTS_Set_Custom_STR_M	Eigene Werte
 TXT_SETUP_HEART_RATE_ZONES_SPORTS_Swimming_STR_L	Schwimmen
@@ -1609,9 +1653,16 @@ TXT_SETUP_RECOVERY_ADVISOR_days_FRMT_STR_M	%1 Tage
 TXT_SETUP_RECOVERY_ADVISOR_hour_FRMT_STR_M	%1 Stunde
 TXT_SETUP_RECOVERY_ADVISOR_hours_FRMT_STR_M	%1 Stunden
 TXT_SETUP_RUNNING_DYNAMICS_Cadence_STR_M	Schrittfrequenz
+TXT_SETUP_RUNNING_DYNAMICS_Field_2_STR_L	Feld 2
+TXT_SETUP_RUNNING_DYNAMICS_Field_3_STR_L	Feld 3
+TXT_SETUP_RUNNING_DYNAMICS_GCT_Balance_STR_M	Balance der BKZ
 TXT_SETUP_RUNNING_DYNAMICS_GCT_STR_M	Bodenkontaktzeit
 TXT_SETUP_RUNNING_DYNAMICS_Primary_Metric_STR_L	Primärer Wert
+TXT_SETUP_RUNNING_DYNAMICS_Running_Dynamics_2_STR_L	Laufeffizienz 2
+TXT_SETUP_RUNNING_DYNAMICS_Running_Dynamics_STR_L	Laufeffizienz
+TXT_SETUP_RUNNING_DYNAMICS_Stride_Length_STR_M	Schrittlänge
 TXT_SETUP_RUNNING_DYNAMICS_Vertical_Oscillation_STR_M	Vertikale Bewegung
+TXT_SETUP_RUNNING_DYNAMICS_Vertical_Ratio_STR_M	Vertikales Verhältnis
 TXT_SETUP_SAVED_LOCATIONS_Saved_STR_S	Favoriten
 TXT_SETUP_SAVE_DISCARD_Discard_STR_L	Verwerfen
 TXT_SETUP_SAVE_DISCARD_Resume_STR_L	Weiter
@@ -1647,12 +1698,15 @@ TXT_SETUP_SENSOR_SETTINGS_Connect_STR_L	Verbinden
 TXT_SETUP_SENSOR_SETTINGS_Name_STR_L	Name
 TXT_SETUP_SENSOR_SETTINGS_Remove_STR_L	Entfernen
 TXT_SETUP_SENSOR_SETTINGS_Status_STR_L	Status
+TXT_SETUP_SENSOR_SOURCE_Always_STR_M	Immer
+TXT_SETUP_SENSOR_SOURCE_Indoor_STR_M	Wenn GPS aus ist
+TXT_SETUP_SENSOR_SOURCE_Off_STR_M	Nie
 TXT_SETUP_SENSOR_Status_Connected_STR_M	Verbunden
 TXT_SETUP_SENSOR_Status_Not_Connected_STR_M	Nicht verbunden
 TXT_SETUP_SENSOR_Status_Off_STR_M	Aus
 TXT_SETUP_SENSOR_Status_Searching_STR_M	Suche läuft
 TXT_SETUP_SETTINGS_Activity_Profiles_STR_L	Aktivitätsprofile
-TXT_SETUP_SETTINGS_Activity_Tracking_STR_L	Aktivitätsanzeige
+TXT_SETUP_SETTINGS_Activity_Tracking_STR_L	Fitness Tracker
 TXT_SETUP_SETTINGS_Alarm_STR_L	Alarm
 TXT_SETUP_SETTINGS_Sensors_and_Acessories_STR_L	Sensoren und Zubehör
 TXT_SETUP_SETTINGS_Settings_STR_S	Einstellungen
@@ -1791,6 +1845,7 @@ TXT_SETUP_TRAINING_PAGES_Data_Screens_STR_S	Trainingsseiten
 TXT_SETUP_TRAINING_PAGES_Drill_Log_STR_L	Übungsaufzeichnung
 TXT_SETUP_TRAINING_PAGES_Map_STR_L	Karte
 TXT_SETUP_TRAINING_PAGES_Rest_Screen_STR_L	Erholungsseite
+TXT_SETUP_TRAINING_PAGES_Running_Dynamics_2_STR_L	Laufeffizienz 2
 TXT_SETUP_TRAINING_PAGES_Running_Dynamics_STR_L	Laufeffizienz
 TXT_SETUP_TRAINING_PAGES_Screen_1_STR_L	Seite 1
 TXT_SETUP_TRAINING_PAGES_Screen_2_STR_L	Seite 2
@@ -1811,12 +1866,13 @@ TXT_SETUP_UNITS_Meters_STR_M	Meter
 TXT_SETUP_UNITS_Miles_STR_M	Meilen
 TXT_SETUP_UNITS_Pace_Speed_STR_L	Pace/Geschwindigkeit
 TXT_SETUP_UNITS_Pounds_STR_M	Pfund (GB)
+TXT_SETUP_UNITS_Temperature_STR_L	Temperatur
 TXT_SETUP_UNITS_Units_STR_S	Einheiten
 TXT_SETUP_UNITS_Weight_STR_L	Gewicht
 TXT_SETUP_USER_PROFILE_Birth_Year_STR_L	Geburtsjahr
 TXT_SETUP_USER_PROFILE_Female_STR_M	Weiblich
 TXT_SETUP_USER_PROFILE_Gender_STR_L	Geschlecht
-TXT_SETUP_USER_PROFILE_Heart_Rate_Zones_STR_L	Herzfrequenzbereiche
+TXT_SETUP_USER_PROFILE_Heart_Rate_Zones_STR_L	Herzfrequenz\nbereiche
 TXT_SETUP_USER_PROFILE_Height_STR_L	Größe
 TXT_SETUP_USER_PROFILE_Male_STR_M	Männlich
 TXT_SETUP_USER_PROFILE_Power_Zones_STR_L	Leistungsbereiche
@@ -2010,6 +2066,7 @@ TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Distance_STR_S	Distanz:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_FLY_FRMT_STR_S	%1 - SCHM.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_FREE_FRMT_STR_S	%1 - KRA:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Front_Shifts_STR_S	Gangw. v.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_GCT_Balance_STR_S	Bal. BKZ:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_GCT_STR_S	BKZ:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Int_Factor_STR_S	IF:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_LR_Balance_STR_S	Balance:
@@ -2028,6 +2085,7 @@ TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Right_Avg_PCO_STR_M	PCO rechts:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Right_Power_Phase_Peak_STR_T	PPP rechts:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Right_Power_Phase_STR_T	PP rechts:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_SWOLF_STR_S	SWOLF:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Stride_Length_STR_S	Schrittlänge:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Stroke_Distance_STR_S	Zugdistanz:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Stroke_Rate_STR_S	Zugzahl:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Strokes_Length_STR_S	Züge/Bahn:
@@ -2056,6 +2114,7 @@ TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Time_STR_S	Zeit:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Time_Standing_STR_S	Zeit steh.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Training_Effect_STR_S	TE:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Vert_Osc_STR_S	V. Bew.:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Vert_Ratio_STR_S	Vert. Verh.:
 TXT_SUMMARY_LOCATION_DETAILS_Elevation_STR_S	Höhe:
 TXT_SUMMARY_LOCATION_DETAILS_Position_STR_S	Position:
 TXT_SUMMARY_RACE_PREDICTOR_10K_STR_S	10 km:
@@ -2105,9 +2164,12 @@ TXT_Speed_STR_S	Geschwindigkeit
 TXT_Speed_Vertical_AVG_STR_L	30s - Ø Vertikalgeschw.
 TXT_Speed_Vertical_AVG_STR_M	30s - Ø Vertikalgeschw.
 TXT_Speed_Vertical_AVG_STR_S	VG - 30s Ø
-TXT_Speed_Vertical_STR_L	Vertikaltempo
-TXT_Speed_Vertical_STR_M	Vertikaltempo
+TXT_Speed_Vertical_STR_L	Vertikalgeschwindigkeit
+TXT_Speed_Vertical_STR_M	Vertikalgeschwindigkeit
 TXT_Speed_Vertical_STR_S	Vertikalgeschw.
+TXT_Stride_Len_STR_S	Schrittlänge
+TXT_Stride_Length_STR_L	Schrittlänge
+TXT_Stride_Length_STR_M	Schrittlänge
 TXT_Stroke_Rate_STR_L	Zugzahl
 TXT_Stroke_Rate_STR_M	Zugzahl
 TXT_Stroke_Rate_STR_S	Zugzahl
@@ -2126,9 +2188,9 @@ TXT_TSS_PWR_STR_L	Training Stress Score
 TXT_TSS_PWR_STR_M	Training Stress Score
 TXT_TSS_PWR_STR_S	TSS
 TXT_Thur_STR_M	Do
-TXT_Time_Ahead_STR_L	Verbleibende Zeit
-TXT_Time_Ahead_STR_M	Verbleibende Zeit
-TXT_Time_Ahead_STR_S	Verbleib. Zeit
+TXT_Time_Ahead_STR_L	Vorsprung
+TXT_Time_Ahead_STR_M	Vorsprung
+TXT_Time_Ahead_STR_S	Vorsprung
 TXT_Time_Avg_Lap_STR_L	Durchschnittliche Rundenzeit
 TXT_Time_Avg_Lap_STR_M	Ø Rundenzeit
 TXT_Time_Avg_Lap_STR_S	Ø Rundenzeit
@@ -2192,8 +2254,11 @@ TXT_VO2_MAX_Running_VO2_Max_STR_M	Lauf-VO2max
 TXT_VP_Pace_STR_S	VP Pace
 TXT_VP_Speed_STR_S	VP-Tempo
 TXT_Vert_Osc_STR_S	Vert. Bew.
+TXT_Vert_Ratio_STR_S	Vert. Verhältnis
 TXT_Vertical_Oscillation_STR_L	Vertikale Bewegung
 TXT_Vertical_Oscillation_STR_M	Vertikale Bewegung
+TXT_Vertical_Ratio_STR_L	Vertikales Verhältnis
+TXT_Vertical_Ratio_STR_M	Vertikales Verhältnis
 TXT_WIDGET_SMRT_NTFCTN_Bluetooth_Connection_Required_STR_M	Bluetooth-Verbindung erforderlich
 TXT_WIDGET_SMRT_NTFCTN_More_STR_M	Mehr...
 TXT_WIDGET_SMRT_NTFCTN_No_Notifications_STR_M	Keine Benachricht.
