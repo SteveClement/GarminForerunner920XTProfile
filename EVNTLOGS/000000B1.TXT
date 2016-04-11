@@ -1,4 +1,4 @@
-File Name: 0:\GARMIN\EVNTLOGS/000000AF.TXT
+File Name: 0:\GARMIN\EVNTLOGS/000000B1.TXT
 
 
 >>>>> EVL_CURR_LOGS <<<<<
@@ -12,18 +12,10 @@ archived:   10
 max_arch:   10
 num_recs:   20
 rec_size:   20
-next_evnt:  03
-timeDay:    2016/ 4/11 15:19:49
-cycle_cnt:  59
+next_evnt:  0A
+timeDay:    2016/ 4/11 15:23:47
+cycle_cnt:  60
 
-03: D8 00 00 00   0:09:33.669 HWM main 02040A00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
-04: E0 00 00 00   0:09:34.483 HWM main  CHKDSK Report: Time:814msec Dirs:28 Files:120 Free:18501 Diff:0
-
-05? FF 00 00 00   0:00:01.792 HWM main 2016/ 3/29 13:08:17 C:58
-06: E0 00 00 00   0:00:04.806 HWM main  CHKDSK Report: Time:982msec Dirs:28 Files:119 Free:18502 Diff:0
-07: D0 00 00 00   0:00:04.806 HWM main 000038F4002000000000000200002F25 ..8.. ......../%
-08: D8 00 00 00   0:00:26.679 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
-09: D8 00 00 00   0:01:38.746 HWM main 02040A00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
 0A: E0 00 00 00   0:01:39.751 HWM main  CHKDSK Report: Time:1005msec Dirs:29 Files:127 Free:17237 Diff:0
 0B: D8 00 00 00   0:02:29.167 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
 0C: D8 00 00 00   0:03:20.788 HWM main 02040A00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
@@ -50,6 +42,14 @@ cycle_cnt:  59
 00: D8 00 00 00  77:09:16.690 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
 01: D8 00 00 00  77:10:27.809 HWM main 02040A00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
 02: E0 00 00 00  77:10:29.054 HWM main  CHKDSK Report: Time:1243msec Dirs:30 Files:134 Free:16274 Diff:0
+03: D8 00 00 00  77:10:51.632 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+04: D8 00 00 00  77:12:20.579 HWM main 02040A00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+05: E0 00 00 00  77:12:21.772 HWM main  CHKDSK Report: Time:1193msec Dirs:29 Files:128 Free:16462 Diff:0
+06: FE 01 08 00  77:13:21.756 HWM main 2016/ 4/11 15:22:42 V:0
+
+07: FF 00 00 00   0:00:01.776 HWM main 2016/ 4/11 15:23:44 C:60
+08: E0 00 00 00   0:00:05.108 HWM main  CHKDSK Report: Time:1291msec Dirs:29 Files:128 Free:16462 Diff:0
+09: D0 00 00 00   0:00:05.108 HWM main 000038F40020E30C0000000200002F25 ..8.. ......../%
 
 verNum:     8/13/2014 (00)
 ownerID:    00000009
@@ -61,8 +61,8 @@ max_arch:   00
 num_recs:   64
 rec_size:   18
 next_evnt:  05
-timeDay:    2016/ 4/ 8 10:09:21
-cycle_cnt:  59
+timeDay:    2016/ 4/11 15:23:44
+cycle_cnt:  60
 
 05* 11 00 15 00 150:14:23.110 HWM misc 0400000000000000 ........
 06* 11 00 1F 00 425:17:51.946 HWM misc 05412A0800000000 .A*.....
@@ -175,8 +175,8 @@ max_arch:   00
 num_recs:   04
 rec_size:   18
 next_evnt:  04
-timeDay:    2016/ 4/ 8 10:09:21
-cycle_cnt:  59
+timeDay:    2016/ 4/11 15:23:44
+cycle_cnt:  60
 
 00* 11 00 1F 00 426:18:47.748 HWM misc 0201000000101801 ........
 01* 11 00 1F 00 426:24:26.910 HWM misc 0200000000000000 ........
@@ -193,8 +193,8 @@ max_arch:   14
 num_recs:   64
 rec_size:   20
 next_evnt:  1B
-timeDay:    2016/ 4/11 15:17:38
-cycle_cnt:  59
+timeDay:    2016/ 4/11 15:23:44
+cycle_cnt:  60
 
 1B: D0 11 29 00 140:01:52.064 HWM misc  Fitness Wi-Fi Status: 0x1
 1C: D0 12 29 00 140:02:02.603 HWM misc  Fitness Wi-Fi Status: 0x1
