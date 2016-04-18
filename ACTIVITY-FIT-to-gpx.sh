@@ -16,3 +16,6 @@ for FIT_File in `ls *.FIT`; do
 done
 
 cd ..
+
+echo "pro-actively git add 'ing EVNTLOGS and MONITOR"
+git add EVNTLOGS MONITOR
