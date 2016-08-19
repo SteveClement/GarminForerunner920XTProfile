@@ -1,4 +1,4 @@
-006-D5003-03|v03.20
+006-D5003-03|v03.30
 TXT_LANG_ID_STR_M	Français
 TXT_ALARM_PAGE_Press_Up_or_Down_STR_M	App. sur %1 ou %2
 TXT_ALARM_PAGE_to_Dismiss_STR_M	pour arrêter
@@ -50,8 +50,8 @@ TXT_Avg_HR_STR_S	FC moyenne
 TXT_Avg_L_R_Balance_STR_L	Equil. moy.
 TXT_Avg_L_R_Balance_STR_M	Equilibre moyen
 TXT_Avg_L_R_Balance_STR_S	Equil. moyen - %
-TXT_Avg_Lap_L_R_Balance_STR_L	Equil. circuit
-TXT_Avg_Lap_L_R_Balance_STR_M	Equil. circuit
+TXT_Avg_Lap_L_R_Balance_STR_L	Equilibre circuit
+TXT_Avg_Lap_L_R_Balance_STR_M	Equilibre circuit
 TXT_Avg_Lap_L_R_Balance_STR_S	Equil. circuit - %
 TXT_Avg_Last_Lap_L_R_Balance_STR_L	Equilibre dernier circuit
 TXT_Avg_Last_Lap_L_R_Balance_STR_M	Equilibre dernier circuit
@@ -286,7 +286,7 @@ TXT_Cooldown_Swim_STR	Etirements
 TXT_Current_Run_STR_M	Descente en cours
 TXT_DEC_STR_M	Déc.
 TXT_DIST_REM_STR_S	Dist. restante
-TXT_DRILL_LOG_PAGE_Drill_Ended_STR_M	Exercices terminés
+TXT_DRILL_LOG_PAGE_Drill_Ended_STR_M	Exercice terminé
 TXT_DRILL_LOG_PAGE_TITL_Drill_Log_STR_M	Journal d'entraînement
 TXT_DRILL_LOG_PAGE_To_Begin_STR_M	pour comm. l'exercice
 TXT_DRILL_LOG_PAGE_To_End_STR_M	pour term. l'exercice
@@ -331,7 +331,7 @@ TXT_Fly_STR_M	Papillon
 TXT_Free_STR	Libre
 TXT_Free_STR_L	Libre
 TXT_Free_STR_M	Libre
-TXT_Fri_STR_M	Ven.
+TXT_Fri_STR_M	Ven
 TXT_Front_Gear_STR_L	Avant
 TXT_Front_Gear_STR_M	Avant
 TXT_Front_Gear_STR_S	Avant
@@ -738,7 +738,7 @@ TXT_Maximum_Speed_STR_S	Vitesse maxim.
 TXT_Mixed_STR	Mixte
 TXT_Mixed_STR_L	Mixte
 TXT_Mixed_STR_M	Mixte
-TXT_Mon_STR_M	Lun.
+TXT_Mon_STR_M	Lundi
 TXT_Most_Ascent_STR_L	Ascension la plus raide !
 TXT_Mov_Avg_L_R_Balance_10s_STR_L	Equilibre moyen 10 s
 TXT_Mov_Avg_L_R_Balance_10s_STR_M	Equilibre moyen 10 s
@@ -758,6 +758,9 @@ TXT_Mov_Avg_PWR_30s_STR_S	Puiss.moy. 30 s
 TXT_Mov_Avg_PWR_3s_STR_L	Puissance moyenne 3 s
 TXT_Mov_Avg_PWR_3s_STR_M	Puissance moyenne 3 s
 TXT_Mov_Avg_PWR_3s_STR_S	Puiss. moy. 3 s
+TXT_Multisport_Time_STR_L	Temps pour plusieurs sports
+TXT_Multisport_Time_STR_M	Tps sports multiples
+TXT_Multisport_Time_STR_S	Tps sports multi.
 TXT_NAVIGATION_Back_To_Start_STR_S	Retour au dép.
 TXT_NAVIGATION_Course_Complete_STR_S	Parc. effectué
 TXT_NAVIGATION_End_STR_S	Terminer
@@ -871,12 +874,12 @@ TXT_Power_save_in_STR_M	Mode éco. éner.
 TXT_Press_ENTER_to_Exit_Sleep_Mode_STR_M	ENTER > quitter mode sommeil
 TXT_Press_Lap_For_Rest_STR	App. sur Lap pour vous reposer
 TXT_Press_Up_or_Down_FRMT_STR_M	App. sur %1 ou %2
-TXT_RUNNING_DYNAMICS_Cad_STR_S	Cadence
-TXT_RUNNING_DYNAMICS_GCT_B_STR_S	Eq. tps cont. sol
-TXT_RUNNING_DYNAMICS_GCT_STR_S	Tps contact sol
+TXT_RUNNING_DYNAMICS_Cad_STR_S	Cad.
+TXT_RUNNING_DYNAMICS_GCT_B_STR_S	ETCS
+TXT_RUNNING_DYNAMICS_GCT_STR_S	TCS
 TXT_RUNNING_DYNAMICS_Stride_STR_S	Foulée
 TXT_RUNNING_DYNAMICS_V_Osc_STR_S	Osc. v.
-TXT_RUNNING_DYNAMICS_V_Rat_STR_S	Rapport vertical
+TXT_RUNNING_DYNAMICS_V_Rat_STR_S	Rap. v.
 TXT_RUN_Avg_Cadence_STR_L	Cadence moyenne
 TXT_RUN_Avg_Cadence_STR_M	Cadence moyenne
 TXT_RUN_Avg_Cadence_STR_S	Cadence moy.
@@ -995,7 +998,7 @@ TXT_SELECT_PAGE_TITL_Cancel_STR_M	Annuler ?
 TXT_SELECT_PAGE_TITL_Choose_Zones_STR_M	Choisir des zones
 TXT_SELECT_PAGE_TITL_Clear_All_STR_M	Tout effacer ?
 TXT_SELECT_PAGE_TITL_Clear_Record_STR_M	Effacer le record ?
-TXT_SELECT_PAGE_TITL_Clear_User_Data_STR_M	Effacer les données utilisateur ?
+TXT_SELECT_PAGE_TITL_Clear_User_Data_STR_M	Effacer les données utilisateur ?
 TXT_SELECT_PAGE_TITL_Clock_STR_M	Horloge
 TXT_SELECT_PAGE_TITL_Cool_Down_Bike_STR_M	Etirements
 TXT_SELECT_PAGE_TITL_Cool_Down_Run_STR_M	Etirements
@@ -1041,7 +1044,7 @@ TXT_SELECT_PAGE_TITL_Restore_Record_STR_M	Restaurer le record ?
 TXT_SELECT_PAGE_TITL_Run_Walk_STR_M	Course/Marche
 TXT_SELECT_PAGE_TITL_Running_STR_M	Course à pied
 TXT_SELECT_PAGE_TITL_Select_Units_STR_M	Sélectionner les unités
-TXT_SELECT_PAGE_TITL_Set_Time_STR_M	Régler heure
+TXT_SELECT_PAGE_TITL_Set_Time_STR_M	Réglage de l'heure
 TXT_SELECT_PAGE_TITL_Show_on_Clock_STR_M	Afficher sur l'horloge
 TXT_SELECT_PAGE_TITL_Slow_Alert_STR_M	Alarme lente
 TXT_SELECT_PAGE_TITL_Smart_Notifications_STR_M	Smart Notifications
@@ -1082,7 +1085,7 @@ TXT_SELECT_PWR_SETUP_Begin_Setup_STR_L	Commenc. la config.
 TXT_SELECT_PWR_SETUP_Initial_Setup_Required_STR_L	Configuration initiale requise pour utiliser le Vector.
 TXT_SELECT_PWR_SRM_CALIBRATE_Calibration_Successful_STR_L	Etalon. effectué. Sélect. la valeur de décalage.
 TXT_SELECT_PWR_SRM_CALIBRATE_Current_FRMT_STR_L	Actuelle : %1
-TXT_SELECT_PWR_SRM_CALIBRATE_Previous_FRMT_STR_L	Précédente : %1
+TXT_SELECT_PWR_SRM_CALIBRATE_Previous_FRMT_STR_L	Précédente : %1
 TXT_SELECT_RECORDING_MODE_Manual_STR_L	Manuel
 TXT_SELECT_RECORDING_MODE_Timer_Start_Stop_STR_L	Dém./arrêt chrono
 TXT_SELECT_RECORDS_SPORT_Cycling_STR_L	Cyclisme
@@ -1116,7 +1119,7 @@ TXT_SELECT_SET_TIME_Manual_STR_L	Manuel
 TXT_SELECT_SPEED_SOURCE_Foot_Pod_STR_L	Accéléromètre
 TXT_SELECT_SPEED_SOURCE_GPS_STR_L	GPS
 TXT_SELECT_SW_UPDATE_FAILED_Done_STR_L	Terminé
-TXT_SELECT_SW_UPDATE_FAILED_Updated_failed_Go_to_Garmin_Connect_STR_M	Echec de la mise à jour. \nRéessayez depuis Garmin Connect.
+TXT_SELECT_SW_UPDATE_FAILED_Updated_failed_Go_to_Garmin_Connect_STR_M	Echec de la mise à jour.  Réessayez depuis Garmin Connect.
 TXT_SELECT_SW_UPDATE_FAILED_Updated_failed_Press_Connect_key_STR_M	Echec de la mise à jour. \nRéessayez.
 TXT_SELECT_TARGET_DETAIL_Accept_STR_L	Accepter
 TXT_SELECT_TARGET_DETAIL_Pace_FRMT_STR_M	Allure : %1
@@ -1202,7 +1205,7 @@ TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Hike_STR_L	Randonnée
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Mountain_STR_L	V.T.T.
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Open_Water_STR_L	En eau libre
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Other_STR_L	Autre
-TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Paddle_STR_L	Canoë-kayak
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Paddle_STR_L	Sport de rame
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Pool_Swim_STR_L	En piscine
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Race_STR_L	Course
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Road_STR_L	Route
@@ -1211,10 +1214,10 @@ TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Run_Indoor_STR_L	Course salle
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Run_STR_L	Course
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Ski_STR_L	Ski
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Snowboard_STR_L	Snowboard
-TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Strength_STR_L	Force
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Strength_STR_L	Muscul.
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Trail_STR_L	Trail
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Trainer_STR_L	Trainer
-TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Treadmill_STR_L	Tapis course
+TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Treadmill_STR_L	Course tapis
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_NAME_Triathlon_STR_L	Triathlon
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_PROFILE_Done_STR_L	Terminé
 TXT_SETUP_ACTIVITY_PROFILE_CHOOSE_PROFILE_HDR_Choose_Final_Profile_STR_S	Choisir le dernier profil
@@ -1293,8 +1296,6 @@ TXT_SETUP_ALERTS_CHOOSE_TYPE_Run_Walk_STR_L	Course/Marche
 TXT_SETUP_ALERTS_CHOOSE_TYPE_SWIM_Stroke_Rate_STR_L	Fréquence de mouvement
 TXT_SETUP_ALERTS_CHOOSE_TYPE_Speed_STR_L	Vitesse
 TXT_SETUP_ALERTS_CHOOSE_TYPE_Time_STR_L	Temps
-TXT_SETUP_ALERTS_Calories_STR_L	Calories
-TXT_SETUP_ALERTS_Distance_STR_L	Distance
 TXT_SETUP_ALERTS_HDR_Choose_Alert_Message_STR_M	Choisir message d'alerte
 TXT_SETUP_ALERTS_HDR_Choose_Alert_Type_STR_M	Choisir le type d'alerte
 TXT_SETUP_ALERTS_Heart_Rate_STR_L	Fréquence cardiaque
@@ -1305,7 +1306,6 @@ TXT_SETUP_ALERTS_RUN_Cadence_STR_L	Cadence
 TXT_SETUP_ALERTS_Run_Walk_STR_L	Course/Marche
 TXT_SETUP_ALERTS_SWIM_Stroke_Rate_STR_L	Fréquence mouvement
 TXT_SETUP_ALERTS_Speed_STR_L	Vitesse
-TXT_SETUP_ALERTS_Time_STR_L	Temps
 TXT_SETUP_ALERT_BIKE_High_Cadence_STR_L	Cadence rapide
 TXT_SETUP_ALERT_BIKE_Low_Cadence_STR_L	Cadence faible
 TXT_SETUP_ALERT_CADENCE_PAGE_BIKE_Cadence_STR_S	Cadence
@@ -1664,7 +1664,7 @@ TXT_SETUP_RUNNING_DYNAMICS_Stride_Length_STR_M	Longueur de foulée
 TXT_SETUP_RUNNING_DYNAMICS_Vertical_Oscillation_STR_M	Oscillation verticale
 TXT_SETUP_RUNNING_DYNAMICS_Vertical_Ratio_STR_M	Rapport vertical
 TXT_SETUP_SAVED_LOCATIONS_Saved_STR_S	Enregistré
-TXT_SETUP_SAVE_DISCARD_Discard_STR_L	Supprimer
+TXT_SETUP_SAVE_DISCARD_Discard_STR_L	Ignorer
 TXT_SETUP_SAVE_DISCARD_Resume_STR_L	Reprendre
 TXT_SETUP_SAVE_DISCARD_Save_STR_L	Enregistrer
 TXT_SETUP_SENSORS_Add_Sensor_STR_L	Ajouter Nouveau
@@ -1824,7 +1824,7 @@ TXT_SETUP_TIME_IN_ZONE_OPTNS_Time_In_HR_Zone_FRMT_STR_S	Tps dans zone de FC %1
 TXT_SETUP_TIME_IN_ZONE_OPTNS_Time_In_Power_Zone_FRMT_STR_S	Tps dans zone puiss %1
 TXT_SETUP_TIME_Manual_STR_M	Manuel
 TXT_SETUP_TIME_No_STR_M	Non
-TXT_SETUP_TIME_Set_Time_STR_L	Régler heure
+TXT_SETUP_TIME_Set_Time_STR_L	Réglage de l'heure
 TXT_SETUP_TIME_Status_STR_L	Etat
 TXT_SETUP_TIME_Time_FRMT_STR_S	Heure %1
 TXT_SETUP_TIME_Time_Format_STR_L	Format d'heure
@@ -2142,7 +2142,7 @@ TXT_SUMMARY_SENSORS_ABOUT_STATUS_Low_STR_S	Bas
 TXT_SUMMARY_SENSORS_ABOUT_STATUS_Mismatch_STR_S	Incompatibilité
 TXT_SUMMARY_SENSORS_ABOUT_STATUS_New_STR_S	Nouveau
 TXT_SUMMARY_SENSORS_ABOUT_STATUS_Ok_STR_S	Moyen
-TXT_Sat_STR_M	Sam.
+TXT_Sat_STR_M	Samedi
 TXT_Ski_Run_STR_M	Descente
 TXT_Sleep_STR_M	Veille
 TXT_Software_Version_STR_M	Version logiciel
@@ -2161,7 +2161,7 @@ TXT_Speed_Nautical_STR_S	Vit. nautique :
 TXT_Speed_STR_L	Vitesse
 TXT_Speed_STR_M	Vitesse
 TXT_Speed_STR_S	Vitesse
-TXT_Speed_Vertical_AVG_STR_L	Vitesse verticale moyenne sur 30 s
+TXT_Speed_Vertical_AVG_STR_L	Vitesse verticale moyenne sur 30 s
 TXT_Speed_Vertical_AVG_STR_M	Vit. ver. moy. sur 30 s
 TXT_Speed_Vertical_AVG_STR_S	Vit. ver. Moy.30s
 TXT_Speed_Vertical_STR_L	Vitesse verticale
@@ -2222,7 +2222,7 @@ TXT_Training_Effect_STR_L	Training Effect
 TXT_Training_Effect_STR_M	Training Effect
 TXT_Training_Effect_STR_S	Training Effect
 TXT_Transition_STR	Transition
-TXT_Tue_STR_M	Mar.
+TXT_Tue_STR_M	Mardi
 TXT_UNLOCK_PAGE_Press_ENTER_to_Unlock_STR_M	Appuyez sur ENTER pour déverrouiller
 TXT_Unit_ID_STR_M	ID de l'appareil
 TXT_Unknown_STR_L	Inconnu
@@ -2263,6 +2263,7 @@ TXT_WIDGET_SMRT_NTFCTN_Bluetooth_Connection_Required_STR_M	Connexion Bluetooth r
 TXT_WIDGET_SMRT_NTFCTN_More_STR_M	Plus...
 TXT_WIDGET_SMRT_NTFCTN_No_Notifications_STR_M	Aucune notification
 TXT_WIDGET_SMRT_NTFCTN_Notifications_STR_M	Notifications
+TXT_WRKT_TRANSITION_TIP_Press_Lap_to_End_STR_M	LAP pour terminer l'entraînement
 TXT_WRKT_TRANSITION_TIP_to_Begin_STR_M	pour commen.
 TXT_Warmup_Bike_STR	Echauff.
 TXT_Warmup_STR	Echauff.
@@ -2271,7 +2272,7 @@ TXT_Watts_abbr_STR	W
 TXT_Watts_per_kg_STR_L	Rapports poids/puissance
 TXT_Watts_per_kg_STR_M	Rapports poids/puiss.
 TXT_Watts_per_kg_STR_S	Rap.poids/puiss.
-TXT_Wed_STR_M	Mer.
+TXT_Wed_STR_M	Mer
 TXT_Workout_Ended_STR_L	Entraînement terminé
 TXT_Yes_STR_M	Oui
 TXT_ZONE_CHART_Z0_STR_S	Z0

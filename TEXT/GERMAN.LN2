@@ -1,4 +1,4 @@
-006-D5003-04|v03.20
+006-D5003-04|v03.30
 TXT_LANG_ID_STR_M	Deutsch
 TXT_ALARM_PAGE_Press_Up_or_Down_STR_M	Zum Verw. %1 o. %2
 TXT_ALARM_PAGE_to_Dismiss_STR_M	drücken
@@ -170,7 +170,7 @@ TXT_Calories_STR_S	Kalorien
 TXT_Cals_To_Go_STR_L	Verbleibende Kalorien
 TXT_Cals_To_Go_STR_M	Verbleibende Kalorien
 TXT_Cals_To_Go_STR_S	Verbl. Kalorien
-TXT_Cnfg_List_Avg_CAD_Seated_STR_L	Durchschnittliche Trittfrequenz in Sitzen
+TXT_Cnfg_List_Avg_CAD_Seated_STR_L	Durchschnittliche Trittfrequenz sitzend
 TXT_Cnfg_List_Avg_CAD_Seated_STR_M	Trittfrequenz sitzend
 TXT_Cnfg_List_Avg_CAD_Seated_STR_S	Tr.fr. sitzend
 TXT_Cnfg_List_Avg_CAD_Standing_STR_L	Durchschnittliche Trittfrequenz stehend
@@ -203,12 +203,12 @@ TXT_Cnfg_List_Lap_PWR_Seated_STR_S	Leist. sitz. - Ru.
 TXT_Cnfg_List_Lap_PWR_Standing_STR_L	Leistung stehend - Runde
 TXT_Cnfg_List_Lap_PWR_Standing_STR_M	Leist. stehend - Runde
 TXT_Cnfg_List_Lap_PWR_Standing_STR_S	Leist. steh. - Ru.
-TXT_Cnfg_List_Left_PP_Peak_Start_Avg_STR_L	PPP links - Ø
-TXT_Cnfg_List_Left_PP_Peak_Start_Avg_STR_M	Ø linke PPP
-TXT_Cnfg_List_Left_PP_Peak_Start_Avg_STR_S	Ø linke PPP
-TXT_Cnfg_List_Left_PP_Peak_Start_Lap_STR_L	PPP links - Runde
-TXT_Cnfg_List_Left_PP_Peak_Start_Lap_STR_M	PPP links - Runde
-TXT_Cnfg_List_Left_PP_Peak_Start_Lap_STR_S	PPP li. - Ru.
+TXT_Cnfg_List_Left_PP_Peak_Start_Avg_STR_L	Max. PP links - Ø
+TXT_Cnfg_List_Left_PP_Peak_Start_Avg_STR_M	Ø linke Max. PP
+TXT_Cnfg_List_Left_PP_Peak_Start_Avg_STR_S	Ø linke Max. PP
+TXT_Cnfg_List_Left_PP_Peak_Start_Lap_STR_L	Max. PP links - Runde
+TXT_Cnfg_List_Left_PP_Peak_Start_Lap_STR_M	Max. PP links - Runde
+TXT_Cnfg_List_Left_PP_Peak_Start_Lap_STR_S	Max. PP li. - Ru.
 TXT_Cnfg_List_Left_PP_Peak_Start_STR_L	Max. PP links
 TXT_Cnfg_List_Left_PP_Peak_Start_STR_M	Max. PP links
 TXT_Cnfg_List_Left_PP_Peak_Start_STR_S	Max. PP links
@@ -233,12 +233,12 @@ TXT_Cnfg_List_PCO_STR_S	PCO
 TXT_Cnfg_List_Pedal_Weight_STR_L	Pedalgewicht
 TXT_Cnfg_List_Pedal_Weight_STR_M	Pedalgewicht
 TXT_Cnfg_List_Pedal_Weight_STR_S	Pedalgewicht
-TXT_Cnfg_List_Right_PP_Peak_Start_Avg_STR_L	PPP rechts - Ø
-TXT_Cnfg_List_Right_PP_Peak_Start_Avg_STR_M	PPP rechts - Ø
-TXT_Cnfg_List_Right_PP_Peak_Start_Avg_STR_S	PPP rechts - Ø
-TXT_Cnfg_List_Right_PP_Peak_Start_Lap_STR_L	PPP rechts - Runde
-TXT_Cnfg_List_Right_PP_Peak_Start_Lap_STR_M	PPP rechts - Runde
-TXT_Cnfg_List_Right_PP_Peak_Start_Lap_STR_S	PPP re. - Ru.
+TXT_Cnfg_List_Right_PP_Peak_Start_Avg_STR_L	Max. PP rechts - Ø
+TXT_Cnfg_List_Right_PP_Peak_Start_Avg_STR_M	Max. PP rechts - Ø
+TXT_Cnfg_List_Right_PP_Peak_Start_Avg_STR_S	Max. PP re. - Ø
+TXT_Cnfg_List_Right_PP_Peak_Start_Lap_STR_L	Max. PP rechts - Runde
+TXT_Cnfg_List_Right_PP_Peak_Start_Lap_STR_M	Max. PP rechts - Runde
+TXT_Cnfg_List_Right_PP_Peak_Start_Lap_STR_S	Max. PP Ru. r.
 TXT_Cnfg_List_Right_PP_Peak_Start_STR_L	Maximale PP rechts
 TXT_Cnfg_List_Right_PP_Peak_Start_STR_M	Maximale PP rechts
 TXT_Cnfg_List_Right_PP_Peak_Start_STR_S	Max. PP re.
@@ -758,6 +758,9 @@ TXT_Mov_Avg_PWR_30s_STR_S	30s - Ø Leist.
 TXT_Mov_Avg_PWR_3s_STR_L	3s - Durchschnittliche Leistung
 TXT_Mov_Avg_PWR_3s_STR_M	3s - Ø Leistung
 TXT_Mov_Avg_PWR_3s_STR_S	3s - Ø Leistung
+TXT_Multisport_Time_STR_L	Multisport-Zeit
+TXT_Multisport_Time_STR_M	Multisport-Zeit
+TXT_Multisport_Time_STR_S	Multisport-Zeit
 TXT_NAVIGATION_Back_To_Start_STR_S	Zurück z. Start
 TXT_NAVIGATION_Course_Complete_STR_S	Strecke fertig
 TXT_NAVIGATION_End_STR_S	Ende
@@ -856,9 +859,9 @@ TXT_PWR_Zone_STR_S	Leistungsber.
 TXT_Pace_Avg_Run_STR_L	Durchschnittspace
 TXT_Pace_Avg_Run_STR_M	Durchschnittspace
 TXT_Pace_Avg_Run_STR_S	Ø Pace
-TXT_Pace_Crnt_Lap_STR_L	Pace (Runde)
-TXT_Pace_Crnt_Lap_STR_M	Pace (Runde)
-TXT_Pace_Crnt_Lap_STR_S	Pace (Runde)
+TXT_Pace_Crnt_Lap_STR_L	Rundenpace
+TXT_Pace_Crnt_Lap_STR_M	Rundenpace
+TXT_Pace_Crnt_Lap_STR_S	Rundenpace
 TXT_Pace_Last_Lap_STR_L	Pace - Letzte Runde
 TXT_Pace_Last_Lap_STR_M	Pace - Letzte Runde
 TXT_Pace_Last_Lap_STR_S	Pace - Letz. Rd.
@@ -871,12 +874,12 @@ TXT_Power_save_in_STR_M	Standby-Modus in
 TXT_Press_ENTER_to_Exit_Sleep_Mode_STR_M	ENTER: Schlafmod. beenden.
 TXT_Press_Lap_For_Rest_STR	Für Erholung 'Lap' drücken
 TXT_Press_Up_or_Down_FRMT_STR_M	Zum Verw. %1 o. %2
-TXT_RUNNING_DYNAMICS_Cad_STR_S	Schrittfrequenz
-TXT_RUNNING_DYNAMICS_GCT_B_STR_S	Bal. Bo.kont.zeit
+TXT_RUNNING_DYNAMICS_Cad_STR_S	SF
+TXT_RUNNING_DYNAMICS_GCT_B_STR_S	BBKZ
 TXT_RUNNING_DYNAMICS_GCT_STR_S	BKZ
 TXT_RUNNING_DYNAMICS_Stride_STR_S	Schritt
 TXT_RUNNING_DYNAMICS_V_Osc_STR_S	V. Bw.
-TXT_RUNNING_DYNAMICS_V_Rat_STR_S	Vert. Verh.
+TXT_RUNNING_DYNAMICS_V_Rat_STR_S	V. Ver.
 TXT_RUN_Avg_Cadence_STR_L	Ø Schrittfrequenz
 TXT_RUN_Avg_Cadence_STR_M	Ø Schrittfrequenz
 TXT_RUN_Avg_Cadence_STR_S	Ø Schrittfreq.
@@ -1045,7 +1048,7 @@ TXT_SELECT_PAGE_TITL_Set_Time_STR_M	Uhrzeit einstellen
 TXT_SELECT_PAGE_TITL_Show_on_Clock_STR_M	Auf Uhrseite anzeigen
 TXT_SELECT_PAGE_TITL_Slow_Alert_STR_M	Unterer Alarm
 TXT_SELECT_PAGE_TITL_Smart_Notifications_STR_M	Smart Notifications
-TXT_SELECT_PAGE_TITL_Speed_Source_STR_M	Quelle Geschwindigkeit
+TXT_SELECT_PAGE_TITL_Speed_Source_STR_M	Geschwindigkeitsquelle
 TXT_SELECT_PAGE_TITL_Status_STR_M	Status
 TXT_SELECT_PAGE_TITL_Stop_Course_STR_M	Strecke anhalten?
 TXT_SELECT_PAGE_TITL_Stop_Navigation_STR_M	Navigation anhalten?
@@ -1293,8 +1296,6 @@ TXT_SETUP_ALERTS_CHOOSE_TYPE_Run_Walk_STR_L	Laufen/Gehen
 TXT_SETUP_ALERTS_CHOOSE_TYPE_SWIM_Stroke_Rate_STR_L	Zugzahl
 TXT_SETUP_ALERTS_CHOOSE_TYPE_Speed_STR_L	Geschwindigkeit
 TXT_SETUP_ALERTS_CHOOSE_TYPE_Time_STR_L	Zeit
-TXT_SETUP_ALERTS_Calories_STR_L	Kalorien
-TXT_SETUP_ALERTS_Distance_STR_L	Distanz
 TXT_SETUP_ALERTS_HDR_Choose_Alert_Message_STR_M	Alarmmeldung wählen
 TXT_SETUP_ALERTS_HDR_Choose_Alert_Type_STR_M	Alarmtyp wählen
 TXT_SETUP_ALERTS_Heart_Rate_STR_L	Herzfrequenz
@@ -1305,7 +1306,6 @@ TXT_SETUP_ALERTS_RUN_Cadence_STR_L	Schrittfrequenz
 TXT_SETUP_ALERTS_Run_Walk_STR_L	Laufen/Gehen
 TXT_SETUP_ALERTS_SWIM_Stroke_Rate_STR_L	Zugzahl
 TXT_SETUP_ALERTS_Speed_STR_L	Geschwindigkeit
-TXT_SETUP_ALERTS_Time_STR_L	Zeit
 TXT_SETUP_ALERT_BIKE_High_Cadence_STR_L	Hohe Trittfrequenz
 TXT_SETUP_ALERT_BIKE_Low_Cadence_STR_L	Niedrige Trittfrequenz
 TXT_SETUP_ALERT_CADENCE_PAGE_BIKE_Cadence_STR_S	Trittfrequenz
@@ -1743,7 +1743,7 @@ TXT_SETUP_SHORTCUTS_Cancel_Target_STR_M	Ziel abbrechen
 TXT_SETUP_SHORTCUTS_Cancel_Workout_STR_M	Training abbrechen
 TXT_SETUP_SHORTCUTS_Connect_to_WiFi_STR_M	Mit WLAN verbinden
 TXT_SETUP_SHORTCUTS_Edit_Data_Fields_STR_M	Datenfelder bearbeiten
-TXT_SETUP_SHORTCUTS_Lock_Device_STR_M	Garmin Lock
+TXT_SETUP_SHORTCUTS_Lock_Device_STR_M	Gerät sperren
 TXT_SETUP_SHORTCUTS_Mute_STR_L	Stumm schalten
 TXT_SETUP_SHORTCUTS_Mute_Smart_Notifications_STR_M	Smart Notifications stumm
 TXT_SETUP_SHORTCUTS_Options_STR_S	Optionen
@@ -1828,7 +1828,7 @@ TXT_SETUP_TIME_Set_Time_STR_L	Uhrzeit einstellen
 TXT_SETUP_TIME_Status_STR_L	Status
 TXT_SETUP_TIME_Time_FRMT_STR_S	Zeit %1
 TXT_SETUP_TIME_Time_Format_STR_L	Zeitformat
-TXT_SETUP_TIME_Time_STR_L	Uhrzeit
+TXT_SETUP_TIME_Time_STR_L	Zeit
 TXT_SETUP_TIME_Use_Color_STR_L	Profilfarbe verwenden
 TXT_SETUP_TIME_Watch_Face_STR_L	Displaydesign
 TXT_SETUP_TIME_White_STR_M	Weiß
@@ -2073,7 +2073,7 @@ TXT_SUMMARY_ACTIVITY_LAP_DETAILS_LR_Balance_STR_S	Balance:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_LR_Smoothness_STR_S	Gleichmäß.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_LR_Torque_Eff_STR_S	Drehm.-Eff.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Left_Avg_PCO_STR_M	PCO links:
-TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Left_Power_Phase_Peak_STR_T	PPP links:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Left_Power_Phase_Peak_STR_T	Max. PP li.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Left_Power_Phase_STR_T	PP links:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Max_HR_STR_S	Max. HF:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Max_Power_STR_S	Max. Leist.:
@@ -2082,7 +2082,7 @@ TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Norm_Power_STR_S	NP:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Pace_STR_S	Pace:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_RUN_Cadence_STR_S	Schrittfreq.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Right_Avg_PCO_STR_M	PCO rechts:
-TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Right_Power_Phase_Peak_STR_T	PPP rechts:
+TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Right_Power_Phase_Peak_STR_T	Max. PP re.:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Right_Power_Phase_STR_T	PP rechts:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_SWOLF_STR_S	SWOLF:
 TXT_SUMMARY_ACTIVITY_LAP_DETAILS_Stride_Length_STR_S	Schrittlänge:
@@ -2263,6 +2263,7 @@ TXT_WIDGET_SMRT_NTFCTN_Bluetooth_Connection_Required_STR_M	Bluetooth-Verbindung 
 TXT_WIDGET_SMRT_NTFCTN_More_STR_M	Mehr...
 TXT_WIDGET_SMRT_NTFCTN_No_Notifications_STR_M	Keine Benachricht.
 TXT_WIDGET_SMRT_NTFCTN_Notifications_STR_M	Benachrichtigungen
+TXT_WRKT_TRANSITION_TIP_Press_Lap_to_End_STR_M	Für Trainingsende 'Lap' drücken
 TXT_WRKT_TRANSITION_TIP_to_Begin_STR_M	: Starten
 TXT_Warmup_Bike_STR	Warm up
 TXT_Warmup_STR	Warm up
