@@ -1,4 +1,4 @@
-File Name: 0:\GARMIN\EVNTLOGS/000000EB.TXT
+File Name: 0:\GARMIN\EVNTLOGS/000000ED.TXT
 
 
 >>>>> EVL_CURR_LOGS <<<<<
@@ -12,16 +12,10 @@ archived:   10
 max_arch:   10
 num_recs:   20
 rec_size:   20
-next_evnt:  05
-timeDay:    2016/ 8/19 19:31:36
+next_evnt:  0B
+timeDay:    2016/ 8/29  9:21:05
 cycle_cnt:  68
 
-05: D8 00 00 00 198:03:24.351 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
-06: D8 00 00 00 199:25:38.629 HWM main 02040A008B450C0000000000D8490020 .....E.......I. 
-07: E0 00 00 00 199:25:40.532 HWM main  CHKDSK Report: Time:1901msec Dirs:30 Files:141 Free:15692 Diff:0
-08: D8 00 00 00 199:26:03.986 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
-09: D8 00 00 00 200:42:51.645 HWM main 02040A008B450C0000000000D8490020 .....E.......I. 
-0A* A8 00 00 00 200:42:53.626 HWM main  CHKDSK Error: line:1426
 0B: E0 00 00 00 200:42:53.971 HWM main  CHKDSK Report: Time:1926msec Dirs:30 Files:142 Free:15692 Diff:0
 0C: FE 01 08 00 201:45:47.062 HWM main 2016/ 8/ 6 21:16:56 V:0
 
@@ -50,6 +44,12 @@ cycle_cnt:  68
 02: D8 00 00 00   0:12:52.273 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
 03: D8 00 00 00   0:36:46.972 HWM main 02040A00B7840C0000000000F44E0020 .............N. 
 04: E0 00 00 00   0:36:48.355 HWM main  CHKDSK Report: Time:1381msec Dirs:29 Files:138 Free:15928 Diff:0
+05: D8 00 00 00  60:29:39.891 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+06: D8 00 00 00  61:47:11.739 HWM main 02040A00B7840C0000000000F44E0020 .............N. 
+07: E0 00 00 00  61:47:13.514 HWM main  CHKDSK Report: Time:1773msec Dirs:30 Files:143 Free:15882 Diff:0
+08: D8 00 00 00 229:16:02.218 HWM main 04000C00303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+09: D8 00 00 00 230:26:02.300 HWM main 02040A00B7840C0000000000F44E0020 .............N. 
+0A: E0 00 00 00 230:26:03.947 HWM main  CHKDSK Report: Time:1645msec Dirs:29 Files:145 Free:15831 Diff:0
 
 verNum:     8/13/2014 (00)
 ownerID:    00000009
@@ -193,82 +193,10 @@ archived:   00
 max_arch:   00
 num_recs:   64
 rec_size:   20
-next_evnt:  14
-timeDay:    2016/ 8/20 16:56:05
+next_evnt:  5C
+timeDay:    2016/ 8/29 20:13:10
 cycle_cnt:  68
 
-14: D0 11 41 00 1078:38:31.393 HWM misc  Fitness Wi-Fi Status: 0x2
-15: D1 00 41 00 1078:43:31.406 HWM misc  Local: 2016/ 7/15 20:54:10, UTC: 2016/ 7/15 18:54:10
-16: D0 11 41 00 1078:43:48.525 HWM misc  Fitness Wi-Fi Status: 0xA
-17: D0 11 41 00 1078:44:05.297 HWM misc  Fitness Wi-Fi Status: 0x2
-18: D1 00 41 00 1078:49:05.310 HWM misc  Local: 2016/ 7/15 20:59:44, UTC: 2016/ 7/15 18:59:44
-19: D0 11 41 00 1078:49:22.429 HWM misc  Fitness Wi-Fi Status: 0xA
-1A: D0 11 41 00 1078:49:39.199 HWM misc  Fitness Wi-Fi Status: 0x2
-1B: D1 00 41 00 1078:54:39.212 HWM misc  Local: 2016/ 7/15 21:05:18, UTC: 2016/ 7/15 19:05:18
-1C: D0 11 41 00 1078:54:55.785 HWM misc  Fitness Wi-Fi Status: 0xA
-1D: D0 11 41 00 1078:55:12.554 HWM misc  Fitness Wi-Fi Status: 0x2
-1E: D1 00 41 00 1079:00:12.567 HWM misc  Local: 2016/ 7/15 21:10:52, UTC: 2016/ 7/15 19:10:52
-1F: D0 11 41 00 1079:00:29.139 HWM misc  Fitness Wi-Fi Status: 0xA
-20: D0 11 41 00 1079:00:45.907 HWM misc  Fitness Wi-Fi Status: 0x2
-21: D1 00 41 00 1079:05:45.920 HWM misc  Local: 2016/ 7/15 21:16:25, UTC: 2016/ 7/15 19:16:25
-22: D0 11 41 00 1079:06:03.034 HWM misc  Fitness Wi-Fi Status: 0xA
-23: D0 11 41 00 1079:06:19.805 HWM misc  Fitness Wi-Fi Status: 0x2
-24: D1 00 41 00 1079:11:19.875 HWM misc  Local: 2016/ 7/15 21:21:59, UTC: 2016/ 7/15 19:21:59
-25: D0 11 41 00 1079:11:36.445 HWM misc  Fitness Wi-Fi Status: 0xA
-26: D0 11 41 00 1079:11:53.219 HWM misc  Fitness Wi-Fi Status: 0x2
-27: D1 00 41 00 1149:11:48.151 HWM misc  Local: 2016/ 7/18 19:22:30, UTC: 2016/ 7/18 17:22:30
-28: D0 11 41 00 1149:12:04.744 HWM misc  Fitness Wi-Fi Status: 0xA
-29: D0 11 41 00 1149:12:21.535 HWM misc  Fitness Wi-Fi Status: 0x2
-2A: D1 00 41 00 1149:17:21.562 HWM misc  Local: 2016/ 7/18 19:28:04, UTC: 2016/ 7/18 17:28:04
-2B: D0 11 41 00 1149:17:38.151 HWM misc  Fitness Wi-Fi Status: 0xA
-2C: D0 11 41 00 1149:17:54.947 HWM misc  Fitness Wi-Fi Status: 0x2
-2D: D1 00 41 00 1149:22:54.952 HWM misc  Local: 2016/ 7/18 19:33:37, UTC: 2016/ 7/18 17:33:37
-2E: D0 11 41 00 1149:23:11.546 HWM misc  Fitness Wi-Fi Status: 0xA
-2F: D0 11 41 00 1149:23:28.338 HWM misc  Fitness Wi-Fi Status: 0x2
-30: D1 00 41 00 1149:28:28.351 HWM misc  Local: 2016/ 7/18 19:39:10, UTC: 2016/ 7/18 17:39:10
-31: D0 11 41 00 1149:28:44.944 HWM misc  Fitness Wi-Fi Status: 0xA
-32: D0 11 41 00 1149:29:01.741 HWM misc  Fitness Wi-Fi Status: 0x2
-33: D1 00 41 00 1150:30:34.085 HWM misc  Local: 2016/ 7/18 20:41:16, UTC: 2016/ 7/18 18:41:16
-34: D0 11 41 00 1150:30:50.676 HWM misc  Fitness Wi-Fi Status: 0xA
-35: D0 11 41 00 1150:31:07.470 HWM misc  Fitness Wi-Fi Status: 0x2
-36: D1 00 41 00 1150:36:07.499 HWM misc  Local: 2016/ 7/18 20:46:49, UTC: 2016/ 7/18 18:46:49
-37: D0 11 41 00 1150:36:24.087 HWM misc  Fitness Wi-Fi Status: 0xA
-38: D0 11 41 00 1150:36:40.879 HWM misc  Fitness Wi-Fi Status: 0x2
-39: D1 00 41 00 1151:02:09.513 HWM misc  Local: 2016/ 7/18 21:12:51, UTC: 2016/ 7/18 19:12:51
-3A: D0 11 41 00 1151:02:26.087 HWM misc  Fitness Wi-Fi Status: 0xA
-3B: D0 11 41 00 1151:02:42.933 HWM misc  Fitness Wi-Fi Status: 0x2
-3C: D1 00 41 00 1151:07:43.006 HWM misc  Local: 2016/ 7/18 21:18:25, UTC: 2016/ 7/18 19:18:25
-3D: D0 11 41 00 1151:08:00.121 HWM misc  Fitness Wi-Fi Status: 0xA
-3E: D0 11 41 00 1151:08:17.005 HWM misc  Fitness Wi-Fi Status: 0x2
-3F: D1 00 41 00 1151:13:17.019 HWM misc  Local: 2016/ 7/18 21:23:59, UTC: 2016/ 7/18 19:23:59
-40: D0 11 41 00 1151:13:34.134 HWM misc  Fitness Wi-Fi Status: 0xA
-41: D0 11 41 00 1151:13:50.901 HWM misc  Fitness Wi-Fi Status: 0x2
-42: D1 00 41 00 1151:18:50.914 HWM misc  Local: 2016/ 7/18 21:29:33, UTC: 2016/ 7/18 19:29:33
-43: D0 11 41 00 1151:19:07.487 HWM misc  Fitness Wi-Fi Status: 0xA
-44: D0 11 41 00 1151:19:24.257 HWM misc  Fitness Wi-Fi Status: 0x2
-45: D1 00 41 00 1151:24:24.271 HWM misc  Local: 2016/ 7/18 21:35:06, UTC: 2016/ 7/18 19:35:06
-46: D0 11 41 00 1151:24:40.844 HWM misc  Fitness Wi-Fi Status: 0xA
-47: D0 11 41 00 1151:24:57.614 HWM misc  Fitness Wi-Fi Status: 0x2
-48: D1 00 41 00 1151:29:57.628 HWM misc  Local: 2016/ 7/18 21:40:40, UTC: 2016/ 7/18 19:40:40
-49: D0 11 41 00 1151:30:14.202 HWM misc  Fitness Wi-Fi Status: 0xA
-4A: D0 11 41 00 1151:30:30.975 HWM misc  Fitness Wi-Fi Status: 0x2
-4B: D1 00 41 00 1151:35:30.988 HWM misc  Local: 2016/ 7/18 21:46:13, UTC: 2016/ 7/18 19:46:13
-4C: D0 11 41 00 1151:35:48.103 HWM misc  Fitness Wi-Fi Status: 0xA
-4D: D0 11 41 00 1151:36:04.876 HWM misc  Fitness Wi-Fi Status: 0x2
-4E: D1 00 41 00 1151:41:04.889 HWM misc  Local: 2016/ 7/18 21:51:47, UTC: 2016/ 7/18 19:51:47
-4F: D0 11 41 00 1151:41:22.005 HWM misc  Fitness Wi-Fi Status: 0xA
-50: D0 11 41 00 1151:41:38.774 HWM misc  Fitness Wi-Fi Status: 0x2
-51: D1 00 41 00 1151:46:38.790 HWM misc  Local: 2016/ 7/18 21:57:21, UTC: 2016/ 7/18 19:57:21
-52: D0 11 41 00 1151:46:55.361 HWM misc  Fitness Wi-Fi Status: 0xA
-53: D0 11 41 00 1151:47:12.129 HWM misc  Fitness Wi-Fi Status: 0x2
-54: D1 00 41 00 1151:52:12.142 HWM misc  Local: 2016/ 7/18 22:02:54, UTC: 2016/ 7/18 20:02:54
-55: D0 11 41 00 1151:52:29.260 HWM misc  Fitness Wi-Fi Status: 0xA
-56: D0 11 41 00 1151:52:46.031 HWM misc  Fitness Wi-Fi Status: 0x2
-57: D1 00 41 00 1151:57:46.044 HWM misc  Local: 2016/ 7/18 22:08:28, UTC: 2016/ 7/18 20:08:28
-58: D0 11 41 00 1151:58:02.615 HWM misc  Fitness Wi-Fi Status: 0xA
-59: D0 11 41 00 1151:58:19.384 HWM misc  Fitness Wi-Fi Status: 0x2
-5A: D1 00 41 00 1152:03:19.398 HWM misc  Local: 2016/ 7/18 22:14:01, UTC: 2016/ 7/18 20:14:01
-5B: D0 11 41 00 1152:03:35.969 HWM misc  Fitness Wi-Fi Status: 0xA
 5C: D0 11 41 00 1152:03:52.739 HWM misc  Fitness Wi-Fi Status: 0x2
 5D: D1 00 43 00 235:39:21.492 HWM misc  Local: 2016/ 8/16 18:56:40, UTC: 2016/ 8/16 16:56:40
 5E: D0 11 43 00 235:39:36.747 HWM misc  Fitness Wi-Fi Status: 0xA
@@ -297,6 +225,78 @@ cycle_cnt:  68
 11: D1 00 44 00  22:00:40.146 HWM misc  Local: 2016/ 8/20 18:55:32, UTC: 2016/ 8/20 16:55:32
 12: D0 11 44 00  22:00:56.718 HWM misc  Fitness Wi-Fi Status: 0xA
 13: D0 11 44 00  22:01:13.485 HWM misc  Fitness Wi-Fi Status: 0x2
+14: D1 00 44 00 213:50:00.571 HWM misc  Local: 2016/ 8/28 18:45:01, UTC: 2016/ 8/28 16:45:01
+15: D0 11 44 00 213:50:15.849 HWM misc  Fitness Wi-Fi Status: 0xA
+16: D0 11 44 00 213:50:32.616 HWM misc  Fitness Wi-Fi Status: 0x2
+17: D1 00 44 00 213:55:32.689 HWM misc  Local: 2016/ 8/28 18:50:34, UTC: 2016/ 8/28 16:50:34
+18: D0 11 44 00 213:55:49.261 HWM misc  Fitness Wi-Fi Status: 0xA
+19: D0 11 44 00 213:56:06.030 HWM misc  Fitness Wi-Fi Status: 0x2
+1A: D1 00 44 00 214:01:06.043 HWM misc  Local: 2016/ 8/28 18:56:07, UTC: 2016/ 8/28 16:56:07
+1B: D0 11 44 00 214:01:23.158 HWM misc  Fitness Wi-Fi Status: 0xA
+1C: D0 11 44 00 214:01:39.934 HWM misc  Fitness Wi-Fi Status: 0x2
+1D: D1 00 44 00 214:06:39.954 HWM misc  Local: 2016/ 8/28 19:01:41, UTC: 2016/ 8/28 17:01:41
+1E: D0 11 44 00 214:06:57.067 HWM misc  Fitness Wi-Fi Status: 0xA
+1F: D0 11 44 00 214:07:13.835 HWM misc  Fitness Wi-Fi Status: 0x2
+20: D1 00 44 00 214:12:13.849 HWM misc  Local: 2016/ 8/28 19:07:15, UTC: 2016/ 8/28 17:07:15
+21: D0 11 44 00 214:12:30.959 HWM misc  Fitness Wi-Fi Status: 0xA
+22: D0 11 44 00 214:12:47.726 HWM misc  Fitness Wi-Fi Status: 0x2
+23: D1 00 44 00 214:17:47.739 HWM misc  Local: 2016/ 8/28 19:12:49, UTC: 2016/ 8/28 17:12:49
+24: D0 11 44 00 214:18:04.308 HWM misc  Fitness Wi-Fi Status: 0xA
+25: D0 11 44 00 214:18:21.078 HWM misc  Fitness Wi-Fi Status: 0x2
+26: D1 00 44 00 214:23:21.091 HWM misc  Local: 2016/ 8/28 19:18:22, UTC: 2016/ 8/28 17:18:22
+27: D0 11 44 00 214:23:37.659 HWM misc  Fitness Wi-Fi Status: 0xA
+28: D0 11 44 00 214:23:54.427 HWM misc  Fitness Wi-Fi Status: 0x2
+29: D1 00 44 00 214:28:54.440 HWM misc  Local: 2016/ 8/28 19:23:55, UTC: 2016/ 8/28 17:23:55
+2A: D0 11 44 00 214:29:11.553 HWM misc  Fitness Wi-Fi Status: 0xA
+2B: D0 11 44 00 214:29:28.324 HWM misc  Fitness Wi-Fi Status: 0x2
+2C: D1 00 44 00 214:34:28.338 HWM misc  Local: 2016/ 8/28 19:29:29, UTC: 2016/ 8/28 17:29:29
+2D: D0 11 44 00 214:34:44.912 HWM misc  Fitness Wi-Fi Status: 0xA
+2E: D0 11 44 00 214:35:01.685 HWM misc  Fitness Wi-Fi Status: 0x2
+2F: D1 00 44 00 214:40:01.699 HWM misc  Local: 2016/ 8/28 19:35:03, UTC: 2016/ 8/28 17:35:03
+30: D0 11 44 00 214:40:18.811 HWM misc  Fitness Wi-Fi Status: 0xA
+31: D0 11 44 00 214:40:35.584 HWM misc  Fitness Wi-Fi Status: 0x2
+32: D1 00 44 00 214:45:35.599 HWM misc  Local: 2016/ 8/28 19:40:36, UTC: 2016/ 8/28 17:40:36
+33: D0 11 44 00 214:45:52.171 HWM misc  Fitness Wi-Fi Status: 0xA
+34: D0 11 44 00 214:46:08.943 HWM misc  Fitness Wi-Fi Status: 0x2
+35: D1 00 44 00 214:51:08.957 HWM misc  Local: 2016/ 8/28 19:46:10, UTC: 2016/ 8/28 17:46:10
+36: D0 11 44 00 214:51:26.071 HWM misc  Fitness Wi-Fi Status: 0xA
+37: D0 11 44 00 214:51:42.842 HWM misc  Fitness Wi-Fi Status: 0x2
+38: D1 00 44 00 240:16:25.184 HWM misc  Local: 2016/ 8/29 21:11:27, UTC: 2016/ 8/29 19:11:27
+39: D0 11 44 00 240:16:40.462 HWM misc  Fitness Wi-Fi Status: 0xA
+3A: D0 11 44 00 240:16:57.240 HWM misc  Fitness Wi-Fi Status: 0x2
+3B: D1 00 44 00 240:21:57.288 HWM misc  Local: 2016/ 8/29 21:16:59, UTC: 2016/ 8/29 19:16:59
+3C: D0 11 44 00 240:22:13.855 HWM misc  Fitness Wi-Fi Status: 0xA
+3D: D0 11 44 00 240:22:30.620 HWM misc  Fitness Wi-Fi Status: 0x2
+3E: D1 00 44 00 240:27:30.651 HWM misc  Local: 2016/ 8/29 21:22:32, UTC: 2016/ 8/29 19:22:32
+3F: D0 11 44 00 240:27:47.243 HWM misc  Fitness Wi-Fi Status: 0xA
+40: D0 11 44 00 240:28:04.015 HWM misc  Fitness Wi-Fi Status: 0x2
+41: D1 00 44 00 240:33:04.029 HWM misc  Local: 2016/ 8/29 21:28:06, UTC: 2016/ 8/29 19:28:06
+42: D0 11 44 00 240:33:20.598 HWM misc  Fitness Wi-Fi Status: 0xA
+43: D0 11 44 00 240:33:37.371 HWM misc  Fitness Wi-Fi Status: 0x2
+44: D1 00 44 00 240:38:37.384 HWM misc  Local: 2016/ 8/29 21:33:39, UTC: 2016/ 8/29 19:33:39
+45: D0 11 44 00 240:38:53.955 HWM misc  Fitness Wi-Fi Status: 0xA
+46: D0 11 44 00 240:39:10.726 HWM misc  Fitness Wi-Fi Status: 0x2
+47: D1 00 44 00 240:44:10.738 HWM misc  Local: 2016/ 8/29 21:39:13, UTC: 2016/ 8/29 19:39:13
+48: D0 11 44 00 240:44:27.903 HWM misc  Fitness Wi-Fi Status: 0xA
+49: D0 11 44 00 240:44:44.671 HWM misc  Fitness Wi-Fi Status: 0x2
+4A: D1 00 44 00 240:49:44.833 HWM misc  Local: 2016/ 8/29 21:44:47, UTC: 2016/ 8/29 19:44:47
+4B: D0 11 44 00 240:50:02.004 HWM misc  Fitness Wi-Fi Status: 0xA
+4C: D0 11 44 00 240:50:18.772 HWM misc  Fitness Wi-Fi Status: 0x2
+4D: D1 00 44 00 240:55:18.786 HWM misc  Local: 2016/ 8/29 21:50:21, UTC: 2016/ 8/29 19:50:21
+4E: D0 11 44 00 240:55:35.896 HWM misc  Fitness Wi-Fi Status: 0xA
+4F: D0 11 44 00 240:55:52.665 HWM misc  Fitness Wi-Fi Status: 0x2
+50: D1 00 44 00 241:00:52.678 HWM misc  Local: 2016/ 8/29 21:55:54, UTC: 2016/ 8/29 19:55:54
+51: D0 11 44 00 241:01:09.791 HWM misc  Fitness Wi-Fi Status: 0xA
+52: D0 11 44 00 241:01:26.561 HWM misc  Fitness Wi-Fi Status: 0x2
+53: D1 00 44 00 241:06:26.575 HWM misc  Local: 2016/ 8/29 22:01:28, UTC: 2016/ 8/29 20:01:28
+54: D0 11 44 00 241:06:43.688 HWM misc  Fitness Wi-Fi Status: 0xA
+55: D0 11 44 00 241:07:00.456 HWM misc  Fitness Wi-Fi Status: 0x2
+56: D1 00 44 00 241:12:00.470 HWM misc  Local: 2016/ 8/29 22:07:02, UTC: 2016/ 8/29 20:07:02
+57: D0 11 44 00 241:12:17.583 HWM misc  Fitness Wi-Fi Status: 0xA
+58: D0 11 44 00 241:12:34.350 HWM misc  Fitness Wi-Fi Status: 0x2
+59: D1 00 44 00 241:17:34.363 HWM misc  Local: 2016/ 8/29 22:12:36, UTC: 2016/ 8/29 20:12:36
+5A: D0 11 44 00 241:17:50.928 HWM misc  Fitness Wi-Fi Status: 0xA
+5B: D0 11 44 00 241:18:07.696 HWM misc  Fitness Wi-Fi Status: 0x2
 
 
 
