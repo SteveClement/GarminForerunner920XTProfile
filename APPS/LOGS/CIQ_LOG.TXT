@@ -1,0 +1,13 @@
+ERROR: Too Many Objects Error
+DETAILS: Failed invoking <symbol>
+STORE_ID: 7EF071C34A144EB3ACA9E3A531262711
+CALLSTACK:
+	@PC = 0x00000000
+
+ERROR: Out Of Memory Error
+DETAILS: Failed invoking <symbol>
+STORE_ID: 7EF071C34A144EB3ACA9E3A531262711
+CALLSTACK:
+Signature check failed on file: 33EBC31E
+Signature check failed on file: 6325655
+Signature check failed on file: F95A4990
