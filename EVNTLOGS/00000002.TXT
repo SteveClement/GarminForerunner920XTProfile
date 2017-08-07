@@ -1,0 +1,293 @@
+File Name: 0:\GARMIN\EVNTLOGS/00000002.TXT
+
+
+>>>>> EVL_CURR_LOGS <<<<<
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   00
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  1B
+timeDay:    2017/ 8/ 7 22:16:27
+cycle_cnt:  18
+
+1B: FF 00 00 00   0:00:02.199 HWM main 2017/ 5/17 16:32:45 C:13
+1C: E0 00 00 00   0:00:02.771 HWM main  CHKDSK Report: Time:363msec Dirs:37 Files:61 Free:26820 Diff:0
+1D: D0 00 00 00   0:00:02.771 HWM main 00003300062025E90720330006200364 ..3.. %.. 3.. .d
+1E: E0 00 00 00   0:00:19.168 HWM misc  CHKDSK Report: Time:442msec Dirs:37 Files:61 Free:26820 Diff:0
+1F: D1 00 00 00   0:00:28.445 HWM main 12000400000870000000C468656C6D00 ......p....helm.
+00: FE 01 08 00   0:00:28.451 HWM main 2017/ 5/17 16:33:11 V:0
+
+01: FF 00 00 00   0:00:02.168 HWM main 2017/ 5/17 16:33:13 C:14
+02: E0 00 00 00   0:00:02.743 HWM main  CHKDSK Report: Time:366msec Dirs:37 Files:61 Free:26820 Diff:0
+03: D0 00 00 00   0:00:02.744 HWM main 00003300062025E90720330006200364 ..3.. %.. 3.. .d
+04: D1 00 00 00   0:02:26.281 HWM main 12000400000870000000C468656C6D00 ......p....helm.
+05: FE 01 08 00   0:02:26.282 HWM main 2017/ 5/17 16:35:37 V:0
+
+06: FF 00 00 00   0:00:02.163 HWM main 2017/ 5/17 16:35:39 C:15
+07: E0 00 00 00   0:00:02.737 HWM main  CHKDSK Report: Time:365msec Dirs:37 Files:61 Free:26820 Diff:0
+08: D0 00 00 00   0:00:02.738 HWM main 00003300062025E90720330006200364 ..3.. %.. 3.. .d
+09: D1 00 00 00   0:02:11.877 HWM main 12000400000870000000C468656C6D00 ......p....helm.
+0A: FE 01 08 00   0:02:11.877 HWM main 2017/ 5/17 16:37:49 V:0
+
+0B: FF 00 00 00   0:00:02.195 HWM main 2017/ 5/17 16:37:51 C:16
+0C: E0 00 00 00   0:00:02.766 HWM main  CHKDSK Report: Time:362msec Dirs:37 Files:61 Free:26820 Diff:0
+0D: D0 00 00 00   0:00:02.767 HWM main 00003300062025E90720330006200364 ..3.. %.. 3.. .d
+0E: D1 00 00 00   0:01:36.223 HWM main 12000400000870000000C468656C6D00 ......p....helm.
+0F: FE 01 08 00   0:01:36.230 HWM main 2017/ 6/11  8:18:50 V:0
+
+10: FF 00 00 00   0:00:02.771 HWM main 2017/ 6/11  8:18:58 C:17
+11: E0 00 00 00   0:00:03.346 HWM main  CHKDSK Report: Time:366msec Dirs:37 Files:61 Free:26820 Diff:0
+12: D0 00 00 00   0:00:03.347 HWM main 00003300062025E90720330006200364 ..3.. %.. 3.. .d
+13: D1 00 00 00   0:22:10.358 HWM main 12000400000870002400C468656C6D00 ......p.$..helm.
+14: FE 01 08 00   0:22:10.359 HWM main 2017/ 6/11  8:41:06 V:0
+
+15: FF 00 00 00   0:00:02.201 HWM main 2017/ 8/ 7 22:10:22 C:18
+16: E0 00 00 00   0:00:02.779 HWM main  CHKDSK Report: Time:368msec Dirs:37 Files:61 Free:26820 Diff:0
+17: D0 00 00 00   0:00:02.780 HWM main 00003300062025E90720330006200364 ..3.. %.. 3.. .d
+18: D8 00 00 00   0:05:10.974 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+19: D8 00 00 00   0:06:07.005 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+1A: E0 00 00 00   0:06:07.390 HWM main  CHKDSK Report: Time:373msec Dirs:39 Files:105 Free:26736 Diff:0
+
+verNum:     8/13/2014 (00)
+ownerID:    00000009
+OwnerName:  CSM
+status:     11
+pri_thresh:  2
+archived:   00
+max_arch:   00
+num_recs:   00
+rec_size:   18
+next_evnt:  00
+timeDay:    2017/ 8/ 7 22:10:21
+cycle_cnt:  18
+
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000A
+OwnerName:  NET
+status:     11
+pri_thresh:  2
+archived:   00
+max_arch:   00
+num_recs:   00
+rec_size:   18
+next_evnt:  00
+timeDay:    2017/ 8/ 7 22:10:21
+cycle_cnt:  18
+
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000B
+OwnerName:  FIT WIFI
+status:     11
+pri_thresh:  2
+archived:   00
+max_arch:   00
+num_recs:   08
+rec_size:   20
+next_evnt:  08
+timeDay:    2017/ 8/ 7 22:31:00
+cycle_cnt:  18
+
+00: D0 16 12 00   0:06:09.243 CDP main  Fitness Wi-Fi Status: 0x2
+01: D0 16 12 00   0:07:38.456 CDP main  Fitness Wi-Fi Status: 0x2
+02: D0 16 12 00   0:08:26.137 HWM main  Fitness Wi-Fi Status: 0x2
+03: D0 16 12 00   0:10:33.933 HWM main  Fitness Wi-Fi Status: 0x2
+04: D0 16 12 00   0:12:25.573 HWM main  Fitness Wi-Fi Status: 0x2
+05: D0 16 12 00   0:14:40.389 HWM main  Fitness Wi-Fi Status: 0x2
+06: D0 16 12 00   0:15:19.766 HWM main  Fitness Wi-Fi Status: 0x2
+07: D0 16 12 00   0:20:39.929 HWM misc  Fitness Wi-Fi Status: 0x2
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   02
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  04
+timeDay:    2017/ 8/ 7 22:31:02
+cycle_cnt:  18
+
+04: FE 01 0E 00   0:01:53.620 HWM main 2017/ 5/17 13:42:46 V:0
+
+05: FF 00 00 00   0:00:01.175 HWM main 2017/ 5/17 13:42:57 C:4
+06: FE 01 0E 00   0:00:30.929 HWM main 2017/ 5/17 13:43:27 V:0
+
+07: FF 00 00 00   0:00:01.167 HWM main 2017/ 5/17 13:43:39 C:5
+08: FE 01 0E 00   0:00:21.070 HWM main 2017/ 5/17 13:43:59 V:0
+
+09: FF 00 00 00   0:00:01.135 HWM main 2017/ 5/17 13:44:00 C:6
+0A: FE 01 0E 00   0:01:17.639 HWM main 2017/ 5/17 13:45:16 V:0
+
+0B: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:17 C:7
+0C: FE 01 0E 00   0:00:29.080 HWM main 2017/ 5/17 13:45:45 V:0
+
+0D: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:46 C:8
+0E: FE 01 0E 00   0:00:34.114 HWM main 2017/ 5/17 13:46:19 V:0
+
+0F: FF 00 00 00   0:00:01.117 HWM main 2017/ 5/17 13:46:20 C:9
+10: FE 01 0E 00   0:00:15.397 HWM main 2017/ 5/17 13:46:34 V:0
+
+11: FF 00 00 00   0:00:01.178 HWM main 2017/ 5/17 13:46:35 C:10
+12: FE 01 0E 00   2:24:56.004 HWM main 2017/ 5/17 16:11:30 V:0
+
+13: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:29:48 C:11
+14: FE 01 0E 00   0:01:39.922 HWM main 2017/ 5/17 16:31:27 V:0
+
+15: FF 00 00 00   0:00:01.194 HWM main 2017/ 5/17 16:31:28 C:12
+16: FE 01 0E 00   0:01:16.838 HWM main 2017/ 5/17 16:32:44 V:0
+
+17: FF 00 00 00   0:00:01.170 HWM main 2017/ 5/17 16:32:44 C:13
+18: FE 01 0E 00   0:00:28.452 HWM main 2017/ 5/17 16:33:11 V:0
+
+19: FF 00 00 00   0:00:01.138 HWM main 2017/ 5/17 16:33:12 C:14
+1A: FE 01 0E 00   0:02:26.282 HWM main 2017/ 5/17 16:35:37 V:0
+
+1B: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:35:38 C:15
+1C: FE 01 0E 00   0:02:11.878 HWM main 2017/ 5/17 16:37:49 V:0
+
+1D: FF 00 00 00   0:00:01.164 HWM main 2017/ 5/17 16:37:50 C:16
+1E: FE 01 0E 00   0:01:36.231 HWM main 2017/ 6/11  8:18:50 V:0
+
+1F: FF 00 00 00   0:00:01.743 HWM main 2017/ 6/11  8:18:57 C:17
+00: FE 01 0E 00   0:22:10.359 HWM main 2017/ 6/11  8:41:06 V:0
+
+01: FF 00 00 00   0:00:01.172 HWM main 2017/ 8/ 7 22:10:21 C:18
+02* 10 00 00 00   0:15:40.268 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+03* 10 00 00 00   0:20:42.533 HWM misc  Update Error. Time between Updates: 62266 miliseconds
+
+
+
+>>>>> EVL_ARCH_LOGS <<<<<
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   02
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  03
+timeDay:    2017/ 8/ 7 22:26:00
+cycle_cnt:  18
+
+03: FF 00 00 00   0:00:01.176 HWM main 2017/ 5/17 13:40:54 C:3
+04: FE 01 0E 00   0:01:53.620 HWM main 2017/ 5/17 13:42:46 V:0
+
+05: FF 00 00 00   0:00:01.175 HWM main 2017/ 5/17 13:42:57 C:4
+06: FE 01 0E 00   0:00:30.929 HWM main 2017/ 5/17 13:43:27 V:0
+
+07: FF 00 00 00   0:00:01.167 HWM main 2017/ 5/17 13:43:39 C:5
+08: FE 01 0E 00   0:00:21.070 HWM main 2017/ 5/17 13:43:59 V:0
+
+09: FF 00 00 00   0:00:01.135 HWM main 2017/ 5/17 13:44:00 C:6
+0A: FE 01 0E 00   0:01:17.639 HWM main 2017/ 5/17 13:45:16 V:0
+
+0B: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:17 C:7
+0C: FE 01 0E 00   0:00:29.080 HWM main 2017/ 5/17 13:45:45 V:0
+
+0D: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:46 C:8
+0E: FE 01 0E 00   0:00:34.114 HWM main 2017/ 5/17 13:46:19 V:0
+
+0F: FF 00 00 00   0:00:01.117 HWM main 2017/ 5/17 13:46:20 C:9
+10: FE 01 0E 00   0:00:15.397 HWM main 2017/ 5/17 13:46:34 V:0
+
+11: FF 00 00 00   0:00:01.178 HWM main 2017/ 5/17 13:46:35 C:10
+12: FE 01 0E 00   2:24:56.004 HWM main 2017/ 5/17 16:11:30 V:0
+
+13: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:29:48 C:11
+14: FE 01 0E 00   0:01:39.922 HWM main 2017/ 5/17 16:31:27 V:0
+
+15: FF 00 00 00   0:00:01.194 HWM main 2017/ 5/17 16:31:28 C:12
+16: FE 01 0E 00   0:01:16.838 HWM main 2017/ 5/17 16:32:44 V:0
+
+17: FF 00 00 00   0:00:01.170 HWM main 2017/ 5/17 16:32:44 C:13
+18: FE 01 0E 00   0:00:28.452 HWM main 2017/ 5/17 16:33:11 V:0
+
+19: FF 00 00 00   0:00:01.138 HWM main 2017/ 5/17 16:33:12 C:14
+1A: FE 01 0E 00   0:02:26.282 HWM main 2017/ 5/17 16:35:37 V:0
+
+1B: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:35:38 C:15
+1C: FE 01 0E 00   0:02:11.878 HWM main 2017/ 5/17 16:37:49 V:0
+
+1D: FF 00 00 00   0:00:01.164 HWM main 2017/ 5/17 16:37:50 C:16
+1E: FE 01 0E 00   0:01:36.231 HWM main 2017/ 6/11  8:18:50 V:0
+
+1F: FF 00 00 00   0:00:01.743 HWM main 2017/ 6/11  8:18:57 C:17
+00: FE 01 0E 00   0:22:10.359 HWM main 2017/ 6/11  8:41:06 V:0
+
+01: FF 00 00 00   0:00:01.172 HWM main 2017/ 8/ 7 22:10:21 C:18
+02* 10 00 00 00   0:15:40.268 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   02
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  04
+timeDay:    2017/ 8/ 7 22:31:02
+cycle_cnt:  18
+
+04: FE 01 0E 00   0:01:53.620 HWM main 2017/ 5/17 13:42:46 V:0
+
+05: FF 00 00 00   0:00:01.175 HWM main 2017/ 5/17 13:42:57 C:4
+06: FE 01 0E 00   0:00:30.929 HWM main 2017/ 5/17 13:43:27 V:0
+
+07: FF 00 00 00   0:00:01.167 HWM main 2017/ 5/17 13:43:39 C:5
+08: FE 01 0E 00   0:00:21.070 HWM main 2017/ 5/17 13:43:59 V:0
+
+09: FF 00 00 00   0:00:01.135 HWM main 2017/ 5/17 13:44:00 C:6
+0A: FE 01 0E 00   0:01:17.639 HWM main 2017/ 5/17 13:45:16 V:0
+
+0B: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:17 C:7
+0C: FE 01 0E 00   0:00:29.080 HWM main 2017/ 5/17 13:45:45 V:0
+
+0D: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:46 C:8
+0E: FE 01 0E 00   0:00:34.114 HWM main 2017/ 5/17 13:46:19 V:0
+
+0F: FF 00 00 00   0:00:01.117 HWM main 2017/ 5/17 13:46:20 C:9
+10: FE 01 0E 00   0:00:15.397 HWM main 2017/ 5/17 13:46:34 V:0
+
+11: FF 00 00 00   0:00:01.178 HWM main 2017/ 5/17 13:46:35 C:10
+12: FE 01 0E 00   2:24:56.004 HWM main 2017/ 5/17 16:11:30 V:0
+
+13: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:29:48 C:11
+14: FE 01 0E 00   0:01:39.922 HWM main 2017/ 5/17 16:31:27 V:0
+
+15: FF 00 00 00   0:00:01.194 HWM main 2017/ 5/17 16:31:28 C:12
+16: FE 01 0E 00   0:01:16.838 HWM main 2017/ 5/17 16:32:44 V:0
+
+17: FF 00 00 00   0:00:01.170 HWM main 2017/ 5/17 16:32:44 C:13
+18: FE 01 0E 00   0:00:28.452 HWM main 2017/ 5/17 16:33:11 V:0
+
+19: FF 00 00 00   0:00:01.138 HWM main 2017/ 5/17 16:33:12 C:14
+1A: FE 01 0E 00   0:02:26.282 HWM main 2017/ 5/17 16:35:37 V:0
+
+1B: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:35:38 C:15
+1C: FE 01 0E 00   0:02:11.878 HWM main 2017/ 5/17 16:37:49 V:0
+
+1D: FF 00 00 00   0:00:01.164 HWM main 2017/ 5/17 16:37:50 C:16
+1E: FE 01 0E 00   0:01:36.231 HWM main 2017/ 6/11  8:18:50 V:0
+
+1F: FF 00 00 00   0:00:01.743 HWM main 2017/ 6/11  8:18:57 C:17
+00: FE 01 0E 00   0:22:10.359 HWM main 2017/ 6/11  8:41:06 V:0
+
+01: FF 00 00 00   0:00:01.172 HWM main 2017/ 8/ 7 22:10:21 C:18
+02* 10 00 00 00   0:15:40.268 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+03* 10 00 00 00   0:20:42.533 HWM misc  Update Error. Time between Updates: 62266 miliseconds
+
