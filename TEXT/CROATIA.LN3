@@ -1,4 +1,4 @@
-006-D6593-10|v02.20
+006-D6593-10|v02.30
 00001 Hrvatski
 00252 12-satni
 00253 24-satni
@@ -6,6 +6,14 @@
 00251 6-satni
 00236 Visinomjer
 02977 Dodaj novo
+05882 Sastanak
+05886 Spavanje
+05884 Klasa
+05885 Meditacija
+05881 Podsjetnik
+05883 Trening
+05879 Buđenje
+05880 Vježbanje
 01625 Prilagođeno
 01621 Piće
 01622 Hrana
@@ -508,6 +516,8 @@
 03661 Layup na 200
 03662 Layup na 250
 03672 Uvijek pitaj
+05930 Bunker
+05931 Bunkeri
 00298 Preuzm.više na Garmin Connect
 00299 Preuzimanje terena
 00301 Početna runda
@@ -524,14 +534,19 @@
 00326 Promašeno udesno
 03678 Nema zabilježenih udaraca
 00322 Puttovi
+05932 Teško
 03671 Praćenje rezultata
 03670 Praćenje rezultata
 00304 Odabir terena
 03677 Udarac
 00327 Praćenje statistike
 00321 Udarci
+05934 Nazad
+05933 Naprijed
 00305 Metri
 00306 Jardi
+05937 Otpad
+05936 Voda
 00335 Idi na HARP
 05202 Preciznost GPS-a
 00618 Preciznost GPS-a
@@ -601,7 +616,6 @@
 03588 12-satni
 03589 24-satni
 05609 Natrag na početak
-05821 Kalibriraj
 05610 Odbaci
 05608 Dionica
 05607 Nastavi kasnije
@@ -624,7 +638,7 @@
 02653 Koristi se %1, %2, %3, %4 i %5
 05488 Stres
 05486 Jako naprezanje
-05484 Slabo naprezanje
+05484 Niska raz.stresa
 05485 Umjereno naprezanje
 05487 Izuzetno naprezanje
 00249 Izlaz iz načina za slanje pod.o pulsu?
@@ -1104,7 +1118,6 @@
 02939 Baterija stražnjeg svjetla %1 je slaba.
 01221 Tempe – slaba baterija.
 00036 Odbrojavanje dovršeno
-01217 Varia Vision ima slabu bateriju.
 01207 VIRB – slaba baterija.
 01222 Veličina kotača uračunata.
 01118 Metronom
@@ -1200,8 +1213,9 @@
 02638 Povezan
 03613 Započeta staza
 02614 Povezan Di2
+05949 Edge povezan
 02609 Povez.senz.pedom.
-02603 GPS je spreman
+02603 GPS spreman
 02636 Cilj!
 05654 Dodani: %1
 05842 Uklonjeni: %1
@@ -1240,7 +1254,6 @@
 02620 Straž.svjetlo nepov.
 02626 Dovršeno
 02627 Nije uspjelo
-02625 Varia povezan
 02611 Povezan VIRB
 02604 Čekanje GPS-a
 03313 Dodan widget
@@ -1362,10 +1375,14 @@
 01360 Loše
 01359 Stanje performansi
 02682 PM
+05970 Visinomjer
+05969 Barometar
+05971 Kompas
 05827 Bez ometanja: isključeno
 05826 Bez ometanja: uključeno
 03546 Bez ometanja
 03547 Pronađi moj telefon
+05983 Baterija
 05514 Zaključavanje tipki
 03548 Upravljanje glazbom
 05794 Upari VIRB
@@ -1522,7 +1539,7 @@
 05681 Ne
 05680 Da
 01834 Nastavak
-01835 Ovime ćete obustaviti trenutnu LiveTrack sesiju.
+05911 Ovime ćete završiti trenutnu LiveTrack sesiju.
 05546 Potrebna je veza s mobilnom aplikacijom
 01839 Uparivanje nije uspjelo.
 01840 Pokušaj ponovo
@@ -1662,7 +1679,6 @@
 01346 Ustanite i opustite se 3 minute.
 05752 Zaustaviti stazu?
 05753 Zaustaviti navigaciju?
-05843 Zaustaviti segment?
 01348 Izrač.naprez.kalibrirat će se nakon nekoliko rezultata.
 03124 Temperatura
 01833 Koristiti masovnu pohranu?
@@ -1709,7 +1725,6 @@
 01537 Za pov.Shimano Di2 senz.promij. brzinu na pred.ili straž.mjenjaču.
 01535 Okrećite pedale kako biste aktivirali senzor.
 01536 Pokuš. pon.
-01540 Uključite Varia Vision kako bi se povezao.
 03059 Za povezivanje uključite kameru i omogućite daljinsku postavku.
 02580 Kilometri
 02579 Milje
@@ -1721,7 +1736,6 @@
 01888 Gotovo
 01887 Nadogradnja nije uspjela.  Pokušajte pon. putem usluge Garmin Connect.
 00062 Nadogradnja nije uspjela.  Pokušajte ponovo.
-05820 Preskočiti kalibraciju trake za trčanje?
 01589 Prihvati
 01591 Tempo: %1
 01592 Brzina: %1
@@ -1798,6 +1812,7 @@
 02022 Cross-c.skij.
 02002 Prilagođeno
 02016 Duatlon
+05867 Golf
 05500 Naziv aktivnosti
 02019 Planinarenje
 02031 Vodič skoka
@@ -1900,7 +1915,10 @@
 03056 VIRB
 02095 Dodaj alarm
 02094 Alarmi
+05874 Sastanak
 02099 Pozadinsko osvjetljenje
+05878 Spavanje
+05876 Klasa
 02101 Prilagođeno
 02103 Prilagođeno
 02102 Prilagođeno
@@ -1909,10 +1927,15 @@
 02100 Izbriši
 02123 Pet
 02122 Petak
+05869 Oznaka
+05868 Oznaka
+05877 Meditacija
 02115 Pon
 02114 Ponedjeljak
+05870 Ništa
 03168 Isključi
 03167 Isključi
+05873 Podsjetnik
 03166 Ponavljanje
 03165 Ponavljanje
 02125 Sub
@@ -1922,14 +1945,17 @@
 02121 Četvrtak
 02120 Četvrtak
 02098 Vrijeme
+05875 Trening
 02117 Uto
 02116 Utorak
+05871 Buđenje
 02119 Sri
 02118 Srijeda
 03170 Dani u tjednu
 03169 Dani u tjednu
 03172 Vikendi
 03171 Vikendi
+05872 Vježbanje
 01607 Dodaj novo
 01620 Upozorenja
 01617 Kadenca
@@ -2067,8 +2093,8 @@
 03173 Tipke
 05776 Tijekom aktivnosti
 05774 Tijekom aktivnosti
-05777 Način rada sata
-05775 Način rada sata
+05915 Ne tijekom aktivnosti
+05914 Ne tijekom aktivn.
 05740 Bez zatam.nakon isteka
 02132 Pauza prije početka
 03177 Pauza prije počet.
@@ -2130,6 +2156,7 @@
 00058 Polje 3
 00059 Polje 4
 00053 Izgled
+05865 Podatkovno polje
 00055 Polja: %1
 00054 1 polje
 03619 Ukloni
@@ -2186,6 +2213,7 @@
 02233 Nedjelja
 01314 Otprilike 18 – 31 min
 00311 Kraj runde
+05935 Opasnosti
 00313 Layupovi
 00312 Mjerenje udarca
 03667 Premještanje zastavice
@@ -2373,6 +2401,7 @@
 05026 Ikona
 00010 Naziv
 00012 Položaj
+05905 Dodaj widget
 03595 Kalibiranje snage
 01745 Povijest
 03592 Isključivanje zvuka metronoma
@@ -2479,10 +2508,17 @@
 02172 Automatski: %1 mm
 02174 Automatska nula
 05652 Dodaj novo
+05978 Pozadinsko osvjetljenje
 03182 Bez ometanja
 03183 Pronađi moj telefon
+05979 Baterija
+05957 Visinomjer
+05980 Pozad. osvjetljenje
+05956 Barometar
+05958 Kompas
 03198 Bez ometanja
 03199 Pronađi moj telef.
+05981 Baterija
 05503 Zaključavanje tipki
 03200 Upravlj. glazbom
 05557 Telefon
@@ -2574,10 +2610,8 @@
 01500 Barometar
 01508 Kadenca – %1
 01496 Kompas
-05496 Bluetooth
 01530 Odaberite za dodavanje
 01529 Pronađeni senzori
-05497 Prikaži Bluetooth senzore
 01504 Pedometar – %1
 01503 Puls - %1
 01512 Svjetlo – %1
@@ -2660,9 +2694,9 @@
 02928 Stražnji mjenjači
 00118 Obavijesti
 02352 Tijekom aktivnosti
-02353 Način rada sata
+02353 Ne tijekom aktivn.
 02354 Tijekom aktivnosti
-02355 Način rada sata
+02355 Ne tijekom aktivnosti
 02363 Pauza prije početka
 02356 Obavijesti
 02358 Prikaži sve
@@ -2684,7 +2718,7 @@
 02559 Vrijeme
 01237 Dostupna %1
 01236 Odbaci
-01239 Procij.vrijeme: %1
+01239 Procij. vrij.: %1 min
 01234 Instaliraj sad
 02958 Instaliraj večeras
 05857 Automatska nadogradnja
@@ -2797,6 +2831,8 @@
 02402 Težina
 02418 Uzastopno
 02416 Fotografija
+05887 Mirovanje kamere
+05888 Mirovanje
 02422 Pokreni snimanje
 02424 Početak
 02423 Zaustavljanje
@@ -2805,6 +2841,8 @@
 02419 Uzmi vremenski odmak
 02420 Vremenski odmak
 02421 Video
+05889 Aktiviranje kamere
+05890 Izlaz iz stanja mir.
 03211 Ručno
 02184 Način snimanja
 03271 2,7K, visok omjer
@@ -2814,6 +2852,11 @@
 02432 Br.sl.u s.videoz
 02434 HD videozapis
 02430 Interval
+05892 Samo prednja
+05894 RAW
+05893 Samo stražnja
+05895 Nije poznato
+05891 Način rada s objektivom
 02428 Način rada
 02426 Postavke fotograf.
 02431 Rezolucija
@@ -3001,6 +3044,7 @@
 05629 Nekompatibilna vrsta mreže.
 05630 Mrežna pogreška. Pokušajte ponovno kasnije.
 03566 Nije dostupna veza s aplikacijom.
+03565 Nije dostupna Wi-Fi ni druga veza s aplikacijom.
 05844 Nije pronađena poznata Wi-Fi mreža.
 05634 Na uređaju nema dovoljno memorije.
 03560 Traženje Wi-Fi mreže.
@@ -3056,12 +3100,17 @@
 01525 Traženje senzora i dodatne opreme u blizini.
 01524 Traženje senzora
 05682 Senzori su dodani
+05866 Pogreška senzora
 03702 Povežite TruSwing uređaj s mobilnom aplikacijom.
 03704 Povezivanje uspjelo
 03703 Preuzimanje palica
 03701 Uparivanje
 03699 Traženje mobilnog telefona.  Pritisnite START da biste to preskočili.
 03700 Traženje TruSwing uređaja
+05896 Zahtjev da VIRB uređaj uđe u stanje mirovanja
+05897 Zahtjev da VIRB uređaj izađe iz stanja mirovanja
+05899 Zahtjev nije uspio
+05898 Zahtjev uspješan
 05766 Dion.%1
 05754 Prit.za ozn.dion
 00421 Format položaja
@@ -3146,7 +3195,6 @@
 01552 Desno:
 01549 Ver.soft:
 01548 Serij.br.:
-05429 Tehn.:
 01559 Punjenje
 01561 Povezano
 01558 Kritično

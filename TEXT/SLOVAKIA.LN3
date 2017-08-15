@@ -1,4 +1,4 @@
-006-D6593-14|v02.20
+006-D6593-14|v02.30
 00001 Slovenčina
 00252 12-hodinový
 00253 24-hodinový
@@ -6,6 +6,14 @@
 00251 6-hodinový
 00236 Výškomer
 02977 Pridať nové
+05882 Schôdzka
+05886 Večierka
+05884 Vyučovanie
+05885 Meditácia
+05881 Pripomenutie
+05883 Tréning
+05879 Budíček
+05880 Cvičenie
 01625 Vlastné
 01621 Pitie
 01622 Jedlo
@@ -45,7 +53,7 @@
 05217 Celkové klesanie
 00632 Celkové klesanie
 00921 Klesanie
-02681 DOP.
+02681 Dop.
 05018 Pridať
 05454 Kopír. aktivitu
 05019 Obľúbené
@@ -183,7 +191,7 @@
 00200 Kalibrovať
 00199 Faktor Dokončiť
 00196 Kalibrácia zlyhala
-00197 Ot.hod.p.obr. 8
+00197 Otočte hodinky do polohy na obrázku 8
 00193 OK
 00195 Znovu
 00194 Štart
@@ -508,6 +516,8 @@
 03661 Layup 200
 03662 Layup 250
 03672 Vždy sa pýtať
+05930 Bunker
+05931 Bunkre
 00298 Ďal.pol.GarminConnect.
 00299 Preberá sa ihrisko
 00301 Štartovací okruh
@@ -523,15 +533,20 @@
 00325 Minutia zľava
 00326 Minutia sprava
 03678 Nie sú zaznamenané žiadne odpaly
-00322 Putty
+00322 Puty
+05932 Raf
 03671 Skóre
 03670 Skóre
 00304 Vyberte ihrisko
 03677 Odpal
 00327 Sledovanie štatistík
 00321 Zábery
+05934 dozadu
+05933 dopredu
 00305 Metre
 00306 Yardy
+05937 Waste
+05936 Voda
 00335 Prejsť k HARP
 05202 Presnosť GPS
 00618 Presnosť GPS
@@ -601,15 +616,14 @@
 03588 12-hodinový
 03589 24-hodinový
 05609 Späť na Štart
-05821 Kalibrovať
 05610 Odhodiť
 05608 Kolo
 05607 Obnoviť neskôr
-05605 Obnoviť
+05605 Pokračovať
 05606 Uložiť
 05757 Hotovo
 05758 Vynulovať
-05756 Obnoviť
+05756 Pokračovať
 05795 Prehľad
 05755 Stopky
 03275 Cvičiť
@@ -641,7 +655,7 @@
 02241 Ľahká
 02246 Vysoko aeróbne
 02245 Mierne aeróbne
-02244 Maximálna
+02244 Maximum
 02238 Žiadny tep
 02239 Žiadna zóna
 02243 Prahový
@@ -1104,7 +1118,6 @@
 02939 Batéria zadného svetla %1 je takmer vybitá.
 01221 Batéria Tempe je takmer vybitá.
 00036 Časovač OK
-01217 Batéria zariadenia Varia Vision je takmer vybitá.
 01207 Batéria kamery VIRB je takmer vybitá.
 01222 Veľkosť kolesa vypočítaná.
 01118 Metronóm
@@ -1117,7 +1130,7 @@
 03571 Prehrávanie
 03570 Opakovať
 03569 Náhodne
-05702 Spustiť prehrávanie hudby na tel.
+05702 Spustiť prehrávanie hudby v telefóne
 00351 P
 00205 Magnetický
 00464 Maidenhead
@@ -1240,7 +1253,6 @@
 02620 Zadné svetlo odpoj.
 02626 Dokončiť
 02627 Zlyhalo
-02625 Radar Varia pripoj.
 02611 Kamera VIRB prip.
 02604 Čakajte na GPS
 03313 Miniaplik. pridaná
@@ -1361,11 +1373,15 @@
 01363 Dobré
 01360 Slabé
 01359 Výkonnost. podmienka
-02682 POP.
-05827 Funk. Nevyrušovať: vyp.
+02682 Pop.
+05970 Výškomer
+05969 Barometer
+05971 Kompas
+05827 Funk. Nevyrušo​vať: vyp.
 05826 Funk. Nevyrušovať: zap.
 03546 Nerušiť
 03547 Nájsť môj telefón
+05983 Baterka
 05514 Tlačidlá uzamknutia
 03548 Ovládanie hudby
 05794 Spárovať VIRB
@@ -1514,7 +1530,7 @@
 01304 Ulož. s START
 03464 Priblíženie
 03465 Zrušiť
-03486 V predstihu
+03486 V predstihu
 03487 Pozadu
 03485 Úsek je ukončený
 03466 Choď!
@@ -1522,7 +1538,7 @@
 05681 Nie
 05680 Áno
 01834 Pokračovať
-01835 Aktuálna relácia aplikácie LiveTrack sa ukončí.
+05911 Aktuálna relácia LiveTrack sa ukončí.
 05546 Vyžaduje sa pripojenie k mobilnej aplikácii
 01839 Párovanie neúspešné.
 01840 Skúsiť znova
@@ -1662,7 +1678,6 @@
 01346 Na 3 minúty zostaňte stáť a uvoľnite sa.
 05752 Zastaviť dráhu?
 05753 Zastaviť navigáciu?
-05843 Zastaviť segment?
 01348 Sk.stresu sa nakalib.po zist.niekoľk.výsl.
 03124 Teplota
 01833 Použ. veľ. úl. zar.?
@@ -1709,7 +1724,6 @@
 01537 Na pripoj. snímača Shimano Di2 zmeňte stupeň zad. alebo pred. prevodu.
 01535 Na aktiváciu snímača pedálujte.
 01536 Skús. znova
-01540 Ak chcete vytvoriť pripojenie, zapnite zariadenie Varia Vision.
 03059 Na pripoj. zap. kameru a povoľ. nast. diaľk. ovládaním.
 02580 Kilometre
 02579 Míle
@@ -1721,7 +1735,6 @@
 01888 Hotovo
 01887 Aktualizácia zlyhala.  Skúste to znova z aplikácie Garmin Connect.
 00062 Aktualizácia zlyhala.  Skúste to znova.
-05820 Preskočiť kalibráciu bežiaceho pásu?
 01589 Súhlasím
 01591 Tempo: %1
 01592 Rýchl.: %1
@@ -1751,7 +1764,7 @@
 01395 Okruh %1
 01394 Okruhy
 05818 Lyžovanie %1
-05817 Behy
+05817 Lyžovanie
 01373 Aktivity
 01388 Piatok %1
 01378 Piatok
@@ -1783,7 +1796,7 @@
 01991 Neplatné
 01987 Okruhy
 00063 Mapa
-05823 Behy
+05823 Lyžovanie
 03614 Vzdušnou čiarou
 00064 Časová zóna
 00046 TracBack
@@ -1798,6 +1811,7 @@
 02022 Bežkovanie
 02002 Vlastné
 02016 Duatlon
+05867 Golf
 05500 Názov aktivity
 02019 Turistika
 02031 Jumpmaster
@@ -1853,7 +1867,7 @@
 03159 GPS + GLONASS
 03158 Normálne (iba GPS)
 02060 GPS
-02084 Tlačidlo LAP
+02084 Tlačidlo Lap
 02057 Okruhy
 03155 Tlačidlá uzamknutia
 02071 Iba manuálne
@@ -1900,7 +1914,10 @@
 03056 VIRB
 02095 Pridať alarm
 02094 Alarmy
+05874 Schôdzka
 02099 Podsvietenie
+05878 Večierka
+05876 Vyučovanie
 02101 Vlastné
 02103 Vlastné
 02102 Vlastné
@@ -1909,10 +1926,15 @@
 02100 Vymazať
 02123 Pia
 02122 Piatok
+05869 Štítok
+05868 Štítok
+05877 Meditácia
 02115 Pon
 02114 Pondelok
+05870 Žiadne
 03168 Vypnúť
 03167 Vypnúť
+05873 Pripomenutie
 03166 Opakovať
 03165 Opakovať
 02125 So
@@ -1922,14 +1944,17 @@
 02121 Štv.
 02120 Štvrtok
 02098 Čas
+05875 Tréning
 02117 Ut
 02116 Utorok
+05871 Budíček
 02119 Str
 02118 Streda
 03170 Pracovné dni
 03169 Pracovné dni
 03172 Víkendy
 03171 Víkendy
+05872 Cvičenie
 01607 Pridať nové
 01620 Upozornenia
 01617 Kadencia
@@ -2067,8 +2092,8 @@
 03173 Tlačidlá
 05776 Počas aktivity
 05774 Počas aktivity
-05777 Režim upozornenia
-05775 Režim upozornenia
+05915 Nie počas aktivity
+05914 Nie počas aktivity
 05740 Žiadny časový limit
 02132 Časový limit
 03177 Časový limit
@@ -2130,6 +2155,7 @@
 00058 Pole 3
 00059 Pole 4
 00053 Rozloženie
+05865 Údajové pole
 00055 Počet polí: %1
 00054 1 pole
 03619 Odstrániť
@@ -2186,6 +2212,7 @@
 02233 Nedeľa
 01314 Približne 18 – 31 min.
 00311 Ukončiť okruh
+05935 Prekážky
 00313 Lay-upy
 00312 Zmeranie odpálenia
 03667 Presunúť zástavku
@@ -2305,7 +2332,7 @@
 01309 Približne 20 – 30 min.
 02280 Upoz. na kolo
 02284 Vypnúť
-02283 Ukáž.
+02283 Ukážka
 02281 Primárne pole
 02282 Sekundárne pole
 02285 Celkový čas
@@ -2373,6 +2400,7 @@
 05026 Ikona
 00010 Názov
 00012 Pozícia
+05905 Pridať miniaplikáciu
 03595 Kalibrovať snímač výkonu
 01745 História
 03592 Stíšiť metronóm
@@ -2479,10 +2507,17 @@
 02172 Automatická: %1 mm
 02174 Automatické vynulovanie
 05652 Pridať nové
+05978 Podsvietenie
 03182 Nerušiť
 03183 Nájsť môj telefón
+05979 Baterka
+05957 Výškomer
+05980 Podsvietenie
+05956 Barometer
+05958 Kompas
 03198 Nerušiť
 03199 Nájsť môj telefón
+05981 Baterka
 05503 Tlač. uzamknutia
 03200 Ovládanie hudby
 05557 Telefón
@@ -2574,10 +2609,8 @@
 01500 Barometer
 01508 Kadencia – %1
 01496 Kompas
-05496 Bluetooth
 01530 Vyberte sním. na prid.
 01529 Rozp. sa snímače
-05497 Zobraziť snímače Bluetooth
 01504 Krokomer – %1
 01503 Sn. tepu – %1
 01512 Svetlo – %1
@@ -2660,9 +2693,9 @@
 02928 Zadné prevody
 00118 Upozornenia
 02352 Počas aktivity
-02353 Režim upozornenia
+02353 Nie počas aktivity
 02354 Počas aktivity
-02355 Režim upozornenia
+02355 Nie počas aktivity
 02363 Časový limit
 02356 Upozornenia
 02358 Zobraziť všetky
@@ -2684,7 +2717,7 @@
 02559 Čas
 01237 Dostupné %1
 01236 Zrušiť
-01239 Odhad. Čas: %1
+01239 Odhad. čas: %1 min.
 01234 Inštalovať teraz
 02958 Inštalovať dnes v noci
 05857 Automatická aktualizácia
@@ -2797,6 +2830,8 @@
 02402 Hmotnosť
 02418 Sekvencia
 02416 Fotografia
+05887 Uspať fotoaparát
+05888 Úsporný režim
 02422 Spustiť záznam
 02424 Štart
 02423 Zastavenie
@@ -2805,6 +2840,8 @@
 02419 Nasnímať časozberné snímky
 02420 Časozber.fotograf.
 02421 Video
+05889 Zobudiť fotoaparát
+05890 Zobudiť
 03211 Manuálne
 02184 Režim záznamu
 03271 2,7K, vysoké
@@ -2814,6 +2851,11 @@
 02432 FPS videa
 02434 HD video
 02430 Interval
+05892 Iba predná
+05894 RAW
+05893 Iba zadné
+05895 Neznáme
+05891 Režim objektívu
 02428 Režim
 02426 Nast. fotografie
 02431 Rozlíšenie
@@ -3001,6 +3043,7 @@
 05629 Nekompatibilný typ siete.
 05630 Chyba siete. Skúste to znova neskôr.
 03566 Nie je dostupné žiadne pripojenie k aplikáciám.
+03565 Nie je dostupné žiadne pripojenie k aplikáciám alebo sieti Wi-Fi.
 05844 Nenašla sa žiadna známa sieť Wi-Fi.
 05634 Nedostatok pamäte v zariadení.
 03560 Vyhľadáva sa sieť Wi-Fi.
@@ -3056,12 +3099,17 @@
 01525 Hľadajú sa všetky najbližšie snímače a doplnky.
 01524 Vyhľadáva sa snímač.
 05682 Snímač pridaný
+05866 Chyba snímača
 03702 Pripojte zariadenie TruSwing k mobilnej aplikácii.
 03704 Pripojenie bolo úspešné
 03703 Preberajú sa informácie o paliciach
 03701 Párovanie
 03699 Hľadá sa mobil.  Tento krok preskočíte stlačením START.
 03700 Hľadá sa zariadenie TruSwing
+05896 Zadaná požiadavka na zapnutie režimu spánku v zariadení VIRB
+05897 Zadaná požiadavka na ukončenie režimu spánku v zariadení VIRB
+05899 Požiadavka zlyhala
+05898 Požiadavka bola úspešná
 05766 Okr. %1
 05754 Stlač. zazn. okr.
 00421 Formát súradníc
@@ -3146,7 +3194,6 @@
 01552 Pravé:
 01549 Ver.sof.:
 01548 Sér. č.:
-05429 Tech.:
 01559 Nabíja sa
 01561 Pripojené
 01558 Kritický
@@ -3481,7 +3528,6 @@
 02775 m:s
 02756 nm
 02764 nm
-05442 kr/m.
 02773 p
 02770 psi
 02784 /100m
@@ -3496,7 +3542,6 @@
 02765 %
 02745 lbs
 02771 rpm
-05441 k./m.
 05698 sek
 02780 spm
 02718 ° T
@@ -3505,7 +3550,7 @@
 02776 V
 02788 W/kg
 02777 W
-02778 yd
+02778 yd.
 03389 stôp/h
 03390 m/h
 00475 U.S. National
@@ -3580,14 +3625,14 @@
 00413 Na zobrazenie údajov uložte aktivitu.
 03730 Tempo
 00400 Tempo
-03728 Behy
+03728 Lyžovanie
 03725 Rýchlosť
 00405 Kroky
 03729 Frek. záb.
 03732 Zábery
 05855 Tento týždeň
 00399 Čas
-03734 behy
+03734 lyž.
 03733 zábery
 00391 Posledná jazda
 00390 Posledný beh

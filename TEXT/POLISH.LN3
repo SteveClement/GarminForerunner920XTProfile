@@ -1,4 +1,4 @@
-006-D6593-13|v02.20
+006-D6593-13|v02.30
 00001 Polski
 00252 12-godzinny
 00253 24-godzinny
@@ -6,6 +6,14 @@
 00251 6-godzinny
 00236 Wysokościomierz
 02977 Dodaj nowy
+05882 Spotkanie
+05886 Pora spać
+05884 Do szkoły
+05885 Pomedytuj
+05881 Przypomnienie
+05883 Trening
+05879 Wstawaj
+05880 Trening
 01625 Własny
 01621 Napij się
 01622 Zjedz
@@ -508,6 +516,8 @@
 03661 Lay-up 200
 03662 Lay-up 250
 03672 Zawsze pytaj
+05930 Bunkier
+05931 Bunkry
 00298 Pobierz więcej z Garmin Connect.
 00299 Pobieranie pola
 00301 Runda początkowa
@@ -524,14 +534,19 @@
 00326 Chybione w prawo
 03678 Brak zarejestrowanych uderzeń
 00322 Putty
+05932 Rough
 03671 Punktacja
 03670 Punktacja
 00304 Wybierz pole
 03677 Uderz.
 00327 Śledzenie statystyk
-00321 Ruchy
+00321 Uderzenia
+05934 do końca
+05933 do pocz.
 00305 Metry
 00306 Jardy
+05937 Waste
+05936 Woda
 00335 Idź do HARP
 05202 Dokładność GPS
 00618 Dokładność GPS
@@ -587,7 +602,7 @@
 00369 Dołki
 00367 Ostatnia runda
 00370 Wynik
-00368 Ruchy
+00368 Uderz.
 05230 Nachylenie
 00645 Nachylenie
 00934 Nachylenie
@@ -601,7 +616,6 @@
 03588 12-godzinny
 03589 24-godzinny
 05609 Wróć do startu
-05821 Kalibruj
 05610 Odrzuć
 05608 Okrążenie
 05607 Wznów później
@@ -1104,7 +1118,6 @@
 02939 Słaba bateria światła tylnego %1.
 01221 Słaba bateria Tempe.
 00036 Stoper zakończył pracę
-01217 Słaba bateria Varia Vision.
 01207 Słaba bateria urządzenia VIRB.
 01222 Rozmiar kół określony.
 01118 Metronom
@@ -1200,8 +1213,9 @@
 02638 Połączony
 03613 Rozpoczęto kurs
 02614 Podłączono Di2
+05949 Podłączono Edge
 02609 Podł. czuj. na nogę
-02603 GPS jest gotowy
+02603 GPS gotowy
 02636 Cel osiągnięty!
 05654 Dodano: %1
 05842 Usunięto: %1
@@ -1240,7 +1254,6 @@
 02620 Odł. światło tylne
 02626 Zakończone
 02627 Nieudane
-02625 Połączono z Varia
 02611 Połączono z VIRB
 02604 Czekaj na GPS
 03313 Dodano widżet
@@ -1362,10 +1375,14 @@
 01360 Słabe
 01359 Przygotow. wydolnoś.
 02682 PM
+05970 Wysokościomierz
+05969 Barometr
+05971 Kompas
 05827 Nie przeszkadzać: wył.
 05826 Nie przeszkadzać: wł.
 03546 Nie przeszkadzać
 03547 Znajdź mój telefon
+05983 Latarka
 05514 Zablokuj przyciski
 03548 Sterowanie muzyką
 05794 Paruj VIRB
@@ -1522,7 +1539,7 @@
 05681 Nie
 05680 Tak
 01834 Kontynuuj
-01835 To wstrzyma bieżącą sesję LiveTrack.
+05911 To zakończy bieżącą sesję LiveTrack.
 05546 Wymagane połączenie z aplikacją mobilną
 01839 Błąd parowania.
 01840 Ponów próbę
@@ -1662,7 +1679,6 @@
 01346 Zatrzymaj się i odpocznij przez 3 min.
 05752 Przerwać kurs?
 05753 Przerwać nawigację?
-05843 Przerwać segment?
 01348 Natęż. wysiłku zost. skalibr. po uzyskaniu kilku wyników.
 03124 Temperatura
 01833 Użyć pamięci masowej?
@@ -1709,7 +1725,6 @@
 01537 Aby podłączyć czujnik Shimano Di2, zmień przednie lub tylne zębatki.
 01535 Pokręć pedałami, aby aktywować czujnik.
 01536 Pon. próbę
-01540 Aby połączyć, włącz urządzenie Varia Vision.
 03059 Włącz kamerę i ustawienie Pilot, aby nawiązać połączenie.
 02580 Kilometry
 02579 Mile
@@ -1721,7 +1736,6 @@
 01888 Gotowe
 01887 Aktualizacja nieudana.  Ponów próbę z Garmin Connect.
 00062 Aktualizacja nieudana.  Spróbuj ponownie.
-05820 Pominąć kalibrację bieżni?
 01589 Akceptuj
 01591 Tempo: %1
 01592 Pręd.: %1
@@ -1798,6 +1812,7 @@
 02022 Bieg narciar.
 02002 Własny
 02016 Dwubój
+05867 Golf
 05500 Nazwa aktywności
 02019 Wędrówka
 02031 Jumpmaster
@@ -1861,7 +1876,7 @@
 02054 %1 metrów
 02056 Metronom
 02067 Normalny
-02053 Rozmiar basenu
+02053 Długość basenu
 02062 Czas do osz. energii
 03157 Alerty segmentu
 02075 Usuń
@@ -1900,7 +1915,10 @@
 03056 VIRB
 02095 Dodaj alarm
 02094 Alarmy
+05874 Spotkanie
 02099 Podświetlenie
+05878 Pora spać
+05876 Do szkoły
 02101 Własny
 02103 Własny
 02102 Własny
@@ -1909,10 +1927,15 @@
 02100 Usuń
 02123 Pt
 02122 Piątek
+05869 Etykieta
+05868 Etykieta
+05877 Pomedytuj
 02115 Pn
 02114 Ponied​ziałek
+05870 Brak
 03168 Wyłączone
 03167 Wyłączone
+05873 Przypomnienie
 03166 Powtórz
 03165 Powtórz
 02125 So
@@ -1922,14 +1945,17 @@
 02121 Cz
 02120 Czwartek
 02098 Czas
+05875 Trening
 02117 Wt
 02116 Wtorek
+05871 Wstawaj
 02119 Śr
 02118 Środa
 03170 Dni robocze
 03169 Dni robocze
 03172 Weekendy
 03171 Weekendy
+05872 Trening
 01607 Dodaj nowy
 01620 Alerty
 01617 Rytm
@@ -2067,8 +2093,8 @@
 03173 Przyciski
 05776 Podczas aktywności
 05774 Podczas aktywn.
-05777 Tryb zegarka
-05775 Tryb zegarka
+05915 Poza aktywnością
+05914 Poza aktywnością
 05740 Brak limitu czasu
 02132 Limit czasu
 03177 Limit czasu
@@ -2130,6 +2156,7 @@
 00058 Pole 3
 00059 Pole 4
 00053 Układ
+05865 Pole danych
 00055 Pól: %1
 00054 1 pole
 03619 Usuń
@@ -2186,6 +2213,7 @@
 02233 Niedziela
 01314 Około 18-31 min.
 00311 Zakończ partię
+05935 Hazardy
 00313 Lay-upy
 00312 Zmierz uderzenie
 03667 Przesuń flagę
@@ -2373,6 +2401,7 @@
 05026 Ikona
 00010 Nazwa
 00012 Pozycja
+05905 Dodaj widżet
 03595 Kalibruj moc
 01745 Historia
 03592 Wycisz metronom
@@ -2475,14 +2504,21 @@
 00111 33 1/3 jarda
 00108 50 metrów
 00112 Własny
-00106 Rozmiar basenu
+00106 Długość basenu
 02172 Automatycz.: %1 mm
 02174 Autozerowanie
 05652 Dodaj nowy
+05978 Podświetlenie
 03182 Nie przeszkadzać
 03183 Znajdź mój telefon
+05979 Latarka
+05957 Wysokościomierz
+05980 Podświetlenie
+05956 Barometr
+05958 Kompas
 03198 Nie przeszkadzać
 03199 Znajdź mój telefon
+05981 Latarka
 05503 Zablokuj przyciski
 03200 Sterowanie muzyką
 05557 Telefon
@@ -2574,10 +2610,8 @@
 01500 Barometr
 01508 Rytm - %1
 01496 Kompas
-05496 Bluetooth
 01530 Wybierz, aby dodać
 01529 Wykryto czujniki
-05497 Pokaż czujniki Bluetooth
 01504 Na nogę - %1
 01503 Tętno - %1
 01512 Światło - %1
@@ -2660,9 +2694,9 @@
 02928 Tylne zębatki
 00118 Powiadomie​nia
 02352 Podczas aktywn.
-02353 Tryb zegarka
+02353 Poza aktywnością
 02354 Podczas aktywności
-02355 Tryb zegarka
+02355 Poza aktywnością
 02363 Limit czasu
 02356 Powiadomienia
 02358 Pokaż wszystko
@@ -2684,7 +2718,7 @@
 02559 Czas
 01237 Dostęp. wer. %1
 01236 Odrzuć
-01239 Szacow. czas: %1
+01239 Przybliż. czas: %1 min
 01234 Instaluj teraz
 02958 Zainstaluj w nocy
 05857 Automatyczna aktualizacja
@@ -2797,6 +2831,8 @@
 02402 Masa
 02418 Sekwencja
 02416 Zdjęcie
+05887 Uśpij kamerę
+05888 Sen
 02422 Uruchom zapis
 02424 Rozpoczynanie
 02423 Zatrzymywanie
@@ -2805,6 +2841,8 @@
 02419 Zrób poklatkowe
 02420 Poklatkowe
 02421 Wideo
+05889 Wybudź kamerę
+05890 Wybudź
 03211 Ręcznie
 02184 Tryb rejestracji
 03271 2.7K Wysoki
@@ -2814,6 +2852,11 @@
 02432 Szy. rej. wideo
 02434 Obraz HD
 02430 Interwał
+05892 Tylko przedni
+05894 RAW
+05893 Tylko tył
+05895 Nieznany
+05891 Tryb obiektywu
 02428 Tryb
 02426 Ustawienia zdjęć
 02431 Rozdzielczość
@@ -3001,6 +3044,7 @@
 05629 Niezgodny typ sieci.
 05630 Błąd sieci. Spróbuj ponownie później.
 03566 Brak połączenia z aplikacją.
+03565 Brak połączenia z aplikacją lub Wi-Fi.
 05844 Nie znaleziono żadnej znanej sieci Wi-Fi.
 05634 Za mało pamięci w urządzeniu.
 03560 Wyszukiwanie sieci Wi-Fi.
@@ -3026,7 +3070,7 @@
 00141 Jedź stałym temp. przez 20 min z czujnikiem tętna i mocy.
 05615 Wymagany VO2. Jeździj 20 min z czujnikiem tętna i mocy, aby uzyskać pułap tlenowy.
 01956 Uzyskaj pułap tlenowy, biegając 10 min z czujnikiem tętna po dworze.
-03616 Sygnał GPS jest silniejszy na zewnątrz, z dala od drzew i wyso-kich budynków.
+03616 Sygnał GPS jest silniejszy na zewn., z dala od drzew i wysokich budynków.
 03615 Synchronizacja ukończona.
 00048 Czekaj na sygnał GPS.
 03218 Pobierz więcej widżetów z Connect IQ Store.
@@ -3056,12 +3100,17 @@
 01525 Wyszukiwanie czujników i akcesoriów w pobliżu.
 01524 Wyszukiwanie czujnika
 05682 Dodano czujnik
+05866 Błąd czujnika
 03702 Połącz urządzenie TruSwing z aplikacją mobilną.
 03704 Nawiązano połączenie
 03703 Pobieranie informacji o kijach
 03701 Parowanie
 03699 Wyszukiwanie urządzenia przenośnego.  Naciśnij START, aby pominąć.
 03700 Wyszukiwanie urządzenia TruSwing
+05896 Żądanie przełączenia urządzenia VIRB w tryb uśpienia
+05897 Żądanie wyłączenia w urządzeniu VIRB trybu uśpienia
+05899 Błąd żądania
+05898 Żądanie wykonane
 05766 Okr. %1
 05754 Naciśnij - okrąż.
 00421 Format pozycji
@@ -3146,7 +3195,6 @@
 01552 Prawy:
 01549 Wersja:
 01548 Nr ser.:
-05429 Techn.:
 01559 Ładowanie
 01561 Połączony
 01558 Krytyczny
@@ -3336,7 +3384,6 @@
 05513 Używanie przez tydzień pozwoli obliczyć obciążenie z 7 dni.
 03537 Obciążenie treningowe
 03524 Roztrenowanie
-03531 Fitness
 03535 Wysoka
 03532 Obciąż.
 03533 Niska
@@ -3538,9 +3585,9 @@
 00478 Własna siatka
 00208 Użytkownika
 05787 START, aby sparować.
-05149 Prędkość wypadkowa
-00568 Prędkość wypadkowa
-00857 Pr. wyp.
+05149 PRĘDKOŚĆ WYPADKOWA
+00568 PR.WYPAD.
+00857 PR. WYP.
 03540 Znakomite
 03542 Niezłe
 03541 Dobre

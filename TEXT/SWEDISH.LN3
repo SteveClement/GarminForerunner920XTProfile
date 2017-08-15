@@ -1,4 +1,4 @@
-006-D6593-09|v02.20
+006-D6593-09|v02.30
 00001 Svenska
 00252 12 timmar
 00253 24 timmar
@@ -6,13 +6,21 @@
 00251 6 timmar
 00236 Höjdmätare
 02977 Lägg till ny
+05882 Möte
+05886 Läggdags
+05884 Klass
+05885 Meditera
+05881 Påminnelse
+05883 Träning
+05879 Vakna
+05880 Träningspass
 01625 Egna
 01621 Drick
 01622 Ät
 01624 Kör hem
 01623 Vänd
 01107 Stigning
-01103 Kadens
+01103 Cykelkadens
 01094 Kalorier
 01108 Nedför
 01095 Distans
@@ -112,8 +120,8 @@
 05240 Kraft  för senaste varv
 00655 Kraft  för senaste varv
 00944 Krft. s vrv.
-05238 Medel Kraft
-00653 Medel Kraft
+05238 Medelkraft
+00653 Medelkraft
 00942 Medelkraft
 05141 Medelsteglängd
 00560 Medelsteglängd
@@ -139,8 +147,8 @@
 05165 Medelkadens
 00582 Medelkadens
 00871 Med. kad.
-05163 Kadens
-00580 Kadens
+05163 Cykelkadens
+00580 Cykelkadens
 00869 Kadens
 02701 Strålk – %1
 02704 Övriga – %1
@@ -183,7 +191,7 @@
 00200 Kalibrera
 00199 Kal. slutfördes
 00196 Kalibreringsfel
-00197 Rotera klockan
+00197 Rotera klockan i en rörelse som en åtta
 00193 OK
 00195 Försök igen
 00194 Start
@@ -208,8 +216,8 @@
 05297 Kraft, sittande
 00712 Kraft, sittande
 01001 Kraft, sitta
-05295 Kraft, stående
-00710 Kraft, stående
+05295 Kraft stående
+00710 Kraft stående
 00999 Kra. stån.
 05278 Kadensexcentricitet
 00693 Kadensexcentricitet
@@ -508,6 +516,8 @@
 03661 200 layup
 03662 250 layup
 03672 Fråga alltid
+05930 Bunker
+05931 Bunkrar
 00298 Hämta fler med Garmin Connect.
 00299 Hämtar bana
 00301 Startar en runda
@@ -524,14 +534,19 @@
 00326 Miss åt höger
 03678 Inga registrerade slag
 00322 Puttar
+05932 Ruff
 03671 Scoreinställningar
 03670 Scoreinställningar
-00304 Välj bana
+00304 Välj en bana
 03677 Slag
 00327 Spåra statistik
 00321 Slag
+05934 till bak
+05933 till fram
 00305 Meter
 00306 Yard
+05937 Sandomr.
+05936 Vatten
 00335 Gå till HARP
 05202 GPS-noggrannhet
 00618 GPS-noggrannhet
@@ -577,7 +592,6 @@
 00377 Bogeys
 00378 Dubbel
 00374 Eagles
-00372 Fairways
 00371 GIR
 00373 PPH
 00376 Par
@@ -601,7 +615,6 @@
 03588 12-timmars
 03589 24-timmars
 05609 Tillb. t. start
-05821 Kalibrera
 05610 Ta bort
 05608 Varv
 05607 Återuppta senare
@@ -637,7 +650,7 @@
 05171 Puls
 00588 Puls
 00877 Puls
-02242 Kondit.
+02242 Konditionsträn.
 02241 Lätt träning
 02246 Hård kond.trän.
 02245 Lätt kond.-trän.
@@ -1001,7 +1014,7 @@
 02595 Maj
 01140 Månad
 01142 Månadssammanst.
-01139 Vecka
+01139 Varje vecka
 01141 Veckosammanst.
 03032 1 000 yard
 03027 100 m
@@ -1104,7 +1117,6 @@
 02939 Låg batterinivå i baklyktan %1.
 01221 Låg batterispänning i Tempe.
 00036 Tiduret är klart
-01217 Låg batterinivå i Varia Vision.
 01207 Låg batterinivå i VIRB.
 01222 Hjulstorlek har\nberäknats.
 01118 Metronom
@@ -1200,6 +1212,7 @@
 02638 Ansluten
 03613 Banan har startat
 02614 Di2 ansluten
+05949 Edge ansluten
 02609 FP-sensor ansluten
 02603 GPS är klar
 02636 Mål!
@@ -1240,7 +1253,6 @@
 02620 Bakljus frånkopplad
 02626 Slutfördes
 02627 Misslyckades
-02625 Varia anslutet
 02611 VIRB ansluten
 02604 Vänta på GPS
 03313 Widget har lagts till
@@ -1362,10 +1374,14 @@
 01360 Dåligt
 01359 Prestationsförhållande
 02682 em
+05970 Höjdmätare
+05969 Barometer
+05971 Kompass
 05827 Stör ej-läge: avstängt
 05826 Stör ej-läge: aktiverat
 03546 Stör ej
 03547 Hitta min telefon
+05983 Ficklampa
 05514 Lås knappar
 03548 Musikkontroller
 05794 Para ihop VIRB
@@ -1470,7 +1486,6 @@
 05535 Maraton
 05531 Föruts. tävl.-tid
 00359 M.-RHR %1
-00358 Sen. 7 dagar
 05164 Medelkadens
 00581 Medelkadens
 00870 Med. kad.
@@ -1508,7 +1523,7 @@
 00748 Vilotimer
 01037 Vilotimer
 00417 Vilande
-02486 Löpning
+02486 Kör
 05676 Höjd:
 05677 Position:
 01304 Spar m START
@@ -1522,7 +1537,7 @@
 05681 Nej
 05680 Ja
 01834 Fortsätt
-01835 Den aktuella LiveTrack-sessionen avbryts.
+05911 Den aktuella LiveTrack-sessionen avslutas.
 05546 Anslutning till mobilapp krävs
 01839 Ihopparningen misslyckades.
 01840 Försök igen
@@ -1547,7 +1562,7 @@
 01863 Kvinna
 01862 Man
 03719 Vänsterspelare
-03720 Högerspelare
+03720 Högerhänt
 03718 Golfsving?
 01985 Vänster
 01984 Höger
@@ -1588,7 +1603,7 @@
 02645 Det här tar bort multisportprofilen: %1.
 00148 Kraft
 01902 Stigningsmeddelande
-01798 Automatisk upptäckt
+01798 Upptäck automatiskt
 03481 Ta bort segment?
 03099 Bakgrundsfärg
 01800 Avbryta?
@@ -1662,7 +1677,6 @@
 01346 Stå stilla och slappna av i tre minuter.
 05752 Avbryta bana?
 05753 Avbryta navigering?
-05843 Stoppa segment?
 01348 Träningsbelastn. kalibr. efter några gånger.
 03124 Temperatur
 01833 Använda masslagring?
@@ -1709,7 +1723,6 @@
 01537 Växla fram eller bak för anslutn. till Shimano Di2-sensorn.
 01535 Trampa för att aktivera sensorn.
 01536 Försök igen
-01540 Slå på Varia Vision-enheten för att ansluta.
 03059 Sätt på kameran och aktivera fjärrinställningar för att ansluta.
 02580 Kilometer
 02579 Engelska mil
@@ -1721,7 +1734,6 @@
 01888 Klar
 01887 Det gick inte att uppdatera. \nFörsök igen med Garmin Connect.
 00062 Det gick inte att uppdatera. \nFörsök igen.
-05820 Hoppa över löpbandskalibrering?
 01589 Godkänn
 01591 Tempo: %1
 01592 Hast: %1
@@ -1798,6 +1810,7 @@
 02022 Längdskidor
 02002 Egna
 02016 Duathlon
+05867 Golf
 05500 Aktivitetsnamn
 02019 Vandring
 02031 Jumpmaster
@@ -1900,7 +1913,10 @@
 03056 VIRB
 02095 Lägg till larm
 02094 Larm
+05874 Möte
 02099 Bakgrundsbelysning
+05878 Läggdags
+05876 Klass
 02101 Egna
 02103 Egna
 02102 Egna
@@ -1909,10 +1925,15 @@
 02100 Ta bort
 02123 Fre
 02122 Fredag
+05869 Etikett
+05868 Etikett
+05877 Meditera
 02115 Mån
 02114 Måndag
+05870 Ingen
 03168 Av
 03167 Av
+05873 Påminnelse
 03166 Upprepa
 03165 Upprepa
 02125 Lör
@@ -1922,18 +1943,21 @@
 02121 Tors
 02120 Torsdag
 02098 Tid
+05875 Träning
 02117 Tis
 02116 Tisdag
+05871 Vakna
 02119 Ons
 02118 Onsdag
 03170 Vardagar
 03169 Vardagar
 03172 Helgen
 03171 Helgen
+05872 Träningspass
 01607 Lägg till ny
 01620 Varningar
-01617 Kadens
-01637 Kadens
+01617 Cykelkadens
+01637 Cykelkadens
 01639 Kalorier
 01626 Egna
 01634 Distans
@@ -1966,7 +1990,7 @@
 01670 Stigning
 01665 Hög kadens
 01674 Låg kadens
-01641 Kadens
+01641 Cykelkadens
 05434 Paddeltagstempo
 01640 Kadens
 01642 Simtagstempo
@@ -2067,8 +2091,8 @@
 03173 Knappar
 05776 Under aktivitet
 05774 Under aktivitet
-05777 Klockläge
-05775 Klockläge
+05915 Inte under aktivitet
+05914 Inte under aktivitet
 05740 Ingen tidsgräns
 02132 Tidsgräns
 03177 Tidsgräns
@@ -2130,6 +2154,7 @@
 00058 Fält 3
 00059 Fält 4
 00053 Layout
+05865 Datafält
 00055 %1 fält
 00054 1 fält
 03619 Ta bort
@@ -2186,6 +2211,7 @@
 02233 Söndag
 01314 Cirka 18–31 minuter
 00311 Avsluta runda
+05935 Hinder
 00313 Layups
 00312 Mät slag
 03667 Flytta flagga
@@ -2373,6 +2399,7 @@
 05026 Ikon
 00010 Namn
 00012 Position
+05905 Lägg till widget
 03595 Kalibrera kraft
 01745 Historik
 03592 Stänger av ljudet på metronomen
@@ -2479,10 +2506,17 @@
 02172 Automatisk: %1 mm
 02174 Automatiskt noll
 05652 Lägg till ny
+05978 Bakgrundsbelysning
 03182 Stör ej
 03183 Hitta min telefon
+05979 Ficklampa
+05957 Höjdmätare
+05980 Bakgrundsbelysn.
+05956 Barometer
+05958 Kompass
 03198 Stör ej
 03199 Hitta min telefon
+05981 Ficklampa
 05503 Lås knappar
 03200 Musikkontroller
 05557 Telefon
@@ -2574,10 +2608,8 @@
 01500 Barometer
 01508 Kadens – %1
 01496 Kompass
-05496 Bluetooth
 01530 Välj för att lägga till
 01529 Sensorer hittades
-05497 Visa Bluetooth-sensorer
 01504 Fotenhet - %1
 01503 Puls – %1
 01512 Lampa – %1
@@ -2660,9 +2692,9 @@
 02928 Bakväxlar
 00118 Aviseringar
 02352 Under aktivitet
-02353 Klockläge
+02353 Inte under aktivitet
 02354 Under aktivitet
-02355 Klockläge
+02355 Inte under aktivitet
 02363 Tidsgräns
 02356 Aviseringar
 02358 Visa alla
@@ -2684,7 +2716,7 @@
 02559 Tid
 01237 %1 tillgänglig
 01236 Avslå
-01239 Uppskattad tid: %1
+01239 Uppskattad tid: %1 min.
 01234 Installera nu
 02958 Installera inatt
 05857 Uppdatera automatiskt
@@ -2797,6 +2829,8 @@
 02402 Vikt
 02418 Bildserie
 02416 Foto
+05887 Viloläge för kamera
+05888 Viloläge
 02422 Starta inspelning
 02424 Startar
 02423 Stoppar
@@ -2805,6 +2839,8 @@
 02419 Ta intervallbilder
 02420 Timelapse
 02421 Video
+05889 Väck kamera
+05890 Stäng av viloläge
 03211 Manuellt
 02184 Inspelningsläge
 03271 2,7K hög
@@ -2814,6 +2850,11 @@
 02432 Video FPS
 02434 HD-video
 02430 Intervall
+05892 Endast fram
+05894 RAW
+05893 Endast bak
+05895 Okänd
+05891 Linsläge
 02428 Läge
 02426 Bildinställningar
 02431 Upplösning
@@ -3001,6 +3042,7 @@
 05629 Inkompatibel nätverkstyp.
 05630 Nätverksfel. Försök igen senare.
 03566 Ingen appanslutning tillgänglig.
+03565 Ingen app- eller Wi-Fi-anslutning tillgänglig.
 05844 Inga kända Wi-Fi-nätverk hittades.
 05634 Inte tillräckligt med minne på enheten.
 03560 Söker efter Wi-Fi-nätverk.
@@ -3056,12 +3098,17 @@
 01525 Söker efter alla närliggande sensorer och tillbehör.
 01524 Söker efter sensorn
 05682 Sensor har lagts till
+05866 Sensorfel
 03702 Anslut TruSwing-enheten till Mobile-appen.
 03704 Anslutningen lyckades
 03703 Hämtar klubbor
 03701 Parar ihop
 03699 Söker efter en mobil enhet.  Tryck på START för att hoppa över.
 03700 Söker efter en TruSwing-enhet
+05896 Begär att VIRB-enheten försätts i viloläge
+05897 Begär att VIRB-enheten går ur viloläge
+05899 Begäran misslyckades
+05898 Begäran slutfördes
 05766 Varv %1
 05754 Tryck för varv
 00421 Positionsformat
@@ -3146,7 +3193,6 @@
 01552 Höger:
 01549 Prgrmv:
 01548 Serienr:
-05429 Teknik:
 01559 Laddar
 01561 Ansluten
 01558 Kritisk

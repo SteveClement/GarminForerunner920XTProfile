@@ -1,4 +1,4 @@
-006-D6593-06|v02.20
+006-D6593-06|v02.30
 00001 Norsk
 00252 12-timers
 00253 24-timers
@@ -6,6 +6,14 @@
 00251 6-timers
 00236 Høydemåler
 02977 Legg til ny
+05882 Avtale
+05886 Leggetid
+05884 Klasse
+05885 Meditere
+05881 Påminnelse
+05883 Trening
+05879 Våkne
+05880 Treningsøkt
 01625 Egendefinert
 01621 Drikk
 01622 Spis
@@ -121,8 +129,8 @@
 05324 Gjennomsnittlig tak/lengde
 00732 Gjenn. tak/lengde
 01021 Gj. tak/len.
-05338 Gjennomsnittlig swolf
-00742 Gjennomsnittlig swolf
+05338 Gjennomsnittlig Swolf
+00742 Gjennomsnittlig Swolf
 01031 Gj. Swolf
 05125 Gjennomsnittlig vertikal oscillasjon
 00544 Gjsn. vert. osc.
@@ -208,8 +216,8 @@
 05297 Kraft sittende
 00712 Kraft sittende
 01001 Kraft sitt.
-05295 Stående kraft
-00710 Stående kraft
+05295 Kraft stående
+00710 Kraft stående
 00999 Stå. kraft
 05278 Pedalfrekvenseksentrisitet
 00693 Ped.fr.-eksent.
@@ -508,6 +516,8 @@
 03661 200 layup
 03662 250 layup
 03672 Spør alltid
+05930 Bunker
+05931 Bunkere
 00298 Last ned mer med Garmin Connect.
 00299 Laster ned løype
 00301 Starter runde
@@ -524,14 +534,19 @@
 00326 Bom høyre
 03678 Ingen slag registrert
 00322 Putter
+05932 Rough
 03671 Poengregning
 03670 Poengregning
-00304 Velg bane
+00304 Velg en golfbane
 03677 Slag
 00327 Statistikksporing
 00321 Slag
+05934 Baksiden
+05933 Forsiden
 00305 Meter
 00306 Yards
+05937 Waste
+05936 Vann
 00335 Gå til HARP
 05202 GPS-nøyaktighet
 00618 GPS-nøyaktighet
@@ -601,7 +616,6 @@
 03588 12-timers
 03589 24-timers
 05609 Tilb. til start
-05821 Kalibrer
 05610 Forkast
 05608 runde
 05607 Senere
@@ -1104,7 +1118,6 @@
 02939 Lavt batterinivå for baklykt %1.
 01221 Tempe-batterinivået er lavt.
 00036 Tidtaker ferdig
-01217 Batterinivået på Varia Vision er lavt.
 01207 VIRB-batterinivået er lavt.
 01222 Hjulstørrelse beregnet.
 01118 Metronom
@@ -1200,6 +1213,7 @@
 02638 Tilkoblet
 03613 Løypen startet
 02614 Di2 er tilkoblet
+05949 Edge er tilkoblet
 02609 Fotsensor tilkoblet
 02603 GPS er klar
 02636 Mål!
@@ -1240,7 +1254,6 @@
 02620 Baklyktskive.
 02626 Fullført
 02627 Mislyktes
-02625 Varia er tilkoblet
 02611 VIRB er tilkoblet
 02604 Vent på GPS
 03313 Widget er lagt til
@@ -1362,10 +1375,14 @@
 01360 Dårlig
 01359 Ytelseskondisjon
 02682 PM
+05970 Høydemåler
+05969 Barometer
+05971 Kompass
 05827 Ikke forstyrr: av
 05826 Ikke forstyrr: på
 03546 Ikke forstyrr
 03547 Finn telefonen min
+05983 Lommelykt
 05514 Låsetaster
 03548 Musikkstyring
 05794 Parkoble VIRB
@@ -1522,7 +1539,7 @@
 05681 Nei
 05680 Ja
 01834 Fortsett
-01835 Dette utsetter gjeldende LiveTrack-økt.
+05911 Dette avslutter gjeldende LiveTrack-økt.
 05546 Krever mobilapptilkobling
 01839 Parkoblingen mislyktes.
 01840 Prøv på nytt
@@ -1662,7 +1679,6 @@
 01346 Stå oppreist og slapp av i tre minutter.
 05752 Stoppe løype?
 05753 Stoppe navigasjon?
-05843 Stoppe segment?
 01348 Stressverdi kalibreres etter noen resultater.
 03124 Temperatur
 01833 Bruke masselagring?
@@ -1709,7 +1725,6 @@
 01537 Hvis du vil koble til Shimano Di2-sensoren, skifter du gir foran eller bak.
 01535 Trå på pedalen for å aktivere sensoren.
 01536 Prøv på nytt
-01540 Slå på Varia Vision-enheten for å koble til.
 03059 Slå på kameraet, og aktiver fjernkontrollinnstillingen for å koble til.
 02580 Kilometer
 02579 Mil (US)
@@ -1721,7 +1736,6 @@
 01888 Ferdig
 01887 Oppdateringen mislyktes. \nPrøv på nytt fra Garmin Connect.
 00062 Oppdateringen mislyktes. \nPrøv på nytt.
-05820 Hoppe over tredemøllekalibrering?
 01589 Godta
 01591 Tempo: %1
 01592 Fart: %1
@@ -1798,6 +1812,7 @@
 02022 Langrenn
 02002 Egendefinert
 02016 Duatlon
+05867 Golf
 05500 Aktivitetsnavn
 02019 Fotvandring
 02031 Jumpmaster
@@ -1900,7 +1915,10 @@
 03056 VIRB
 02095 Legg til alarm
 02094 Alarmer
+05874 Avtale
 02099 Bakgrunnslys
+05878 Leggetid
+05876 Klasse
 02101 Egendefinert
 02103 Egendefinert
 02102 Egendefinert
@@ -1909,10 +1927,15 @@
 02100 Slett
 02123 Fre
 02122 Fredag
+05869 Merke
+05868 Merke
+05877 Meditere
 02115 Man
 02114 Mandag
+05870 Ingen
 03168 Av
 03167 Av
+05873 Påminnelse
 03166 Gjentakelse
 03165 Gjentakelse
 02125 Lør
@@ -1922,14 +1945,17 @@
 02121 Tor
 02120 Torsdag
 02098 Tid
+05875 Trening
 02117 Tir
 02116 Tirsdag
+05871 Våkne
 02119 Ons
 02118 Onsdag
 03170 Ukedager
 03169 Ukedager
 03172 Helger
 03171 Helger
+05872 Treningsøkt
 01607 Legg til ny
 01620 Varsler
 01617 Pedalfrekvens
@@ -2045,7 +2071,7 @@
 03223 Auto.registrering
 03226 FTP
 03225 Melkesyreterskel
-03224 Maksimal puls
+03224 Makspuls
 02128 Autodistanse
 02127 Auto Lap
 03621 Automatisk løp
@@ -2067,8 +2093,8 @@
 03173 Taster
 05776 Under aktiviteter
 05774 Under aktiviteter
-05777 Klokkemodus
-05775 Klokkemodus
+05915 Ikke i løpet av aktivitet
+05914 Ikke under aktivit.
 05740 Ikke noe tidsavbrudd
 02132 Tidsavbrudd
 03177 Tidsavbrudd
@@ -2130,6 +2156,7 @@
 00058 Felt 3
 00059 Felt 4
 00053 Oppsett
+05865 Datafelt
 00055 %1 felter
 00054 1 felt
 03619 Fjern
@@ -2186,6 +2213,7 @@
 02233 Søndag
 01314 Ca. 18–31 minutter
 00311 Avslutt runde
+05935 Hinder
 00313 Layups
 00312 Mål slag
 03667 Flytt flagg
@@ -2207,7 +2235,7 @@
 02249 Sykling
 03233 Puls
 02254 MELKESYRETERSKELPULS
-02252 Maksimal puls
+02252 Makspuls
 03238 Fjern puls for sykling
 03237 Fjern puls for løping
 03239 Fjern puls for svømming
@@ -2373,10 +2401,11 @@
 05026 Ikon
 00010 Navn
 00012 Posisjon
+05905 Legg til widget
 03595 Kalibrer kraft
 01745 Historikk
 03592 Demp metronom
-05864 Navigasjonsinnstillinger
+05864 Navigasjonsinn​stillinger
 05595 Forbindelser i nærheten
 03600 Kontrollmeny
 03599 Fjern app
@@ -2479,10 +2508,17 @@
 02172 Automatisk: %1 mm
 02174 Automatisk null
 05652 Legg til ny
+05978 Bakgrunnslys
 03182 Ikke forstyrr
 03183 Finn telefonen min
+05979 Lommelykt
+05957 Høydemåler
+05980 Bakgrunnslys
+05956 Barometer
+05958 Kompass
 03198 Ikke forstyrr
 03199 Finn telefonen min
+05981 Lommelykt
 05503 Låsetaster
 03200 Musikkstyring
 05557 Telefon
@@ -2574,10 +2610,8 @@
 01500 Barometer
 01508 Kadens – %1
 01496 Kompass
-05496 Bluetooth
 01530 Velg for å legge til
 01529 Fant sensorer
-05497 Vis Bluetooth-sensorer
 01504 Fotsensor – %1
 01503 Puls – %1
 01512 Lykt – %1
@@ -2660,9 +2694,9 @@
 02928 Bakre gir
 00118 Varsler
 02352 Under aktiviteter
-02353 Klokkemodus
+02353 Ikke under aktiv.
 02354 Under aktiviteter
-02355 Klokkemodus
+02355 Ikke i løpet av aktivitet
 02363 Tidsavbrudd
 02356 Varsler
 02358 Vis alle
@@ -2684,7 +2718,7 @@
 02559 Tid
 01237 %1 tilgjengelig
 01236 Lukk
-01239 Beregnet tid: %1
+01239 Anslått tid: %1 min.
 01234 Installer nå
 02958 Installer i løpet av natten
 05857 Automatisk oppdatering
@@ -2797,6 +2831,8 @@
 02402 Vekt
 02418 Serie
 02416 Bilde
+05887 Dvalemodus for kamera
+05888 Dvalemodus
 02422 Start opptak
 02424 Starter
 02423 Stoppe
@@ -2805,6 +2841,8 @@
 02419 Ta tidsforløp
 02420 Tidsforløp
 02421 Video
+05889 Avsl. dvalemodus for kamera
+05890 Avsl. dvalemodus
 03211 Manuell
 02184 Opptaksmodus
 03271 2,7 K høy
@@ -2814,6 +2852,11 @@
 02432 FPS for video
 02434 HD-video
 02430 Intervall
+05892 Kun fremre
+05894 RAW
+05893 Kun bakre
+05895 Ukjent
+05891 Objektivmodus
 02428 Modus
 02426 Bildeinnstillinger
 02431 Oppløsning
@@ -3001,6 +3044,7 @@
 05629 Ikke kompatibel nettverkstype.
 05630 Nettverksfeil. Prøv på nytt senere.
 03566 Ingen tilgjengelig apptilkobling.
+03565 Ingen tilgjengelig app- eller Wi-Fi-tilkobling
 05844 Fant ingen kjente Wi-Fi-nettverk.
 05634 For lite minne på enheten.
 03560 Søker etter Wi-Fi-nettverk.
@@ -3056,12 +3100,17 @@
 01525 Søker etter alle sensorer og tilbehør i nærheten.
 01524 Søker etter sensor
 05682 Sensorer lagt til
+05866 Sensorfeil
 03702 Koble TruSwing-enheten til mobilappen.
 03704 Tilkoblet
 03703 Laster ned køller
 03701 Parkobler
 03699 Søker etter mobil.  Trykk på START for å hoppe over.
 03700 Søker etter TruSwing-enhet
+05896 Ber VIRB-enheten om å gå i dvalemodus
+05897 Ber VIRB-enheten om å avslutte dvalemodus
+05899 Forespørselen mislyktes
+05898 Vellykket forespørsel
 05766 Rnd %1
 05754 Trykk for runde
 00421 Posisjonsformat
@@ -3146,7 +3195,6 @@
 01552 Høyre:
 01549 Prog.v.:
 01548 Serienr:
-05429 Teknol.:
 01559 Lader
 01561 Tilkoblet
 01558 Kritisk
@@ -3187,12 +3235,12 @@
 05402 Tak
 05327 Avstand per tak
 05394 Avstand per tak
-05317 Tak
-05388 Tak
-05410 Tak
+05317 Svømmetak
+05388 Svømmetak
+05410 Svø.tak
 04823 SV
 02688 S
-00356 L
+00356 S
 00338 Sikkerhetsfaktor
 01091 Lør
 00498 Skala
@@ -3450,7 +3498,6 @@
 02779 hPa
 02737 Hz
 05658 t
-02738 in
 02739 kft
 02740 kg
 02741 kHz

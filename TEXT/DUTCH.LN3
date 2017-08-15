@@ -1,4 +1,4 @@
-006-D6593-01|v02.20
+006-D6593-01|v02.30
 00001 Nederlands
 00252 12-uurs
 00253 24-uurs
@@ -6,6 +6,14 @@
 00251 6-uurs
 00236 Hoogtemeter
 02977 Voeg toe
+05882 Afspraak
+05886 Bedtijd
+05884 Les
+05885 Meditatie
+05881 Herinnering
+05883 Training
+05879 Opstaan
+05880 Workouts
 01625 Aangepast
 01621 Drinken
 01622 Eten
@@ -508,6 +516,8 @@
 03661 200 layup
 03662 250 layup
 03672 Vraag altijd
+05930 Bunker
+05931 Bunkers
 00298 Download meer met Garmin Connect.
 00299 Baan downloaden
 00301 Ronde wordt gestart
@@ -524,14 +534,19 @@
 00326 Gemist - rechts
 03678 Geen shots vastgelegd
 00322 Putts
+05932 Rough
 03671 Score
 03670 Score
 00304 Selecteer baan
 03677 Slag
 00327 Statistieken
 00321 Slagen
+05934 tot achter
+05933 tot voork.
 00305 Meters
 00306 Yards
+05937 Waste
+05936 Water
 00335 Ga naar HARP
 05202 GPS-nauwkeurigheid
 00618 GPS-nauwkeurigheid
@@ -601,7 +616,6 @@
 03588 12-uurs
 03589 24-uurs
 05609 Ga naar start
-05821 Kalibreer
 05610 Gooi weg
 05608 Ronde
 05607 Hervat later
@@ -1104,7 +1118,6 @@
 02939 Batterij achterlicht %1 is bijna leeg.
 01221 Tempe batterij bijna leeg.
 00036 Timer gereed
-01217 De batterij van de Varia Vision is bijna leeg.
 01207 VIRB batterij bijna leeg.
 01222 Wielmaat berekend.
 01118 Metronoom
@@ -1240,7 +1253,6 @@
 02620 Achterlicht ontkop.
 02626 Voltooid
 02627 Mislukt
-02625 Varia is verbonden
 02611 VIRB verbonden
 02604 Wacht op GPS
 03313 Widget toegevoegd
@@ -1362,10 +1374,14 @@
 01360 Slecht
 01359 Prestatieconditie
 02682 PM
+05970 Hoogtemeter
+05969 Barometer
+05971 Kompas
 05827 Niet storen: Uit
 05826 Niet storen: Aan
 03546 Niet storen
 03547 Vind mijn telefoon
+05983 Zaklamp
 05514 Vergrendel knoppen
 03548 Muziek​regelaars
 05794 Koppel VIRB
@@ -1522,7 +1538,7 @@
 05681 Nee
 05680 Ja
 01834 Ga door
-01835 Dit onderbreekt de LiveTrack sessie.
+05911 Dit beëindigt de huidige LiveTrack sessie.
 05546 Verbinding met mobiele app vereist
 01839 Koppelen mislukt.
 01840 Probeer opnw.
@@ -1662,7 +1678,6 @@
 01346 Blijf staan en rust 3 minuten uit.
 05752 Koers stoppen?
 05753 Stop navigatie?
-05843 Segment stoppen?
 01348 De stress-score wordt na enkele result. gekalibreerd.
 03124 Temperatuur
 01833 Massaopslag gebruiken?
@@ -1709,7 +1724,6 @@
 01537 Shimano Di2 sensor verbinden: Schakel de voor- of achter​versnellingen.
 01535 Trap om sensor te activeren.
 01536 Opnieuw
-01540 Zet de Varia Vision aan om te verbinden.
 03059 Zet camera aan en schakel afstandsbediening in om te verbinden.
 02580 Kilometers
 02579 Mijlen
@@ -1721,7 +1735,6 @@
 01888 OK
 01887 Bijwerken mislukt. \nProbeer opnieuw vanaf Garmin Connect.
 00062 Bijwerken mislukt. \nProbeer opnieuw.
-05820 Loopbandkalibratie overslaan?
 01589 Accepteer
 01591 Tempo: %1
 01592 Snelh: %1
@@ -1798,6 +1811,7 @@
 02022 XC-ski
 02002 Aangepast
 02016 Duatlon
+05867 Golfen
 05500 Activiteitnaam
 02019 Hiken
 02031 Jumpmaster
@@ -1900,7 +1914,10 @@
 03056 VIRB
 02095 Voeg alarm toe
 02094 Alarmen
+05874 Afspraak
 02099 Schermverlichting
+05878 Bedtijd
+05876 Les
 02101 Aangepast
 02103 Aangepast
 02102 Aangepast
@@ -1909,10 +1926,15 @@
 02100 Wis
 02123 Vr
 02122 Vrijdag
+05869 Label
+05868 Label
+05877 Meditatie
 02115 Ma
 02114 Maandag
+05870 Geen
 03168 Uit
 03167 Uit
+05873 Herinnering
 03166 Herhaal
 03165 Herhaal
 02125 Za
@@ -1922,14 +1944,17 @@
 02121 Do
 02120 Donderdag
 02098 Tijd
+05875 Training
 02117 Di
 02116 Dinsdag
+05871 Opstaan
 02119 Wo
 02118 Woensdag
 03170 Werkdagen
 03169 Werkdagen
 03172 Weekenden
 03171 Weekenden
+05872 Workouts
 01607 Voeg nieuw toe
 01620 Waarschuwingen
 01617 Cadans
@@ -2067,8 +2092,8 @@
 03173 Knoppen
 05776 Tijdens activiteit
 05774 Tijdens activiteit
-05777 Horlogestand
-05775 Horlogestand
+05915 Niet tijdens activiteit
+05914 Niet tijdens activit.
 05740 Geen timeout
 02132 Time-out
 03177 Time-out
@@ -2130,6 +2155,7 @@
 00058 Veld 3
 00059 Veld 4
 00053 Indeling
+05865 Gegevensveld
 00055 %1 velden
 00054 1 veld
 03619 Verwijder
@@ -2186,6 +2212,7 @@
 02233 Zondag
 01314 Circa 18-31 min.
 00311 Einde van ronde
+05935 Hindernissen
 00313 Layups
 00312 Shot meten
 03667 Verplaats vlag
@@ -2373,6 +2400,7 @@
 05026 Pictogram
 00010 Naam
 00012 Positie
+05905 Voeg widget toe
 03595 Kalibreer vermogen
 01745 Geschiedenis
 03592 Demp metronoom
@@ -2479,10 +2507,17 @@
 02172 Automatisch: %1 mm
 02174 Automatisch nul
 05652 Voeg nieuw toe
+05978 Schermverlichting
 03182 Niet storen
 03183 Vind mijn telefoon
+05979 Zaklamp
+05957 Hoogtemeter
+05980 Schermverlichting
+05956 Barometer
+05958 Kompas
 03198 Niet storen
 03199 Vind mijn telefoon
+05981 Zaklamp
 05503 Vergr. knoppen
 03200 Muziek​regelaars
 05557 Telefoon
@@ -2574,10 +2609,8 @@
 01500 Barometer
 01508 Cadans - %1
 01496 Kompas
-05496 Bluetooth
 01530 Select. voor toevoeg.
 01529 Sensors gevonden
-05497 Toon Bluetooth sensors
 01504 Voetsensor - %1
 01503 Hartslag - %1
 01512 Lamp - %1
@@ -2660,9 +2693,9 @@
 02928 Versnelling achter
 00118 Meldingen
 02352 Tijdens activiteit
-02353 Horlogestand
+02353 Niet tijdens activ.
 02354 Tijdens activiteit
-02355 Horlogestand
+02355 Niet tijdens activiteit
 02363 Time-out
 02356 Meldingen
 02358 Toon alles
@@ -2684,7 +2717,7 @@
 02559 Tijd
 01237 %1 beschikbaar
 01236 Negeer
-01239 Geschatte tijd: %1
+01239 Geschatte tijd: %1 min.
 01234 Installeer nu
 02958 Installeer vannacht
 05857 Automatisch bijwerken
@@ -2797,6 +2830,8 @@
 02402 Gewicht
 02418 Burst
 02416 Foto
+05887 Slaapmodus camera
+05888 Slaap
 02422 Start opnemen
 02424 Starten
 02423 Stoppen
@@ -2805,6 +2840,8 @@
 02419 Neem timelapse
 02420 Timelapse
 02421 Video
+05889 Actieve modus camera
+05890 Activeer
 03211 Handmatig
 02184 Opnamemodus
 03271 2,7K verticaal
@@ -2814,6 +2851,11 @@
 02432 Video FPS
 02434 HD-video
 02430 Interval
+05892 Alleen voor
+05894 RAW
+05893 Alleen achter
+05895 Onbekend
+05891 Lensmodus
 02428 Modus
 02426 Foto-instellingen
 02431 Resolutie
@@ -2950,7 +2992,7 @@
 03137 Sensor hub-update installeren
 03132 Systeemsoftware-update installeren
 03134 Tijdzonekaart-update installeren
-01928 Update installeren...
+01928 Update installeren
 03138 Wi-Fi-update installeren
 01940 Linkerpedaal voltooid
 01938 Linkerpedaal bijwerken
@@ -3001,6 +3043,7 @@
 05629 Incompatibel netwerktype.
 05630 Netwerkfout. Probeer het later opnieuw.
 03566 Geen app-verbinding beschikbaar.
+03565 Geen app- of Wi-Fi-verbinding beschikbaar.
 05844 Kan geen bestaand Wi-Fi-netwerk vinden.
 05634 Onvoldoende geheugen in het toestel.
 03560 Zoeken naar Wi-Fi-netwerk.
@@ -3031,7 +3074,7 @@
 00048 Wacht op GPS.
 03218 Download meer widgets in de Connect IQ Store.
 03219 Ga naar Instellingen > Widgets om widgets later te beheren.
-00050 Toepassing
+00050 App
 00049 START om te bekijken. (%1 wordt gestopt.)
 00051 Verwijder een activiteitenprofiel om de sport in deze workout toe te voegen.
 00159 Geen afdalingen gevonden
@@ -3056,12 +3099,17 @@
 01525 Alle sensors en accessoires binnen bereik zoeken.
 01524 Zoeken naar sensor
 05682 Sensor toegevoegd
+05866 Sensorfout
 03702 Verbind TruSwing toestel met mobiele app.
 03704 Verbinding gemaakt
 03703 Clubs downloaden...
 03701 Koppelen
 03699 Mobiel toestel zoeken.  Druk op START om over te slaan.
 03700 Zoeken naar TruSwing toestel
+05896 Inschakeling slaapmodus VIRB toestel aangevraagd
+05897 Uitschakeling slaapmodus VIRB toestel aangevraagd
+05899 Aanvraag mislukt
+05898 Aanvraag geslaagd
 05766 Rnd %1
 05754 Druk voor ronde
 00421 Positieformaat
@@ -3146,7 +3194,6 @@
 01552 Rechts:
 01549 Sw.ver:
 01548 Serien.:
-05429 Tech:
 01559 Opladen
 01561 Verbonden
 01558 Kritiek
@@ -3577,7 +3624,7 @@
 00398 Afstand
 03731 HS
 00408 Max snlhd
-00413 U moet een activiteit opslaan om gegevens te bekijken.
+00413 Sla een activiteit op om gegevens te bekijken.
 03730 Tempo
 00400 Tempo
 03728 Runs

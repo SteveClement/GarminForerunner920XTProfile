@@ -1,4 +1,4 @@
-006-D6593-03|v02.20
+006-D6593-03|v02.30
 00001 Français
 00252 12 heures
 00253 24 heures
@@ -6,6 +6,14 @@
 00251 6 heures
 00236 Altimètre
 02977 Ajout. nouv.
+05882 Rendez-vous
+05886 Heure de coucher
+05884 École
+05885 Méditation
+05881 Rappel
+05883 Entraînement
+05879 Réveil
+05880 Entraînement
 01625 Personnalisé
 01621 Boire
 01622 Manger
@@ -202,8 +210,8 @@
 05301 Cadence assis
 00716 Cadence assis
 01005 Cad. assis
-05299 Cadence danseuse
-00714 Cadence danseuse
+05299 Cadence en danseuse
+00714 Cadence en danseuse
 01003 Cad dans.
 05297 Puissance assis
 00712 Puissance assis
@@ -214,8 +222,8 @@
 05278 Efficacité de pédalage (cadence)
 00693 Eff pédalage (cadence)
 00982 Effic pédal
-05264 Etat du mode Debug
-00679 Etat du mode Debug
+05264 État du débogage
+00679 État du débogage
 00968 ET. DEBOG
 05302 Cadence circuit sur selle
 00717 Cad. c. selle
@@ -226,8 +234,8 @@
 05265 Circuit/Erreur
 00680 Circuit/Erreur
 00969 CIRC./ERR.
-05298 Puissance selle, circuit
-00713 P selle, circuit
+05298 Puissance circuit sur selle
+00713 Puis. circ ass
 01002 Puis a circ
 05296 Puissance en danseuse circuit
 00711 Puiss dans circuit
@@ -508,6 +516,8 @@
 03661 200 layup
 03662 250 layup
 03672 Toujours demander
+05930 Bunker
+05931 Bunkers
 00298 Téléchargez-en plus avec Garmin Connect.
 00299 Téléchargement du parcours
 00301 Démarrage de la partie
@@ -524,14 +534,19 @@
 00326 Raté à droite
 03678 Pas de coup enregistré
 00322 Putts
+05932 Rough
 03671 Attribution d'un score
 03670 Attrib. score
 00304 Sélect. parc.
 03677 Coup
 00327 Calcul de statistiques
 00321 Coups
+05934 Au fond
+05933 Entrée
 00305 Mètres
 00306 Yards
+05937 Obst. nat.
+05936 Eau
 00335 Aller au HARP
 05202 Précision GPS
 00618 Précision GPS
@@ -566,7 +581,7 @@
 05229 Taux plané à destination
 00644 Tx plané dest.
 00933 Tx pl. dest
-02517 Aller
+02517 Allez
 00388 Objectif atteint !
 05854 Objectif atteint !
 00302 Trop proche du green
@@ -601,7 +616,6 @@
 03588 12 heures
 03589 24 heures
 05609 Retour au départ
-05821 Étalonner
 05610 Ignorer
 05608 Circuit
 05607 Reprendre + tard
@@ -1038,12 +1052,12 @@
 01468 Marath. le + rapide
 01469 Mile le plus rapide
 01470 Semi
-01461 Sortie la + long.
-01462 Sortie la + long.
+01461 + long. crs vél.
+01462 + long. crs vél.
 01471 Course la + longue
 01472 Course la + longue
 03044 Traver. la + longue
-03045 Traver. la + longue
+03045 Travers. la + longue
 01473 Marathon
 01474 Asc. la + raide
 01475 Asc. la + raide
@@ -1104,8 +1118,7 @@
 02939 La batterie du feu arrière %1 est faible.
 01221 Tempe : batterie faible.
 00036 Compte à rebours terminé
-01217 La batterie du Varia Vision est faible.
-01207 VIRB : batterie faible.
+01207 VIRB : batterie faible.
 01222 Dimensions des roues\ncalculées.
 01118 Métronome
 00465 MGRS
@@ -1200,6 +1213,7 @@
 02638 Connecté
 03613 Parcours débuté
 02614 Di2 connecté
+05949 Edge connecté
 02609 Accélér. connecté
 02603 GPS prêt
 02636 Objectif atteint !
@@ -1212,7 +1226,7 @@
 02618 Feu déconnecté
 03311 C. ox. m. sat. con.
 02635 Barre d'inact. réinit.
-02634 Bougez !
+02634 Bougez !
 02622 Réseau formé
 02621 Rés. en formation
 00044 Hors parcours
@@ -1240,7 +1254,6 @@
 02620 Feu arr. déconnecté
 02626 Terminé
 02627 Echec
-02625 Varia connecté
 02611 VIRB connectée
 02604 Attente signal GPS
 03313 Widget ajouté
@@ -1362,10 +1375,14 @@
 01360 Mauvais
 01359 Condition perform.
 02682 PM
+05970 Altimètre
+05969 Baromètre
+05971 Compas
 05827 Ne pas dérang. : désact.
 05826 Ne pas déranger : activé
 03546 Ne pas déranger
 03547 Détecter mon téléphone
+05983 Lampe de poche
 05514 Verrouiller les touches
 03548 Commandes musicales
 05794 Coupler VIRB
@@ -1522,7 +1539,7 @@
 05681 Non
 05680 Oui
 01834 Continuer
-01835 Cette opération suspendra la session LiveTrack actuelle.
+05911 Cette opération va mettre fin à la session LiveTrack en cours.
 05546 Connexion de l'app. mobile requise
 01839 Échec du couplage.
 01840 Réessayer
@@ -1662,7 +1679,6 @@
 01346 Restez immobile et détendez-vous 3 min.
 05752 Arrêter le parcours ?
 05753 Arrêter la navigation ?
-05843 Arrêter le segment ?
 01348 L'étalon. du score d'effort se fait après plus. résultats.
 03124 Température
 01833 Utiliser le stockage grande capacité ?
@@ -1709,7 +1725,6 @@
 01537 Pour connecter le Shimano Di2, changez les vit. avant ou arrière.
 01535 Pédalez pour activer le capteur.
 01536 Réessayer
-01540 Allumez l'appareil Varia Vision pour le connecter.
 03059 Allumez cam. et act. param. télécom. pr vous connecter.
 02580 Kilomètres
 02579 Miles
@@ -1721,7 +1736,6 @@
 01888 Terminé
 01887 Echec de la mise à jour.  Réessayez depuis Garmin Connect.
 00062 Echec de la mise à jour. \nRéessayez.
-05820 Ignorer l'étalonnage du tapis de course ?
 01589 Accepter
 01591 Allure : %1
 01592 Vitesse: %1
@@ -1798,6 +1812,7 @@
 02022 Ski de fond
 02002 Personnalisé
 02016 Biathlon
+05867 Golf
 05500 Nom d'activité
 02019 Randonnée
 02031 Jumpmaster
@@ -1900,7 +1915,10 @@
 03056 VIRB
 02095 Ajouter une alarme
 02094 Alarmes
+05874 Rendez-vous
 02099 Rétroéclairage
+05878 Heure de coucher
+05876 École
 02101 Personnalisé
 02103 Personnalisé
 02102 Personnalisé
@@ -1909,10 +1927,15 @@
 02100 Supprimer
 02123 Vendredi
 02122 Vendredi
+05869 Etiquette
+05868 Etiquette
+05877 Méditation
 02115 Lundi
 02114 Lundi
+05870 Aucune
 03168 Désactivé
 03167 Désactivé
+05873 Rappel
 03166 Répéter
 03165 Répéter
 02125 Samedi
@@ -1922,14 +1945,17 @@
 02121 Jeudi
 02120 Jeudi
 02098 Heure
+05875 Entraînement
 02117 Mardi
 02116 Mardi
+05871 Réveil
 02119 Mercredi
 02118 Mercredi
 03170 Jours de la semaine
 03169 Jours de la semaine
 03172 Weekends
 03171 Weekends
+05872 Entraînement
 01607 Ajouter nouveau
 01620 Alarmes
 01617 Cadence
@@ -2013,7 +2039,7 @@
 01660 Alarme lente
 01661 Allure la moins rapide
 01647 Temps
-05479 Lors d'activité
+05479 Lors d'une activité
 01681 Temps de marche
 03073 %1 (Z1)
 03074 %1 (Z2)
@@ -2045,7 +2071,7 @@
 03223 Détection auto
 03226 FTP
 03225 Seuil lactique
-03224 FC maximale
+03224 FC max
 02128 Distance automatique
 02127 Auto Lap
 03621 Descente auto
@@ -2067,8 +2093,8 @@
 03173 Touches
 05776 Lors d'activité
 05774 Lors d'activité
-05777 Mode montre
-05775 Mode montre
+05915 En dehors d'une activité
+05914 Hors activité
 05740 Pas atténuat. éclairage
 02132 Temporisation
 03177 Temporisation
@@ -2130,6 +2156,7 @@
 00058 Champ 3
 00059 Champ 4
 00053 Disposition
+05865 Champ de données
 00055 %1 champs
 00054 1 champ
 03619 Retirer
@@ -2186,6 +2213,7 @@
 02233 Dimanche
 01314 Estim. : 18 à 31 min
 00311 Terminer partie
+05935 Obstacles
 00313 Layups
 00312 Mesurer coup
 03667 Déplacer le drapeau
@@ -2207,7 +2235,7 @@
 02249 Cyclisme
 03233 Fréquence cardia.
 02254 FC seuil lactique
-02252 FC maximale
+02252 FC max
 03238 Supprimer la FC pour le vélo
 03237 Supprimer la FC pour la course
 03239 Supprimer la FC pour la natation
@@ -2373,6 +2401,7 @@
 05026 Icône
 00010 Nom
 00012 Position
+05905 Ajouter un widget
 03595 Étalonner capteur puissance
 01745 Historique
 03592 Désactiver le son du métronome
@@ -2479,10 +2508,17 @@
 02172 Aut: %1 mm
 02174 Réglage auto sur 0
 05652 Ajouter nouveau
+05978 Rétroéclairage
 03182 Ne pas déranger
 03183 Détecter mon téléphone
+05979 Lampe de poche
+05957 Altimètre
+05980 Rétroéclairage
+05956 Baromètre
+05958 Compas
 03198 Ne pas déranger
 03199 Détecter téléphone
+05981 Lampe de poche
 05503 Verrouiller touches
 03200 Comm. music.
 05557 Téléphone
@@ -2574,10 +2610,8 @@
 01500 Baromètre
 01508 Cadence - %1
 01496 Compas
-05496 Bluetooth
 01530 Sélection. pour ajouter
 01529 Capteurs détectés
-05497 Afficher les capteurs Bluetooth
 01504 Accélér. - %1
 01503 Fréq.car.- %1
 01512 Feu - %1
@@ -2660,9 +2694,9 @@
 02928 Plateaux arrière
 00118 Notifications
 02352 Lors d'activité
-02353 Mode montre
+02353 En dehors activité
 02354 Lors d'activité
-02355 Mode montre
+02355 En dehors d'une activité
 02363 Temporisation
 02356 Notifications
 02358 Tout afficher
@@ -2684,7 +2718,7 @@
 02559 Temps
 01237 %1 disponible
 01236 Arrêter
-01239 Temps estimé : %1
+01239 Durée estimée : %1 min
 01234 Installer maintenant
 02958 Installer cette nuit
 05857 Mise à jour automatique
@@ -2797,6 +2831,8 @@
 02402 Poids
 02418 Rafale
 02416 Photo
+05887 Mettre en veille la caméra
+05888 Veille
 02422 Démarrer l'enregistrement
 02424 Démarrage
 02423 Arrêt
@@ -2805,6 +2841,8 @@
 02419 Photos interv.
 02420 Par intervalles
 02421 Vidéo
+05889 Sortir de veille la caméra
+05890 Sortir de veille
 03211 Manuel
 02184 Mode d'enregistrement
 03271 2,7K grand
@@ -2814,6 +2852,11 @@
 02432 IPS vidéo
 02434 Vidéo HD
 02430 Intervalle
+05892 Avant seulement
+05894 BRUT
+05893 Arrière seulement
+05895 Inconnu
+05891 Mode objectif
 02428 Mode
 02426 Paramètres photos
 02431 Résolution
@@ -3001,6 +3044,7 @@
 05629 Type de réseau incompatible.
 05630 Erreur réseau. Veuillez réessayer ultérieurement.
 03566 Aucune connexion à l'application disponible.
+03565 Aucune connexion à l'application ou au Wi-Fi disponible.
 05844 Aucun réseau Wi-Fi connu enregistré.
 05634 Mémoire insuffisante sur l'appareil.
 03560 Recherche d'un réseau Wi-Fi.
@@ -3056,12 +3100,17 @@
 01525 Recherche de tous les capteurs et accessoires alentour en cours.
 01524 Recherche de capteurs
 05682 Capteur ajouté
+05866 Erreur au niveau du capteur
 03702 Connecter l'appareil TruSwing à l'application mobile
 03704 Connexion réussie
 03703 Clubs en cours de téléchargement
 03701 Couplage
 03699 Recherche d'appareil mobile  Appuyez sur START pour ignorer.
 03700 Recherche de l'appareil TruSwing
+05896 Demande de passage en mode veille de l'appareil VIRB
+05897 Demande de sortie du mode veille de l'appareil VIRB
+05899 Echec de la demande
+05898 Demande traitée avec succès
 05766 Circ. %1
 05754 Appuyer pr circ.
 00421 Format de position
@@ -3146,7 +3195,6 @@
 01552 Droit :
 01549 Ver log :
 01548 N° sér. :
-05429 Tech. :
 01559 Chargement
 01561 Connecté
 01558 Critique

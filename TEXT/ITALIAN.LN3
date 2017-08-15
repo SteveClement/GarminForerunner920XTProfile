@@ -1,4 +1,4 @@
-006-D6593-05|v02.20
+006-D6593-05|v02.30
 00001 Italiano
 00252 12 ore
 00253 24 ore
@@ -6,6 +6,14 @@
 00251 6 ore
 00236 Altimetro
 02977 Agg. nuovo
+05882 Appuntamento
+05886 Dormire
+05884 In classe
+05885 Meditare
+05881 Promemoria
+05883 Allenamento
+05879 Svegliarsi
+05880 Allenamento
 01625 Personalizza
 01621 Bere
 01622 Mangiare
@@ -508,6 +516,8 @@
 03661 Lay up 200
 03662 Lay up 250
 03672 Chiedi sempre
+05930 Bunker
+05931 Bunker
 00298 Scarica altro con Garmin Connect.
 00299 Download campo
 00301 Inizio round
@@ -524,14 +534,19 @@
 00326 Mancato a destra
 03678 Nessun colpo registrato
 00322 Putt
+05932 Rough
 03671 Punteggio
 03670 Punteggio
 00304 Seleziona campo
 03677 Colpo
 00327 Rilevamento statistiche
 00321 Colpi
+05934 Da dietro
+05933 To Front
 00305 Metri
 00306 larde
+05937 Waste
+05936 Acqua
 00335 Vai a HARP
 05202 Precisione GPS
 00618 Precisione GPS
@@ -601,7 +616,6 @@
 03588 12 ore
 03589 24 ore
 05609 Ind. all'inizio
-05821 Calibra
 05610 Elimina
 05608 Lap
 05607 Riprendi dopo
@@ -1104,7 +1118,6 @@
 02939 Batteria fanale posteriore %1 scarica.
 01221 Batteria Tempe scarica.
 00036 Timer scaduto
-01217 Batteria Varia Vision scarica.
 01207 Batteria VIRB scarica.
 01222 Dimensioni ruota\ncalcolate.
 01118 Metronomo
@@ -1200,6 +1213,7 @@
 02638 Connesso
 03613 Percorso iniziato
 02614 Di2 connesso
+05949 Edge connesso
 02609 FP connesso
 02603 GPS pronto
 02636 Obiettivo!
@@ -1240,7 +1254,6 @@
 02620 Fan. post. scoll.
 02626 Completato
 02627 Non riuscito
-02625 Varia connesso
 02611 VIRB connessa
 02604 In attesa del GPS
 03313 Widget aggiunto
@@ -1362,10 +1375,14 @@
 01360 Scarso
 01359 Cond. perform.
 02682 PM
+05970 Altimetro
+05969 Barometro
+05971 Bussola
 05827 Non disturbare: disattiv.
 05826 Non disturbare: attivato
 03546 Non disturbare
 03547 Trova telefono
+05983 Torcia
 05514 Blocca tasti
 03548 Controllo musica
 05794 Associa VIRB
@@ -1522,7 +1539,7 @@
 05681 No
 05680 Sì
 01834 Continua
-01835 L'operazione sospenderà la sessione LiveTrack corrente.
+05911 L'operazione terminerà la sessione LiveTrack corrente.
 05546 Connessione app mobile richiesta
 01839 Associazione non riuscita.
 01840 Riprova
@@ -1662,7 +1679,6 @@
 01346 Riposarsi per 3 minuti.
 05752 Interrompere percorso?
 05753 Interrompere la navigazione?
-05843 Interrompere segmento
 01348 Lo stress score verrà calibrato dopo alcuni risultati.
 03124 Temperatura
 01833 Utilizzare archiviazione di massa?
@@ -1709,7 +1725,6 @@
 01537 Per connettere il sensore Shimano Di2, cambiare i rapporti ant. o post.
 01535 Pedalare per attivare il sensore.
 01536 Riprova
-01540 Accendere il dispositivo Varia Vision da collegare.
 03059 Accendere la action cam e attivare Remoto per connettersi.
 02580 Chilometri
 02579 Miglia
@@ -1721,7 +1736,6 @@
 01888 Fatto
 01887 Aggiornamento non riuscito.  Riprovare da Garmin Connect.
 00062 Aggiornamento non riuscito. \nRiprovare.
-05820 Saltare la calibrazione del tapis roulant?
 01589 Accetta
 01591 Passo: %1
 01592 Vel: %1
@@ -1798,6 +1812,7 @@
 02022 Sci di fondo
 02002 Personalizza
 02016 Duathlon
+05867 Golf
 05500 Nome attività
 02019 Escursion.
 02031 Jumpmaster
@@ -1900,7 +1915,10 @@
 03056 VIRB
 02095 Aggiungi sveglia
 02094 Allarmi
+05874 Appuntamento
 02099 Retroilluminazione
+05878 Dormire
+05876 In classe
 02101 Personalizza
 02103 Personalizza
 02102 Personalizza
@@ -1909,10 +1927,15 @@
 02100 Elimina
 02123 Ven
 02122 Venerdì
+05869 Etichetta
+05868 Etichetta
+05877 Meditare
 02115 Lun
 02114 Lunedì
+05870 Nessuno
 03168 Disattivato
 03167 Disattivato
+05873 Promemoria
 03166 Ripeti
 03165 Ripeti
 02125 Sab
@@ -1922,14 +1945,17 @@
 02121 Gio
 02120 Giovedì
 02098 Ora
+05875 Allenamento
 02117 Mar
 02116 Martedì
+05871 Svegliarsi
 02119 Mer
 02118 Mercoledì
 03170 Giorni feriali
 03169 Giorni feriali
 03172 Fine settimana
 03171 Fine settimana
+05872 Allenamento
 01607 Aggiungi nuovo
 01620 Avvisi
 01617 Cadenza
@@ -2067,8 +2093,8 @@
 03173 Tasti
 05776 Durante l'attività
 05774 Durante l'attività
-05777 Modo orologio
-05775 Modo orologio
+05915 Non durante l'attività
+05914 Non in attività
 05740 Nessun timeout
 02132 Timeout
 03177 Timeout
@@ -2130,6 +2156,7 @@
 00058 Campo 3
 00059 Campo 4
 00053 Layout
+05865 Campo dati
 00055 %1 campi
 00054 1 campo
 03619 Rimuovi
@@ -2186,6 +2213,7 @@
 02233 Domenica
 01314 18-31 minuti previsti
 00311 Fine round
+05935 Ostacoli
 00313 Layup
 00312 Misurazione colpo
 03667 Sposta bandiera
@@ -2373,6 +2401,7 @@
 05026 Icona
 00010 Nome
 00012 Posizione
+05905 Aggiungi widget
 03595 Calibra potenza
 01745 Cronologia
 03592 Disattiva audio metronomo
@@ -2479,10 +2508,17 @@
 02172 Auto: %1 mm
 02174 Azzeramento automatico
 05652 Aggiungi nuovo
+05978 Retroilluminazione
 03182 Non disturbare
 03183 Trova telefono
+05979 Torcia
+05957 Altimetro
+05980 Retroilluminazione
+05956 Barometro
+05958 Bussola
 03198 Non disturbare
 03199 Trova telefono
+05981 Torcia
 05503 Blocca tasti
 03200 Controllo musica
 05557 Telefono
@@ -2574,10 +2610,8 @@
 01500 Barometro
 01508 Cadenza - %1
 01496 Bussola
-05496 Bluetooth
 01530 Selez. per aggiungere
 01529 Sensori trovati
-05497 Mostra sensori Bluetooth
 01504 FP - %1
 01503 FC - %1
 01512 Luce - %1
@@ -2660,9 +2694,9 @@
 02928 Rapporti posteriori
 00118 Notifiche
 02352 Durante l'attività
-02353 Modo orologio
+02353 Non durante attiv.
 02354 Durante l'attività
-02355 Modo orologio
+02355 Non durante l'attività
 02363 Timeout
 02356 Notifiche
 02358 Vedi tutto
@@ -2684,7 +2718,7 @@
 02559 Durata
 01237 %1 disponibile
 01236 Ignora
-01239 Tempo prev.: %1
+01239 Tempo previsto: %1 min
 01234 Installa ora
 02958 Installa stanotte
 05857 Aggiornamento automatico
@@ -2797,6 +2831,8 @@
 02402 Peso
 02418 Scatti in sequenza
 02416 Foto
+05887 Standby videocamera
+05888 Sospendi
 02422 Avvia registrazione
 02424 Avvio
 02423 Interruzione
@@ -2805,6 +2841,8 @@
 02419 Esegui time-lapse
 02420 Time-lapse
 02421 Video
+05889 Riattiva videocamera
+05890 Riattiva
 03211 Manuale
 02184 Modo registrazione
 03271 2.7K Tall
@@ -2814,6 +2852,11 @@
 02432 FPS video
 02434 Video HD
 02430 Intervallo
+05892 Solo anteriore
+05894 RAW
+05893 Solo posteriore
+05895 Sconosciuto
+05891 Modo obiettivo
 02428 Modo
 02426 Impostazioni foto
 02431 Risoluzione
@@ -3001,6 +3044,7 @@
 05629 Tipo di rete non compatibile.
 05630 Errore di rete. Riprovare più tardi.
 03566 Nessuna connessione all'app disponibile.
+03565 Nessuna connessione all'app né Wi-Fi disponibile.
 05844 Nessuna rete Wi-Fi nota trovata.
 05634 Memoria insufficiente sul dispositivo.
 03560 Ricerca rete Wi-Fi.
@@ -3056,12 +3100,17 @@
 01525 Ricerca di tutti i sensori e gli accessori nelle vicinanze.
 01524 Ricerca sensore in corso
 05682 Sensore aggiunto
+05866 Errore del sensore
 03702 Connetti il dispositivo TruSwing all'app Mobile.
 03704 Connessione effettuata
 03703 Download ferri
 03701 Associazione
 03699 Ricerca dispositivo mobile.  Premere START per ignorare.
 03700 Ricerca dispositivo TruSwing
+05896 Richiesta di impostazione del dispositivo VIRB in modalità di sospensione
+05897 Richiesta di impostazione del dispositivo VIRB in modalità di riattivazione
+05899 Richiesta non riuscita
+05898 Richiesta completata
 05766 Lap %1
 05754 Premi per Lap
 00421 Formato posizione
@@ -3146,7 +3195,6 @@
 01552 Destro:
 01549 Ver. sw:
 01548 N. serie:
-05429 Tec:
 01559 Ricarica
 01561 Connesso
 01558 Critico
@@ -3361,8 +3409,8 @@
 00239 Temperatura
 00354 G
 01089 Gio
-05101 Tempo avanti
-00523 Tempo avanti
+05101 Preavviso tempo
+00523 Preavviso tempo
 00812 Tm avanti
 05080 Tempo medio Lap
 00504 Tempo medio Lap

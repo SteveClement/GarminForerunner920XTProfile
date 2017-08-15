@@ -1,4 +1,4 @@
-006-D6593-18|v02.20
+006-D6593-18|v02.30
 00001 Português do Brasil
 00252 12 horas
 00253 24 horas
@@ -6,6 +6,14 @@
 00251 6 horas
 00236 Altímetro
 02977 Adic. novo
+05882 Compromisso
+05886 Hora de dormir
+05884 Aula
+05885 Meditar
+05881 Lembrete
+05883 Treino
+05879 Acordar
+05880 Treino
 01625 Personalizado
 01621 Bebida
 01622 Comida
@@ -103,8 +111,8 @@
 05251 Saldo médio
 00666 Saldo médio
 00955 Méd equil.
-05252 Saldo na volta
-00667 Saldo na volta
+05252 Saldo da volta
+00667 Saldo da volta
 00956 Equil. volt
 05253 Saldo na última volta
 00668 Saldo na última volta
@@ -121,8 +129,8 @@
 05324 Méd de braçadas/comprimento
 00732 Méd de braç./comprim
 01021 Mé braç/co
-05338 Média de Swolf
-00742 Média de Swolf
+05338 Média Swolf
+00742 Média Swolf
 01031 Méd Swolf
 05125 Oscilação vertical média
 00544 Osc. vert. média
@@ -446,7 +454,7 @@
 01356 Lento, velocidade fácil
 01357 Contínuo, esforço máximo
 00344 Lançamento à frente em mts
-00355 S
+00355 F
 00499 Falso leste
 00500 Falso norte
 03023 1000 jardas mais rápidas!
@@ -508,6 +516,7 @@
 03661 200 Layup
 03662 250 Layup
 03672 Perguntar sempre
+05930 Armadilha
 00298 Baixe mais conteúdo com o Garmin Connect.
 00299 Baixando percurso
 00301 Iniciando rodada
@@ -524,14 +533,18 @@
 00326 Perdeu à direita
 03678 Nenhuma tacada registrada
 00322 Putts
+05932 Irregular
 03671 Pontuação
 03670 Pontuação
 00304 Selec. percurso
 03677 Tacada
 00327 Monitoramento de estatísticas
-00321 Remadas
+00321 Braçadas
+05934 Para trás
 00305 Metros
 00306 Jardas
+05937 Obstáculo
+05936 Água
 00335 Ir para HARP
 05202 Precisão do GPS
 00618 Precisão do GPS
@@ -587,7 +600,7 @@
 00369 Buraco
 00367 Última rodada
 00370 Pont.
-00368 Remada
+00368 Braçad.
 05230 Grau
 00645 Grau
 00934 Grau
@@ -601,7 +614,6 @@
 03588 12 horas
 03589 24 horas
 05609 De volta ao início
-05821 Calibrar
 05610 Descartar
 05608 Volta
 05607 Contin. depois
@@ -775,7 +787,7 @@
 03253 Freq. de alertas
 03612 Toques de alerta
 03254 Sons
-03086 Bloqueio auto
+03086 Bloqueio auto.
 02089 Auto Pause
 03161 Rolagem autom.
 03653 Plano
@@ -813,7 +825,7 @@
 02287 Mais
 05741 Não há tempo limite
 02085 Desligado
-02563 Aberto
+02563 Abrir
 02271 % RFC
 02272 %LTHR
 02270 Frequência cardíaca %máxima
@@ -1104,7 +1116,6 @@
 02939 Bateria da lanterna traseira %1 fraca.
 01221 Bateria Tempe baixa.
 00036 Temporizador concluído
-01217 A bateria do Varia Vision está fraca.
 01207 A bateria do VIRB está fraca.
 01222 Tamanho calculado da roda.
 01118 Metrônomo
@@ -1112,7 +1123,7 @@
 02321 MOB
 00122 Transição %1
 03574 Tudo
-03573 Uma
+03573 Um
 03572 Pausado
 03571 Repr.
 03570 Repetir
@@ -1240,7 +1251,6 @@
 02620 Farol traseiro desc
 02626 Concluído
 02627 Falha
-02625 Varia conectado
 02611 VIRB conectado
 02604 Aguardar GPS
 03313 Widget adicionado
@@ -1362,10 +1372,14 @@
 01360 Fraco
 01359 Cond desemp
 02682 PM
+05970 Altímetro
+05969 Barômetro
+05971 Bússola
 05827 Não perturbe: desligado
 05826 Não perturbe: ligado
 03546 Não perturbe
 03547 Encontrar meu telefone
+05983 Lanterna
 05514 Bloquear teclas
 03548 Controles de músicas
 05794 Emparelhar VIRB
@@ -1507,7 +1521,6 @@
 05344 Timer de descanso
 00748 Timer de descanso
 01037 Timer desc
-00417 Repouso
 02486 Corrida
 05676 Elevação:
 05677 Posição:
@@ -1522,7 +1535,7 @@
 05681 Não
 05680 Sim
 01834 Continuar
-01835 Essa ação suspenderá a sessão do LiveTrack atual.
+05911 Essa ação encerrará a sessão do LiveTrack atual.
 05546 Conexão com o aplicativo necessária
 01839 Falha no emparelhamento.
 01840 Tentar novamente
@@ -1570,7 +1583,7 @@
 02038 Remover
 01880 Continuar
 03129 Continuar
-01881 Desabilitado
+01881 Desabilitar
 03103 Descartar
 05848 Rejeitar
 01882 Ativar
@@ -1640,7 +1653,7 @@
 03114 SUP
 03116 Força
 03112 Caminhada
-03119 Ritmo/Velocidade
+03119 Ritmo/velocidade
 03098 Emparelhar com telefone?
 03120 Tempo limite para economia de energia
 03482 Excluir segmento?
@@ -1662,7 +1675,6 @@
 01346 Levante e relaxe por 3 minutos.
 05752 Parar percurso?
 05753 Parar navegação?
-05843 Parar segmento?
 01348 A pontuação de estresse calibrará após alguns result
 03124 Temperatura
 01833 Usar armazenamento em massa?
@@ -1709,7 +1721,6 @@
 01537 P/ conect sens Shimano Di2, desloq  engren front ou tras
 01535 Pedal para ativar o sensor.
 01536 Tentar nov.
-01540 Ligue o dispositivo Varia Vision para conectar.
 03059 Ligue a câmera e ative a configuração Remota para conectar.
 02580 Quilômetros
 02579 Milhas
@@ -1721,7 +1732,6 @@
 01888 Concluído
 01887 Falha na atualização.  Tentar novamente no Garmin Connect.
 00062 Falha na atualização.  Tente novamente.
-05820 Ignorar calibração da esteira?
 01589 Aceitar
 01591 Ritmo: %1
 01592 Veloc.: %1
@@ -1775,7 +1785,7 @@
 01382 Ontem
 00080 Geral
 00079 Transição %1
-01990 Excluir
+01990 Eliminar
 01986 Detalhes
 01989 Baixar frequência cardíaca
 00045 Ir
@@ -1798,6 +1808,7 @@
 02022 Esqui XC
 02002 Personalizado
 02016 Duatlo
+05867 Golfe
 05500 Nome da atividade
 02019 Caminhada
 02031 Jumpmaster
@@ -1865,7 +1876,7 @@
 02062 Lim. econ. energ.
 03157 Alertas do segmento
 02075 Remover
-02076 Renomear
+02076 Atribuir novo nome
 03160 Reordenar
 02051 Repetir
 05549 Restaurar padrões
@@ -1875,7 +1886,7 @@
 02050 Transições
 02063 Quando parado
 02055 %1 jardas
-01981 Monit. atividades
+01981 Monit. de ativid.
 05439 Alertas de objetivos
 01979 Alerta de movimento
 03143 Move IQ
@@ -1900,19 +1911,27 @@
 03056 VIRB
 02095 Adicionar alarme
 02094 Alarmes
+05874 Compromisso
 02099 Luz de fundo
+05878 Hora de dormir
+05876 Aula
 02101 Personalizado
 02103 Personalizado
 02102 Personalizado
 02105 Diariamente
 02104 Diariamente
-02100 Excluir
+02100 Eliminar
 02123 Sex
 02122 Sexta
+05869 Etiqueta
+05868 Etiqueta
+05877 Meditar
 02115 Seg
 02114 Segunda
+05870 Nenhum
 03168 Desligado
 03167 Desligado
+05873 Lembrete
 03166 Repetir
 03165 Repetir
 02125 Sáb
@@ -1922,14 +1941,17 @@
 02121 Qui
 02120 Quinta
 02098 Hora
+05875 Treino
 02117 Ter
 02116 Terça
+05871 Acordar
 02119 Quarta
 02118 Quarta
 03170 Dias de semana
 03169 Dias de semana
 03172 Finais de semana
 03171 Finais de semana
+05872 Treino
 01607 Adicionar novo
 01620 Alertas
 01617 Cadência
@@ -2067,8 +2089,8 @@
 03173 Teclas
 05776 Durante as atividades
 05774 Durante atividades
-05777 Modo de relógio
-05775 Modo de relógio
+05915 Fora da atividade
+05914 Fora da atividade
 05740 Não há tempo limite
 02132 Tempo limite
 03177 Tempo limite
@@ -2118,7 +2140,7 @@
 00093 Percursos
 00094 Criar novo
 00095 Corridas baixadas
-00090 Excluir
+00090 Eliminar
 00086 Realizar percurso
 00088 Plano de elevação
 00087 Mapa
@@ -2130,6 +2152,7 @@
 00058 Campo 3
 00059 Campo 4
 00053 Layout
+05865 Campo de dados
 00055 %1 campos
 00054 1 campo
 03619 Remover
@@ -2186,6 +2209,7 @@
 02233 Domingo
 01314 Estimat 18-31 min
 00311 Finalizar rodada
+05935 Perigos
 00313 Layups
 00312 Medir tacadas
 03667 Mover sinalizador
@@ -2366,13 +2390,14 @@
 05060 Área da piscina
 05046 Ponto de partida
 05064 Aves aquáticas
-00011 Excluir
+00011 Eliminar
 00009 Detalhes
 00013 Elevação
 00008 Ir para
 05026 Ícone
 00010 Nome
 00012 Posição
+05905 Adicionar widget
 03595 Calibrar potência
 01745 Histórico
 03592 Silenciar metrônomo
@@ -2479,10 +2504,17 @@
 02172 Automático: %1 mm
 02174 Zerar automaticamente
 05652 Adicionar novo
+05978 Luz de fundo
 03182 Não perturbe
 03183 Encontrar meu telefone
+05979 Lanterna
+05957 Altímetro
+05980 Luz de fundo
+05956 Barômetro
+05958 Bússola
 03198 Não perturbe
 03199 Encontrar tel.
+05981 Lanterna
 05503 Bloquear teclas
 03200 Controles músicas
 05557 Telefone
@@ -2565,7 +2597,7 @@
 03458 Grau %1
 03456 Garmin Segments
 03457 Strava Live Segments
-03463 Excluir
+03463 Eliminar
 03462 Plano de elevação
 03461 Mapa
 03460 Tempo de corrida
@@ -2574,10 +2606,8 @@
 01500 Barômetro
 01508 Cadência - %1
 01496 Bússola
-05496 Bluetooth
 01530 Selec. para adicionar
 01529 Sens. encontrados
-05497 Mostrar sensores de Bluetooth
 01504 FP - %1
 01503 FC - %1
 01512 Luz - %1
@@ -2653,16 +2683,16 @@
 02582 Inserir manualmente
 02581 Selecionar hora
 02583 Usar previsão
-02584 Usar registro
+02584 Usar recorde
 02927 Engren. frontais
 02929 Engrenagem %1
 02930 Predefinições de engrenagem
 02928 Engren. traseiras
 00118 Notificações
 02352 Durante atividades
-02353 Modo de relógio
+02353 Fora da atividade
 02354 Durante as atividades
-02355 Modo de relógio
+02355 Fora da atividade
 02363 Tempo limite
 02356 Notificações
 02358 Mostrar tudo
@@ -2680,11 +2710,11 @@
 02183 Manual: %1 mm
 02181 Tamanho da roda
 02558 Distância
-02560 Aberto
+02560 Abrir
 02559 Tempo
 01237 %1 disponível
 01236 Rejeitar
-01239 Tempo estim.: %1
+01239 Tpo estimado: %1 min.
 01234 Instalar agora
 02958 Instalar durante esta noite
 05857 Atualização automática
@@ -2781,7 +2811,7 @@
 02392 Quilômetros
 02394 Metros
 02391 Milhas
-02386 Ritmo/Velocidade
+02386 Ritmo/velocidade
 02395 Libras
 02390 Temperatura
 02384 Unidades
@@ -2797,6 +2827,8 @@
 02402 Peso
 02418 Várias fotos
 02416 Foto
+05887 Colocar câmera em espera
+05888 Sono
 02422 Iniciar gravação
 02424 Iniciando
 02423 Parando
@@ -2805,6 +2837,8 @@
 02419 Obter Time-lapse
 02420 Tempo decorrido
 02421 Vídeo
+05889 Tirar câmera da espera
+05890 Despertar
 03211 Manual
 02184 Modo de gravação
 03271 2.7K de altura
@@ -2814,6 +2848,11 @@
 02432 QPS do vídeo
 02434 Vídeo HD
 02430 Intervalo
+05892 Apenas frontal
+05894 RAW
+05893 Somente traseiro
+05895 Desconhecido
+05891 Modo de lente
 02428 Modo
 02426 Ajustes de Foto
 02431 Resolução
@@ -2882,7 +2921,7 @@
 02456 Ontem
 02476 1 passo
 02477 Cancelar treino
-02474 Excluir
+02474 Eliminar
 02472 Realizar treino
 02475 %1 passos
 02473 Exibir
@@ -3001,6 +3040,7 @@
 05629 Tipo de rede incompatível.
 05630 Erro de rede. Tente novamente mais tarde.
 03566 Sem conexão com o aplicativo disponível.
+03565 Nenhum aplicativo ou conexão Wi-Fi disponível.
 05844 Nenhuma rede Wi-Fi conhecida foi encontrada.
 05634 Memória insuficiente no dispositivo.
 03560 Procurando pela rede Wi-Fi.
@@ -3026,7 +3066,7 @@
 00141 Corra const com alta intens por 20:00 com freq card e pot p/ obter VO2 máx.
 05615 VO2 máx. neces. Pedale ao ar livre por 20:00 com FC e energia para obter o VO2 máx.
 01956 Corra 10:00 em ambiente externo com frequência cardíaca para obter VO2 máximo.
-03616 O sinal de GPS é mais forte em amb. aberto, afast de árvores e edifícios altos.
+03616 Sin. GPS mais forte em amb. aberto, longe de árvores e edifícios altos.
 03615 Sincronização concluída.
 00048 Aguardar GPS.
 03218 Baixe mais widgets da loja do Connect IQ.
@@ -3056,12 +3096,17 @@
 01525 Procurando por todos os sensores e acessórios nas proximidades.
 01524 Procurando por sensor
 05682 Sensor adicionado
+05866 Erro do sensor
 03702 Conectar dispositivo TruSwing ao aplicativo móvel.
 03704 Conexão realizada com êxito
 03703 Fazendo download de clubes
 03701 Emparelhando
 03699 Procurando dispositivo móvel.  Pressione START para ignorar.
 03700 Procurando dispositivo TruSwing
+05896 Solicitando para que dispositivo VIRB entre em modo de espera
+05897 Solicitando para que dispositivo VIRB saia do modo de espera
+05899 Falha na solicitação
+05898 Solicitação bem-sucedida
 05766 Volt %1
 05754 Press para volta
 00421 Formato da posição
@@ -3128,7 +3173,7 @@
 01249 Tiros - %1
 05816 Corr. esqui %1
 01275 TSS:
-01251 Hora:
+01251 Tempo:
 01281 Tem em pé:
 01262 Osc. Vert.:
 01263 Prop. vert.:
@@ -3146,7 +3191,6 @@
 01552 Direita:
 01549 Ver soft
 01548 # série:
-05429 Tecnol.:
 01559 Carregando
 01561 Conectado
 01558 Crítico
@@ -3289,7 +3333,7 @@
 01041 Mín. Temp.
 03493 Benefício aeróbico mínimo
 03503 Resist. aeróbica altamente melhorada
-03504 Limiar de lactato melhorado
+03504 Melhoria do limiar de lactato
 03505 Limiar de lactato altamente melhorado
 03506 VO2 máximo melhorado
 03507 VO2 máximo altamente melhorado
@@ -3301,22 +3345,22 @@
 03498 Recuperação
 03499 Benefício aeróbico mínimo
 03500 Manutenção da base aeróbica
-03501 Base aeróbica melhorada
-03502 Resistência aeróbica melhorada
+03501 Melhoria da base aeróbica
+03502 Melhoria da resistência aeróbica
 03509 Sem benefício anaeróbico
 03517 Manutenção da economia e base anaeróbica
 03518 Melhoria da economia e base anaeróbica
-03519 Capac. e veloc. anaeróbica melhoradas
+03519 Melhoria da capacidade e velocidade anaeróbica
 03520 Capac. e veloc. anaerób. alt. melhoradas
 03521 Econ. e base anaeróbicas alt. melhoradas
 03522 Benefício anaeróbico mínimo
 03510 Manteve a capacidade anaeróbica
-03511 Melhorou a capacidade anaeróbica
+03511 Melhoria da base anaeróbica
 03512 Melhorou muito a capacidade anaeróbica
 03513 Pequeno benefício na velocidade
 03514 Manteve a velocidade
 03515 Manutenção da potência anaeróbica
-03516 Capac. e pot. anaeróbica melhoradas
+03516 Melhoria da capacidade e potência anaeróbica
 03490 Aeróbico
 03491 Anaerób.
 03489 Training Effect
@@ -3325,7 +3369,7 @@
 03637 Cor de fundo
 03576 Personalizar
 05492 Dados
-03577 Excluir
+03577 Eliminar
 05493 Seletor
 03640 Concluído
 03633 Ponteiros
@@ -3336,10 +3380,10 @@
 05513 Use por uma semana para calcular a carga de 7 dias.
 03537 Carga de treinamento
 03524 Aus. de treino
-03531 Fitness
-03535 Alto
+03531 Academia
+03535 Alta
 03532 Carregar
-03533 Baixo
+03533 Baixa
 03527 Mantendo
 05699 Nenhum status
 03534 Ideal
@@ -3359,7 +3403,7 @@
 00352 T
 00474 Sistema de Taiwan
 00239 Temperatura
-00354 T
+00354 Q
 01089 Qui
 05101 Tempo à frente
 00523 Tempo à frente
@@ -3450,7 +3494,7 @@
 02779 hPa
 02737 Hz
 05658 h
-02738 pol
+02738 pol.
 02739 kft
 02740 kg
 02741 kHz

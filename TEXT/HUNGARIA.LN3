@@ -1,4 +1,4 @@
-006-D6593-12|v02.20
+006-D6593-12|v02.30
 00001 Magyar
 00252 12 órás
 00253 24 órás
@@ -6,6 +6,14 @@
 00251 6 órás
 00236 Magasságmérő
 02977 Új hozzáadása
+05882 Időpont
+05886 Lefekvés ideje
+05884 Tanóra
+05885 Meditáció
+05881 Emlékeztető
+05883 Tréning
+05879 Ébresztés
+05880 Edzés
 01625 Egyéni
 01621 Ital
 01622 Étel
@@ -422,7 +430,7 @@
 00444 Észt térképhálózat
 02714 Lejárt
 02852 Külső profil
-02592 Febr
+02592 Feb.
 03304 Futás, kerékp. és további tevékenységek.
 05709 Tartsa lenyomva: tev.-beállítások, edzés stb.
 03307 Nyomva: zene, hely mentése és egyéb.
@@ -508,6 +516,8 @@
 03661 200 gyűjtés
 03662 250 gyűjtés
 03672 Mindig kérdezzen rá
+05930 Bunker
+05931 Bunkerek
 00298 Továbbiak letöltése a Garmin Connecttel.
 00299 Pálya letöltése
 00301 Kezdőkör
@@ -524,14 +534,19 @@
 00326 Kihagyott jobb
 03678 Nincs rögzített ütés
 00322 Gurítások
+05932 Durva talaj
 03671 Pontozás
 03670 Pontozás
 00304 Pálya kiválasztása
 03677 Ütés
 00327 Adatok nyomon követése
 00321 Csapás
+05934 hátulra
+05933 előre
 00305 Méter
 00306 Yard
+05937 Hulladék
+05936 Víz
 00335 Ugrás ide: HARP
 05202 GPS-pontosság
 00618 GPS-pontosság
@@ -601,7 +616,6 @@
 03588 12 órás
 03589 24 órás
 05609 Kezdés
-05821 Kalibrálás
 05610 Elvetés
 05608 Kör
 05607 Folytatás később
@@ -623,8 +637,8 @@
 02652 Profilok: %1, %2, %3, %4
 02653 Profilok: %1, %2, %3, %4, %5
 05488 Stressz
-05486 Intenzív terhelés
-05484 Alacsony terhelés
+05486 Magas stressz
+05484 Alacs. stressz
 05485 Közepes terhelés
 05487 Igen intenz. terhelés
 00249 Kilép a közvetítési módból?
@@ -844,11 +858,11 @@
 01735 Válasszon zónát
 01334 Elfogad
 01335 Elutasítás
-02966 bpm
+02966 üt/p
 05846 /km
-05845 /mi
+05845 /mf
 02964 Új küszöb
-02963 bpm
+02963 üt/p
 02962 Tejsavküszöb
 01330 Kézi bevitel
 01328 Küszöbérték érzékelve
@@ -1104,7 +1118,6 @@
 02939 A hátsó lámpa (%1) eleme hamarosan lemerül.
 01221 Tempe akkuszint alacsony.
 00036 Stopper kész
-01217 A Varia Vision hamarosan lemerül.
 01207 A VIRB akkumulátora lemerülőben.
 01222 Kerékméret kiszámítva
 01118 Metronóm
@@ -1200,6 +1213,7 @@
 02638 Csatlakoztatva
 03613 Pálya elkezdve
 02614 Di2 csatlakoztatva
+05949 Edge csatlakoztatva
 02609 Lépéssz. csatl.
 02603 A GPS készen áll
 02636 Cél!
@@ -1240,7 +1254,6 @@
 02620 Hátsó lámpa lem.
 02626 Kész
 02627 Sikertelen
-02625 Varia csatl.
 02611 VIRB csatlakoztatva
 02604 Várakozás a GPS-re
 03313 Widget hozzáadva
@@ -1355,17 +1368,21 @@
 02523 FTP %
 02492 Pz.tr. %
 02493 Maxim. %
-01362 Kiindulási
+01362 Alapérték
 01364 Kiváló
 01361 Korrekt
 01363 Jó
 01360 Gyenge
 01359 Teljesítményfeltétel
 02682 du
+05970 Magasság​mérő
+05969 Barométer
+05971 Iránytű
 05827 Ne zavarj: kikapcsolva
 05826 Ne zavarj: bekapcsolva
-03546 Ne zavarjanak
+03546 Ne zavarj
 03547 Telefonkeresés
+05983 Elemlámpa
 05514 Billentyűk lezárása
 03548 Zenevezérlők
 05794 VIRB párosítása
@@ -1393,7 +1410,7 @@
 02712 láb
 02710 km
 02709 m
-02711 mi
+02711 mf
 05232 Teljesítmény
 00647 Teljesítmény
 00936 Telj.
@@ -1522,7 +1539,7 @@
 05681 Nem
 05680 Igen
 01834 Folytatás
-01835 Ez felfüggeszti az aktuális LiveTrack menetet.
+05911 Ez leállítja az aktuális LiveTrack menetet.
 05546 Mobilalkalmazás-kapcsolat szükséges
 01839 Párosítás sikertelen.
 01840 Újra
@@ -1662,7 +1679,6 @@
 01346 Álljon és pihenjen 3 percig.
 05752 Leállítja a pályát?
 05753 Leállítja a navigációt?
-05843 Leállítja a szakaszt?
 01348 A pontszám pár eredmény után kalibrálódik.
 03124 Hőmérséklet
 01833 Háttértár használata?
@@ -1709,7 +1725,6 @@
 01537 A Shimano Di2 érzékelő csatl.hoz váltson fokozatot a váltóval.
 01535 Az érzékelő aktiválásához tekerje a pedált.
 01536 Újra
-01540 A csatlakozáshoz kapcsolja be a Varia Vision eszközt.
 03059 Kapcsolja be a kamerát és engedélyezze a Távoli beállítást.
 02580 Kilométer
 02579 Mérföld
@@ -1721,7 +1736,6 @@
 01888 Kész
 01887 Frissítés sikertelen.  Próbálja újra a Garmin Connectről.
 00062 Frissítés sikertelen.  Próbálja újra.
-05820 Kihagyja a futópad kalibrálását?
 01589 Elfogad
 01591 Tempó: %1
 01592 Seb.: %1
@@ -1798,6 +1812,7 @@
 02022 XC síelés
 02002 Egyéni
 02016 Duatlon
+05867 Golf
 05500 Tevékenység neve
 02019 Túrázás
 02031 Ejt. ugrás
@@ -1900,7 +1915,10 @@
 03056 VIRB
 02095 Riasztás hozzáadása
 02094 Riasztások
+05874 Időpont
 02099 Háttérvilágítás
+05878 Lefekvés ideje
+05876 Tanóra
 02101 Egyéni
 02103 Egyéni
 02102 Egyéni
@@ -1909,10 +1927,15 @@
 02100 Törlés
 02123 Pént.
 02122 Péntek
+05869 Címke
+05868 Címke
+05877 Meditáció
 02115 Hé.
 02114 Hétfő
+05870 Nincs
 03168 Kikapcsol
 03167 Kikapcsol
+05873 Emlékeztető
 03166 Ismétlés
 03165 Ismétlés
 02125 Szom.
@@ -1922,14 +1945,17 @@
 02121 Csütörtök
 02120 Csütörtök
 02098 Idő
+05875 Tréning
 02117 Ke.
 02116 Kedd
+05871 Ébresztés
 02119 Sze.
 02118 Szerda
 03170 Hétköznap
 03169 Hétköznap
 03172 Hétvégék
 03171 Hétvégék
+05872 Edzés
 01607 Új hozzáadása
 01620 Riasztások
 01617 Pedálütem
@@ -2067,8 +2093,8 @@
 03173 Gombok
 05776 Tevékenység közben
 05774 Tevékeny. közben
-05777 Óra üzemmód
-05775 Óra üzemmód
+05915 Tevékenységen kívül
+05914 Tev.-en kívül
 05740 Nincs időkorlát
 02132 Időkorlát
 03177 Időkorlát
@@ -2130,6 +2156,7 @@
 00058 3. mező
 00059 4. mező
 00053 Elrendezés
+05865 Adatmező
 00055 %1 mező
 00054 1 mező
 03619 Eltávolítás
@@ -2167,7 +2194,7 @@
 01727 Hőmérsékleti mezők
 01734 Zónában töltött idő
 01710 Időzítő mezők
-02161 Ne zavarjanak
+02161 Ne zavarj
 02162 Alvási idő
 01114 Gyakorlat távolsága
 01116 %1 méter
@@ -2186,6 +2213,7 @@
 02233 Vasárnap
 01314 Kb. 18-31 perc
 00311 Kör vége
+05935 Veszélyek
 00313 Gyűjtés
 00312 Ütésmérés
 03667 Zászló áthelyezése
@@ -2318,7 +2346,7 @@
 00004 Több
 00002 Mentett helyek
 02292 Hely szerkesztése
-05061 ATV
+05061 Quad
 05056 Strand
 05036 Kerékpár nyomvonal
 05067 Négyzet, kék
@@ -2373,6 +2401,7 @@
 05026 Ikon
 00010 Név
 00012 Pozíció
+05905 Widget hozzáadása
 03595 Teljesítmény kalibrálása
 01745 Előzmény
 03592 Metronóm némítása
@@ -2479,10 +2508,17 @@
 02172 Automatikus: %1 mm
 02174 Automatikus nullázás
 05652 Új hozzáadása
-03182 Ne zavarjanak
+05978 Háttérvilágítás
+03182 Ne zavarj
 03183 Telefonkeresés
-03198 Ne zavarjanak
+05979 Elemlámpa
+05957 Magasság​mérő
+05980 Háttérvilágítás
+05956 Barométer
+05958 Iránytű
+03198 Ne zavarj
 03199 Telefonkeresés
+05981 Elemlámpa
 05503 Billentyűk lezárása
 03200 Zenevezérlők
 05557 Telefon
@@ -2574,10 +2610,8 @@
 01500 Barométer
 01508 Pedálütem – %1
 01496 Iránytű
-05496 Bluetooth
 01530 Válasszon
 01529 Érzékelők észlelve
-05497 Bluetooth-érz. mutatása
 01504 FP – %1
 01503 HR – %1
 01512 Fény – %1
@@ -2660,9 +2694,9 @@
 02928 Hátsó fokozatok
 00118 Értesítések
 02352 Tevékeny. közben
-02353 Óra üzemmód
+02353 Nincs tevékenység
 02354 Tevékenység közben
-02355 Óra üzemmód
+02355 Tevékenységen kívül
 02363 Időkorlát
 02356 Értesítések
 02358 Összes megjelenítése
@@ -2684,7 +2718,7 @@
 02559 Idő
 01237 %1 elérhető
 01236 Bezárás
-01239 Kb. idő: %1
+01239 Becs. idő: %1 perc
 01234 Telepítés most
 02958 Telepítés ma éjszaka
 05857 Automatikus frissítés
@@ -2696,7 +2730,7 @@
 01763 Háttérvilágítás
 01762 Óra
 01769 Adatrögzítés
-03087 Ne zavarjanak
+03087 Ne zavarj
 01774 Másodpercenként
 01768 Jelleg
 01759 Parancsgombok
@@ -2797,6 +2831,8 @@
 02402 Súly
 02418 Sorozatfelvétel
 02416 Fénykép
+05887 Kamera alvó módba
+05888 Alvás
 02422 Rögzítés indítása
 02424 Indítás
 02423 Leállás
@@ -2805,6 +2841,8 @@
 02419 Idősűrítés készítése
 02420 Idősűrítés
 02421 Videó
+05889 Kamera ébresztése
+05890 Ébresztés
 03211 Kézi
 02184 Rögzítési mód
 03271 2,7K 4:3 képarány
@@ -2814,6 +2852,11 @@
 02432 Videosebesség (FPS)
 02434 HD videó
 02430 Időköz
+05892 Csak az első
+05894 RAW
+05893 Csak a hátsó
+05895 Ismeretlen
+05891 Lencsemód
 02428 Mód
 02426 Fényképbeállítások
 02431 Felbontás
@@ -3001,6 +3044,7 @@
 05629 Nem kompatibilis hálózattípus.
 05630 Hálózati hiba. Próbálja újra később.
 03566 Nincs elérhető alkalmazáskapcsolat.
+03565 Nincs elérhető alkalmazás vagy Wi-Fi-kapcsolat.
 05844 Nem található ismert Wi-Fi hálózat.
 05634 Nincs elegendő szabad hely a készüléken.
 03560 Wi-Fi-hálózat keresése.
@@ -3056,12 +3100,17 @@
 01525 A közelben található érzékelők és tartozékok keresése.
 01524 Érzékelő keresése
 05682 Érzékelő hozzáadva
+05866 Érzékelőhiba
 03702 TruSwing eszköz csatlakoztatása a mobilalkalmazáshoz.
 03704 Sikeres csatlakozás
 03703 Ütők letöltése
 03701 Párosítás
 03699 Mobil keresése.  Az átugráshoz nyomja meg a START gombot.
 03700 TruSwing eszköz keresése
+05896 Kérés: a VIRB eszköz lépjen alvó üzemmódba
+05897 Kérés: a VIRB eszköz lépjen ki az alvó üzemmódból
+05899 Kérés sikertelen
+05898 Kérés teljesítése sikeres
 05766 Kör %1
 05754 Lenyomás: kör
 00421 Poz. formátum
@@ -3146,7 +3195,6 @@
 01552 Jobb:
 01549 SW ver.:
 01548 Gy. sz.:
-05429 Tech:
 01559 Töltés
 01561 Csatlak.
 01558 Kritikus
@@ -3311,7 +3359,7 @@
 03521 Gazd. és anaerob jelentős fejlesztése
 03522 Kis anaerob nyereség
 03510 Anaerob edzettség szinten tartása
-03511 Anaerob edzettség fejlesztése
+03511 Anaerob alap fejlesztése
 03512 Anaerob edz. jelentős fejlesztése
 03513 Kis sebesség nyereség
 03514 Sebesség fenntartása
@@ -3429,7 +3477,7 @@
 00206 Igaz
 01087 Ke.
 02772 a
-02720 bpm
+02720 üt/p
 02721 C
 02722 °C
 02723 cm
@@ -3468,8 +3516,8 @@
 02748 MB
 02749 MHz
 02763 m
-02757 m/h
-02754 mi
+02757 mf/h
+02754 mf
 02747 mb
 02755 mm
 02782 ms
@@ -3490,7 +3538,7 @@
 02785 /500yd
 02766 /ó.
 02767 /km
-02768 /mi
+02768 /mf
 02781 %r
 02769 %m
 02765 %
@@ -3603,7 +3651,7 @@
 00758 Cél útvonalpontja
 01047 Cél ú.pont
 02538 Befejezés: LAP gomb
-02690 N
+02690 Ny
 00353 S
 02481 Bemelegít
 02480 Bemeleg.
@@ -3636,7 +3684,7 @@
 02699 Z7
 02683 a
 02685 de
-02519 bpm
+02519 üt/p
 04951 nap
 00297 Hajlított
 03738 %1 akkumulátorfeszültsége alacsony.

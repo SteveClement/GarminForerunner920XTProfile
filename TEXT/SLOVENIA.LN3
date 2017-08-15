@@ -1,4 +1,4 @@
-006-D6593-15|v02.20
+006-D6593-15|v02.30
 00001 Slovenski
 00252 12-urni
 00253 24-urni
@@ -6,6 +6,14 @@
 00251 6-urni
 00236 Višinomer
 02977 Dodaj novo
+05882 Sestanek
+05886 Čas za spanje
+05884 Pouk
+05885 Meditacija
+05881 Opomnik
+05883 Trening
+05879 Bujenje
+05880 Vadba
 01625 Po meri
 01621 Pijaca
 01622 Hrana
@@ -508,6 +516,8 @@
 03661 Krivulja za razdaljo 200
 03662 Krivulja za razdaljo 250
 03672 Vedno vprašaj
+05930 Bunker
+05931 Bunkerji
 00298 Pren. iz Garmin Connect.
 00299 Prenašanje proge
 00301 Začetek kroga
@@ -524,14 +534,16 @@
 00326 Zgrešila v desno
 03678 Ni zabeleženih udarcev
 00322 Pati
+05932 Ledina
 03671 Beleženje rezultata
 03670 Beleženje rezultata
-00304 Izberite progo
+00304 Izberite igrišče
 03677 Udarec
 00327 Sledenje statistiki
 00321 Udarci
 00305 Metri
 00306 Jardi
+05936 Voda
 00335 Pojdi na HARP
 05202 Natančnost GPS-a
 00618 Natančnost GPS-a
@@ -566,7 +578,7 @@
 05229 Vpadni kot cilja
 00644 Vpadni kot cilja
 00933 V. k. do cil.
-02517 Pojdi
+02517 Nadaljuj
 00388 Cilj je izpolnjen!
 05854 Cilj!
 00302 Preblizu zelenice za krivulje
@@ -601,7 +613,6 @@
 03588 12-urni
 03589 24-urni
 05609 Nazaj na začet.
-05821 Umeri
 05610 Zavrzi
 05608 krog
 05607 Nadaljuj pozneje
@@ -623,8 +634,8 @@
 02652 Uporablja %1, %2, %3, %4
 02653 Uporablja %1, %2, %3, %4, %5
 05488 Stres
-05486 Velika obremenitev
-05484 Majhna obremenitev
+05486 Visoka raven stresa
+05484 Nizka raven stresa
 05485 Zmerna obremenitev
 05487 Zelo velika obremenitev
 00249 Izhod iz načina oddajanja?
@@ -844,11 +855,11 @@
 01735 Izberite območje
 01334 Sprejmi
 01335 Zavrni
-02966 bpm
+02966 u/mi
 05846 /km
 05845 /mi
 02964 Nov prag
-02963 bpm
+02963 u/mi
 02962 Laktatni prag
 01330 Ročni vnos
 01328 Prag je bil zaznan
@@ -1001,7 +1012,7 @@
 02595 Maj
 01140 Mesecno
 01142 Sk. meseč. vredn.
-01139 Tedensko
+01139 Tedenski
 01141 Sk. ted. vrednosti
 03032 1000 yd
 03027 100 m
@@ -1042,8 +1053,8 @@
 01462 Najdaljša vožnja
 01471 Najdaljši tek
 01472 Najdaljši tek
-03044 Najdaljše plavanje
-03045 Najdaljše plavanje
+03044 Najd. preplav. razd.
+03045 Najd. preplav. razd.
 01473 Maraton
 01474 Največji vzpon
 01475 Največji vzpon
@@ -1104,7 +1115,6 @@
 02939 Baterija zadnje luči %1 je skoraj prazna.
 01221 Raven baterije senzorja Tempe je nizka.
 00036 Časovnik je končal
-01217 Baterija naprave Varia Vision je skoraj prazna.
 01207 Raven baterije kamere VIRB je nizka.
 01222 Velikost kolesa je izracunana.
 01118 Metronom
@@ -1240,7 +1250,6 @@
 02620 Povez. z. luči prek.
 02626 Končano
 02627 Ni uspelo
-02625 Varia je povezana
 02611 VIRB je povezana
 02604 Pocakajte na GPS
 03313 Dodan je pripomoč.
@@ -1362,10 +1371,14 @@
 01360 Slabo
 01359 Stanje zmogljivosti
 02682 Pop
+05970 Višinomer
+05969 Barometer
+05971 Kompas
 05827 Ne moti: izklopljeno
 05826 Ne moti: vklopljeno
 03546 Ne moti
 03547 Poišči moj telefon
+05983 Svetilka
 05514 Zakleni tipke
 03548 Upravljanje glasbe
 05794 Združi VIRB
@@ -1522,7 +1535,7 @@
 05681 Ne
 05680 Da
 01834 Nadaljujte
-01835 S tem boste začasno ustavili trenutno sejo LiveTrack.
+05911 S tem boste končali trenutno sejo LiveTrack.
 05546 Potrebna je povezava s progr. za mobil. naprave
 01839 Združevanje ni bilo uspešno.
 01840 Poskusi znova
@@ -1602,7 +1615,7 @@
 03101 Ali želite ustvariti novo?
 03102 Snemanje podatkov
 01806 Izbrisem dejavnosti?
-01805 Izbrisem dejavnost?
+01805 Izbrišem dejavnost?
 01807 Ali želite izbrisati vse?
 00096 Želite izbrisati progo?
 00100 Ali želite izbrisati lokacijo?
@@ -1662,7 +1675,6 @@
 01346 3 minute stojte in mirujte.
 05752 Ali želite prekiniti progo?
 05753 Želite ustaviti navigacijo?
-05843 Ali želite ustaviti odsek?
 01348 Učinek na telo se umeri po nekaj rezultatih.
 03124 Temperatura
 01833 Upor. mnoz. shr.?
@@ -1709,7 +1721,6 @@
 01537 Za povez. s Shimano Di2 prestavite spred. ali zad. prestavo.
 01535 Za aktiviranje senzorja zacnite poganjati.
 01536 Ponovi
-01540 Za vzpostavitev povezave vklopite napravo Varia Vision.
 03059 Za povezovanje vklopite kamero in omogočite dalj. upravljanje.
 02580 Kilometri
 02579 Milje
@@ -1721,7 +1732,6 @@
 01888 Končano
 01887 Posodobitev ni bila uspešna.  Poskusite znova iz storitve Garmin Connect.
 00062 Posodobitev ni uspela.  Poskusite znova.
-05820 Preskočim umerjanje tekalne steze?
 01589 Sprejmi
 01591 Tempo: %1
 01592 Hitrost: %1
@@ -1798,6 +1808,7 @@
 02022 Tek na smuč.
 02002 Po meri
 02016 Duatlon
+05867 Golf
 05500 Ime dejavnosti
 02019 Pohodništvo
 02031 Jumpmaster
@@ -1900,7 +1911,10 @@
 03056 VIRB
 02095 Dodaj alarm
 02094 Alarmi
+05874 Sestanek
 02099 Osvetlitev
+05878 Čas za spanje
+05876 Pouk
 02101 Po meri
 02103 Po meri
 02102 Po meri
@@ -1909,10 +1923,15 @@
 02100 Izbriši
 02123 Pet
 02122 Petek
+05869 Oznaka
+05868 Oznaka
+05877 Meditacija
 02115 Pon
 02114 Ponedeljek
+05870 Brez
 03168 Izklopljeno
 03167 Izklopljeno
+05873 Opomnik
 03166 Ponovi
 03165 Ponovi
 02125 Sob
@@ -1922,14 +1941,17 @@
 02121 Cet
 02120 Četrtek
 02098 Čas
+05875 Trening
 02117 Tor
 02116 Torek
+05871 Bujenje
 02119 Sre
 02118 Sreda
 03170 Ob delavnikih
 03169 Ob delavnikih
 03172 Ob koncih tedna
 03171 Ob koncih tedna
+05872 Vadba
 01607 Dodaj novo
 01620 Alarmi
 01617 Kadenca
@@ -2067,8 +2089,8 @@
 03173 Tipke
 05776 Med dejavnostjo
 05774 Med dejavnostjo
-05777 Način ure
-05775 Način ure
+05915 Ne med dejavnostjo
+05914 Ne med dejavnostjo
 05740 Brez časovne omejitve
 02132 Premor
 03177 Premor
@@ -2130,6 +2152,7 @@
 00058 Polje 3
 00059 Polje 4
 00053 Postavitev
+05865 Podatkovno polje
 00055 %1 polj
 00054 1 polje
 03619 Odstrani
@@ -2186,6 +2209,7 @@
 02233 Nedelja
 01314 Predv. 18–31 minut
 00311 Koncni krog
+05935 Ovire
 00313 Krivulje
 00312 Merjenje udarca
 03667 Premakni zastavico
@@ -2373,6 +2397,7 @@
 05026 Ikona
 00010 Ime
 00012 Položaj
+05905 Dodaj pripomoček
 03595 Umeri moč
 01745 Zgodovina
 03592 Izklopi zvok metronoma
@@ -2479,10 +2504,17 @@
 02172 Samodejno: %1 mm
 02174 Samodejna ničla
 05652 Dodaj novo
+05978 Osvetlitev
 03182 Ne moti
 03183 Poišči moj telefon
+05979 Svetilka
+05957 Višinomer
+05980 Osvetlitev
+05956 Barometer
+05958 Kompas
 03198 Ne moti
 03199 Poišči moj telefon
+05981 Svetilka
 05503 Zakleni tipke
 03200 Upravljanje glasbe
 05557 Telefon
@@ -2574,10 +2606,8 @@
 01500 Barometer
 01508 Kadenca – %1
 01496 Kompas
-05496 Bluetooth
 01530 Izberite za dodajanje
 01529 Najdeni senzorji
-05497 Prikaži senzorje Bluetooth
 01504 FP – %1
 01503 SU – %1
 01512 Luč – %1
@@ -2653,16 +2683,16 @@
 02582 Vnesite ročno
 02581 Izberite čas
 02583 Uporabi oceno
-02584 Uporabi zapis
+02584 Uporabi rekord
 02927 Sprednje prestave
 02929 Prestava %1
 02930 Prednastavitve prestav
 02928 Zadnje prestave
 00118 Obvestila
 02352 Med dejavnostjo
-02353 Način ure
+02353 Ne med dejavnostjo
 02354 Med dejavnostjo
-02355 Način ure
+02355 Ne med dejavnostjo
 02363 Premor
 02356 Obvestila
 02358 Prikazi vse
@@ -2684,7 +2714,7 @@
 02559 Čas
 01237 %1 na voljo
 01236 Opusti
-01239 Predvideni cas: %1
+01239 Predvideni čas: %1 min
 01234 Namesti
 02958 Namesti danes ponoči
 05857 Samodejna posodobitev
@@ -2797,6 +2827,8 @@
 02402 Teža
 02418 Zaporedni posnetki
 02416 Fotografije
+05887 Mirovanje kamere
+05888 Spanje
 02422 Začni snemanje
 02424 Začetek
 02423 Ustavljanje
@@ -2805,6 +2837,8 @@
 02419 Posnemi s časovnim zamikom
 02420 Časovni zamik
 02421 Video
+05889 Bujenje kamere
+05890 Bujenje
 03211 Ročno
 02184 Način snemanja
 03271 2.7K visoko
@@ -2814,6 +2848,11 @@
 02432 Sličic na sekundo pri videu
 02434 Video visoke ločljivosti
 02430 Interval
+05892 Samo spredaj
+05894 NEOBDELANO
+05893 Samo zadaj
+05895 Neznano
+05891 Način objektiva
 02428 Nacin
 02426 Nastav. fotografij
 02431 Ločljivost
@@ -3001,6 +3040,7 @@
 05629 Nezdružljiva vrsta omrežja.
 05630 Napaka omrežja. Poskusite znova pozneje.
 03566 Na voljo ni nobene povezave s programom.
+03565 Na voljo ni nobene povezave s programom ali omrežjem Wi-Fi.
 05844 Znanega omrežja Wi-Fi ni mogoče najti.
 05634 V napravi ni dovolj pomnilnika.
 03560 Iskanje omrežja Wi-Fi.
@@ -3056,12 +3096,17 @@
 01525 Iskanje bliznjih senzorjev in dodatne opreme.
 01524 Iskanje senzorjev
 05682 Senzorji so dodani
+05866 Napaka senzorja
 03702 Povežite napravo TruSwing s programom za mobilne naprave.
 03704 Povezava je uspešno vzpostavljena
 03703 Prenašanje palic
 03701 Združevanje
 03699 Iskanje mobilne naprave.  Za preskok pritisnite START.
 03700 Iskanje naprave TruSwing
+05896 Zahtevanje vklopa načina mirovanja naprave VIRB
+05897 Zahtevanje izklopa načina mirovanja naprave VIRB
+05899 Zahteva ni bila uspešna
+05898 Zahteva je bila uspešna
 05766 Krog %1
 05754 Pritis. za krog
 00421 Oblika položaja
@@ -3146,7 +3191,6 @@
 01552 Desno:
 01549 Pr. opr.:
 01548 Ser. št.:
-05429 Tehnol.:
 01559 Polnjenje
 01561 Povezano
 01558 Kritična
@@ -3359,7 +3403,7 @@
 00352 T
 00474 Tajvanska mreža
 00239 Temperatura
-00354 T
+00354 Č
 01089 Čet
 05101 Prednost – čas
 00523 Prednost – čas
@@ -3429,7 +3473,7 @@
 00206 Resnično
 01087 Tor
 02772 a
-02720 bpm
+02720 u/mi
 02721 K
 02722 °C
 02723 cm
@@ -3636,7 +3680,7 @@
 02699 Z7
 02683 a
 02685 dop
-02519 bpm
+02519 u/mi
 04951 dnevi
 00297 Zavoj
 03738 Baterija ovratnice %1 je skoraj prazna.

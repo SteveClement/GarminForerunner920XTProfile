@@ -1,4 +1,4 @@
-006-D6593-04|v02.20
+006-D6593-04|v02.30
 00001 Deutsch
 00252 12 Stunden
 00253 24 Stunden
@@ -6,6 +6,14 @@
 00251 6 Stunden
 00236 Höhenmesser
 02977 Neu hinzuf.
+05882 Termin
+05886 Schlafenszeit
+05884 Klasse
+05885 Meditieren
+05881 Erinnerung
+05883 Training
+05879 Aufstehen
+05880 Training
 01625 Benutzerdefiniert
 01621 Trinken
 01622 Essen
@@ -330,7 +338,7 @@
 00160 mi
 00163 m
 02655 km
-02654 Meil.
+02654 mi
 01113 Übung beendet
 02916 Für Üb.beg. %1 dr.
 02917 Für Üb.en. %1 drü.
@@ -508,6 +516,8 @@
 03661 Layup - 200
 03662 Layup - 250
 03672 Immer fragen
+05930 Bunker
+05931 Bunker
 00298 Mehr Daten mit Garmin Connect herunterladen.
 00299 Platz herunterladen
 00301 Rundenstart
@@ -524,14 +534,19 @@
 00326 Zu weit rechts
 03678 Keine Schlagdaten aufgezeichnet
 00322 Putts
+05932 Rough
 03671 Scoring
 03670 Scoring
 00304 Platz wählen
 03677 Schlag
 00327 Statistiken verfolgen
 00321 Schläge
+05934 nach hi.
+05933 nach vo.
 00305 Meter
 00306 Yards
+05937 Waste
+05936 Wasser
 00335 Zum HARP
 05202 GPS-Genauigkeit
 00618 GPS-Genauigkeit
@@ -601,7 +616,6 @@
 03588 12 Stunden
 03589 24 Stunden
 05609 Zurück zum Start
-05821 Kalibrieren
 05610 Verwerfen
 05608 Runde
 05607 Später fortsetzen
@@ -927,14 +941,14 @@
 05135 Letzte Runde - Bodenkontaktzeit
 00554 Letzte Runde - BKZ
 02882 L. Ru. BKZ
-05184 Letzte Runde - % HFR
-00600 Letzte Runde - % HFR
+05184 Letzte Runde -​ % HFR
+00600 Letzte Runde -​ % HFR
 00889 LR %HFR
-05185 Letzte Runde - HF - % Max.
+05185 Letzte Runde -​HF - % Max.
 00601 L. Ru. HF % Max.
 00890 LR HF %M.
-05183 HF - Letzte Runde
-00599 HF - Letzte Runde
+05183 Letzte Runde - HF
+00599 Letzte Runde - HF
 00888 L. Ru. HF
 05143 Letzte Runde - Schrittlänge
 00562 Le. Ru. - Schrittl.
@@ -1104,7 +1118,6 @@
 02939 Rücklicht-Akku %1 schwach.
 01221 Tempe-Batterie ist schwach.
 00036 Timer fertig
-01217 Varia Vision-Batterie ist schwach.
 01207 VIRB-Akku ist schwach.
 01222 Radgröße errechnet.
 01118 Metronom
@@ -1200,6 +1213,7 @@
 02638 Verbunden
 03613 Strecke begonnen
 02614 Di2 verbunden
+05949 Edge verbunden
 02609 Laufsensor verb.
 02603 GPS ist bereit
 02636 Ziel!
@@ -1240,7 +1254,6 @@
 02620 Rücklicht n. verb.
 02626 Abgeschlossen
 02627 Fehlgeschlagen
-02625 Varia verbunden
 02611 VIRB verbunden
 02604 Auf GPS warten
 03313 Widget hinzugefügt
@@ -1251,7 +1264,7 @@
 00237 Barometer
 03015 Geburtsjahr
 03014 %1 kcal
-05819 Laufbanddistanz eingeben
+05819 Laufbanddis​tanz eingeben
 03017 Größe
 03012 %1 Bahnen
 03013 %1 Wdh.
@@ -1362,10 +1375,14 @@
 01360 Schlecht
 01359 Leistungszustand
 02682 PM
+05970 Höhenmesser
+05969 Barometer
+05971 Kompass
 05827 DND: Aus
 05826 DND: Ein
 03546 DND
 03547 Telefon suchen
+05983 Taschen​lampe
 05514 Tasten sperren
 03548 Musik​funktionen
 05794 VIRB koppeln
@@ -1508,7 +1525,7 @@
 00748 Erholungs-Timer
 01037 Erh.-Timer
 00417 In Ruhe
-02486 Laufen
+02486 Ausführen
 05676 Höhe:
 05677 Position:
 01304 START: Speich.
@@ -1522,7 +1539,7 @@
 05681 Nein
 05680 Ja
 01834 Fortfahren
-01835 Hiermit wird die aktuelle LiveTrack-Sitzung ausgesetzt.
+05911 Hiermit wird die aktuelle LiveTrack-Sitzung beendet.
 05546 Verbindung mit mobiler App erforderlich
 01839 Kopplung fehlgeschlagen.
 01840 Erneut versuchen
@@ -1662,7 +1679,6 @@
 01346 3 Minuten stehen bleiben und ausruhen.
 05752 Strecke anhalten?
 05753 Navigation anhalten?
-05843 Segment beenden?
 01348 Belastungswert kalibriert sich nach einigen Ergebnissen.
 03124 Temperatur
 01833 Massenspeicher verwenden?
@@ -1709,7 +1725,6 @@
 01537 Vord. o. hint. Gang ändern, um Shimano Di2-Sen. z. verb.
 01535 Treten, um den Sensor zu aktivieren.
 01536 Erneut vers.
-01540 Zum Verbinden Varia Vision-Gerät einschalten.
 03059 Kamera einsch. u. Fernb.einst. akt., um Verb. herzust.
 02580 Kilometer
 02579 Meilen
@@ -1721,7 +1736,6 @@
 01888 Fertig
 01887 Update fehlgeschlagen. \nErneut über Garmin Connect versuchen.
 00062 Update fehlgeschlagen. \nErneut versuchen.
-05820 Laufbandkalibrierung überspringen?
 01589 Annehmen
 01591 Pace: %1
 01592 Gesch.: %1
@@ -1798,6 +1812,7 @@
 02022 Langlauf
 02002 Benutzerdefiniert
 02016 Duathlon
+05867 Golfspielen
 05500 Aktivitätsname
 02019 Wandern
 02031 Jumpmaster
@@ -1900,7 +1915,10 @@
 03056 VIRB
 02095 Neuer Alarm
 02094 Alarme
+05874 Termin
 02099 Beleuchtung
+05878 Schlafenszeit
+05876 Klasse
 02101 Benutzerdefiniert
 02103 Benutzerdefiniert
 02102 Benutzerdefiniert
@@ -1909,10 +1927,15 @@
 02100 Löschen
 02123 Fr
 02122 Freitag
+05869 Bezeichnung
+05868 Bezeichnung
+05877 Meditieren
 02115 Mo
 02114 Montag
+05870 Keine
 03168 Aus
 03167 Aus
+05873 Erinnerung
 03166 Wiederholung
 03165 Wiederholung
 02125 Sa
@@ -1922,14 +1945,17 @@
 02121 Do
 02120 Donnerstag
 02098 Zeit
+05875 Training
 02117 Di
 02116 Dienstag
+05871 Aufstehen
 02119 Mi
 02118 Mittwoch
 03170 An Wochentagen
 03169 An Wochentagen
 03172 An Wochenenden
 03171 An Wochenenden
+05872 Training
 01607 Neu hinzufügen
 01620 Alarme
 01617 Trittfrequenz
@@ -2041,7 +2067,7 @@
 00233 Farben umkehren
 00235 Moduswechsel
 00231 Seite bei Abstieg
-00234 Vertikalgeschwindigkeit
+00234 Vertikal​geschwindigkeit
 03223 Aut. Erk.
 03226 FTP
 03225 Laktatschwelle
@@ -2067,8 +2093,8 @@
 03173 Tasten
 05776 Während der Aktivität
 05774 Während Aktivität
-05777 Uhrmodus
-05775 Uhrmodus
+05915 Nicht während der Aktivität
+05914 N. während Akt.
 05740 Kein Zeitlimit
 02132 Zeitlimit
 03177 Zeitlimit
@@ -2130,6 +2156,7 @@
 00058 Feld 3
 00059 Feld 4
 00053 Layout
+05865 Datenfeld
 00055 %1 Felder
 00054 1 Feld
 03619 Entfernen
@@ -2186,6 +2213,7 @@
 02233 Sonntag
 01314 Ca. 18 bis 31 min
 00311 Runde beenden
+05935 Hindernisse
 00313 Layups
 00312 Schlagweite messen
 03667 Fahne verschieben
@@ -2373,6 +2401,7 @@
 05026 Symbol
 00010 Name
 00012 Position
+05905 Widget hinzufügen
 03595 Leistungssensor kalibrieren
 01745 Protokoll
 03592 Metronom stumm
@@ -2479,10 +2508,17 @@
 02172 Automatisch: %1 mm
 02174 Automatisch Null
 05652 Neu hinzufügen
+05978 Beleuchtung
 03182 DND
 03183 Telefon suchen
+05979 Taschen​lampe
+05957 Höhenmesser
+05980 Beleuchtung
+05956 Barometer
+05958 Kompass
 03198 DND
 03199 Telefon suchen
+05981 Taschen​lampe
 05503 Tasten sperren
 03200 Musik​funktionen
 05557 Telefon
@@ -2574,10 +2610,8 @@
 01500 Barometer
 01508 Trittfr. - %1
 01496 Kompass
-05496 Bluetooth
 01530 Zum Hinzuf. auswählen
 01529 Sensoren gefunden
-05497 Bluetooth-Senso​ren anzeigen
 01504 Laufsensor - %1
 01503 HF - %1
 01512 Licht - %1
@@ -2660,9 +2694,9 @@
 02928 Ritzel
 00118 Mitteilungen
 02352 Während Aktivität
-02353 Uhrmodus
+02353 Nicht während Akt.
 02354 Während der Aktivität
-02355 Uhrmodus
+02355 Nicht während der Aktivität
 02363 Zeitlimit
 02356 Benach​richtigungen
 02358 Alle anzeigen
@@ -2684,7 +2718,7 @@
 02559 Zeit
 01237 %1 verfügbar
 01236 Verwerfen
-01239 Vor. Zeit: %1
+01239 Vor. Dauer: %1 min
 01234 Jetzt installieren
 02958 Heute Abend installieren
 05857 Automatisches Update
@@ -2797,6 +2831,8 @@
 02402 Gewicht
 02418 Serienbilder
 02416 Foto
+05887 Ruhezustand ein
+05888 Ruhezustand
 02422 Aufzeichnung starten
 02424 Start
 02423 Stopp
@@ -2805,6 +2841,8 @@
 02419 Serienaufnahme aufnehmen
 02420 Serienaufnahme
 02421 Video
+05889 Ruhezustand aus
+05890 Deaktivieren
 03211 Manuell
 02184 Aufzeichnungsmodus
 03271 2,7K Tall
@@ -2814,6 +2852,11 @@
 02432 Video-fps
 02434 HD-Video
 02430 Intervall
+05892 Nur vorne
+05894 RAW
+05893 Nur hinten
+05895 Unbekannt
+05891 Objektivmodus
 02428 Modus
 02426 Foto​einstellungen
 02431 Auflösung
@@ -3001,6 +3044,7 @@
 05629 Netzwerktyp nicht kompatibel.
 05630 Netzwerkfehler. Bitte später erneut versuchen.
 03566 Keine App-Verbindung verfügbar.
+03565 Keine App- oder WLAN-Verbindung verfügbar.
 05844 Kein bekanntes WLAN-Netzwerk gefunden.
 05634 Unzureichender Speicherplatz auf dem Gerät.
 03560 WLAN-Netzwerk wird gesucht.
@@ -3019,7 +3063,7 @@
 05548 RÜCKSTAND
 01971 Wettkampf abgeschlossen
 01972 Ziel abgeschlossen
-05822 Laufbandkalibrierung abgeschlossen
+05822 Laufbandkalibrie​rung abgeschlossen
 03480 Aktualisieren
 00131 Neue Radfahr-VO2max erkannt
 01957 Neue VO2max erkannt
@@ -3040,8 +3084,8 @@
 02216 Versatz
 02217 Drehmoment
 02209 Mit Fr. v. 80-90 1/min treten, um M.wi. einzur.
-02208 Für Abschl. Vector-Einr. im Leist.m.-Menü 'Kalibrieren' wählen.
-02210 Montagewinkel sind eingerichtet. Vector-Grundeinstellung ist abgeschlossen.
+02208 Für Abschluss Vector-Einrichtung im Leist.messer-Menü 'Kalibrieren' wählen.
+02210 Montagewinkel sind eingerichtet. Vector-Grund​einstellung ist abgeschlossen.
 02979 Leichte Anstr. empfohlen
 03623 Erholung
 02980 Lock. Training/Erholung
@@ -3056,12 +3100,17 @@
 01525 Suche nach allen Sensoren und Zubehörteilen läuft.
 01524 Sensorsuche
 05682 Sensor hinzugefügt
+05866 Sensorfehler
 03702 TruSwing-Gerät mit mobiler App verbinden.
 03704 Erfolgreich verbunden
 03703 Schläger-Download
 03701 Koppeln
 03699 Telefonsuche.  Zum Überspringen 'START' drücken.
 03700 Suche nach TruSwing-Gerät
+05896 Anfrage zum Aktivieren des VIRB-Ruhezustands
+05897 Anfrage zum Deaktivieren des VIRB-Ruhezustands
+05899 Anfrage fehlgeschlagen
+05898 Anfrage erfolgreich
 05766 Ru. %1
 05754 Für Runde dr.
 00421 Positionsformat
@@ -3146,7 +3195,6 @@
 01552 Rechts:
 01549 SW-V.:
 01548 Ser.nr.:
-05429 Techn.:
 01559 Ladevorgang
 01561 Verbunden
 01558 Kritisch
@@ -3219,7 +3267,7 @@
 05836 Ø Geschwindigkeit (nautisch)
 05838 Ø Geschw. (nautisch)
 05840 Ø G. (nau.)
-05835 Max. Geschw. (nau.)
+05835 Max. Geschw. (nautisch)
 05837 Max. Geschw. (nau.)
 05839 Max. G. (n)
 05150 Geschwindigkeit (nautisch)

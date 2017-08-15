@@ -1,4 +1,4 @@
-006-D6593-11|v02.20
+006-D6593-11|v02.30
 00001 Čeština
 00252 12 hodinový
 00253 24 hodinový
@@ -6,6 +6,14 @@
 00251 6 hodin
 00236 Výškoměr
 02977 Nová položka
+05882 Schůzka
+05886 Spánek
+05884 Výuka
+05885 Meditace
+05881 Připomínka
+05883 Trénink
+05879 Probudit
+05880 Trénink
 01625 Vlastní
 01621 Pití
 01622 Jídlo
@@ -508,6 +516,8 @@
 03661 Layup 200
 03662 Layup 250
 03672 Vždy se zeptat
+05930 Bunker
+05931 Bunkery
 00298 Stah. s Garmin Connect.
 00299 Stahování hřiště
 00301 Spouštění kola
@@ -524,14 +534,19 @@
 00326 Minuté vpravo
 03678 Žádné údery
 00322 Putty
+05932 Hrubý
 03671 Skórování
 03670 Skórování
-00304 Vybrat hřiště
+00304 Vyberte hřiště
 03677 Úder
 00327 Sledování statistik
-00321 Údery
+00321 Rány
+05934 Dozadu
+05933 Dopředu
 00305 Metry
 00306 Yardy
+05937 Písek
+05936 Voda
 00335 Jít na HARP
 05202 Přesnost GPS
 00618 Přesnost GPS
@@ -587,7 +602,7 @@
 00369 Jamky
 00367 Poslední kolo
 00370 Skóre
-00368 Údery
+00368 Rány
 05230 Stupeň
 00645 Stupeň
 00934 Stupeň
@@ -601,7 +616,6 @@
 03588 12hodinový
 03589 24hodinový
 05609 Zpět na start
-05821 Kalibrovat
 05610 Zrušit
 05608 Okruh
 05607 Obnovit později
@@ -844,11 +858,11 @@
 01735 Vybrat zónu
 01334 Přijmout
 01335 Odmítnout
-02966 t/m
+02966 tp/m
 05846 /km
 05845 /míli
 02964 Nová lim. hodnota
-02963 t/m
+02963 tp/m
 02962 Laktátový práh
 01330 Ruční zadání
 01328 Práh detekován
@@ -1104,7 +1118,6 @@
 02939 Zadní světlo %1 má slabou baterii.
 01221 Slabá baterie Tempe.
 00036 Uplynula doba časovače
-01217 Baterie zařízení Varia Vision je slabá.
 01207 Slabá baterie zařízení VIRB.
 01222 Velikost kola vypočtena.
 01118 Metronom
@@ -1156,8 +1169,8 @@
 00637 Minimální nad. výška
 00926 Min. nad.v.
 02713 Chybí
-02531 Smíšené
-02589 Smíšené
+02531 Smíšený
+02589 Smíšený
 00386 Střední
 01086 Po
 01450 Největší výstup!
@@ -1200,8 +1213,9 @@
 02638 Připojeno
 03613 Trasa zahájena
 02614 Sním. Di2 přip.
+05949 Edge připojeno
 02609 Nož. sním. přip.
-02603 GPS je připraveno
+02603 GPS připraveno
 02636 Splněno!
 05654 Přidáno: %1
 05842 Odebráno: %1
@@ -1240,7 +1254,6 @@
 02620 Zadní světlo odpoj.
 02626 Dokončeno
 02627 Akce se nezdařila
-02625 Varia připojeno
 02611 Zař VIRB připojeno
 02604 Čekejte na GPS
 03313 Doplněk přidán
@@ -1362,10 +1375,14 @@
 01360 Špatný
 01359 Zhodnocení výkonu
 02682 o.
+05970 Výškoměr
+05969 Barometr
+05971 Kompas
 05827 Nastavení Nerušit: Vyp.
 05826 Nastavení Nerušit: Zap.
 03546 Nerušit
 03547 Najít můj telefon
+05983 Svítilna
 05514 Uzamknout tlačítka
 03548 Ovládání hudby
 05794 Spárovat s kam. VIRB
@@ -1507,7 +1524,7 @@
 05344 Časovač odpočinku
 00748 Časovač odpočinku
 01037 Čas. odp.
-00417 Klidové
+00417 Klidový
 02486 Běh
 05676 Nad výška:
 05677 Pozice:
@@ -1522,7 +1539,7 @@
 05681 Ne
 05680 Ano
 01834 Pokračovat
-01835 Touto operací pozastavíte relaci služby LiveTrack.
+05911 Touto operací ukončíte relaci služby LiveTrack.
 05546 Vyžadováno připojení k mobilní aplikaci
 01839 Párování se nezdařilo.
 01840 Opakovat akci
@@ -1662,7 +1679,6 @@
 01346 Stůjte a odpočívejte po dobu 3 minut.
 05752 Ukončit trasu?
 05753 Zastavit navigaci?
-05843 Zastavit segment?
 01348 Stress Score je kalibrováno po několika výsledcích.
 03124 Teplota
 01833 Použít pam. zař.?
@@ -1709,7 +1725,6 @@
 01537 Chcete-li připojit snímač Shimano Di2, přehoďte vpředu nebo vzadu.
 01535 Pro aktivaci snímače šlapejte do pedálů.
 01536 Opakovat
-01540 Zařízení Varia Vision musí být pro párování zapnuto.
 03059 Pro připojení zap. kameru a aktivujte nast. dálk. ovl.
 02580 Kilometry
 02579 Míle
@@ -1721,7 +1736,6 @@
 01888 Hotovo
 01887 Aktualizace se nezdařila.  Opakujte akci ze služby Garmin Connect.
 00062 Aktualizace se nezdařila.  Opakujte akci.
-05820 Přeskočit kalibraci běhu na pásu?
 01589 Přijmout
 01591 Tempo: %1
 01592 Rychl.: %1
@@ -1798,6 +1812,7 @@
 02022 Běžky
 02002 Vlastní
 02016 Duatlon
+05867 Golf
 05500 Název aktivity
 02019 Turistika
 02031 Jumpmaster
@@ -1900,7 +1915,10 @@
 03056 VIRB
 02095 Nový alarm
 02094 Alarmy
+05874 Schůzka
 02099 Podsvícení
+05878 Spánek
+05876 Výuka
 02101 Vlastní
 02103 Vlastní
 02102 Vlastní
@@ -1909,10 +1927,15 @@
 02100 Odstranit
 02123 Pá
 02122 Pátek
+05869 Označení
+05868 Označení
+05877 Meditace
 02115 Po
 02114 Pondělí
+05870 Žádná
 03168 Vypnuto
 03167 Vypnuto
+05873 Připomínka
 03166 Opakovat
 03165 Opakovat
 02125 So
@@ -1922,14 +1945,17 @@
 02121 Čt
 02120 Čtvrtek
 02098 Čas
+05875 Trénink
 02117 Út
 02116 Úterý
+05871 Probudit
 02119 St
 02118 Středa
 03170 Všední dny
 03169 Všední dny
 03172 Víkendy
 03171 Víkendy
+05872 Trénink
 01607 Přidat novou položku
 01620 Alarmy
 01617 Kadence
@@ -2067,8 +2093,8 @@
 03173 Tlačítka
 05776 Během aktivity
 05774 Během aktivity
-05777 Režim hodinek
-05775 Režim hodinek
+05915 Ne během aktivity
+05914 Ne během aktivity
 05740 Bez prodlevy
 02132 Odpočet
 03177 Odpočet
@@ -2130,6 +2156,7 @@
 00058 Pole 3
 00059 Pole 4
 00053 Rozvržení
+05865 Datové pole
 00055 %1 pole
 00054 1 pole
 03619 Odebrat
@@ -2186,6 +2213,7 @@
 02233 Neděle
 01314 Přibližně 18–31 min
 00311 Ukončit kolo
+05935 Překážky
 00313 Layupy
 00312 Měření úderu
 03667 Přesunout vlajku
@@ -2318,7 +2346,7 @@
 00004 Více
 00002 Uložené pozice
 02292 Upravit pozici
-05061 Čtyřkolka
+05061 Čtyřkolky
 05056 Pláž
 05036 Cyklostezka
 05067 Blok, modrý
@@ -2373,6 +2401,7 @@
 05026 Ikona
 00010 Název
 00012 Pozice
+05905 Přidat pomůcku
 03595 Kalibrace výkonu
 01745 Historie
 03592 Ztlumit metronom
@@ -2479,10 +2508,17 @@
 02172 Automaticky: %1 mm
 02174 Automatické vynulování
 05652 Přidat novou položku
+05978 Podsvícení
 03182 Nerušit
 03183 Najít můj telefon
+05979 Svítilna
+05957 Výškoměr
+05980 Podsvícení
+05956 Barometr
+05958 Kompas
 03198 Nerušit
 03199 Najít můj telefon
+05981 Svítilna
 05503 Uzamknout tlačítka
 03200 Ovládání hudby
 05557 Telefon
@@ -2574,10 +2610,8 @@
 01500 Barometr
 01508 Kadence – %1
 01496 Kompas
-05496 Bluetooth
 01530 Vyberte pro přidání
 01529 Nalezeny snímače
-05497 Zobrazit snímače Bluetooth
 01504 NS – %1
 01503 ST – %1
 01512 Světlo – %1
@@ -2660,9 +2694,9 @@
 02928 Zadní převody
 00118 Oznámení
 02352 Během aktivity
-02353 Režim hodinek
+02353 Ne během aktivity
 02354 Během aktivity
-02355 Režim hodinek
+02355 Ne během aktivity
 02363 Odpočet
 02356 Oznámení
 02358 Zobrazit vše
@@ -2684,7 +2718,7 @@
 02559 Čas
 01237 K dispozici %1
 01236 Odmítnout
-01239 Odhad. čas: %1
+01239 Odh. čas: %1 min
 01234 Instalo​vat nyní
 02958 Nainstalovat dnes v noci
 05857 Automatická aktualizace
@@ -2797,6 +2831,8 @@
 02402 Hmotnost
 02418 Sekvenční snímání
 02416 Fotografie
+05887 Uspat kameru
+05888 Režim spánku
 02422 Spustit záznam
 02424 Spuštění
 02423 Zastavování
@@ -2805,6 +2841,8 @@
 02419 Pořídit časosběrný snímek
 02420 Časosběrný snímek
 02421 Video
+05889 Probudit kameru
+05890 Probudit
 03211 Manuálně
 02184 Režim záznamu
 03271 2,7K Vysoký
@@ -2814,6 +2852,11 @@
 02432 Rychlost videa (sn./s)
 02434 Video HD
 02430 Interval
+05892 Pouze vpředu
+05894 RAW
+05893 Pouze vzadu
+05895 Neznámý
+05891 Režim objektivu
 02428 Režim
 02426 Nastavení snímků
 02431 Rozlišení
@@ -3001,6 +3044,7 @@
 05629 Nekompatibilní typ sítě.
 05630 Chyba sítě. Opakujte akci později.
 03566 Není k dispozici připojení k aplikaci.
+03565 Není k dispozici připojení k aplikaci nebo připojení Wi-Fi.
 05844 Nebyly nalezeny žádné známé sítě Wi-Fi.
 05634 Nedostatek paměti v zařízení.
 03560 Vyhledávání sítě Wi-Fi.
@@ -3056,12 +3100,17 @@
 01525 Vyhledávání všech snímačů a příslušenství v blízkosti.
 01524 Vyhledávání snímače
 05682 Snímače přidány
+05866 Chyba snímače
 03702 Připojte zařízení TruSwing k mobilní aplikaci.
 03704 Připojení bylo úspěšné
 03703 Stahování holí
 03701 Párování
 03699 Vyhledávání mobilního zařízení  Stisknutím START přeskočíte.
 03700 Vyhledávání zařízení TrueSwing
+05896 Požadavek na přepnutí zařízení VIRB do režimu spánku
+05897 Požadavek na ukončení režimu spánku zařízení VIRB
+05899 Požadavek se nezdařil
+05898 Požadavek byl úspěšný
 05766 Okr. %1
 05754 Stisk. stopněte
 00421 Formát pozice
@@ -3146,7 +3195,6 @@
 01552 Pravý:
 01549 Ver SW:
 01548 Sér. č.:
-05429 Tech.:
 01559 Nabíjení
 01561 Připojeno
 01558 Kritický
@@ -3288,7 +3336,7 @@
 00752 24hod – min.
 01041 Min. tepl.
 03493 Menší aerobní přínos
-03503 Velmi zlepšuje anaerobní vytrvalost
+03503 Velmi zlepšuje aerobní vytrvalost
 03504 Zlepšuje laktátový práh
 03505 Velmi zlepšuje laktátový práh
 03506 Zlepšuje hodnotu VO2 max.
@@ -3311,8 +3359,8 @@
 03521 Velmi zlepšuje spotřebu a anaerobní základ
 03522 Menší anaerobní přínos
 03510 Udržuje anaerobní kondici
-03511 Zlepšuje anaerobní kondici
-03512 Velmi zlepšuje anaerobní kondici
+03511 Zlepšuje anaerobní základ
+03512 Velmi zlepšuje anaerobní kapacitu a výkon
 03513 Menší rychlostní přínos
 03514 Udržení rychlosti
 03515 Udržuje anaerobní výkon
@@ -3410,7 +3458,7 @@
 03688 Zavř. líc
 03689 Otev. líc
 03687 Líc k cíli
-03710 Odpalte míček a zaznamenejte data švihu.
+03710 Odpalte míček a zaznamenejte data švihu
 03692 Impakt
 03698 Kompenzace sklonu
 03708 Mobilní připojení přerušeno
@@ -3429,7 +3477,7 @@
 00206 Skutečný
 01087 Út
 02772 d
-02720 t/m
+02720 tp/m
 02721 kCal
 02722 °C
 02723 cm
@@ -3495,7 +3543,7 @@
 02769 %m
 02765 %
 02745 lb
-02771 o/m
+02771 ot/m
 05441 zmin
 05698 s
 02780 krm
@@ -3505,7 +3553,7 @@
 02776 V
 02788 W/kg
 02777 W
-02778 yd.
+02778 yd
 03389 ft/h
 03390 m/h
 00475 U.S. National
@@ -3636,7 +3684,7 @@
 02699 Z7
 02683 dop.
 02685 dop.
-02519 t/m
+02519 tp/m
 04951 dny
 00297 Dogleg
 03738 %1 má slabou baterii.
