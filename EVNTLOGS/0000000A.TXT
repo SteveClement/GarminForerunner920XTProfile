@@ -1,4 +1,4 @@
-File Name: 0:\GARMIN\EVNTLOGS/00000005.TXT
+File Name: 0:\GARMIN\EVNTLOGS/0000000A.TXT
 
 
 >>>>> EVL_CURR_LOGS <<<<<
@@ -12,27 +12,10 @@ archived:   00
 max_arch:   10
 num_recs:   20
 rec_size:   20
-next_evnt:  0E
-timeDay:    2017/ 8/18  2:01:14
+next_evnt:  1D
+timeDay:    2017/ 9/ 2 21:31:50
 cycle_cnt:  20
 
-0E: D1 00 00 00   0:01:36.223 HWM main 12000400000870000000C468656C6D00 ......p....helm.
-0F: FE 01 08 00   0:01:36.230 HWM main 2017/ 6/11  8:18:50 V:0
-
-10: FF 00 00 00   0:00:02.771 HWM main 2017/ 6/11  8:18:58 C:17
-11: E0 00 00 00   0:00:03.346 HWM main  CHKDSK Report: Time:366msec Dirs:37 Files:61 Free:26820 Diff:0
-12: D0 00 00 00   0:00:03.347 HWM main 00003300062025E90720330006200364 ..3.. %.. 3.. .d
-13: D1 00 00 00   0:22:10.358 HWM main 12000400000870002400C468656C6D00 ......p.$..helm.
-14: FE 01 08 00   0:22:10.359 HWM main 2017/ 6/11  8:41:06 V:0
-
-15: FF 00 00 00   0:00:02.201 HWM main 2017/ 8/ 7 22:10:22 C:18
-16: E0 00 00 00   0:00:02.779 HWM main  CHKDSK Report: Time:368msec Dirs:37 Files:61 Free:26820 Diff:0
-17: D0 00 00 00   0:00:02.780 HWM main 00003300062025E90720330006200364 ..3.. %.. 3.. .d
-18: D8 00 00 00   0:05:10.974 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
-19: D8 00 00 00   0:06:07.005 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
-1A: E0 00 00 00   0:06:07.390 HWM main  CHKDSK Report: Time:373msec Dirs:39 Files:105 Free:26736 Diff:0
-1B: D8 00 00 00   0:20:46.921 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
-1C: D8 00 00 00   0:51:05.042 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
 1D: E0 00 00 00   0:51:05.621 HWM main  CHKDSK Report: Time:560msec Dirs:38 Files:113 Free:24798 Diff:0
 1E: D1 00 00 00   0:51:54.708 HWM main 12000400000870005B01FF67656C6D00 ......p.[..gelm.
 1F: FE 01 08 00   0:51:54.829 HWM main 2017/ 8/ 7 23:02:15 V:0
@@ -52,6 +35,21 @@ cycle_cnt:  20
 0B: FF 00 00 00   0:00:03.084 HWM main 2017/ 8/18  2:01:13 C:20
 0C: E0 00 00 00   0:00:03.886 HWM main  CHKDSK Report: Time:593msec Dirs:38 Files:124 Free:26382 Diff:0
 0D: D0 00 00 00   0:00:03.887 HWM main 00004400062066E90720440006208FFB ..D.. f.. D.. ..
+0E: D8 00 00 00 140:06:53.632 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+0F: D8 00 00 00 140:28:43.810 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+10: E0 00 00 00 140:28:44.438 HWM main  CHKDSK Report: Time:606msec Dirs:39 Files:148 Free:26176 Diff:0
+11: D8 00 00 00 146:35:04.556 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+12: D8 00 00 00 146:36:02.695 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+13: E0 00 00 00 146:36:03.311 HWM main  CHKDSK Report: Time:598msec Dirs:38 Files:141 Free:26231 Diff:0
+14: D8 00 00 00 146:37:22.261 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+15: D8 00 00 00 146:37:22.281 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+16: E0 00 00 00 146:37:22.900 HWM main  CHKDSK Report: Time:618msec Dirs:38 Files:142 Free:26230 Diff:0
+17: D8 00 00 00 375:53:31.156 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+18: D8 00 00 00 376:18:48.712 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+19: E0 00 00 00 376:18:49.474 HWM main  CHKDSK Report: Time:755msec Dirs:39 Files:147 Free:24140 Diff:0
+1A: D8 00 00 00 378:13:12.733 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+1B: D8 00 00 00 379:30:36.788 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+1C: E0 00 00 00 379:30:37.911 HWM main  CHKDSK Report: Time:770msec Dirs:39 Files:143 Free:23319 Diff:0
 
 verNum:     8/13/2014 (00)
 ownerID:    00000009
@@ -91,56 +89,10 @@ archived:   00
 max_arch:   00
 num_recs:   96
 rec_size:   20
-next_evnt:  17
-timeDay:    2017/ 8/23 16:47:10
+next_evnt:  45
+timeDay:    2017/ 8/29 20:01:08
 cycle_cnt:  20
 
-17: D0 11 13 00 161:16:03.306 HWM misc  Fitness Wi-Fi Status: 0x2
-18: D0 11 13 00 161:16:04.253 HWM misc  Fitness Wi-Fi Status: 0x2
-19: D0 11 13 00 161:16:05.461 HWM misc  Fitness Wi-Fi Status: 0x2
-1A: D0 11 13 00 161:16:05.662 HWM misc  Fitness Wi-Fi Status: 0x2
-1B: D1 00 13 00 211:55:56.667 HWM misc  Local: 2017/ 8/16 20:59:05, UTC: 2017/ 8/16 18:59:05
-1C: D0 11 13 00 211:55:58.010 HWM misc  Fitness Wi-Fi Status: 0x2
-1D: D0 11 13 00 211:55:58.815 HWM misc  Fitness Wi-Fi Status: 0x2
-1E: D0 11 13 00 211:56:06.301 HWM misc  Fitness Wi-Fi Status: 0x2
-1F: D0 11 13 00 211:56:06.506 HWM misc  Fitness Wi-Fi Status: 0x2
-20: D1 00 14 00  39:44:58.611 HWM misc  Local: 2017/ 8/19 19:46:09, UTC: 2017/ 8/19 17:46:09
-21: D0 11 14 00  39:45:10.666 HWM misc  Fitness Wi-Fi Status: 0x1
-22: D0 12 14 00  39:45:13.336 HWM misc  Fitness Wi-Fi Status: 0x1
-23: D0 13 14 00  39:45:19.429 HWM misc  Fitness Wi-Fi Status: 0x1
-24: D0 14 14 00  39:45:19.634 HWM misc  Fitness Wi-Fi Status: 0x3
-25: D0 15 14 00  39:45:19.834 HWM misc  Fitness Wi-Fi Status: 0x5
-26: D0 19 14 00  39:45:20.036 HWM misc  Fitness Wi-Fi Status: 0x3
-27: D1 00 14 00  88:07:29.482 HWM misc  Local: 2017/ 8/21 20:08:40, UTC: 2017/ 8/21 18:08:40
-28: D0 11 14 00  88:07:31.030 HWM misc  Fitness Wi-Fi Status: 0x2
-29: D0 11 14 00  88:07:31.836 HWM misc  Fitness Wi-Fi Status: 0x2
-2A: D0 11 14 00  88:07:39.247 HWM misc  Fitness Wi-Fi Status: 0x2
-2B: D0 11 14 00  88:07:39.451 HWM misc  Fitness Wi-Fi Status: 0x2
-2C: D1 00 14 00  88:17:39.558 HWM misc  Local: 2017/ 8/21 20:18:50, UTC: 2017/ 8/21 18:18:50
-2D: D0 11 14 00  88:17:42.025 HWM misc  Fitness Wi-Fi Status: 0x2
-2E: D0 11 14 00  88:17:42.875 HWM misc  Fitness Wi-Fi Status: 0x2
-2F: D0 11 14 00  88:17:53.858 HWM misc  Fitness Wi-Fi Status: 0x1
-30: D0 12 14 00  88:18:05.659 HWM misc  Fitness Wi-Fi Status: 0x1
-31: D0 13 14 00  88:18:07.346 HWM misc  Fitness Wi-Fi Status: 0x1
-32: D0 14 14 00  88:18:07.547 HWM misc  Fitness Wi-Fi Status: 0x3
-33: D0 15 14 00  88:18:07.747 HWM misc  Fitness Wi-Fi Status: 0x5
-34: D0 19 14 00  88:18:07.950 HWM misc  Fitness Wi-Fi Status: 0x3
-35: D1 00 14 00 109:00:17.489 HWM misc  Local: 2017/ 8/22 17:01:28, UTC: 2017/ 8/22 15:01:28
-36: D0 11 14 00 109:00:18.871 HWM misc  Fitness Wi-Fi Status: 0x2
-37: D0 11 14 00 109:00:19.709 HWM misc  Fitness Wi-Fi Status: 0x2
-38: D0 11 14 00 109:00:21.057 HWM misc  Fitness Wi-Fi Status: 0x2
-39: D0 11 14 00 109:00:21.258 HWM misc  Fitness Wi-Fi Status: 0x2
-3A: D1 00 14 00 109:05:21.364 HWM misc  Local: 2017/ 8/22 17:06:32, UTC: 2017/ 8/22 15:06:32
-3B: D0 11 14 00 109:05:22.716 HWM misc  Fitness Wi-Fi Status: 0x2
-3C: D0 11 14 00 109:05:23.671 HWM misc  Fitness Wi-Fi Status: 0x2
-3D: D0 11 14 00 109:05:24.871 HWM misc  Fitness Wi-Fi Status: 0x2
-3E: D0 11 14 00 109:05:25.072 HWM misc  Fitness Wi-Fi Status: 0x2
-3F: D1 00 14 00 109:10:25.178 HWM misc  Local: 2017/ 8/22 17:11:36, UTC: 2017/ 8/22 15:11:36
-40: D0 11 14 00 109:10:26.529 HWM misc  Fitness Wi-Fi Status: 0x2
-41: D0 11 14 00 109:10:27.442 HWM misc  Fitness Wi-Fi Status: 0x2
-42: D0 11 14 00 109:10:28.458 HWM misc  Fitness Wi-Fi Status: 0x2
-43: D0 11 14 00 109:10:28.659 HWM misc  Fitness Wi-Fi Status: 0x2
-44: D1 00 14 00 109:15:28.766 HWM misc  Local: 2017/ 8/22 17:16:39, UTC: 2017/ 8/22 15:16:39
 45: D0 11 14 00 109:15:30.110 HWM misc  Fitness Wi-Fi Status: 0x2
 46: D0 11 14 00 109:15:30.957 HWM misc  Fitness Wi-Fi Status: 0x2
 47: D0 11 14 00 109:15:32.056 HWM misc  Fitness Wi-Fi Status: 0x2
@@ -245,6 +197,52 @@ cycle_cnt:  20
 14: D0 11 14 00 134:45:57.136 HWM misc  Fitness Wi-Fi Status: 0x2
 15: D0 11 14 00 134:45:58.139 HWM misc  Fitness Wi-Fi Status: 0x2
 16: D0 11 14 00 134:45:58.340 HWM misc  Fitness Wi-Fi Status: 0x2
+17: D1 00 14 00 257:27:12.865 HWM misc  Local: 2017/ 8/28 21:28:25, UTC: 2017/ 8/28 19:28:25
+18: D0 11 14 00 257:27:13.333 HWM misc  Fitness Wi-Fi Status: 0x3
+19: D1 00 14 00 257:32:13.336 HWM misc  Local: 2017/ 8/28 21:33:25, UTC: 2017/ 8/28 19:33:25
+1A: D0 11 14 00 257:32:13.808 HWM misc  Fitness Wi-Fi Status: 0x3
+1B: D1 00 14 00 257:37:13.811 HWM misc  Local: 2017/ 8/28 21:38:26, UTC: 2017/ 8/28 19:38:26
+1C: D0 11 14 00 257:37:14.279 HWM misc  Fitness Wi-Fi Status: 0x3
+1D: D1 00 14 00 257:42:14.283 HWM misc  Local: 2017/ 8/28 21:43:26, UTC: 2017/ 8/28 19:43:26
+1E: D0 11 14 00 257:42:14.751 HWM misc  Fitness Wi-Fi Status: 0x3
+1F: D1 00 14 00 257:47:14.758 HWM misc  Local: 2017/ 8/28 21:48:26, UTC: 2017/ 8/28 19:48:26
+20: D0 11 14 00 257:47:15.229 HWM misc  Fitness Wi-Fi Status: 0x3
+21: D1 00 14 00 257:52:15.232 HWM misc  Local: 2017/ 8/28 21:53:27, UTC: 2017/ 8/28 19:53:27
+22: D0 11 14 00 257:52:16.046 HWM misc  Fitness Wi-Fi Status: 0x3
+23: D1 00 14 00 257:57:16.049 HWM misc  Local: 2017/ 8/28 21:58:28, UTC: 2017/ 8/28 19:58:28
+24: D0 11 14 00 257:57:16.517 HWM misc  Fitness Wi-Fi Status: 0x3
+25: D1 00 14 00 258:02:16.521 HWM misc  Local: 2017/ 8/28 22:03:28, UTC: 2017/ 8/28 20:03:28
+26: D0 11 14 00 258:02:16.992 HWM misc  Fitness Wi-Fi Status: 0x3
+27: D1 00 14 00 258:07:16.995 HWM misc  Local: 2017/ 8/28 22:08:29, UTC: 2017/ 8/28 20:08:29
+28: D0 11 14 00 258:07:17.470 HWM misc  Fitness Wi-Fi Status: 0x3
+29: D1 00 14 00 258:12:17.473 HWM misc  Local: 2017/ 8/28 22:13:29, UTC: 2017/ 8/28 20:13:29
+2A: D0 11 14 00 258:12:17.947 HWM misc  Fitness Wi-Fi Status: 0x3
+2B: D1 00 14 00 258:17:17.950 HWM misc  Local: 2017/ 8/28 22:18:30, UTC: 2017/ 8/28 20:18:30
+2C: D0 11 14 00 258:17:18.544 HWM misc  Fitness Wi-Fi Status: 0x3
+2D: D1 00 14 00 281:04:50.833 HWM misc  Local: 2017/ 8/29 21:06:03, UTC: 2017/ 8/29 19:06:03
+2E: D0 11 14 00 281:04:51.305 HWM misc  Fitness Wi-Fi Status: 0x3
+2F: D1 00 14 00 281:09:51.313 HWM misc  Local: 2017/ 8/29 21:11:03, UTC: 2017/ 8/29 19:11:03
+30: D0 11 14 00 281:09:51.781 HWM misc  Fitness Wi-Fi Status: 0x3
+31: D1 00 14 00 281:14:51.788 HWM misc  Local: 2017/ 8/29 21:16:03, UTC: 2017/ 8/29 19:16:03
+32: D0 11 14 00 281:14:52.256 HWM misc  Fitness Wi-Fi Status: 0x3
+33: D1 00 14 00 281:19:52.263 HWM misc  Local: 2017/ 8/29 21:21:04, UTC: 2017/ 8/29 19:21:04
+34: D0 11 14 00 281:19:52.734 HWM misc  Fitness Wi-Fi Status: 0x3
+35: D1 00 14 00 281:24:52.740 HWM misc  Local: 2017/ 8/29 21:26:04, UTC: 2017/ 8/29 19:26:04
+36: D0 11 14 00 281:24:53.209 HWM misc  Fitness Wi-Fi Status: 0x3
+37: D1 00 14 00 281:29:53.216 HWM misc  Local: 2017/ 8/29 21:31:05, UTC: 2017/ 8/29 19:31:05
+38: D0 11 14 00 281:29:53.686 HWM misc  Fitness Wi-Fi Status: 0x3
+39: D1 00 14 00 281:34:53.693 HWM misc  Local: 2017/ 8/29 21:36:05, UTC: 2017/ 8/29 19:36:05
+3A: D0 11 14 00 281:34:54.162 HWM misc  Fitness Wi-Fi Status: 0x3
+3B: D1 00 14 00 281:39:54.169 HWM misc  Local: 2017/ 8/29 21:41:06, UTC: 2017/ 8/29 19:41:06
+3C: D0 11 14 00 281:39:54.641 HWM misc  Fitness Wi-Fi Status: 0x3
+3D: D1 00 14 00 281:44:54.648 HWM misc  Local: 2017/ 8/29 21:46:06, UTC: 2017/ 8/29 19:46:06
+3E: D0 11 14 00 281:44:55.121 HWM misc  Fitness Wi-Fi Status: 0x3
+3F: D1 00 14 00 281:49:55.127 HWM misc  Local: 2017/ 8/29 21:51:07, UTC: 2017/ 8/29 19:51:07
+40: D0 11 14 00 281:49:55.608 HWM misc  Fitness Wi-Fi Status: 0x3
+41: D1 00 14 00 281:54:55.615 HWM misc  Local: 2017/ 8/29 21:56:07, UTC: 2017/ 8/29 19:56:07
+42: D0 11 14 00 281:54:56.083 HWM misc  Fitness Wi-Fi Status: 0x3
+43: D1 00 14 00 281:59:56.089 HWM misc  Local: 2017/ 8/29 22:01:08, UTC: 2017/ 8/29 20:01:08
+44: D0 11 14 00 281:59:56.556 HWM misc  Fitness Wi-Fi Status: 0x3
 
 verNum:     8/13/2014 (00)
 ownerID:    0000000D
@@ -255,210 +253,210 @@ archived:   00
 max_arch:   00
 num_recs:   C8
 rec_size:   20
-next_evnt:  52
-timeDay:    2017/ 8/23 22:07:56
+next_evnt:  26
+timeDay:    2017/ 9/ 2 21:32:06
 cycle_cnt:  20
 
-52: DC 12 14 00 139:01:53.373 HWM main  Process BLE Event (event cmd): 0x9
-53: DC 12 14 00 139:02:23.365 HWM main  Process BLE Event (event cmd): 0xA
-54: DC 12 14 00 139:02:23.366 HWM main  Process BLE Event (event cmd): 0x6
-55: DC 12 14 00 139:02:23.367 HWM main  Process BLE Event (event cmd): 0x9
-56: DC 12 14 00 139:03:53.369 HWM main  Process BLE Event (event cmd): 0xA
-57: DC 12 14 00 139:03:53.375 HWM main  Process BLE Event (event cmd): 0x6
-58: DC 12 14 00 139:03:53.376 HWM main  Process BLE Event (event cmd): 0x9
-59: DC 12 14 00 139:04:23.371 HWM main  Process BLE Event (event cmd): 0xA
-5A: DC 12 14 00 139:04:23.372 HWM main  Process BLE Event (event cmd): 0x6
-5B: DC 12 14 00 139:04:23.373 HWM main  Process BLE Event (event cmd): 0x9
-5C: DC 12 14 00 139:05:53.375 HWM main  Process BLE Event (event cmd): 0xA
-5D: DC 12 14 00 139:05:53.384 HWM main  Process BLE Event (event cmd): 0x6
-5E: DC 12 14 00 139:05:53.385 HWM main  Process BLE Event (event cmd): 0x9
-5F: DC 12 14 00 139:06:23.379 HWM main  Process BLE Event (event cmd): 0xA
-60: DC 12 14 00 139:06:23.380 HWM main  Process BLE Event (event cmd): 0x6
-61: DC 12 14 00 139:06:23.381 HWM main  Process BLE Event (event cmd): 0x9
-62: DC 12 14 00 139:07:53.388 HWM main  Process BLE Event (event cmd): 0xA
-63: DC 12 14 00 139:07:53.390 HWM main  Process BLE Event (event cmd): 0x6
-64: DC 12 14 00 139:07:53.391 HWM main  Process BLE Event (event cmd): 0x9
-65: DC 12 14 00 139:08:23.394 HWM main  Process BLE Event (event cmd): 0xA
-66: DC 12 14 00 139:08:23.395 HWM main  Process BLE Event (event cmd): 0x6
-67: DC 12 14 00 139:08:23.396 HWM main  Process BLE Event (event cmd): 0x9
-68: DC 12 14 00 139:09:53.406 HWM main  Process BLE Event (event cmd): 0xA
-69: DC 12 14 00 139:09:53.415 HWM main  Process BLE Event (event cmd): 0x6
-6A: DC 12 14 00 139:09:53.416 HWM main  Process BLE Event (event cmd): 0x9
-6B: DC 12 14 00 139:10:23.409 HWM main  Process BLE Event (event cmd): 0xA
-6C: DC 12 14 00 139:10:23.415 HWM main  Process BLE Event (event cmd): 0x6
-6D: DC 12 14 00 139:10:23.416 HWM main  Process BLE Event (event cmd): 0x9
-6E: DC 12 14 00 139:11:53.410 HWM main  Process BLE Event (event cmd): 0xA
-6F: DC 12 14 00 139:11:53.411 HWM main  Process BLE Event (event cmd): 0x6
-70: DC 12 14 00 139:11:53.412 HWM main  Process BLE Event (event cmd): 0x9
-71: DC 12 14 00 139:12:23.418 HWM main  Process BLE Event (event cmd): 0xA
-72: DC 12 14 00 139:12:23.419 HWM main  Process BLE Event (event cmd): 0x6
-73: DC 12 14 00 139:12:23.420 HWM main  Process BLE Event (event cmd): 0x9
-74: DC 12 14 00 139:13:53.430 HWM main  Process BLE Event (event cmd): 0xA
-75: DC 12 14 00 139:13:53.437 HWM main  Process BLE Event (event cmd): 0x6
-76: DC 12 14 00 139:13:53.439 HWM main  Process BLE Event (event cmd): 0x9
-77: DC 12 14 00 139:14:23.436 HWM main  Process BLE Event (event cmd): 0xA
-78: DC 12 14 00 139:14:23.437 HWM main  Process BLE Event (event cmd): 0x6
-79: DC 12 14 00 139:14:23.442 HWM main  Process BLE Event (event cmd): 0x9
-7A: DC 12 14 00 139:15:53.447 HWM main  Process BLE Event (event cmd): 0xA
-7B: DC 12 14 00 139:15:53.453 HWM main  Process BLE Event (event cmd): 0x6
-7C: DC 12 14 00 139:15:53.454 HWM main  Process BLE Event (event cmd): 0x9
-7D: DC 12 14 00 139:16:23.454 HWM main  Process BLE Event (event cmd): 0xA
-7E: DC 12 14 00 139:16:23.455 HWM main  Process BLE Event (event cmd): 0x6
-7F: DC 12 14 00 139:16:23.456 HWM main  Process BLE Event (event cmd): 0x9
-80: DC 12 14 00 139:17:53.459 HWM main  Process BLE Event (event cmd): 0xA
-81: DC 12 14 00 139:17:53.467 HWM main  Process BLE Event (event cmd): 0x6
-82: DC 12 14 00 139:17:53.469 HWM main  Process BLE Event (event cmd): 0x9
-83: DC 12 14 00 139:18:23.463 HWM main  Process BLE Event (event cmd): 0xA
-84: DC 12 14 00 139:18:23.464 HWM main  Process BLE Event (event cmd): 0x6
-85: DC 12 14 00 139:18:23.465 HWM main  Process BLE Event (event cmd): 0x9
-86: DC 12 14 00 139:19:53.474 HWM main  Process BLE Event (event cmd): 0xA
-87: DC 12 14 00 139:19:53.482 HWM main  Process BLE Event (event cmd): 0x6
-88: DC 12 14 00 139:19:53.483 HWM main  Process BLE Event (event cmd): 0x9
-89: DC 12 14 00 139:20:23.478 HWM main  Process BLE Event (event cmd): 0xA
-8A: DC 12 14 00 139:20:23.479 HWM main  Process BLE Event (event cmd): 0x6
-8B: DC 12 14 00 139:20:23.480 HWM main  Process BLE Event (event cmd): 0x9
-8C: DC 12 14 00 139:21:53.486 HWM main  Process BLE Event (event cmd): 0xA
-8D: DC 12 14 00 139:21:53.493 HWM main  Process BLE Event (event cmd): 0x6
-8E: DC 12 14 00 139:21:53.495 HWM main  Process BLE Event (event cmd): 0x9
-8F: DC 12 14 00 139:22:23.490 HWM main  Process BLE Event (event cmd): 0xA
-90: DC 12 14 00 139:22:23.491 HWM main  Process BLE Event (event cmd): 0x6
-91: DC 12 14 00 139:22:23.492 HWM main  Process BLE Event (event cmd): 0x9
-92: DC 12 14 00 139:23:53.490 HWM main  Process BLE Event (event cmd): 0xA
-93: DC 12 14 00 139:23:53.492 HWM main  Process BLE Event (event cmd): 0x6
-94: DC 12 14 00 139:23:53.493 HWM main  Process BLE Event (event cmd): 0x9
-95: DC 12 14 00 139:24:23.497 HWM main  Process BLE Event (event cmd): 0xA
-96: DC 12 14 00 139:24:23.499 HWM main  Process BLE Event (event cmd): 0x6
-97: DC 12 14 00 139:24:23.500 HWM main  Process BLE Event (event cmd): 0x9
-98: DC 12 14 00 139:25:53.504 HWM main  Process BLE Event (event cmd): 0xA
-99: DC 12 14 00 139:25:53.509 HWM main  Process BLE Event (event cmd): 0x6
-9A: DC 12 14 00 139:25:53.510 HWM main  Process BLE Event (event cmd): 0x9
-9B: DC 12 14 00 139:26:23.508 HWM main  Process BLE Event (event cmd): 0xA
-9C: DC 12 14 00 139:26:23.509 HWM main  Process BLE Event (event cmd): 0x6
-9D: DC 12 14 00 139:26:23.510 HWM main  Process BLE Event (event cmd): 0x9
-9E: DC 12 14 00 139:27:53.515 HWM main  Process BLE Event (event cmd): 0xA
-9F: DC 12 14 00 139:27:53.516 HWM main  Process BLE Event (event cmd): 0x6
-A0: DC 12 14 00 139:27:53.517 HWM main  Process BLE Event (event cmd): 0x9
-A1: DC 12 14 00 139:28:23.520 HWM main  Process BLE Event (event cmd): 0xA
-A2: DC 12 14 00 139:28:23.522 HWM main  Process BLE Event (event cmd): 0x6
-A3: DC 12 14 00 139:28:23.523 HWM main  Process BLE Event (event cmd): 0x9
-A4: DC 12 14 00 139:29:53.527 HWM main  Process BLE Event (event cmd): 0xA
-A5: DC 12 14 00 139:29:53.534 HWM main  Process BLE Event (event cmd): 0x6
-A6: DC 12 14 00 139:29:53.536 HWM main  Process BLE Event (event cmd): 0x9
-A7: DC 12 14 00 139:30:23.531 HWM main  Process BLE Event (event cmd): 0xA
-A8: DC 12 14 00 139:30:23.532 HWM main  Process BLE Event (event cmd): 0x6
-A9: DC 12 14 00 139:30:23.533 HWM main  Process BLE Event (event cmd): 0x9
-AA: DC 12 14 00 139:31:53.538 HWM main  Process BLE Event (event cmd): 0xA
-AB: DC 12 14 00 139:31:53.543 HWM main  Process BLE Event (event cmd): 0x6
-AC: DC 12 14 00 139:31:53.544 HWM main  Process BLE Event (event cmd): 0x9
-AD: DC 12 14 00 139:32:23.540 HWM main  Process BLE Event (event cmd): 0xA
-AE: DC 12 14 00 139:32:23.541 HWM main  Process BLE Event (event cmd): 0x6
-AF: DC 12 14 00 139:32:23.547 HWM main  Process BLE Event (event cmd): 0x9
-B0: DC 12 14 00 139:33:53.549 HWM main  Process BLE Event (event cmd): 0xA
-B1: DC 12 14 00 139:33:53.557 HWM main  Process BLE Event (event cmd): 0x6
-B2: DC 12 14 00 139:33:53.558 HWM main  Process BLE Event (event cmd): 0x9
-B3: DC 12 14 00 139:34:23.553 HWM main  Process BLE Event (event cmd): 0xA
-B4: DC 12 14 00 139:34:23.554 HWM main  Process BLE Event (event cmd): 0x6
-B5: DC 12 14 00 139:34:23.555 HWM main  Process BLE Event (event cmd): 0x9
-B6: DC 12 14 00 139:35:53.566 HWM main  Process BLE Event (event cmd): 0xA
-B7: DC 12 14 00 139:35:53.698 HWM main  Process BLE Event (event cmd): 0x6
-B8: DC 12 14 00 139:35:53.699 HWM main  Process BLE Event (event cmd): 0x9
-B9: DC 12 14 00 139:36:23.569 HWM main  Process BLE Event (event cmd): 0xA
-BA: DC 12 14 00 139:36:23.575 HWM main  Process BLE Event (event cmd): 0x6
-BB: DC 12 14 00 139:36:23.576 HWM main  Process BLE Event (event cmd): 0x9
-BC: DC 12 14 00 139:37:53.572 HWM main  Process BLE Event (event cmd): 0xA
-BD: DC 12 14 00 139:37:53.580 HWM main  Process BLE Event (event cmd): 0x6
-BE: DC 12 14 00 139:37:53.581 HWM main  Process BLE Event (event cmd): 0x9
-BF: DC 12 14 00 139:38:23.577 HWM main  Process BLE Event (event cmd): 0xA
-C0: DC 12 14 00 139:38:23.578 HWM main  Process BLE Event (event cmd): 0x6
-C1: DC 12 14 00 139:38:23.579 HWM main  Process BLE Event (event cmd): 0x9
-C2: DC 12 14 00 139:39:53.582 HWM main  Process BLE Event (event cmd): 0xA
-C3: DC 12 14 00 139:39:53.583 HWM main  Process BLE Event (event cmd): 0x6
-C4: DC 12 14 00 139:39:53.584 HWM main  Process BLE Event (event cmd): 0x9
-C5: DC 12 14 00 139:40:23.587 HWM main  Process BLE Event (event cmd): 0xA
-C6: DC 12 14 00 139:40:23.588 HWM main  Process BLE Event (event cmd): 0x6
-C7: DC 12 14 00 139:40:23.589 HWM main  Process BLE Event (event cmd): 0x9
-00: DC 12 14 00 139:41:53.588 HWM main  Process BLE Event (event cmd): 0xA
-01: DC 12 14 00 139:41:53.589 HWM main  Process BLE Event (event cmd): 0x6
-02: DC 12 14 00 139:41:53.590 HWM main  Process BLE Event (event cmd): 0x9
-03: DC 12 14 00 139:42:23.594 HWM main  Process BLE Event (event cmd): 0xA
-04: DC 12 14 00 139:42:23.595 HWM main  Process BLE Event (event cmd): 0x6
-05: DC 12 14 00 139:42:23.596 HWM main  Process BLE Event (event cmd): 0x9
-06: DC 12 14 00 139:43:53.600 HWM main  Process BLE Event (event cmd): 0xA
-07: DC 12 14 00 139:43:53.608 HWM main  Process BLE Event (event cmd): 0x6
-08: DC 12 14 00 139:43:53.609 HWM main  Process BLE Event (event cmd): 0x9
-09: DC 12 14 00 139:44:23.601 HWM main  Process BLE Event (event cmd): 0xA
-0A: DC 12 14 00 139:44:23.602 HWM main  Process BLE Event (event cmd): 0x6
-0B: DC 12 14 00 139:44:23.603 HWM main  Process BLE Event (event cmd): 0x9
-0C: DC 12 14 00 139:45:53.606 HWM main  Process BLE Event (event cmd): 0xA
-0D: DC 12 14 00 139:45:53.608 HWM main  Process BLE Event (event cmd): 0x6
-0E: DC 12 14 00 139:45:53.609 HWM main  Process BLE Event (event cmd): 0x9
-0F: DC 12 14 00 139:46:23.609 HWM main  Process BLE Event (event cmd): 0xA
-10: DC 12 14 00 139:46:23.610 HWM main  Process BLE Event (event cmd): 0x6
-11: DC 12 14 00 139:46:23.611 HWM main  Process BLE Event (event cmd): 0x9
-12: DC 12 14 00 139:47:53.613 HWM main  Process BLE Event (event cmd): 0xA
-13: DC 12 14 00 139:47:53.620 HWM main  Process BLE Event (event cmd): 0x6
-14: DC 12 14 00 139:47:53.621 HWM main  Process BLE Event (event cmd): 0x9
-15: DC 12 14 00 139:48:23.619 HWM main  Process BLE Event (event cmd): 0xA
-16: DC 12 14 00 139:48:23.624 HWM main  Process BLE Event (event cmd): 0x6
-17: DC 12 14 00 139:48:23.625 HWM main  Process BLE Event (event cmd): 0x9
-18: DC 12 14 00 139:49:53.626 HWM main  Process BLE Event (event cmd): 0xA
-19: DC 12 14 00 139:49:53.633 HWM main  Process BLE Event (event cmd): 0x6
-1A: DC 12 14 00 139:49:53.635 HWM main  Process BLE Event (event cmd): 0x9
-1B: DC 12 14 00 139:50:23.631 HWM main  Process BLE Event (event cmd): 0xA
-1C: DC 12 14 00 139:50:23.632 HWM main  Process BLE Event (event cmd): 0x6
-1D: DC 12 14 00 139:50:23.633 HWM main  Process BLE Event (event cmd): 0x9
-1E: DC 12 14 00 139:51:53.643 HWM main  Process BLE Event (event cmd): 0xA
-1F: DC 12 14 00 139:51:53.650 HWM main  Process BLE Event (event cmd): 0x6
-20: DC 12 14 00 139:51:53.651 HWM main  Process BLE Event (event cmd): 0x9
-21: DC 12 14 00 139:52:23.648 HWM main  Process BLE Event (event cmd): 0xA
-22: DC 12 14 00 139:52:23.649 HWM main  Process BLE Event (event cmd): 0x6
-23: DC 12 14 00 139:52:23.653 HWM main  Process BLE Event (event cmd): 0x9
-24: DC 12 14 00 139:53:53.653 HWM main  Process BLE Event (event cmd): 0xA
-25: DC 12 14 00 139:53:53.660 HWM main  Process BLE Event (event cmd): 0x6
-26: DC 12 14 00 139:53:53.662 HWM main  Process BLE Event (event cmd): 0x9
-27: DC 12 14 00 139:54:23.658 HWM main  Process BLE Event (event cmd): 0xA
-28: DC 12 14 00 139:54:23.659 HWM main  Process BLE Event (event cmd): 0x6
-29: DC 12 14 00 139:54:23.660 HWM main  Process BLE Event (event cmd): 0x9
-2A: DC 12 14 00 139:55:53.666 HWM main  Process BLE Event (event cmd): 0xA
-2B: DC 12 14 00 139:55:53.672 HWM main  Process BLE Event (event cmd): 0x6
-2C: DC 12 14 00 139:55:53.673 HWM main  Process BLE Event (event cmd): 0x9
-2D: DC 12 14 00 139:56:23.675 HWM main  Process BLE Event (event cmd): 0xA
-2E: DC 12 14 00 139:56:23.679 HWM main  Process BLE Event (event cmd): 0x6
-2F: DC 12 14 00 139:56:23.680 HWM main  Process BLE Event (event cmd): 0x9
-30: DC 12 14 00 139:57:53.682 HWM main  Process BLE Event (event cmd): 0xA
-31: DC 12 14 00 139:57:53.689 HWM main  Process BLE Event (event cmd): 0x6
-32: DC 12 14 00 139:57:53.691 HWM main  Process BLE Event (event cmd): 0x9
-33: DC 12 14 00 139:58:23.685 HWM main  Process BLE Event (event cmd): 0xA
-34: DC 12 14 00 139:58:23.686 HWM main  Process BLE Event (event cmd): 0x6
-35: DC 12 14 00 139:58:23.687 HWM main  Process BLE Event (event cmd): 0x9
-36: DC 12 14 00 139:59:53.694 HWM main  Process BLE Event (event cmd): 0xA
-37: DC 12 14 00 139:59:53.700 HWM main  Process BLE Event (event cmd): 0x6
-38: DC 12 14 00 139:59:53.701 HWM main  Process BLE Event (event cmd): 0x9
-39: DC 12 14 00 140:00:23.704 HWM main  Process BLE Event (event cmd): 0xA
-3A: DC 12 14 00 140:00:23.705 HWM main  Process BLE Event (event cmd): 0x6
-3B: DC 12 14 00 140:00:23.707 HWM main  Process BLE Event (event cmd): 0x9
-3C: DC 12 14 00 140:01:53.706 HWM main  Process BLE Event (event cmd): 0xA
-3D: DC 12 14 00 140:01:53.714 HWM main  Process BLE Event (event cmd): 0x6
-3E: DC 12 14 00 140:01:53.715 HWM main  Process BLE Event (event cmd): 0x9
-3F: DC 12 14 00 140:02:23.710 HWM main  Process BLE Event (event cmd): 0xA
-40: DC 12 14 00 140:02:23.711 HWM main  Process BLE Event (event cmd): 0x6
-41: DC 12 14 00 140:02:23.712 HWM main  Process BLE Event (event cmd): 0x9
-42: DC 12 14 00 140:03:53.717 HWM main  Process BLE Event (event cmd): 0xA
-43: DC 12 14 00 140:03:53.723 HWM main  Process BLE Event (event cmd): 0x6
-44: DC 12 14 00 140:03:53.724 HWM main  Process BLE Event (event cmd): 0x9
-45: DC 12 14 00 140:04:23.722 HWM main  Process BLE Event (event cmd): 0xA
-46: DC 12 14 00 140:04:23.726 HWM main  Process BLE Event (event cmd): 0x6
-47: DC 12 14 00 140:04:23.727 HWM main  Process BLE Event (event cmd): 0x9
-48: DC 12 14 00 140:05:53.730 HWM main  Process BLE Event (event cmd): 0xA
-49: DC 12 14 00 140:05:53.738 HWM main  Process BLE Event (event cmd): 0x6
-4A: DC 12 14 00 140:05:53.739 HWM main  Process BLE Event (event cmd): 0x9
-4B: DC 12 14 00 140:06:23.733 HWM main  Process BLE Event (event cmd): 0xA
-4C: DC 12 14 00 140:06:23.734 HWM main  Process BLE Event (event cmd): 0x6
-4D: DC 12 14 00 140:06:23.738 HWM main  Process BLE Event (event cmd): 0x9
-4E* 16 17 14 00 140:06:44.564 HWM misc 00FD0F0300C10703007BFD05205C8A00 .........{.. \..
-4F: DC 12 14 00 140:06:44.574 HWM main  Process BLE Event (event cmd): 0xA
-50: DC 12 14 00 140:06:44.575 HWM main  Process BLE Event (event cmd): 0xE
-51: DC 12 14 00 140:06:44.576 HWM main  Process BLE Event (event cmd): 0xC
+26: DB 1A 14 00 379:30:47.929 HWM main  Notification Center Service Event: 0x0
+27: DB 19 14 00 379:30:47.931 HWM main  Notification Center Service UID: 5
+28: DB 1A 14 00 379:30:47.931 HWM main  Notification Center Service Event: 0x0
+29: DB 19 14 00 379:30:47.933 HWM main  Notification Center Service UID: 6
+2A: DB 1A 14 00 379:30:47.934 HWM main  Notification Center Service Event: 0x0
+2B: DB 19 14 00 379:30:47.935 HWM main  Notification Center Service UID: 7
+2C: DB 1A 14 00 379:30:47.935 HWM main  Notification Center Service Event: 0x0
+2D: DB 19 14 00 379:30:47.964 HWM main  Notification Center Service UID: 8
+2E: DB 1A 14 00 379:30:47.970 HWM main  Notification Center Service Event: 0x0
+2F: DB 19 14 00 379:30:47.972 HWM main  Notification Center Service UID: 9
+30: DB 1A 14 00 379:30:47.972 HWM main  Notification Center Service Event: 0x0
+31: DB 19 14 00 379:30:47.974 HWM main  Notification Center Service UID: 10
+32: DB 1A 14 00 379:30:47.974 HWM main  Notification Center Service Event: 0x0
+33: DB 19 14 00 379:30:47.976 HWM main  Notification Center Service UID: 11
+34: DB 1A 14 00 379:30:47.976 HWM main  Notification Center Service Event: 0x0
+35: DB 19 14 00 379:30:47.977 HWM main  Notification Center Service UID: 12
+36: DB 1A 14 00 379:30:47.978 HWM main  Notification Center Service Event: 0x0
+37: DB 19 14 00 379:30:47.979 HWM main  Notification Center Service UID: 13
+38: DB 1A 14 00 379:30:47.980 HWM main  Notification Center Service Event: 0x0
+39: DB 19 14 00 379:30:47.981 HWM main  Notification Center Service UID: 14
+3A: DB 1A 14 00 379:30:47.982 HWM main  Notification Center Service Event: 0x0
+3B: DB 19 14 00 379:30:47.983 HWM main  Notification Center Service UID: 15
+3C: DB 1A 14 00 379:30:47.984 HWM main  Notification Center Service Event: 0x0
+3D: DB 19 14 00 379:30:48.009 HWM main  Notification Center Service UID: 16
+3E: DB 1A 14 00 379:30:48.010 HWM main  Notification Center Service Event: 0x0
+3F: DB 19 14 00 379:30:48.011 HWM main  Notification Center Service UID: 17
+40: DB 1A 14 00 379:30:48.012 HWM main  Notification Center Service Event: 0x0
+41: DB 19 14 00 379:30:48.013 HWM main  Notification Center Service UID: 18
+42: DB 1A 14 00 379:30:48.014 HWM main  Notification Center Service Event: 0x0
+43: DB 19 14 00 379:30:48.015 HWM main  Notification Center Service UID: 19
+44: DB 1A 14 00 379:30:48.016 HWM main  Notification Center Service Event: 0x0
+45: DB 19 14 00 379:30:48.017 HWM main  Notification Center Service UID: 20
+46: DB 1A 14 00 379:30:48.018 HWM main  Notification Center Service Event: 0x0
+47: DB 19 14 00 379:30:48.018 HWM main  Notification Center Service UID: 21
+48: DB 1A 14 00 379:30:48.019 HWM main  Notification Center Service Event: 0x0
+49: DB 19 14 00 379:30:48.020 HWM main  Notification Center Service UID: 22
+4A: DB 1A 14 00 379:30:48.021 HWM main  Notification Center Service Event: 0x0
+4B: DB 19 14 00 379:30:48.022 HWM main  Notification Center Service UID: 23
+4C: DB 1A 14 00 379:30:48.023 HWM main  Notification Center Service Event: 0x0
+4D: DB 19 14 00 379:30:48.054 HWM main  Notification Center Service UID: 24
+4E: DB 1A 14 00 379:30:48.054 HWM main  Notification Center Service Event: 0x0
+4F: DB 19 14 00 379:30:48.056 HWM main  Notification Center Service UID: 25
+50: DB 1A 14 00 379:30:48.056 HWM main  Notification Center Service Event: 0x0
+51: DB 19 14 00 379:30:48.058 HWM main  Notification Center Service UID: 26
+52: DB 1A 14 00 379:30:48.058 HWM main  Notification Center Service Event: 0x0
+53: DC 10 14 00 379:30:48.060 HWM main  Process BLE Event (event type): 0x19
+54: DC 10 14 00 379:30:48.061 HWM main  Process BLE Event (event type): 0x1A
+55: DB 19 14 00 379:30:48.061 HWM main  Notification Center Service UID: 27
+56: DB 1A 14 00 379:30:48.062 HWM main  Notification Center Service Event: 0x0
+57: DB 19 14 00 379:30:48.063 HWM main  Notification Center Service UID: 28
+58: DB 1A 14 00 379:30:48.064 HWM main  Notification Center Service Event: 0x0
+59: DB 19 14 00 379:30:48.065 HWM main  Notification Center Service UID: 29
+5A: DB 1A 14 00 379:30:48.066 HWM main  Notification Center Service Event: 0x0
+5B* 16 19 14 00 379:30:48.100 HWM main 020068190020790000001CBA0F00A305 ..h.. y.........
+5C: DB 19 14 00 379:30:48.102 HWM main  Notification Center Service UID: 30
+5D: DB 1A 14 00 379:30:48.102 HWM main  Notification Center Service Event: 0x0
+5E: DB 19 14 00 379:30:48.104 HWM main  Notification Center Service UID: 31
+5F: DB 1A 14 00 379:30:48.104 HWM main  Notification Center Service Event: 0x0
+60: DB 19 14 00 379:30:48.105 HWM main  Notification Center Service UID: 32
+61: DB 1A 14 00 379:30:48.106 HWM main  Notification Center Service Event: 0x0
+62: DB 19 14 00 379:30:48.107 HWM main  Notification Center Service UID: 33
+63: DB 1A 14 00 379:30:48.108 HWM main  Notification Center Service Event: 0x0
+64: DB 19 14 00 379:30:48.109 HWM main  Notification Center Service UID: 34
+65: DB 1A 14 00 379:30:48.110 HWM main  Notification Center Service Event: 0x0
+66: DB 19 14 00 379:30:48.143 HWM main  Notification Center Service UID: 35
+67: DB 1A 14 00 379:30:48.144 HWM main  Notification Center Service Event: 0x0
+68: DB 19 14 00 379:30:48.189 HWM main  Notification Center Service UID: 36
+69: DB 1A 14 00 379:30:48.189 HWM main  Notification Center Service Event: 0x0
+6A: DB 19 14 00 379:30:48.191 HWM main  Notification Center Service UID: 37
+6B: DB 1A 14 00 379:30:48.191 HWM main  Notification Center Service Event: 0x0
+6C: DB 19 14 00 379:30:48.196 HWM main  Notification Center Service UID: 38
+6D: DB 1A 14 00 379:30:48.196 HWM main  Notification Center Service Event: 0x0
+6E: DB 19 14 00 379:30:48.198 HWM main  Notification Center Service UID: 39
+6F: DB 1A 14 00 379:30:48.198 HWM main  Notification Center Service Event: 0x0
+70: DB 19 14 00 379:30:48.199 HWM main  Notification Center Service UID: 40
+71: DB 1A 14 00 379:30:48.200 HWM main  Notification Center Service Event: 0x0
+72: DB 19 14 00 379:30:48.201 HWM main  Notification Center Service UID: 41
+73: DB 1A 14 00 379:30:48.202 HWM main  Notification Center Service Event: 0x0
+74: DB 19 14 00 379:30:48.203 HWM main  Notification Center Service UID: 42
+75: DB 1A 14 00 379:30:48.204 HWM main  Notification Center Service Event: 0x0
+76: DB 19 14 00 379:30:48.205 HWM main  Notification Center Service UID: 43
+77: DB 1A 14 00 379:30:48.206 HWM main  Notification Center Service Event: 0x0
+78: DB 19 14 00 379:30:48.234 HWM main  Notification Center Service UID: 44
+79: DB 1A 14 00 379:30:48.234 HWM main  Notification Center Service Event: 0x0
+7A: DB 19 14 00 379:30:48.236 HWM main  Notification Center Service UID: 45
+7B: DB 1A 14 00 379:30:48.236 HWM main  Notification Center Service Event: 0x0
+7C: DB 19 14 00 379:30:48.238 HWM main  Notification Center Service UID: 46
+7D: DB 1A 14 00 379:30:48.238 HWM main  Notification Center Service Event: 0x0
+7E: DB 19 14 00 379:30:48.240 HWM main  Notification Center Service UID: 47
+7F: DB 1A 14 00 379:30:48.240 HWM main  Notification Center Service Event: 0x0
+80: DB 19 14 00 379:30:48.241 HWM main  Notification Center Service UID: 48
+81: DB 1A 14 00 379:30:48.242 HWM main  Notification Center Service Event: 0x0
+82: DB 19 14 00 379:30:48.243 HWM main  Notification Center Service UID: 49
+83: DB 1A 14 00 379:30:48.244 HWM main  Notification Center Service Event: 0x0
+84: DB 19 14 00 379:30:48.245 HWM main  Notification Center Service UID: 50
+85: DB 1A 14 00 379:30:48.246 HWM main  Notification Center Service Event: 0x0
+86: DB 19 14 00 379:30:48.247 HWM main  Notification Center Service UID: 51
+87: DB 1A 14 00 379:30:48.247 HWM main  Notification Center Service Event: 0x0
+88: DB 19 14 00 379:30:48.279 HWM main  Notification Center Service UID: 52
+89: DB 1A 14 00 379:30:48.279 HWM main  Notification Center Service Event: 0x0
+8A: DB 19 14 00 379:30:48.281 HWM main  Notification Center Service UID: 53
+8B: DB 1A 14 00 379:30:48.281 HWM main  Notification Center Service Event: 0x0
+8C: DB 19 14 00 379:30:48.286 HWM main  Notification Center Service UID: 54
+8D: DB 1A 14 00 379:30:48.287 HWM main  Notification Center Service Event: 0x0
+8E: DB 19 14 00 379:30:48.288 HWM main  Notification Center Service UID: 55
+8F: DB 1A 14 00 379:30:48.288 HWM main  Notification Center Service Event: 0x0
+90: DB 19 14 00 379:30:48.290 HWM main  Notification Center Service UID: 56
+91: DB 1A 14 00 379:30:48.290 HWM main  Notification Center Service Event: 0x0
+92: DB 19 14 00 379:30:48.291 HWM main  Notification Center Service UID: 57
+93: DB 1A 14 00 379:30:48.292 HWM main  Notification Center Service Event: 0x0
+94: DB 19 14 00 379:30:48.293 HWM main  Notification Center Service UID: 58
+95: DB 1A 14 00 379:30:48.294 HWM main  Notification Center Service Event: 0x0
+96: DC 10 14 00 379:30:51.699 HWM main  Process BLE Event (event type): 0x19
+97: DC 10 14 00 379:30:51.700 HWM main  Process BLE Event (event type): 0x1A
+98: DB 15 14 00 379:30:51.705 HWM main  Notification Details UID: 34
+99: DB 16 14 00 379:30:51.705 HWM main  Notification Details Flags (field as integer): 1840
+9A: DB 17 14 00 379:30:51.706 HWM main  Notification Details Data State Change UID: 34
+9B: DC 10 14 00 379:30:51.879 HWM main  Process BLE Event (event type): 0x19
+9C: DC 10 14 00 379:30:51.880 HWM main  Process BLE Event (event type): 0x1A
+9D: DB 15 14 00 379:30:51.885 HWM main  Notification Details UID: 35
+9E: DB 16 14 00 379:30:51.885 HWM main  Notification Details Flags (field as integer): 1840
+9F: DB 17 14 00 379:30:51.886 HWM main  Notification Details Data State Change UID: 35
+A0: DC 10 14 00 379:30:51.969 HWM main  Process BLE Event (event type): 0x19
+A1: DC 10 14 00 379:30:51.970 HWM main  Process BLE Event (event type): 0x1A
+A2: DB 15 14 00 379:30:52.014 HWM main  Notification Details UID: 36
+A3: DB 16 14 00 379:30:52.014 HWM main  Notification Details Flags (field as integer): 1840
+A4: DB 17 14 00 379:30:52.015 HWM main  Notification Details Data State Change UID: 36
+A5: DC 10 14 00 379:30:52.104 HWM main  Process BLE Event (event type): 0x19
+A6: DC 10 14 00 379:30:52.105 HWM main  Process BLE Event (event type): 0x1A
+A7: DB 15 14 00 379:30:52.149 HWM main  Notification Details UID: 37
+A8: DB 16 14 00 379:30:52.149 HWM main  Notification Details Flags (field as integer): 1840
+A9: DB 17 14 00 379:30:52.150 HWM main  Notification Details Data State Change UID: 37
+AA: DC 10 14 00 379:30:52.239 HWM main  Process BLE Event (event type): 0x19
+AB: DC 10 14 00 379:30:52.244 HWM main  Process BLE Event (event type): 0x1A
+AC: DB 15 14 00 379:30:52.249 HWM main  Notification Details UID: 38
+AD: DB 16 14 00 379:30:52.250 HWM main  Notification Details Flags (field as integer): 1840
+AE: DB 17 14 00 379:30:52.250 HWM main  Notification Details Data State Change UID: 38
+AF: DC 10 14 00 379:30:52.374 HWM main  Process BLE Event (event type): 0x19
+B0: DC 10 14 00 379:30:52.375 HWM main  Process BLE Event (event type): 0x1A
+B1: DB 15 14 00 379:30:52.379 HWM main  Notification Details UID: 39
+B2: DB 16 14 00 379:30:52.379 HWM main  Notification Details Flags (field as integer): 1840
+B3: DB 17 14 00 379:30:52.380 HWM main  Notification Details Data State Change UID: 39
+B4: DC 10 14 00 379:30:52.464 HWM main  Process BLE Event (event type): 0x19
+B5: DC 10 14 00 379:30:52.465 HWM main  Process BLE Event (event type): 0x1A
+B6: DB 15 14 00 379:30:52.469 HWM main  Notification Details UID: 40
+B7: DB 16 14 00 379:30:52.469 HWM main  Notification Details Flags (field as integer): 1840
+B8: DB 17 14 00 379:30:52.470 HWM main  Notification Details Data State Change UID: 40
+B9: DC 10 14 00 379:30:52.554 HWM main  Process BLE Event (event type): 0x19
+BA: DC 10 14 00 379:30:52.555 HWM main  Process BLE Event (event type): 0x1A
+BB: DB 15 14 00 379:30:52.560 HWM main  Notification Details UID: 41
+BC: DB 16 14 00 379:30:52.561 HWM main  Notification Details Flags (field as integer): 1840
+BD: DB 17 14 00 379:30:52.561 HWM main  Notification Details Data State Change UID: 41
+BE: DC 10 14 00 379:30:52.644 HWM main  Process BLE Event (event type): 0x19
+BF: DC 10 14 00 379:30:52.645 HWM main  Process BLE Event (event type): 0x1A
+C0: DB 15 14 00 379:30:52.650 HWM main  Notification Details UID: 42
+C1: DB 16 14 00 379:30:52.650 HWM main  Notification Details Flags (field as integer): 1840
+C2: DB 17 14 00 379:30:52.651 HWM main  Notification Details Data State Change UID: 42
+C3: DC 10 14 00 379:30:52.735 HWM main  Process BLE Event (event type): 0x19
+C4: DC 10 14 00 379:30:52.736 HWM main  Process BLE Event (event type): 0x1A
+C5: DB 15 14 00 379:30:52.741 HWM main  Notification Details UID: 43
+C6: DB 16 14 00 379:30:52.741 HWM main  Notification Details Flags (field as integer): 1840
+C7: DB 17 14 00 379:30:52.742 HWM main  Notification Details Data State Change UID: 43
+00: DC 10 14 00 379:30:53.231 HWM main  Process BLE Event (event type): 0x19
+01: DC 10 14 00 379:30:53.232 HWM main  Process BLE Event (event type): 0x1A
+02: DB 15 14 00 379:30:53.235 HWM main  Notification Details UID: 44
+03: DB 16 14 00 379:30:53.236 HWM main  Notification Details Flags (field as integer): 1840
+04: DB 17 14 00 379:30:53.236 HWM main  Notification Details Data State Change UID: 44
+05: DC 10 14 00 379:30:53.319 HWM main  Process BLE Event (event type): 0x19
+06: DC 10 14 00 379:30:53.320 HWM main  Process BLE Event (event type): 0x1A
+07: DB 15 14 00 379:30:53.365 HWM main  Notification Details UID: 45
+08: DB 16 14 00 379:30:53.365 HWM main  Notification Details Flags (field as integer): 1840
+09: DB 17 14 00 379:30:53.366 HWM main  Notification Details Data State Change UID: 45
+0A: DC 10 14 00 379:30:53.454 HWM main  Process BLE Event (event type): 0x19
+0B: DC 10 14 00 379:30:53.455 HWM main  Process BLE Event (event type): 0x1A
+0C: DB 15 14 00 379:30:53.459 HWM main  Notification Details UID: 46
+0D: DB 16 14 00 379:30:53.459 HWM main  Notification Details Flags (field as integer): 1840
+0E: DB 17 14 00 379:30:53.460 HWM main  Notification Details Data State Change UID: 46
+0F: DC 10 14 00 379:30:53.588 HWM main  Process BLE Event (event type): 0x19
+10: DC 10 14 00 379:30:53.634 HWM main  Process BLE Event (event type): 0x1A
+11: DB 15 14 00 379:30:53.681 HWM main  Notification Details UID: 47
+12: DB 16 14 00 379:30:53.681 HWM main  Notification Details Flags (field as integer): 1840
+13: DB 17 14 00 379:30:53.682 HWM main  Notification Details Data State Change UID: 47
+14: DC 10 14 00 379:30:53.769 HWM main  Process BLE Event (event type): 0x19
+15: DC 10 14 00 379:30:53.770 HWM main  Process BLE Event (event type): 0x1A
+16: DB 15 14 00 379:30:53.816 HWM main  Notification Details UID: 48
+17: DB 16 14 00 379:30:53.817 HWM main  Notification Details Flags (field as integer): 1840
+18: DB 17 14 00 379:30:53.817 HWM main  Notification Details Data State Change UID: 48
+19: DC 10 14 00 379:30:53.904 HWM main  Process BLE Event (event type): 0x19
+1A: DC 10 14 00 379:30:53.905 HWM main  Process BLE Event (event type): 0x1A
+1B: DB 15 14 00 379:30:53.910 HWM main  Notification Details UID: 49
+1C: DB 16 14 00 379:30:53.910 HWM main  Notification Details Flags (field as integer): 1840
+1D: DB 17 14 00 379:30:53.911 HWM main  Notification Details Data State Change UID: 49
+1E: DC 10 14 00 379:30:54.481 HWM main  Process BLE Event (event type): 0x19
+1F: D6 12 14 00 379:30:54.489 HWM misc  BTM Notification Received (info type): 0x4
+20: D6 12 14 00 379:30:54.490 HWM misc  BTM Notification Received (info type): 0x4
+21: DC 10 14 00 379:30:54.501 HWM main  Process BLE Event (event type): 0x1A
+22: DC 12 14 00 379:30:54.507 HWM main  Process BLE Event (event cmd): 0x10
+23: DC 12 14 00 379:30:54.508 HWM main  Process BLE Event (event cmd): 0xE
+24: DC 12 14 00 379:30:54.510 HWM main  Process BLE Event (event cmd): 0xC
+25: DC 10 14 00 379:30:54.579 HWM main  Process BLE Event (event type): 0x2
 
 verNum:     8/13/2014 (00)
 ownerID:    0000000E
@@ -469,42 +467,42 @@ archived:   08
 max_arch:   08
 num_recs:   20
 rec_size:   20
-next_evnt:  15
-timeDay:    2017/ 8/23 22:00:00
+next_evnt:  10
+timeDay:    2017/ 9/ 2 21:31:55
 cycle_cnt:  20
 
-15* 10 00 00 00  69:32:49.120 HWM misc  Update Error. Time between Updates: 60001 miliseconds
-16* 10 00 00 00  86:50:49.352 HWM misc  Update Error. Time between Updates: 60001 miliseconds
-17* 10 00 00 00  88:10:49.443 HWM misc  Update Error. Time between Updates: 60001 miliseconds
-18* 10 00 00 00  88:18:08.089 HWM misc  Update Error. Time between Updates: 78647 miliseconds
-19: D3 00 00 00  88:18:08.090 HWM misc Time Jump: 211
-1A: D4 00 00 00  91:58:49.448 HWM main  Hits Midnight: 2017/ 8/22  0:00:00
-1B* 10 00 00 00  95:57:49.450 HWM misc  Update Error. Time between Updates: 60001 miliseconds
-1C* 10 00 00 00  97:45:49.450 HWM misc  Update Error. Time between Updates: 60001 miliseconds
-1D* 10 00 00 00 109:15:32.373 HWM misc  Update Error. Time between Updates: 393332372 miliseconds
-1E* 10 00 00 00 109:15:32.376 HWM main  Update Error. Time between Updates: 0 miliseconds
-1F* 10 00 00 00 109:20:35.910 HWM misc  Update Error. Time between Updates: 393635909 miliseconds
-00* 10 00 00 00 109:20:35.913 HWM main  Update Error. Time between Updates: 0 miliseconds
-01* 10 00 00 00 109:25:39.433 HWM misc  Update Error. Time between Updates: 393939432 miliseconds
-02* 10 00 00 00 109:25:39.436 HWM main  Update Error. Time between Updates: 0 miliseconds
-03* 10 00 00 00 109:30:42.943 HWM misc  Update Error. Time between Updates: 394242942 miliseconds
-04* 10 00 00 00 109:30:42.949 HWM main  Update Error. Time between Updates: 0 miliseconds
-05* 10 00 00 00 109:35:46.497 HWM misc  Update Error. Time between Updates: 394546497 miliseconds
-06* 10 00 00 00 109:35:46.499 HWM main  Update Error. Time between Updates: 0 miliseconds
-07* 10 00 00 00 109:40:50.176 HWM misc  Update Error. Time between Updates: 394850175 miliseconds
-08* 10 00 00 00 109:40:50.183 HWM main  Update Error. Time between Updates: 0 miliseconds
-09* 10 00 00 00 109:45:53.711 HWM misc  Update Error. Time between Updates: 395153710 miliseconds
-0A* 10 00 00 00 109:45:53.713 HWM main  Update Error. Time between Updates: 0 miliseconds
-0B* 10 00 00 00 109:50:57.208 HWM misc  Update Error. Time between Updates: 395457207 miliseconds
-0C* 10 00 00 00 109:50:57.210 HWM main  Update Error. Time between Updates: 0 miliseconds
-0D* 10 00 00 00 109:56:00.741 HWM misc  Update Error. Time between Updates: 395760740 miliseconds
-0E* 10 00 00 00 109:56:00.744 HWM main  Update Error. Time between Updates: 0 miliseconds
-0F: D4 00 00 00 115:58:49.060 HWM main  Hits Midnight: 2017/ 8/23  0:00:00
-10* 10 00 00 00 122:19:49.060 HWM misc  Update Error. Time between Updates: 60001 miliseconds
-11* 10 00 00 00 134:35:51.331 HWM misc  Update Error. Time between Updates: 62535 miliseconds
-12* 10 00 00 00 134:40:55.020 HWM misc  Update Error. Time between Updates: 484855019 miliseconds
-13* 10 00 00 00 134:40:55.022 HWM main  Update Error. Time between Updates: 0 miliseconds
-14: D4 00 00 00 139:58:48.259 HWM main  Hits Midnight: 2017/ 8/24  0:00:00
+10* 10 00 00 00 214:12:48.601 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+11* 10 00 00 00 218:12:48.601 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+12* 10 00 00 00 218:40:48.601 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+13* 10 00 00 00 220:38:48.601 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+14* 10 00 00 00 223:05:47.944 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+15: D4 00 00 00 235:58:48.712 HWM main  Hits Midnight: 2017/ 8/28  0:00:00
+16* 10 00 00 00 237:55:48.713 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+17* 10 00 00 00 239:23:48.713 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+18* 10 00 00 00 242:15:48.713 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+19* 10 00 00 00 243:50:48.713 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+1A: D4 00 00 00 259:58:48.768 HWM main  Hits Midnight: 2017/ 8/29  0:00:00
+1B* 10 00 00 00 260:22:48.770 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+1C* 10 00 00 00 283:17:48.477 HWM misc  Update Error. Time between Updates: 60146 miliseconds
+1D: D4 00 00 00 283:58:47.867 HWM main  Hits Midnight: 2017/ 8/30  0:00:00
+1E* 10 00 00 00 296:54:48.314 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+1F: D4 00 00 00 307:58:48.107 HWM main  Hits Midnight: 2017/ 8/31  0:00:00
+00* 10 00 00 00 313:37:48.121 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+01* 10 00 00 00 316:47:48.121 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+02: D4 00 00 00 331:58:48.569 HWM main  Hits Midnight: 2017/ 9/ 1  0:00:00
+03* 10 00 00 00 332:44:48.583 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+04* 10 00 00 00 339:33:48.634 HWM misc  Update Error. Time between Updates: 60052 miliseconds
+05* 10 00 00 00 343:27:47.932 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+06* 10 00 00 00 344:33:48.459 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+07* 10 00 00 00 344:35:48.459 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+08* 10 00 00 00 354:01:48.653 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+09* 10 00 00 00 354:03:48.653 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+0A: D4 00 00 00 355:58:48.655 HWM main  Hits Midnight: 2017/ 9/ 2  0:00:00
+0B* 10 00 00 00 376:18:55.140 HWM misc  Update Error. Time between Updates: 1533815 miliseconds
+0C: D3 00 00 00 376:18:55.144 HWM misc Time Jump: 211
+0D* 10 00 00 00 379:30:42.325 HWM misc  Update Error. Time between Updates: 4670827 miliseconds
+0E: D3 00 00 00 379:30:42.326 HWM misc Time Jump: 211
+0F* 10 00 00 00 379:30:43.325 HWM misc  Update Error. Time between Updates: 1366242330 miliseconds
 
 
 

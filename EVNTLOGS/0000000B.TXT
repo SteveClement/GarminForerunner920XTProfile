@@ -1,0 +1,983 @@
+File Name: 0:\GARMIN\EVNTLOGS/0000000B.TXT
+
+
+>>>>> EVL_CURR_LOGS <<<<<
+
+verNum:     8/13/2014 (00)
+ownerID:    00000008
+OwnerName:  TFS
+status:     01
+pri_thresh:  2
+archived:   00
+max_arch:   10
+num_recs:   20
+rec_size:   20
+next_evnt:  05
+timeDay:    2017/ 9/ 3  2:01:10
+cycle_cnt:  21
+
+05: E0 00 00 00   0:02:18.218 HWM main  CHKDSK Report: Time:380msec Dirs:39 Files:117 Free:26578 Diff:0
+06: D8 00 00 00 189:14:30.118 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+07: D8 00 00 00 190:17:50.561 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+08: E0 00 00 00 190:17:50.965 HWM main  CHKDSK Report: Time:388msec Dirs:38 Files:124 Free:26400 Diff:0
+09: D1 00 00 00 242:57:14.404 HWM main 1200040000087000BC130E67656C6D00 ......p....gelm.
+0A: FE 01 08 00 242:57:14.411 HWM main 2017/ 8/18  2:00:23 V:0
+
+0B: FF 00 00 00   0:00:03.084 HWM main 2017/ 8/18  2:01:13 C:20
+0C: E0 00 00 00   0:00:03.886 HWM main  CHKDSK Report: Time:593msec Dirs:38 Files:124 Free:26382 Diff:0
+0D: D0 00 00 00   0:00:03.887 HWM main 00004400062066E90720440006208FFB ..D.. f.. D.. ..
+0E: D8 00 00 00 140:06:53.632 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+0F: D8 00 00 00 140:28:43.810 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+10: E0 00 00 00 140:28:44.438 HWM main  CHKDSK Report: Time:606msec Dirs:39 Files:148 Free:26176 Diff:0
+11: D8 00 00 00 146:35:04.556 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+12: D8 00 00 00 146:36:02.695 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+13: E0 00 00 00 146:36:03.311 HWM main  CHKDSK Report: Time:598msec Dirs:38 Files:141 Free:26231 Diff:0
+14: D8 00 00 00 146:37:22.261 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+15: D8 00 00 00 146:37:22.281 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+16: E0 00 00 00 146:37:22.900 HWM main  CHKDSK Report: Time:618msec Dirs:38 Files:142 Free:26230 Diff:0
+17: D8 00 00 00 375:53:31.156 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+18: D8 00 00 00 376:18:48.712 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+19: E0 00 00 00 376:18:49.474 HWM main  CHKDSK Report: Time:755msec Dirs:39 Files:147 Free:24140 Diff:0
+1A: D8 00 00 00 378:13:12.733 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+1B: D8 00 00 00 379:30:36.788 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+1C: E0 00 00 00 379:30:37.911 HWM main  CHKDSK Report: Time:770msec Dirs:39 Files:143 Free:23319 Diff:0
+1D: D8 00 00 00 379:31:04.283 HWM main 02000F00266D616E616765725F776F72 ....&manager_wor
+1E: D8 00 00 00 379:32:29.141 HWM main 02040A01303A5C4741524D494E5C4556 ....0:\GARMIN\EV
+1F: E0 00 00 00 379:32:29.874 HWM main  CHKDSK Report: Time:711msec Dirs:39 Files:145 Free:23317 Diff:0
+00: D1 00 00 00 383:59:08.055 HWM main 120004000008700041131562656C6D00 ......p.A..belm.
+01: FE 01 08 00 383:59:08.055 HWM main 2017/ 9/ 3  2:00:20 V:0
+
+02: FF 00 00 00   0:00:02.512 HWM main 2017/ 9/ 3  2:01:09 C:21
+03: E0 00 00 00   0:00:03.389 HWM main  CHKDSK Report: Time:669msec Dirs:39 Files:144 Free:25109 Diff:0
+04: D0 00 00 00   0:00:03.390 HWM main 00004400062066E907204400062093FB ..D.. f.. D.. ..
+
+verNum:     8/13/2014 (00)
+ownerID:    00000009
+OwnerName:  CSM
+status:     11
+pri_thresh:  2
+archived:   00
+max_arch:   00
+num_recs:   01
+rec_size:   18
+next_evnt:  01
+timeDay:    2017/ 9/ 3  2:01:08
+cycle_cnt:  21
+
+00* 10 00 13 00 115:46:00.013 HWM misc 3DA0F10520C8F305 =... ...
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000A
+OwnerName:  NET
+status:     11
+pri_thresh:  2
+archived:   00
+max_arch:   00
+num_recs:   00
+rec_size:   18
+next_evnt:  00
+timeDay:    2017/ 9/ 3  2:01:08
+cycle_cnt:  21
+
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000B
+OwnerName:  FIT WIFI
+status:     13
+pri_thresh:  2
+archived:   00
+max_arch:   00
+num_recs:   96
+rec_size:   20
+next_evnt:  3B
+timeDay:    2017/ 9/18 16:53:28
+cycle_cnt:  21
+
+3B: D1 00 14 00 281:39:54.169 HWM misc  Local: 2017/ 8/29 21:41:06, UTC: 2017/ 8/29 19:41:06
+3C: D0 11 14 00 281:39:54.641 HWM misc  Fitness Wi-Fi Status: 0x3
+3D: D1 00 14 00 281:44:54.648 HWM misc  Local: 2017/ 8/29 21:46:06, UTC: 2017/ 8/29 19:46:06
+3E: D0 11 14 00 281:44:55.121 HWM misc  Fitness Wi-Fi Status: 0x3
+3F: D1 00 14 00 281:49:55.127 HWM misc  Local: 2017/ 8/29 21:51:07, UTC: 2017/ 8/29 19:51:07
+40: D0 11 14 00 281:49:55.608 HWM misc  Fitness Wi-Fi Status: 0x3
+41: D1 00 14 00 281:54:55.615 HWM misc  Local: 2017/ 8/29 21:56:07, UTC: 2017/ 8/29 19:56:07
+42: D0 11 14 00 281:54:56.083 HWM misc  Fitness Wi-Fi Status: 0x3
+43: D1 00 14 00 281:59:56.089 HWM misc  Local: 2017/ 8/29 22:01:08, UTC: 2017/ 8/29 20:01:08
+44: D0 11 14 00 281:59:56.556 HWM misc  Fitness Wi-Fi Status: 0x3
+45: D1 00 15 00  15:21:47.031 HWM misc  Local: 2017/ 9/ 3 19:22:55, UTC: 2017/ 9/ 3 17:22:55
+46: D0 11 15 00  15:21:49.128 HWM misc  Fitness Wi-Fi Status: 0x2
+47: D0 11 15 00  15:21:50.065 HWM misc  Fitness Wi-Fi Status: 0x2
+48: D0 11 15 00  15:21:51.268 HWM misc  Fitness Wi-Fi Status: 0x2
+49: D0 11 15 00  15:21:51.468 HWM misc  Fitness Wi-Fi Status: 0x2
+4A: D1 00 15 00  15:26:51.574 HWM misc  Local: 2017/ 9/ 3 19:27:59, UTC: 2017/ 9/ 3 17:27:59
+4B: D0 11 15 00  15:26:52.916 HWM misc  Fitness Wi-Fi Status: 0x2
+4C: D0 11 15 00  15:26:53.758 HWM misc  Fitness Wi-Fi Status: 0x2
+4D: D0 11 15 00  15:26:54.780 HWM misc  Fitness Wi-Fi Status: 0x2
+4E: D0 11 15 00  15:26:54.981 HWM misc  Fitness Wi-Fi Status: 0x2
+4F: D1 00 15 00  15:31:55.088 HWM misc  Local: 2017/ 9/ 3 19:33:03, UTC: 2017/ 9/ 3 17:33:03
+50: D0 11 15 00  15:31:56.448 HWM misc  Fitness Wi-Fi Status: 0x2
+51: D0 11 15 00  15:31:57.311 HWM misc  Fitness Wi-Fi Status: 0x2
+52: D0 11 15 00  15:31:58.333 HWM misc  Fitness Wi-Fi Status: 0x2
+53: D0 11 15 00  15:31:58.534 HWM misc  Fitness Wi-Fi Status: 0x2
+54: D1 00 15 00  15:36:58.642 HWM misc  Local: 2017/ 9/ 3 19:38:06, UTC: 2017/ 9/ 3 17:38:06
+55: D0 11 15 00  15:37:09.995 HWM misc  Fitness Wi-Fi Status: 0x1
+56: D0 12 15 00  15:37:27.837 HWM misc  Fitness Wi-Fi Status: 0x1
+57: D0 13 15 00  15:37:29.349 HWM misc  Fitness Wi-Fi Status: 0x1
+58: D0 14 15 00  15:37:29.549 HWM misc  Fitness Wi-Fi Status: 0x3
+59: D0 15 15 00  15:37:29.749 HWM misc  Fitness Wi-Fi Status: 0x5
+5A: D0 19 15 00  15:37:29.952 HWM misc  Fitness Wi-Fi Status: 0x3
+5B: D1 00 15 00 344:27:43.140 HWM misc  Local: 2017/ 9/17 12:28:51, UTC: 2017/ 9/17 10:28:51
+5C: D0 11 15 00 344:27:44.487 HWM misc  Fitness Wi-Fi Status: 0x2
+5D: D0 11 15 00 344:27:45.435 HWM misc  Fitness Wi-Fi Status: 0x2
+5E: D0 11 15 00 344:27:46.643 HWM misc  Fitness Wi-Fi Status: 0x2
+5F: D0 11 15 00 344:27:46.844 HWM misc  Fitness Wi-Fi Status: 0x2
+60: D1 00 15 00 344:32:46.951 HWM misc  Local: 2017/ 9/17 12:33:55, UTC: 2017/ 9/17 10:33:55
+61: D0 11 15 00 344:32:48.278 HWM misc  Fitness Wi-Fi Status: 0x2
+62: D0 11 15 00 344:32:49.235 HWM misc  Fitness Wi-Fi Status: 0x2
+63: D0 11 15 00 344:32:50.444 HWM misc  Fitness Wi-Fi Status: 0x2
+64: D0 11 15 00 344:32:50.645 HWM misc  Fitness Wi-Fi Status: 0x2
+65: D1 00 15 00 344:37:50.751 HWM misc  Local: 2017/ 9/17 12:38:58, UTC: 2017/ 9/17 10:38:58
+66: D0 11 15 00 344:37:52.075 HWM misc  Fitness Wi-Fi Status: 0x2
+67: D0 11 15 00 344:37:53.032 HWM misc  Fitness Wi-Fi Status: 0x2
+68: D0 11 15 00 344:37:54.241 HWM misc  Fitness Wi-Fi Status: 0x2
+69: D0 11 15 00 344:37:54.442 HWM misc  Fitness Wi-Fi Status: 0x2
+6A: D1 00 15 00 344:42:54.549 HWM misc  Local: 2017/ 9/17 12:44:02, UTC: 2017/ 9/17 10:44:02
+6B: D0 11 15 00 344:42:55.880 HWM misc  Fitness Wi-Fi Status: 0x2
+6C: D0 11 15 00 344:42:56.837 HWM misc  Fitness Wi-Fi Status: 0x2
+6D: D0 11 15 00 344:42:58.045 HWM misc  Fitness Wi-Fi Status: 0x2
+6E: D0 11 15 00 344:42:58.246 HWM misc  Fitness Wi-Fi Status: 0x2
+6F: D1 00 15 00 344:47:58.352 HWM misc  Local: 2017/ 9/17 12:49:06, UTC: 2017/ 9/17 10:49:06
+70: D0 11 15 00 344:47:59.680 HWM misc  Fitness Wi-Fi Status: 0x2
+71: D0 11 15 00 344:48:00.637 HWM misc  Fitness Wi-Fi Status: 0x2
+72: D0 11 15 00 344:48:01.845 HWM misc  Fitness Wi-Fi Status: 0x2
+73: D0 11 15 00 344:48:02.046 HWM misc  Fitness Wi-Fi Status: 0x2
+74: D1 00 15 00 344:53:02.153 HWM misc  Local: 2017/ 9/17 12:54:10, UTC: 2017/ 9/17 10:54:10
+75: D0 11 15 00 344:53:03.483 HWM misc  Fitness Wi-Fi Status: 0x2
+76: D0 11 15 00 344:53:04.441 HWM misc  Fitness Wi-Fi Status: 0x2
+77: D0 11 15 00 344:53:05.649 HWM misc  Fitness Wi-Fi Status: 0x2
+78: D0 11 15 00 344:53:05.850 HWM misc  Fitness Wi-Fi Status: 0x2
+79: D1 00 15 00 344:58:05.958 HWM misc  Local: 2017/ 9/17 12:59:14, UTC: 2017/ 9/17 10:59:14
+7A: D0 11 15 00 344:58:07.288 HWM misc  Fitness Wi-Fi Status: 0x2
+7B: D0 11 15 00 344:58:08.181 HWM misc  Fitness Wi-Fi Status: 0x2
+7C: D0 11 15 00 344:58:09.406 HWM misc  Fitness Wi-Fi Status: 0x2
+7D: D0 11 15 00 344:58:09.608 HWM misc  Fitness Wi-Fi Status: 0x2
+7E: D1 00 15 00 345:03:09.716 HWM misc  Local: 2017/ 9/17 13:04:17, UTC: 2017/ 9/17 11:04:17
+7F: D0 11 15 00 345:03:11.065 HWM misc  Fitness Wi-Fi Status: 0x2
+80: D0 11 15 00 345:03:11.892 HWM misc  Fitness Wi-Fi Status: 0x2
+81: D0 11 15 00 345:03:12.962 HWM misc  Fitness Wi-Fi Status: 0x2
+82: D0 11 15 00 345:03:13.163 HWM misc  Fitness Wi-Fi Status: 0x2
+83: D1 00 15 00 345:08:13.271 HWM misc  Local: 2017/ 9/17 13:09:21, UTC: 2017/ 9/17 11:09:21
+84: D0 11 15 00 345:08:14.606 HWM misc  Fitness Wi-Fi Status: 0x2
+85: D0 11 15 00 345:08:15.562 HWM misc  Fitness Wi-Fi Status: 0x2
+86: D0 11 15 00 345:08:16.771 HWM misc  Fitness Wi-Fi Status: 0x2
+87: D0 11 15 00 345:08:16.972 HWM misc  Fitness Wi-Fi Status: 0x2
+88: D1 00 15 00 345:13:17.080 HWM misc  Local: 2017/ 9/17 13:14:25, UTC: 2017/ 9/17 11:14:25
+89: D0 11 15 00 345:13:18.440 HWM misc  Fitness Wi-Fi Status: 0x2
+8A: D0 11 15 00 345:13:19.376 HWM misc  Fitness Wi-Fi Status: 0x2
+8B: D0 11 15 00 345:13:20.466 HWM misc  Fitness Wi-Fi Status: 0x2
+8C: D0 11 15 00 345:13:20.670 HWM misc  Fitness Wi-Fi Status: 0x2
+8D: D1 00 15 00 345:18:20.779 HWM misc  Local: 2017/ 9/17 13:19:28, UTC: 2017/ 9/17 11:19:28
+8E: D0 11 15 00 345:18:29.698 HWM misc  Fitness Wi-Fi Status: 0x1
+8F: D0 12 15 00 345:18:42.596 HWM misc  Fitness Wi-Fi Status: 0x1
+90: D0 13 15 00 345:18:44.046 HWM misc  Fitness Wi-Fi Status: 0x1
+91: D0 14 15 00 345:18:45.611 HWM misc  Fitness Wi-Fi Status: 0x1
+92: D0 15 15 00 345:18:45.815 HWM misc  Fitness Wi-Fi Status: 0x5
+93: D0 19 15 00 345:18:46.021 HWM misc  Fitness Wi-Fi Status: 0x3
+94: D1 00 15 00 373:56:35.728 HWM misc  Local: 2017/ 9/18 17:57:43, UTC: 2017/ 9/18 15:57:43
+95: D0 11 15 00 373:56:37.086 HWM misc  Fitness Wi-Fi Status: 0x2
+00: D0 11 15 00 373:56:38.017 HWM misc  Fitness Wi-Fi Status: 0x2
+01: D0 11 15 00 373:56:39.226 HWM misc  Fitness Wi-Fi Status: 0x2
+02: D0 11 15 00 373:56:39.427 HWM misc  Fitness Wi-Fi Status: 0x2
+03: D1 00 15 00 374:01:39.533 HWM misc  Local: 2017/ 9/18 18:02:47, UTC: 2017/ 9/18 16:02:47
+04: D0 11 15 00 374:01:40.885 HWM misc  Fitness Wi-Fi Status: 0x2
+05: D0 11 15 00 374:01:41.714 HWM misc  Fitness Wi-Fi Status: 0x2
+06: D0 16 15 00 374:01:42.664 HWM misc  Fitness Wi-Fi Status: 0x1
+07: D0 11 15 00 374:01:42.864 HWM misc  Fitness Wi-Fi Status: 0x2
+08: D0 11 15 00 374:01:43.065 HWM misc  Fitness Wi-Fi Status: 0x2
+09: D1 00 15 00 374:06:43.172 HWM misc  Local: 2017/ 9/18 18:07:51, UTC: 2017/ 9/18 16:07:51
+0A: D0 11 15 00 374:06:44.504 HWM misc  Fitness Wi-Fi Status: 0x2
+0B: D0 11 15 00 374:06:45.348 HWM misc  Fitness Wi-Fi Status: 0x2
+0C: D0 11 15 00 374:06:46.368 HWM misc  Fitness Wi-Fi Status: 0x2
+0D: D0 11 15 00 374:06:46.569 HWM misc  Fitness Wi-Fi Status: 0x2
+0E: D1 00 15 00 374:11:46.676 HWM misc  Local: 2017/ 9/18 18:12:54, UTC: 2017/ 9/18 16:12:54
+0F: D0 11 15 00 374:11:48.280 HWM misc  Fitness Wi-Fi Status: 0x2
+10: D0 11 15 00 374:11:49.117 HWM misc  Fitness Wi-Fi Status: 0x2
+11: D0 11 15 00 374:11:50.137 HWM misc  Fitness Wi-Fi Status: 0x2
+12: D0 11 15 00 374:11:50.338 HWM misc  Fitness Wi-Fi Status: 0x2
+13: D1 00 15 00 374:16:50.445 HWM misc  Local: 2017/ 9/18 18:17:58, UTC: 2017/ 9/18 16:17:58
+14: D0 11 15 00 374:16:51.775 HWM misc  Fitness Wi-Fi Status: 0x2
+15: D0 11 15 00 374:16:52.729 HWM misc  Fitness Wi-Fi Status: 0x2
+16: D0 11 15 00 374:16:53.943 HWM misc  Fitness Wi-Fi Status: 0x2
+17: D0 11 15 00 374:16:54.144 HWM misc  Fitness Wi-Fi Status: 0x2
+18: D1 00 15 00 374:21:54.250 HWM misc  Local: 2017/ 9/18 18:23:02, UTC: 2017/ 9/18 16:23:02
+19: D0 11 15 00 374:21:55.612 HWM misc  Fitness Wi-Fi Status: 0x2
+1A: D0 11 15 00 374:21:56.451 HWM misc  Fitness Wi-Fi Status: 0x2
+1B: D0 11 15 00 374:21:57.493 HWM misc  Fitness Wi-Fi Status: 0x2
+1C: D0 11 15 00 374:21:57.694 HWM misc  Fitness Wi-Fi Status: 0x2
+1D: D1 00 15 00 374:26:57.800 HWM misc  Local: 2017/ 9/18 18:28:06, UTC: 2017/ 9/18 16:28:06
+1E: D0 11 15 00 374:26:59.141 HWM misc  Fitness Wi-Fi Status: 0x2
+1F: D0 11 15 00 374:27:00.092 HWM misc  Fitness Wi-Fi Status: 0x2
+20: D0 11 15 00 374:27:01.301 HWM misc  Fitness Wi-Fi Status: 0x2
+21: D0 11 15 00 374:27:01.502 HWM misc  Fitness Wi-Fi Status: 0x2
+22: D1 00 15 00 374:32:01.608 HWM misc  Local: 2017/ 9/18 18:33:09, UTC: 2017/ 9/18 16:33:09
+23: D0 11 15 00 374:32:02.936 HWM misc  Fitness Wi-Fi Status: 0x2
+24: D0 11 15 00 374:32:03.883 HWM misc  Fitness Wi-Fi Status: 0x2
+25: D0 11 15 00 374:32:05.092 HWM misc  Fitness Wi-Fi Status: 0x2
+26: D0 11 15 00 374:32:05.293 HWM misc  Fitness Wi-Fi Status: 0x2
+27: D1 00 15 00 374:37:05.399 HWM misc  Local: 2017/ 9/18 18:38:13, UTC: 2017/ 9/18 16:38:13
+28: D0 11 15 00 374:37:06.734 HWM misc  Fitness Wi-Fi Status: 0x2
+29: D0 11 15 00 374:37:07.549 HWM misc  Fitness Wi-Fi Status: 0x2
+2A: D0 11 15 00 374:37:08.755 HWM misc  Fitness Wi-Fi Status: 0x2
+2B: D0 11 15 00 374:37:08.956 HWM misc  Fitness Wi-Fi Status: 0x2
+2C: D1 00 15 00 374:42:09.062 HWM misc  Local: 2017/ 9/18 18:43:17, UTC: 2017/ 9/18 16:43:17
+2D: D0 11 15 00 374:42:10.394 HWM misc  Fitness Wi-Fi Status: 0x2
+2E: D0 11 15 00 374:42:11.351 HWM misc  Fitness Wi-Fi Status: 0x2
+2F: D0 11 15 00 374:42:12.559 HWM misc  Fitness Wi-Fi Status: 0x2
+30: D0 11 15 00 374:42:12.760 HWM misc  Fitness Wi-Fi Status: 0x2
+31: D1 00 15 00 374:47:12.865 HWM misc  Local: 2017/ 9/18 18:48:21, UTC: 2017/ 9/18 16:48:21
+32: D0 11 15 00 374:47:14.200 HWM misc  Fitness Wi-Fi Status: 0x2
+33: D0 11 15 00 374:47:15.051 HWM misc  Fitness Wi-Fi Status: 0x2
+34: D0 11 15 00 374:47:16.200 HWM misc  Fitness Wi-Fi Status: 0x2
+35: D0 11 15 00 374:47:16.401 HWM misc  Fitness Wi-Fi Status: 0x2
+36: D1 00 15 00 374:52:16.507 HWM misc  Local: 2017/ 9/18 18:53:24, UTC: 2017/ 9/18 16:53:24
+37: D0 11 15 00 374:52:17.845 HWM misc  Fitness Wi-Fi Status: 0x2
+38: D0 11 15 00 374:52:18.802 HWM misc  Fitness Wi-Fi Status: 0x2
+39: D0 11 15 00 374:52:19.816 HWM misc  Fitness Wi-Fi Status: 0x2
+3A: D0 11 15 00 374:52:20.017 HWM misc  Fitness Wi-Fi Status: 0x2
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000D
+OwnerName:  BLE
+status:     13
+pri_thresh:  2
+archived:   00
+max_arch:   00
+num_recs:   C8
+rec_size:   20
+next_evnt:  00
+timeDay:    2017/ 9/19  5:29:52
+cycle_cnt:  21
+
+00: DC 10 15 00 387:25:20.995 HWM main  Process BLE Event (event type): 0x19
+01: DC 10 15 00 387:25:20.996 HWM main  Process BLE Event (event type): 0x1A
+02: DC 10 15 00 387:25:25.270 HWM main  Process BLE Event (event type): 0x19
+03: DC 10 15 00 387:25:25.272 HWM main  Process BLE Event (event type): 0x1A
+04: DB 15 15 00 387:25:25.275 HWM main  Notification Details UID: 22
+05: DB 16 15 00 387:25:25.275 HWM main  Notification Details Flags (field as integer): 1840
+06: DB 17 15 00 387:25:25.276 HWM main  Notification Details Data State Change UID: 22
+07: DC 10 15 00 387:25:25.360 HWM main  Process BLE Event (event type): 0x19
+08: DC 10 15 00 387:25:25.361 HWM main  Process BLE Event (event type): 0x1A
+09: DB 15 15 00 387:25:25.367 HWM main  Notification Details UID: 23
+0A: DB 16 15 00 387:25:25.367 HWM main  Notification Details Flags (field as integer): 1840
+0B: DB 17 15 00 387:25:25.368 HWM main  Notification Details Data State Change UID: 23
+0C: DC 10 15 00 387:25:25.450 HWM main  Process BLE Event (event type): 0x19
+0D: DC 10 15 00 387:25:25.451 HWM main  Process BLE Event (event type): 0x1A
+0E: DB 15 15 00 387:25:25.457 HWM main  Notification Details UID: 24
+0F: DB 16 15 00 387:25:25.458 HWM main  Notification Details Flags (field as integer): 1840
+10: DB 17 15 00 387:25:25.458 HWM main  Notification Details Data State Change UID: 24
+11: DC 10 15 00 387:25:25.540 HWM main  Process BLE Event (event type): 0x19
+12: DC 10 15 00 387:25:25.541 HWM main  Process BLE Event (event type): 0x1A
+13: DB 15 15 00 387:25:25.547 HWM main  Notification Details UID: 25
+14: DB 16 15 00 387:25:25.547 HWM main  Notification Details Flags (field as integer): 1840
+15: DB 17 15 00 387:25:25.548 HWM main  Notification Details Data State Change UID: 25
+16: DC 10 15 00 387:25:25.630 HWM main  Process BLE Event (event type): 0x19
+17: DC 10 15 00 387:25:25.675 HWM main  Process BLE Event (event type): 0x1A
+18: DB 15 15 00 387:25:25.687 HWM main  Notification Details UID: 26
+19: DB 16 15 00 387:25:25.687 HWM main  Notification Details Flags (field as integer): 1840
+1A: DB 17 15 00 387:25:25.688 HWM main  Notification Details Data State Change UID: 26
+1B: DC 10 15 00 387:25:25.765 HWM main  Process BLE Event (event type): 0x19
+1C: DC 10 15 00 387:25:25.766 HWM main  Process BLE Event (event type): 0x1A
+1D: DB 15 15 00 387:25:25.770 HWM main  Notification Details UID: 27
+1E: DB 16 15 00 387:25:25.770 HWM main  Notification Details Flags (field as integer): 1840
+1F: DB 17 15 00 387:25:25.771 HWM main  Notification Details Data State Change UID: 27
+20: DC 10 15 00 387:25:25.855 HWM main  Process BLE Event (event type): 0x19
+21: DC 10 15 00 387:25:25.856 HWM main  Process BLE Event (event type): 0x1A
+22: DB 15 15 00 387:25:25.861 HWM main  Notification Details UID: 28
+23: DB 16 15 00 387:25:25.861 HWM main  Notification Details Flags (field as integer): 1840
+24: DB 17 15 00 387:25:25.862 HWM main  Notification Details Data State Change UID: 28
+25: DC 10 15 00 387:25:25.945 HWM main  Process BLE Event (event type): 0x19
+26: DC 10 15 00 387:25:25.946 HWM main  Process BLE Event (event type): 0x1A
+27: DB 15 15 00 387:25:25.952 HWM main  Notification Details UID: 29
+28: DB 16 15 00 387:25:25.952 HWM main  Notification Details Flags (field as integer): 1840
+29: DB 17 15 00 387:25:25.953 HWM main  Notification Details Data State Change UID: 29
+2A: DC 10 15 00 387:25:26.035 HWM main  Process BLE Event (event type): 0x19
+2B: DC 10 15 00 387:25:26.036 HWM main  Process BLE Event (event type): 0x1A
+2C: DB 15 15 00 387:25:26.040 HWM main  Notification Details UID: 30
+2D: DB 16 15 00 387:25:26.041 HWM main  Notification Details Flags (field as integer): 1840
+2E: DB 17 15 00 387:25:26.045 HWM main  Notification Details Data State Change UID: 30
+2F: DC 10 15 00 387:25:26.125 HWM main  Process BLE Event (event type): 0x19
+30: DC 10 15 00 387:25:26.126 HWM main  Process BLE Event (event type): 0x1A
+31: DB 15 15 00 387:25:26.130 HWM main  Notification Details UID: 31
+32: DB 16 15 00 387:25:26.131 HWM main  Notification Details Flags (field as integer): 1840
+33: DB 17 15 00 387:25:26.131 HWM main  Notification Details Data State Change UID: 31
+34: DC 10 15 00 387:25:26.215 HWM main  Process BLE Event (event type): 0x19
+35: DC 10 15 00 387:25:26.216 HWM main  Process BLE Event (event type): 0x1A
+36: DB 15 15 00 387:25:26.260 HWM main  Notification Details UID: 32
+37: DB 16 15 00 387:25:26.261 HWM main  Notification Details Flags (field as integer): 1840
+38: DB 17 15 00 387:25:26.261 HWM main  Notification Details Data State Change UID: 32
+39: DC 10 15 00 387:25:26.395 HWM main  Process BLE Event (event type): 0x19
+3A: DC 10 15 00 387:25:26.396 HWM main  Process BLE Event (event type): 0x1A
+3B: DB 15 15 00 387:25:26.401 HWM main  Notification Details UID: 33
+3C: DB 16 15 00 387:25:26.401 HWM main  Notification Details Flags (field as integer): 1840
+3D: DB 17 15 00 387:25:26.402 HWM main  Notification Details Data State Change UID: 33
+3E: DC 10 15 00 387:25:26.485 HWM main  Process BLE Event (event type): 0x19
+3F: DC 10 15 00 387:25:26.486 HWM main  Process BLE Event (event type): 0x1A
+40: DB 15 15 00 387:25:26.492 HWM main  Notification Details UID: 34
+41: DB 16 15 00 387:25:26.492 HWM main  Notification Details Flags (field as integer): 1840
+42: DB 17 15 00 387:25:26.493 HWM main  Notification Details Data State Change UID: 34
+43: DC 10 15 00 387:25:26.575 HWM main  Process BLE Event (event type): 0x19
+44: DC 10 15 00 387:25:26.576 HWM main  Process BLE Event (event type): 0x1A
+45: DB 15 15 00 387:25:26.581 HWM main  Notification Details UID: 35
+46: DB 16 15 00 387:25:26.581 HWM main  Notification Details Flags (field as integer): 1840
+47: DB 17 15 00 387:25:26.582 HWM main  Notification Details Data State Change UID: 35
+48: DC 10 15 00 387:25:26.665 HWM main  Process BLE Event (event type): 0x19
+49: DC 10 15 00 387:25:26.666 HWM main  Process BLE Event (event type): 0x1A
+4A: DB 15 15 00 387:25:26.670 HWM main  Notification Details UID: 36
+4B: DB 16 15 00 387:25:26.670 HWM main  Notification Details Flags (field as integer): 1840
+4C: DB 17 15 00 387:25:26.671 HWM main  Notification Details Data State Change UID: 36
+4D: DC 10 15 00 387:25:26.755 HWM main  Process BLE Event (event type): 0x19
+4E: DC 10 15 00 387:25:26.756 HWM main  Process BLE Event (event type): 0x1A
+4F: DB 15 15 00 387:25:26.760 HWM main  Notification Details UID: 37
+50: DB 16 15 00 387:25:26.760 HWM main  Notification Details Flags (field as integer): 1840
+51: DB 17 15 00 387:25:26.761 HWM main  Notification Details Data State Change UID: 37
+52: DC 10 15 00 387:25:26.845 HWM main  Process BLE Event (event type): 0x19
+53: DC 10 15 00 387:25:26.847 HWM main  Process BLE Event (event type): 0x1A
+54: DB 15 15 00 387:25:26.852 HWM main  Notification Details UID: 38
+55: DB 16 15 00 387:25:26.852 HWM main  Notification Details Flags (field as integer): 1840
+56: DB 17 15 00 387:25:26.853 HWM main  Notification Details Data State Change UID: 38
+57: DC 10 15 00 387:25:26.935 HWM main  Process BLE Event (event type): 0x19
+58: DC 10 15 00 387:25:26.936 HWM main  Process BLE Event (event type): 0x1A
+59: DB 15 15 00 387:25:26.942 HWM main  Notification Details UID: 39
+5A: DB 16 15 00 387:25:26.943 HWM main  Notification Details Flags (field as integer): 1840
+5B: DB 17 15 00 387:25:26.943 HWM main  Notification Details Data State Change UID: 39
+5C: DC 10 15 00 387:25:27.025 HWM main  Process BLE Event (event type): 0x19
+5D: DC 10 15 00 387:25:27.026 HWM main  Process BLE Event (event type): 0x1A
+5E: DB 15 15 00 387:25:27.032 HWM main  Notification Details UID: 40
+5F: DB 16 15 00 387:25:27.032 HWM main  Notification Details Flags (field as integer): 1840
+60: DB 17 15 00 387:25:27.033 HWM main  Notification Details Data State Change UID: 40
+61: DC 10 15 00 387:25:27.115 HWM main  Process BLE Event (event type): 0x19
+62: DC 10 15 00 387:25:27.116 HWM main  Process BLE Event (event type): 0x1A
+63: DB 15 15 00 387:25:27.120 HWM main  Notification Details UID: 41
+64: DB 16 15 00 387:25:27.120 HWM main  Notification Details Flags (field as integer): 1840
+65: DB 17 15 00 387:25:27.121 HWM main  Notification Details Data State Change UID: 41
+66: DC 10 15 00 387:25:27.206 HWM main  Process BLE Event (event type): 0x19
+67: DC 10 15 00 387:25:27.207 HWM main  Process BLE Event (event type): 0x1A
+68: DB 15 15 00 387:25:27.210 HWM main  Notification Details UID: 42
+69: DB 16 15 00 387:25:27.210 HWM main  Notification Details Flags (field as integer): 1840
+6A: DB 17 15 00 387:25:27.211 HWM main  Notification Details Data State Change UID: 42
+6B: DC 10 15 00 387:25:27.341 HWM main  Process BLE Event (event type): 0x19
+6C: DC 10 15 00 387:25:27.353 HWM main  Process BLE Event (event type): 0x1A
+6D: DB 15 15 00 387:25:27.357 HWM main  Notification Details UID: 43
+6E: DB 16 15 00 387:25:27.357 HWM main  Notification Details Flags (field as integer): 1840
+6F: DB 17 15 00 387:25:27.358 HWM main  Notification Details Data State Change UID: 43
+70: DC 10 15 00 387:25:27.431 HWM main  Process BLE Event (event type): 0x19
+71: DC 10 15 00 387:25:27.432 HWM main  Process BLE Event (event type): 0x1A
+72: DB 15 15 00 387:25:27.477 HWM main  Notification Details UID: 44
+73: DB 16 15 00 387:25:27.477 HWM main  Notification Details Flags (field as integer): 1840
+74: DB 17 15 00 387:25:27.477 HWM main  Notification Details Data State Change UID: 44
+75: DC 10 15 00 387:25:27.566 HWM main  Process BLE Event (event type): 0x19
+76: DC 10 15 00 387:25:27.567 HWM main  Process BLE Event (event type): 0x1A
+77: DB 15 15 00 387:25:27.611 HWM main  Notification Details UID: 45
+78: DB 16 15 00 387:25:27.611 HWM main  Notification Details Flags (field as integer): 1840
+79: DB 17 15 00 387:25:27.612 HWM main  Notification Details Data State Change UID: 45
+7A: DC 10 15 00 387:25:27.613 HWM main  Process BLE Event (event type): 0x1D
+7B: D6 12 15 00 387:25:27.614 HWM main  BTM Notification Received (info type): 0x3
+7C: D6 13 15 00 387:25:27.615 HWM main  BCP Notification Sent (info type): 0x0
+7D: DC 10 15 00 387:25:27.700 HWM main  Process BLE Event (event type): 0x19
+7E: DC 10 15 00 387:25:27.701 HWM main  Process BLE Event (event type): 0x1A
+7F: DB 15 15 00 387:25:27.707 HWM main  Notification Details UID: 46
+80: DB 16 15 00 387:25:27.707 HWM main  Notification Details Flags (field as integer): 1840
+81: DB 17 15 00 387:25:27.708 HWM main  Notification Details Data State Change UID: 46
+82: DC 10 15 00 387:25:27.835 HWM main  Process BLE Event (event type): 0x1D
+83: D6 12 15 00 387:25:27.836 HWM main  BTM Notification Received (info type): 0x1E
+84: D6 12 15 00 387:25:28.015 HWM main  BTM Notification Received (info type): 0x1E
+85: D6 12 15 00 387:25:28.195 HWM main  BTM Notification Received (info type): 0x1E
+86: D7 00 15 00 387:25:28.203 HWM misc  Protocol Connection Status: 0x2
+87: DC 12 15 00 387:25:28.206 HWM main  Process BLE Event (event cmd): 0x2F
+88: D6 12 15 00 387:25:28.330 HWM main  BTM Notification Received (info type): 0x1E
+89: D6 12 15 00 387:25:28.600 HWM main  BTM Notification Received (info type): 0x1E
+8A: D6 12 15 00 387:25:28.690 HWM main  BTM Notification Received (info type): 0x1E
+8B: D6 12 15 00 387:25:28.779 HWM main  BTM Notification Received (info type): 0x1E
+8C: D6 12 15 00 387:25:28.870 HWM main  BTM Notification Received (info type): 0x1E
+8D: D6 12 15 00 387:25:28.960 HWM main  BTM Notification Received (info type): 0x1E
+8E: D6 12 15 00 387:25:29.050 HWM main  BTM Notification Received (info type): 0x1E
+8F: D0 00 15 00 387:25:29.206 HWM misc  Local: 2017/ 9/19  7:26:38, UTC: 2017/ 9/19  5:26:38
+90: D4 10 15 00 387:25:29.206 HWM misc  BTM Connection Status: 0x9
+91: D7 00 15 00 387:25:29.207 HWM misc  Protocol Connection Status: 0x4
+92: D6 12 15 00 387:25:29.367 HWM main  BTM Notification Received (info type): 0x1D
+93: D6 12 15 00 387:25:29.412 HWM main  BTM Notification Received (info type): 0x1D
+94: D6 12 15 00 387:25:29.500 HWM main  BTM Notification Received (info type): 0x1D
+95: D6 12 15 00 387:25:29.590 HWM main  BTM Notification Received (info type): 0x1D
+96: D0 00 15 00 387:25:29.694 HWM misc  Local: 2017/ 9/19  7:26:38, UTC: 2017/ 9/19  5:26:38
+97: D4 10 15 00 387:25:29.697 HWM misc  BTM Connection Status: 0xA
+98: D7 00 15 00 387:25:29.698 HWM misc  Protocol Connection Status: 0xA
+99: DC 10 15 00 387:25:47.935 HWM main  Process BLE Event (event type): 0x3
+9A: DC 10 15 00 387:25:48.130 HWM main  Process BLE Event (event type): 0x1D
+9B: D2 11 15 00 387:26:58.004 HWM misc 006C8F002077EE0200B2FD0520691F03 .l.. w...... i..
+9C: DC 12 15 00 387:26:58.005 HWM main  Process BLE Event (event cmd): 0xF
+9D: DC 10 15 00 387:26:58.291 HWM main  Process BLE Event (event type): 0x3
+9E: DC 12 15 00 387:26:58.292 HWM main  Process BLE Event (event cmd): 0x2F
+9F: DC 10 15 00 387:26:58.691 HWM main  Process BLE Event (event type): 0x1D
+A0: D2 11 15 00 387:27:06.112 HWM misc 01B2FD052023EE0200B2FD0520691F03 .... #...... i..
+A1: DC 12 15 00 387:27:06.119 HWM main  Process BLE Event (event cmd): 0xF
+A2: DC 12 15 00 387:27:06.256 HWM main  Process BLE Event (event cmd): 0x2F
+A3: DC 10 15 00 387:27:07.511 HWM main  Process BLE Event (event type): 0x3
+A4: DC 10 15 00 387:27:07.991 HWM main  Process BLE Event (event type): 0x1D
+A5: D9 10 15 00 387:27:08.120 HWM misc 000B36BB80AA2A3E00000000214D0900 ..6...*>....!M..
+A6: DC 10 15 00 387:27:09.206 HWM main  Process BLE Event (event type): 0x1A
+A7: DB 19 15 00 387:27:09.207 HWM main  Notification Center Service UID: 47
+A8: DB 1A 15 00 387:27:09.207 HWM main  Notification Center Service Event: 0x0
+A9: DC 12 15 00 387:27:09.209 HWM main  Process BLE Event (event cmd): 0x40
+AA: DC 10 15 00 387:27:09.296 HWM main  Process BLE Event (event type): 0x19
+AB: DC 10 15 00 387:27:09.297 HWM main  Process BLE Event (event type): 0x1A
+AC: DB 15 15 00 387:27:09.300 HWM main  Notification Details UID: 47
+AD: DB 16 15 00 387:27:09.301 HWM main  Notification Details Flags (field as integer): 1840
+AE: DB 17 15 00 387:27:09.301 HWM main  Notification Details Data State Change UID: 47
+AF: DC 10 15 00 387:27:09.386 HWM main  Process BLE Event (event type): 0x19
+B0: DC 10 15 00 387:27:09.387 HWM main  Process BLE Event (event type): 0x1A
+B1: DB 15 15 00 387:27:09.390 HWM main  Notification Details UID: 47
+B2: DB 16 15 00 387:27:09.390 HWM main  Notification Details Flags (field as integer): 1936
+B3: DB 18 15 00 387:27:09.391 HWM main  Notification Details Data State Change UID: 47
+B4: DC 10 15 00 387:27:09.926 HWM main  Process BLE Event (event type): 0x1D
+B5: DC 12 15 00 387:27:09.928 HWM main  Process BLE Event (event cmd): 0x2F
+B6: D2 11 15 00 387:27:15.232 HWM misc 006C8F002077EE0200B2FD0520691F03 .l.. w...... i..
+B7: DC 12 15 00 387:27:15.233 HWM main  Process BLE Event (event cmd): 0xF
+B8: DC 10 15 00 387:27:15.506 HWM main  Process BLE Event (event type): 0x3
+B9: DC 12 15 00 387:27:52.235 HWM main  Process BLE Event (event cmd): 0x2F
+BA: DC 10 15 00 387:28:20.120 HWM main  Process BLE Event (event type): 0x1D
+BB: D6 12 15 00 387:28:20.122 HWM main  BTM Notification Received (info type): 0x1E
+BC: D6 12 15 00 387:28:20.539 HWM main  BTM Notification Received (info type): 0x1E
+BD: D6 12 15 00 387:28:20.959 HWM main  BTM Notification Received (info type): 0x1E
+BE: D6 12 15 00 387:28:21.379 HWM main  BTM Notification Received (info type): 0x1E
+BF: D6 12 15 00 387:28:21.800 HWM main  BTM Notification Received (info type): 0x1E
+C0: D6 12 15 00 387:28:43.264 HWM misc  BTM Notification Received (info type): 0x4
+C1: D6 13 15 00 387:28:43.266 HWM misc  BCP Notification Sent (info type): 0x1
+C2: D6 13 15 00 387:28:43.267 HWM misc  BCP Notification Sent (info type): 0x2
+C3: D6 12 15 00 387:28:43.267 HWM misc  BTM Notification Received (info type): 0x4
+C4: DC 12 15 00 387:28:43.272 HWM main  Process BLE Event (event cmd): 0x10
+C5: DC 12 15 00 387:28:43.273 HWM main  Process BLE Event (event cmd): 0xE
+C6: DC 12 15 00 387:28:43.274 HWM main  Process BLE Event (event cmd): 0xC
+C7: DC 10 15 00 387:28:43.640 HWM main  Process BLE Event (event type): 0x2
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     03
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  0B
+timeDay:    2017/ 9/18 22:00:00
+cycle_cnt:  21
+
+0B* 10 00 00 00 335:04:51.834 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+0C* 10 00 00 00 344:37:54.548 HWM misc  Update Error. Time between Updates: 62101 miliseconds
+0D* 10 00 00 00 345:18:46.483 HWM misc  Update Error. Time between Updates: 1243126482 miliseconds
+0E* 10 00 00 00 345:18:46.485 HWM main  Update Error. Time between Updates: 0 miliseconds
+0F* 10 00 00 00 350:04:52.576 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+10* 10 00 00 00 354:48:52.580 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+11: D4 00 00 00 355:58:52.583 HWM main  Hits Midnight: 2017/ 9/18  0:00:00
+12* 10 00 00 00 358:12:52.584 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+13* 10 00 00 00 358:20:52.584 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+14* 10 00 00 00 358:45:52.584 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+15* 10 00 00 00 360:41:52.584 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+16* 10 00 00 00 360:48:52.584 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+17* 10 00 00 00 361:36:52.584 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+18* 10 00 00 00 374:06:46.676 HWM misc  Update Error. Time between Updates: 1346806675 miliseconds
+19* 10 00 00 00 374:06:46.682 HWM main  Update Error. Time between Updates: 0 miliseconds
+1A* 10 00 00 00 374:11:50.444 HWM misc  Update Error. Time between Updates: 1347110443 miliseconds
+1B* 10 00 00 00 374:11:50.450 HWM main  Update Error. Time between Updates: 0 miliseconds
+1C* 10 00 00 00 374:16:54.250 HWM misc  Update Error. Time between Updates: 1347414249 miliseconds
+1D* 10 00 00 00 374:16:54.256 HWM main  Update Error. Time between Updates: 0 miliseconds
+1E* 10 00 00 00 374:21:57.800 HWM misc  Update Error. Time between Updates: 1347717799 miliseconds
+1F* 10 00 00 00 374:21:57.806 HWM main  Update Error. Time between Updates: 0 miliseconds
+00* 10 00 00 00 374:27:01.608 HWM misc  Update Error. Time between Updates: 1348021607 miliseconds
+01* 10 00 00 00 374:27:01.613 HWM main  Update Error. Time between Updates: 0 miliseconds
+02* 10 00 00 00 374:32:05.399 HWM misc  Update Error. Time between Updates: 1348325398 miliseconds
+03* 10 00 00 00 374:32:05.404 HWM main  Update Error. Time between Updates: 0 miliseconds
+04* 10 00 00 00 374:37:09.062 HWM misc  Update Error. Time between Updates: 1348629061 miliseconds
+05* 10 00 00 00 374:37:09.064 HWM main  Update Error. Time between Updates: 0 miliseconds
+06* 10 00 00 00 374:47:16.507 HWM misc  Update Error. Time between Updates: 1349236506 miliseconds
+07* 10 00 00 00 374:47:16.513 HWM main  Update Error. Time between Updates: 0 miliseconds
+08* 10 00 00 00 374:52:20.134 HWM misc  Update Error. Time between Updates: 1349540133 miliseconds
+09* 10 00 00 00 374:52:20.136 HWM main  Update Error. Time between Updates: 0 miliseconds
+0A: D4 00 00 00 379:58:51.787 HWM main  Hits Midnight: 2017/ 9/19  0:00:00
+
+
+
+>>>>> EVL_ARCH_LOGS <<<<<
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  03
+timeDay:    2017/ 8/ 7 22:26:00
+cycle_cnt:  18
+
+03: FF 00 00 00   0:00:01.176 HWM main 2017/ 5/17 13:40:54 C:3
+04: FE 01 0E 00   0:01:53.620 HWM main 2017/ 5/17 13:42:46 V:0
+
+05: FF 00 00 00   0:00:01.175 HWM main 2017/ 5/17 13:42:57 C:4
+06: FE 01 0E 00   0:00:30.929 HWM main 2017/ 5/17 13:43:27 V:0
+
+07: FF 00 00 00   0:00:01.167 HWM main 2017/ 5/17 13:43:39 C:5
+08: FE 01 0E 00   0:00:21.070 HWM main 2017/ 5/17 13:43:59 V:0
+
+09: FF 00 00 00   0:00:01.135 HWM main 2017/ 5/17 13:44:00 C:6
+0A: FE 01 0E 00   0:01:17.639 HWM main 2017/ 5/17 13:45:16 V:0
+
+0B: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:17 C:7
+0C: FE 01 0E 00   0:00:29.080 HWM main 2017/ 5/17 13:45:45 V:0
+
+0D: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:46 C:8
+0E: FE 01 0E 00   0:00:34.114 HWM main 2017/ 5/17 13:46:19 V:0
+
+0F: FF 00 00 00   0:00:01.117 HWM main 2017/ 5/17 13:46:20 C:9
+10: FE 01 0E 00   0:00:15.397 HWM main 2017/ 5/17 13:46:34 V:0
+
+11: FF 00 00 00   0:00:01.178 HWM main 2017/ 5/17 13:46:35 C:10
+12: FE 01 0E 00   2:24:56.004 HWM main 2017/ 5/17 16:11:30 V:0
+
+13: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:29:48 C:11
+14: FE 01 0E 00   0:01:39.922 HWM main 2017/ 5/17 16:31:27 V:0
+
+15: FF 00 00 00   0:00:01.194 HWM main 2017/ 5/17 16:31:28 C:12
+16: FE 01 0E 00   0:01:16.838 HWM main 2017/ 5/17 16:32:44 V:0
+
+17: FF 00 00 00   0:00:01.170 HWM main 2017/ 5/17 16:32:44 C:13
+18: FE 01 0E 00   0:00:28.452 HWM main 2017/ 5/17 16:33:11 V:0
+
+19: FF 00 00 00   0:00:01.138 HWM main 2017/ 5/17 16:33:12 C:14
+1A: FE 01 0E 00   0:02:26.282 HWM main 2017/ 5/17 16:35:37 V:0
+
+1B: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:35:38 C:15
+1C: FE 01 0E 00   0:02:11.878 HWM main 2017/ 5/17 16:37:49 V:0
+
+1D: FF 00 00 00   0:00:01.164 HWM main 2017/ 5/17 16:37:50 C:16
+1E: FE 01 0E 00   0:01:36.231 HWM main 2017/ 6/11  8:18:50 V:0
+
+1F: FF 00 00 00   0:00:01.743 HWM main 2017/ 6/11  8:18:57 C:17
+00: FE 01 0E 00   0:22:10.359 HWM main 2017/ 6/11  8:41:06 V:0
+
+01: FF 00 00 00   0:00:01.172 HWM main 2017/ 8/ 7 22:10:21 C:18
+02* 10 00 00 00   0:15:40.268 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  04
+timeDay:    2017/ 8/ 7 22:31:02
+cycle_cnt:  18
+
+04: FE 01 0E 00   0:01:53.620 HWM main 2017/ 5/17 13:42:46 V:0
+
+05: FF 00 00 00   0:00:01.175 HWM main 2017/ 5/17 13:42:57 C:4
+06: FE 01 0E 00   0:00:30.929 HWM main 2017/ 5/17 13:43:27 V:0
+
+07: FF 00 00 00   0:00:01.167 HWM main 2017/ 5/17 13:43:39 C:5
+08: FE 01 0E 00   0:00:21.070 HWM main 2017/ 5/17 13:43:59 V:0
+
+09: FF 00 00 00   0:00:01.135 HWM main 2017/ 5/17 13:44:00 C:6
+0A: FE 01 0E 00   0:01:17.639 HWM main 2017/ 5/17 13:45:16 V:0
+
+0B: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:17 C:7
+0C: FE 01 0E 00   0:00:29.080 HWM main 2017/ 5/17 13:45:45 V:0
+
+0D: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:46 C:8
+0E: FE 01 0E 00   0:00:34.114 HWM main 2017/ 5/17 13:46:19 V:0
+
+0F: FF 00 00 00   0:00:01.117 HWM main 2017/ 5/17 13:46:20 C:9
+10: FE 01 0E 00   0:00:15.397 HWM main 2017/ 5/17 13:46:34 V:0
+
+11: FF 00 00 00   0:00:01.178 HWM main 2017/ 5/17 13:46:35 C:10
+12: FE 01 0E 00   2:24:56.004 HWM main 2017/ 5/17 16:11:30 V:0
+
+13: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:29:48 C:11
+14: FE 01 0E 00   0:01:39.922 HWM main 2017/ 5/17 16:31:27 V:0
+
+15: FF 00 00 00   0:00:01.194 HWM main 2017/ 5/17 16:31:28 C:12
+16: FE 01 0E 00   0:01:16.838 HWM main 2017/ 5/17 16:32:44 V:0
+
+17: FF 00 00 00   0:00:01.170 HWM main 2017/ 5/17 16:32:44 C:13
+18: FE 01 0E 00   0:00:28.452 HWM main 2017/ 5/17 16:33:11 V:0
+
+19: FF 00 00 00   0:00:01.138 HWM main 2017/ 5/17 16:33:12 C:14
+1A: FE 01 0E 00   0:02:26.282 HWM main 2017/ 5/17 16:35:37 V:0
+
+1B: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:35:38 C:15
+1C: FE 01 0E 00   0:02:11.878 HWM main 2017/ 5/17 16:37:49 V:0
+
+1D: FF 00 00 00   0:00:01.164 HWM main 2017/ 5/17 16:37:50 C:16
+1E: FE 01 0E 00   0:01:36.231 HWM main 2017/ 6/11  8:18:50 V:0
+
+1F: FF 00 00 00   0:00:01.743 HWM main 2017/ 6/11  8:18:57 C:17
+00: FE 01 0E 00   0:22:10.359 HWM main 2017/ 6/11  8:41:06 V:0
+
+01: FF 00 00 00   0:00:01.172 HWM main 2017/ 8/ 7 22:10:21 C:18
+02* 10 00 00 00   0:15:40.268 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+03* 10 00 00 00   0:20:42.533 HWM misc  Update Error. Time between Updates: 62266 miliseconds
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  05
+timeDay:    2017/ 8/ 7 23:01:28
+cycle_cnt:  18
+
+05: FF 00 00 00   0:00:01.175 HWM main 2017/ 5/17 13:42:57 C:4
+06: FE 01 0E 00   0:00:30.929 HWM main 2017/ 5/17 13:43:27 V:0
+
+07: FF 00 00 00   0:00:01.167 HWM main 2017/ 5/17 13:43:39 C:5
+08: FE 01 0E 00   0:00:21.070 HWM main 2017/ 5/17 13:43:59 V:0
+
+09: FF 00 00 00   0:00:01.135 HWM main 2017/ 5/17 13:44:00 C:6
+0A: FE 01 0E 00   0:01:17.639 HWM main 2017/ 5/17 13:45:16 V:0
+
+0B: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:17 C:7
+0C: FE 01 0E 00   0:00:29.080 HWM main 2017/ 5/17 13:45:45 V:0
+
+0D: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:46 C:8
+0E: FE 01 0E 00   0:00:34.114 HWM main 2017/ 5/17 13:46:19 V:0
+
+0F: FF 00 00 00   0:00:01.117 HWM main 2017/ 5/17 13:46:20 C:9
+10: FE 01 0E 00   0:00:15.397 HWM main 2017/ 5/17 13:46:34 V:0
+
+11: FF 00 00 00   0:00:01.178 HWM main 2017/ 5/17 13:46:35 C:10
+12: FE 01 0E 00   2:24:56.004 HWM main 2017/ 5/17 16:11:30 V:0
+
+13: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:29:48 C:11
+14: FE 01 0E 00   0:01:39.922 HWM main 2017/ 5/17 16:31:27 V:0
+
+15: FF 00 00 00   0:00:01.194 HWM main 2017/ 5/17 16:31:28 C:12
+16: FE 01 0E 00   0:01:16.838 HWM main 2017/ 5/17 16:32:44 V:0
+
+17: FF 00 00 00   0:00:01.170 HWM main 2017/ 5/17 16:32:44 C:13
+18: FE 01 0E 00   0:00:28.452 HWM main 2017/ 5/17 16:33:11 V:0
+
+19: FF 00 00 00   0:00:01.138 HWM main 2017/ 5/17 16:33:12 C:14
+1A: FE 01 0E 00   0:02:26.282 HWM main 2017/ 5/17 16:35:37 V:0
+
+1B: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:35:38 C:15
+1C: FE 01 0E 00   0:02:11.878 HWM main 2017/ 5/17 16:37:49 V:0
+
+1D: FF 00 00 00   0:00:01.164 HWM main 2017/ 5/17 16:37:50 C:16
+1E: FE 01 0E 00   0:01:36.231 HWM main 2017/ 6/11  8:18:50 V:0
+
+1F: FF 00 00 00   0:00:01.743 HWM main 2017/ 6/11  8:18:57 C:17
+00: FE 01 0E 00   0:22:10.359 HWM main 2017/ 6/11  8:41:06 V:0
+
+01: FF 00 00 00   0:00:01.172 HWM main 2017/ 8/ 7 22:10:21 C:18
+02* 10 00 00 00   0:15:40.268 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+03* 10 00 00 00   0:20:42.533 HWM misc  Update Error. Time between Updates: 62266 miliseconds
+04* 10 00 00 00   0:51:07.897 HWM misc  Update Error. Time between Updates: 1824364 miliseconds
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  07
+timeDay:    2017/ 8/ 7 23:01:55
+cycle_cnt:  18
+
+07: FF 00 00 00   0:00:01.167 HWM main 2017/ 5/17 13:43:39 C:5
+08: FE 01 0E 00   0:00:21.070 HWM main 2017/ 5/17 13:43:59 V:0
+
+09: FF 00 00 00   0:00:01.135 HWM main 2017/ 5/17 13:44:00 C:6
+0A: FE 01 0E 00   0:01:17.639 HWM main 2017/ 5/17 13:45:16 V:0
+
+0B: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:17 C:7
+0C: FE 01 0E 00   0:00:29.080 HWM main 2017/ 5/17 13:45:45 V:0
+
+0D: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:46 C:8
+0E: FE 01 0E 00   0:00:34.114 HWM main 2017/ 5/17 13:46:19 V:0
+
+0F: FF 00 00 00   0:00:01.117 HWM main 2017/ 5/17 13:46:20 C:9
+10: FE 01 0E 00   0:00:15.397 HWM main 2017/ 5/17 13:46:34 V:0
+
+11: FF 00 00 00   0:00:01.178 HWM main 2017/ 5/17 13:46:35 C:10
+12: FE 01 0E 00   2:24:56.004 HWM main 2017/ 5/17 16:11:30 V:0
+
+13: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:29:48 C:11
+14: FE 01 0E 00   0:01:39.922 HWM main 2017/ 5/17 16:31:27 V:0
+
+15: FF 00 00 00   0:00:01.194 HWM main 2017/ 5/17 16:31:28 C:12
+16: FE 01 0E 00   0:01:16.838 HWM main 2017/ 5/17 16:32:44 V:0
+
+17: FF 00 00 00   0:00:01.170 HWM main 2017/ 5/17 16:32:44 C:13
+18: FE 01 0E 00   0:00:28.452 HWM main 2017/ 5/17 16:33:11 V:0
+
+19: FF 00 00 00   0:00:01.138 HWM main 2017/ 5/17 16:33:12 C:14
+1A: FE 01 0E 00   0:02:26.282 HWM main 2017/ 5/17 16:35:37 V:0
+
+1B: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:35:38 C:15
+1C: FE 01 0E 00   0:02:11.878 HWM main 2017/ 5/17 16:37:49 V:0
+
+1D: FF 00 00 00   0:00:01.164 HWM main 2017/ 5/17 16:37:50 C:16
+1E: FE 01 0E 00   0:01:36.231 HWM main 2017/ 6/11  8:18:50 V:0
+
+1F: FF 00 00 00   0:00:01.743 HWM main 2017/ 6/11  8:18:57 C:17
+00: FE 01 0E 00   0:22:10.359 HWM main 2017/ 6/11  8:41:06 V:0
+
+01: FF 00 00 00   0:00:01.172 HWM main 2017/ 8/ 7 22:10:21 C:18
+02* 10 00 00 00   0:15:40.268 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+03* 10 00 00 00   0:20:42.533 HWM misc  Update Error. Time between Updates: 62266 miliseconds
+04* 10 00 00 00   0:51:07.897 HWM misc  Update Error. Time between Updates: 1824364 miliseconds
+05: D3 00 00 00   0:51:07.899 HWM misc Time Jump: 211
+06* 10 00 00 00   0:51:35.663 HWM misc  Update Error. Time between Updates: 3095662 miliseconds
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  08
+timeDay:    2017/ 8/ 7 23:01:57
+cycle_cnt:  18
+
+08: FE 01 0E 00   0:00:21.070 HWM main 2017/ 5/17 13:43:59 V:0
+
+09: FF 00 00 00   0:00:01.135 HWM main 2017/ 5/17 13:44:00 C:6
+0A: FE 01 0E 00   0:01:17.639 HWM main 2017/ 5/17 13:45:16 V:0
+
+0B: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:17 C:7
+0C: FE 01 0E 00   0:00:29.080 HWM main 2017/ 5/17 13:45:45 V:0
+
+0D: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:46 C:8
+0E: FE 01 0E 00   0:00:34.114 HWM main 2017/ 5/17 13:46:19 V:0
+
+0F: FF 00 00 00   0:00:01.117 HWM main 2017/ 5/17 13:46:20 C:9
+10: FE 01 0E 00   0:00:15.397 HWM main 2017/ 5/17 13:46:34 V:0
+
+11: FF 00 00 00   0:00:01.178 HWM main 2017/ 5/17 13:46:35 C:10
+12: FE 01 0E 00   2:24:56.004 HWM main 2017/ 5/17 16:11:30 V:0
+
+13: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:29:48 C:11
+14: FE 01 0E 00   0:01:39.922 HWM main 2017/ 5/17 16:31:27 V:0
+
+15: FF 00 00 00   0:00:01.194 HWM main 2017/ 5/17 16:31:28 C:12
+16: FE 01 0E 00   0:01:16.838 HWM main 2017/ 5/17 16:32:44 V:0
+
+17: FF 00 00 00   0:00:01.170 HWM main 2017/ 5/17 16:32:44 C:13
+18: FE 01 0E 00   0:00:28.452 HWM main 2017/ 5/17 16:33:11 V:0
+
+19: FF 00 00 00   0:00:01.138 HWM main 2017/ 5/17 16:33:12 C:14
+1A: FE 01 0E 00   0:02:26.282 HWM main 2017/ 5/17 16:35:37 V:0
+
+1B: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:35:38 C:15
+1C: FE 01 0E 00   0:02:11.878 HWM main 2017/ 5/17 16:37:49 V:0
+
+1D: FF 00 00 00   0:00:01.164 HWM main 2017/ 5/17 16:37:50 C:16
+1E: FE 01 0E 00   0:01:36.231 HWM main 2017/ 6/11  8:18:50 V:0
+
+1F: FF 00 00 00   0:00:01.743 HWM main 2017/ 6/11  8:18:57 C:17
+00: FE 01 0E 00   0:22:10.359 HWM main 2017/ 6/11  8:41:06 V:0
+
+01: FF 00 00 00   0:00:01.172 HWM main 2017/ 8/ 7 22:10:21 C:18
+02* 10 00 00 00   0:15:40.268 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+03* 10 00 00 00   0:20:42.533 HWM misc  Update Error. Time between Updates: 62266 miliseconds
+04* 10 00 00 00   0:51:07.897 HWM misc  Update Error. Time between Updates: 1824364 miliseconds
+05: D3 00 00 00   0:51:07.899 HWM misc Time Jump: 211
+06* 10 00 00 00   0:51:35.663 HWM misc  Update Error. Time between Updates: 3095662 miliseconds
+07* 10 00 00 00   0:51:36.897 HWM misc  Update Error. Time between Updates: 3095670 miliseconds
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  09
+timeDay:    2017/ 8/ 7 23:01:58
+cycle_cnt:  18
+
+09: FF 00 00 00   0:00:01.135 HWM main 2017/ 5/17 13:44:00 C:6
+0A: FE 01 0E 00   0:01:17.639 HWM main 2017/ 5/17 13:45:16 V:0
+
+0B: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:17 C:7
+0C: FE 01 0E 00   0:00:29.080 HWM main 2017/ 5/17 13:45:45 V:0
+
+0D: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:46 C:8
+0E: FE 01 0E 00   0:00:34.114 HWM main 2017/ 5/17 13:46:19 V:0
+
+0F: FF 00 00 00   0:00:01.117 HWM main 2017/ 5/17 13:46:20 C:9
+10: FE 01 0E 00   0:00:15.397 HWM main 2017/ 5/17 13:46:34 V:0
+
+11: FF 00 00 00   0:00:01.178 HWM main 2017/ 5/17 13:46:35 C:10
+12: FE 01 0E 00   2:24:56.004 HWM main 2017/ 5/17 16:11:30 V:0
+
+13: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:29:48 C:11
+14: FE 01 0E 00   0:01:39.922 HWM main 2017/ 5/17 16:31:27 V:0
+
+15: FF 00 00 00   0:00:01.194 HWM main 2017/ 5/17 16:31:28 C:12
+16: FE 01 0E 00   0:01:16.838 HWM main 2017/ 5/17 16:32:44 V:0
+
+17: FF 00 00 00   0:00:01.170 HWM main 2017/ 5/17 16:32:44 C:13
+18: FE 01 0E 00   0:00:28.452 HWM main 2017/ 5/17 16:33:11 V:0
+
+19: FF 00 00 00   0:00:01.138 HWM main 2017/ 5/17 16:33:12 C:14
+1A: FE 01 0E 00   0:02:26.282 HWM main 2017/ 5/17 16:35:37 V:0
+
+1B: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:35:38 C:15
+1C: FE 01 0E 00   0:02:11.878 HWM main 2017/ 5/17 16:37:49 V:0
+
+1D: FF 00 00 00   0:00:01.164 HWM main 2017/ 5/17 16:37:50 C:16
+1E: FE 01 0E 00   0:01:36.231 HWM main 2017/ 6/11  8:18:50 V:0
+
+1F: FF 00 00 00   0:00:01.743 HWM main 2017/ 6/11  8:18:57 C:17
+00: FE 01 0E 00   0:22:10.359 HWM main 2017/ 6/11  8:41:06 V:0
+
+01: FF 00 00 00   0:00:01.172 HWM main 2017/ 8/ 7 22:10:21 C:18
+02* 10 00 00 00   0:15:40.268 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+03* 10 00 00 00   0:20:42.533 HWM misc  Update Error. Time between Updates: 62266 miliseconds
+04* 10 00 00 00   0:51:07.897 HWM misc  Update Error. Time between Updates: 1824364 miliseconds
+05: D3 00 00 00   0:51:07.899 HWM misc Time Jump: 211
+06* 10 00 00 00   0:51:35.663 HWM misc  Update Error. Time between Updates: 3095662 miliseconds
+07* 10 00 00 00   0:51:36.897 HWM misc  Update Error. Time between Updates: 3095670 miliseconds
+08* 10 00 00 00   0:51:37.897 HWM misc  Update Error. Time between Updates: 3097268 miliseconds
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  0A
+timeDay:    2017/ 8/ 7 23:01:59
+cycle_cnt:  18
+
+0A: FE 01 0E 00   0:01:17.639 HWM main 2017/ 5/17 13:45:16 V:0
+
+0B: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:17 C:7
+0C: FE 01 0E 00   0:00:29.080 HWM main 2017/ 5/17 13:45:45 V:0
+
+0D: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:46 C:8
+0E: FE 01 0E 00   0:00:34.114 HWM main 2017/ 5/17 13:46:19 V:0
+
+0F: FF 00 00 00   0:00:01.117 HWM main 2017/ 5/17 13:46:20 C:9
+10: FE 01 0E 00   0:00:15.397 HWM main 2017/ 5/17 13:46:34 V:0
+
+11: FF 00 00 00   0:00:01.178 HWM main 2017/ 5/17 13:46:35 C:10
+12: FE 01 0E 00   2:24:56.004 HWM main 2017/ 5/17 16:11:30 V:0
+
+13: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:29:48 C:11
+14: FE 01 0E 00   0:01:39.922 HWM main 2017/ 5/17 16:31:27 V:0
+
+15: FF 00 00 00   0:00:01.194 HWM main 2017/ 5/17 16:31:28 C:12
+16: FE 01 0E 00   0:01:16.838 HWM main 2017/ 5/17 16:32:44 V:0
+
+17: FF 00 00 00   0:00:01.170 HWM main 2017/ 5/17 16:32:44 C:13
+18: FE 01 0E 00   0:00:28.452 HWM main 2017/ 5/17 16:33:11 V:0
+
+19: FF 00 00 00   0:00:01.138 HWM main 2017/ 5/17 16:33:12 C:14
+1A: FE 01 0E 00   0:02:26.282 HWM main 2017/ 5/17 16:35:37 V:0
+
+1B: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:35:38 C:15
+1C: FE 01 0E 00   0:02:11.878 HWM main 2017/ 5/17 16:37:49 V:0
+
+1D: FF 00 00 00   0:00:01.164 HWM main 2017/ 5/17 16:37:50 C:16
+1E: FE 01 0E 00   0:01:36.231 HWM main 2017/ 6/11  8:18:50 V:0
+
+1F: FF 00 00 00   0:00:01.743 HWM main 2017/ 6/11  8:18:57 C:17
+00: FE 01 0E 00   0:22:10.359 HWM main 2017/ 6/11  8:41:06 V:0
+
+01: FF 00 00 00   0:00:01.172 HWM main 2017/ 8/ 7 22:10:21 C:18
+02* 10 00 00 00   0:15:40.268 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+03* 10 00 00 00   0:20:42.533 HWM misc  Update Error. Time between Updates: 62266 miliseconds
+04* 10 00 00 00   0:51:07.897 HWM misc  Update Error. Time between Updates: 1824364 miliseconds
+05: D3 00 00 00   0:51:07.899 HWM misc Time Jump: 211
+06* 10 00 00 00   0:51:35.663 HWM misc  Update Error. Time between Updates: 3095662 miliseconds
+07* 10 00 00 00   0:51:36.897 HWM misc  Update Error. Time between Updates: 3095670 miliseconds
+08* 10 00 00 00   0:51:37.897 HWM misc  Update Error. Time between Updates: 3097268 miliseconds
+09* 10 00 00 00   0:51:38.897 HWM misc  Update Error. Time between Updates: 3097948 miliseconds
+
+verNum:     8/13/2014 (00)
+ownerID:    0000000E
+OwnerName:  ACT
+status:     01
+pri_thresh:  2
+archived:   08
+max_arch:   08
+num_recs:   20
+rec_size:   20
+next_evnt:  0B
+timeDay:    2017/ 8/ 7 23:02:00
+cycle_cnt:  18
+
+0B: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:17 C:7
+0C: FE 01 0E 00   0:00:29.080 HWM main 2017/ 5/17 13:45:45 V:0
+
+0D: FF 00 00 00   0:00:01.154 HWM main 2017/ 5/17 13:45:46 C:8
+0E: FE 01 0E 00   0:00:34.114 HWM main 2017/ 5/17 13:46:19 V:0
+
+0F: FF 00 00 00   0:00:01.117 HWM main 2017/ 5/17 13:46:20 C:9
+10: FE 01 0E 00   0:00:15.397 HWM main 2017/ 5/17 13:46:34 V:0
+
+11: FF 00 00 00   0:00:01.178 HWM main 2017/ 5/17 13:46:35 C:10
+12: FE 01 0E 00   2:24:56.004 HWM main 2017/ 5/17 16:11:30 V:0
+
+13: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:29:48 C:11
+14: FE 01 0E 00   0:01:39.922 HWM main 2017/ 5/17 16:31:27 V:0
+
+15: FF 00 00 00   0:00:01.194 HWM main 2017/ 5/17 16:31:28 C:12
+16: FE 01 0E 00   0:01:16.838 HWM main 2017/ 5/17 16:32:44 V:0
+
+17: FF 00 00 00   0:00:01.170 HWM main 2017/ 5/17 16:32:44 C:13
+18: FE 01 0E 00   0:00:28.452 HWM main 2017/ 5/17 16:33:11 V:0
+
+19: FF 00 00 00   0:00:01.138 HWM main 2017/ 5/17 16:33:12 C:14
+1A: FE 01 0E 00   0:02:26.282 HWM main 2017/ 5/17 16:35:37 V:0
+
+1B: FF 00 00 00   0:00:01.134 HWM main 2017/ 5/17 16:35:38 C:15
+1C: FE 01 0E 00   0:02:11.878 HWM main 2017/ 5/17 16:37:49 V:0
+
+1D: FF 00 00 00   0:00:01.164 HWM main 2017/ 5/17 16:37:50 C:16
+1E: FE 01 0E 00   0:01:36.231 HWM main 2017/ 6/11  8:18:50 V:0
+
+1F: FF 00 00 00   0:00:01.743 HWM main 2017/ 6/11  8:18:57 C:17
+00: FE 01 0E 00   0:22:10.359 HWM main 2017/ 6/11  8:41:06 V:0
+
+01: FF 00 00 00   0:00:01.172 HWM main 2017/ 8/ 7 22:10:21 C:18
+02* 10 00 00 00   0:15:40.268 HWM misc  Update Error. Time between Updates: 60001 miliseconds
+03* 10 00 00 00   0:20:42.533 HWM misc  Update Error. Time between Updates: 62266 miliseconds
+04* 10 00 00 00   0:51:07.897 HWM misc  Update Error. Time between Updates: 1824364 miliseconds
+05: D3 00 00 00   0:51:07.899 HWM misc Time Jump: 211
+06* 10 00 00 00   0:51:35.663 HWM misc  Update Error. Time between Updates: 3095662 miliseconds
+07* 10 00 00 00   0:51:36.897 HWM misc  Update Error. Time between Updates: 3095670 miliseconds
+08* 10 00 00 00   0:51:37.897 HWM misc  Update Error. Time between Updates: 3097268 miliseconds
+09* 10 00 00 00   0:51:38.897 HWM misc  Update Error. Time between Updates: 3097948 miliseconds
+0A* 10 00 00 00   0:51:39.898 HWM misc  Update Error. Time between Updates: 3098901 miliseconds
+
