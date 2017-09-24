@@ -1,4 +1,4 @@
-006-D6593-01|v02.30
+006-D6593-01|v02.40
 00001 Nederlands
 00252 12-uurs
 00253 24-uurs
@@ -166,6 +166,9 @@
 05374 Segmentsnelheid
 02864 Segmentsnelheid
 02905 Seg snlhd
+06057 Adem in
+06058 Adem uit
+06059 Houd adem in
 02528 Terug
 02586 Terug
 00255 Grafiek
@@ -187,6 +190,8 @@
 05075 Geen gebeurtenissen
 00127 Nu
 03624 Kies veld %1
+05984 Herhalingen
+05985 Stel timer in
 00198 Kalibreer kompas
 00200 Kalibreer
 00199 Kal. Voltooid
@@ -627,7 +632,7 @@
 05795 Bekijk
 05755 Stopwatch
 03275 Start workout
-03277 Overslaan
+03277 Sla over
 03274 Vndg: %1
 03276 Bekijk
 01315 Met %1
@@ -636,7 +641,7 @@
 02651 Met %1, %2, %3
 02652 Met %1, %2, %3, %4
 02653 Met %1, %2, %3, %4, %5
-05488 Stress
+05488 Stressscore
 05486 Hoge stress
 05484 Lage stress
 05485 Lichte stress
@@ -1076,6 +1081,8 @@
 05797 Max. koerspunten van %1 is bereikt. Laatste %2 punten niet getoond.
 03586 Afstand tot bestemming %1
 03587 Tijd tot bestemming %1
+05943 Batterij extra scherm bijna leeg.
+05944 Batterij Edge-scherm bijna leeg.
 01187 Batterij van voetsensor bijna leeg.
 05528 GroupTrack gebruiker niet gevonden.
 02931 Scherm verschijnt bij gebruik van accessoire voor hardloopdynamica.
@@ -1106,6 +1113,7 @@
 02934 Batterij RD-sensor bijna leeg.
 01216 Batterij radar is bijna leeg.
 01201 Herstelhartslag %1
+05990 Druk om sets te starten/stoppen.
 02932 Batterij schakelsensor bijna leeg.
 01188 Shimano Di2 batterij is bijna leeg.
 01198 Meldingswaarden Traag en Snel aangepast.
@@ -1118,6 +1126,7 @@
 02939 Batterij achterlicht %1 is bijna leeg.
 01221 Tempe batterij bijna leeg.
 00036 Timer gereed
+05991 Set %1
 01207 VIRB batterij bijna leeg.
 01222 Wielmaat berekend.
 01118 Metronoom
@@ -1213,6 +1222,8 @@
 02638 Verbonden
 03613 Koers gestart
 02614 Di2 verbonden
+05948 Scherm verbonden
+05949 Edge verbonden
 02609 Voetsens. verbond.
 02603 GPS gereed
 02636 Doel!
@@ -1261,11 +1272,15 @@
 05832 Ga twee keer buiten hardlopen met hartslagmeter om uw status te zien.
 05833 Ga buiten hardlopen met hartslagmeter om uw status te zien.
 00237 Barometer
+06003 1 minuut
+06002 Voeg %1 toe
 03015 Geboortejaar
 03014 %1 calorieën
+06001 Wijzig herhalingen
 05819 Voer loop-bandafstand in
 03017 Lengte
 03012 %1 lengten
+06004 %1 minuten
 03013 %1 herhalingen
 03007 Stel BPM in
 02997 Stel helderheid in
@@ -1375,6 +1390,7 @@
 01359 Prestatieconditie
 02682 PM
 05970 Hoogtemeter
+05982 Schermverlichting: %1%
 05969 Barometer
 05971 Kompas
 05827 Niet storen: Uit
@@ -1519,6 +1535,8 @@
 05103 Herhaling
 00525 Herhaling
 00814 Herhaling
+05986 Herhalingen
+05988 Herhal.
 02478 Rust
 05344 Rust-timer
 00748 Rust-timer
@@ -1556,6 +1574,11 @@
 01855 Standaardinstellingen van het toestel worden hersteld.
 01857 Kilometers
 01856 Mijlen
+06006 Wijzig
+06008 Laatste set:
+06009 %1 herhaling
+06010 %1 herhalingen
+06007 Rust
 01858 Voet
 01859 Meters
 01860 Toon tempo
@@ -1578,7 +1601,7 @@
 01869 Koers boven
 01575 Geen verbinding met hartslagmeter
 01576 Zoek opnieuw
-01577 Overslaan
+01577 Sla over
 01871 Kilometers
 01870 Mijlen
 02641 Voeg toe
@@ -1661,6 +1684,7 @@
 03120 Time-out spaarstand
 03482 Segment verwijderen?
 03121 Opnamemodus
+06012 Even uitrusten?
 05612 %1 starten?
 01829 Wissen?
 01830 Herhaal
@@ -1712,6 +1736,7 @@
 01572 Sessie opslaan zonder hartslag?
 01574 Zoek opnieuw
 01573 Ja
+05947 Schakel extra scherm in om verbinding te maken.
 01533 Loop rond om de sensor te activeren.
 01532 Draag hartslagmeter om te verbinden.
 01538 Zet de lamp aan om te verbinden.
@@ -1733,8 +1758,8 @@
 05772 OK
 05499 Update mislukt. Ga naar sensormenu en probeer het opnieuw.
 01888 OK
-01887 Bijwerken mislukt. \nProbeer opnieuw vanaf Garmin Connect.
-00062 Bijwerken mislukt. \nProbeer opnieuw.
+01887 Bijwerken mislukt. Probeer opnieuw vanaf Garmin Connect.
+00062 Bijwerken mislukt. Probeer het opnieuw.
 01589 Accepteer
 01591 Tempo: %1
 01592 Snelh: %1
@@ -1765,6 +1790,8 @@
 01394 Ronden
 05818 Afdaling %1
 05817 Runs
+06000 Set %1
+05999 Sets
 01373 Activiteiten
 01388 Vrijdag %1
 01378 Vrijdag
@@ -1797,6 +1824,7 @@
 01987 Ronden
 00063 Kaart
 05823 Runs
+06013 Sets
 03614 Rechte lijn
 00064 Tijd in zone
 00046 TracBack
@@ -1899,6 +1927,7 @@
 03084 Kies scherm
 03085 Aangepaste gegevens
 01514 Kies type
+05946 Extra scherm
 01517 Voetsensor
 01516 Externe hartslagmeter
 01522 Lichten
@@ -2199,6 +2228,7 @@
 01116 %1 meter
 01115 %1 yards
 05501 Activiteit %1
+06005 Wijzig set %1
 02204 Automatisch kalibreren
 02203 Kalibratiefactor
 02205 Stel waarde in
@@ -2402,6 +2432,7 @@
 00012 Positie
 05905 Voeg widget toe
 03595 Kalibreer vermogen
+06064 Wijzig laatste set
 01745 Geschiedenis
 03592 Demp metronoom
 05864 Navigatie-instellingen
@@ -2531,7 +2562,6 @@
 03208 Timer
 03201 VIRB
 03205 Wi-Fi
-05502 Vergrendel knoppen
 03184 Muziek​regelaars
 05556 Telefoon
 03179 Bedieningsmenu
@@ -2609,8 +2639,11 @@
 01500 Barometer
 01508 Cadans - %1
 01496 Kompas
+05945 Scherm - %1
+05496 Bluetooth
 01530 Select. voor toevoeg.
 01529 Sensors gevonden
+05497 Toon Bluetooth sensors
 01504 Voetsensor - %1
 01503 Hartslag - %1
 01512 Lamp - %1
@@ -2795,6 +2828,7 @@
 01795 Pauzescherm
 01780 Hardloopdynamiek 2
 01779 Hardloop​dynamiek
+06011 Stel in
 03090 Totaal afdalingen
 01603 Race een activiteit
 03067 Segmenten
@@ -2877,7 +2911,7 @@
 00415 Calorieën
 00215 Klok
 00223 Kompas
-03645 Verdiepingen omhoog
+06065 Verdiepingen omhoog
 00383 Min. intens. train.
 00395 Laatste rit
 00394 Laatste hardloopact.
@@ -2892,6 +2926,7 @@
 03644 Prestaties
 03648 Verwijder
 03647 Sorteer
+06066 Stress
 00220 Temperatuur
 00224 VIRB
 00219 Weer
@@ -2901,9 +2936,17 @@
 03215 Widgets
 02443 Automatisch uploaden
 02442 Verbind met Wi-Fi
+06014 Mijn netwerken
 02444 Wi-Fi
+06027 Voeg netwerk toe
+06026 Mijn netwerken
+06028 Netwerken gev.
+06030 Wis
+06031 Verwijderen uit mijn netwerken?
+06029 Wachtwoord bijwerken
 05537 Telefoon
 01606 Wi-Fi
+06039 Cardio
 02467 Fietsen
 02471 Multisport
 02465 Mijn workouts
@@ -2911,6 +2954,8 @@
 02470 Overige
 02468 Zwemmen in zwembad
 02466 Hardlopen
+06038 Krachttraining
+06036 Cardio
 02460 Fietsen
 02458 Ongeldig
 02464 Multisport
@@ -2919,8 +2964,10 @@
 02463 Overige
 02461 Zwemmen in bad
 02459 Hardlopen
+06035 Kracht
 02455 Vandaag
 02457 Morgen
+06037 Vrij
 02456 Gisteren
 02476 1 stap
 02477 Annuleer workout
@@ -2928,6 +2975,9 @@
 02472 Start workout
 02475 %1 stappen
 02473 Bekijk
+06062 Herhalingen
+06061 Rust
+06060 Stel timer in
 04751 ZO
 02953 Houd ingedrukt tijdens activiteiten om te wisselen naar een andere sport.
 02951 Activiteit ondersteunt geen metronoom.
@@ -2962,7 +3012,7 @@
 01965 Initialiseren
 01963 Wachtwoord
 01964 Gereed voor koppelen
-03141 Overslaan
+03141 Sla over
 05731 Ga naar de mobiele app om het toestel toe te voegen.
 01908 Totalen laden...
 01924 Voltooi de huidige activiteit voor toegang tot dit menu.
@@ -3047,7 +3097,7 @@
 05844 Kan geen bestaand Wi-Fi-netwerk vinden.
 05634 Onvoldoende geheugen in het toestel.
 03560 Zoeken naar Wi-Fi-netwerk.
-03567 Stel Wi-Fi in met Garmin Express.
+03567 Stel de Wi-Fi in via Garmin Connect Mobile of Garmin Express.
 03562 Overdracht al bezig.
 05631 Overdracht voltooid\n(1 bestand mislukt)
 03563 Overdracht gereed.
@@ -3076,6 +3126,15 @@
 03219 Ga naar Instellingen > Widgets om widgets later te beheren.
 00050 App
 00049 START om te bekijken. (%1 wordt gestopt.)
+06022 Kan niet opnieuw verbinding maken met de telefoon.
+06019 Verbinding maken met {1:32}
+06021 Verbinding mislukt
+06020 Verbinding gemaakt
+06015 Wi-Fi-netwerken gevonden
+06016 Geen Wi-Fi-netwerken gevonden
+06017 Opnieuw verbinden met de telefoon
+06023 Zoeken naar Wi-Fi-netwerken
+06018 Opnieuw
 00051 Verwijder een activiteitenprofiel om de sport in deze workout toe te voegen.
 00159 Geen afdalingen gevonden
 02214 Vermogenssensor kalibreren...
@@ -3098,6 +3157,8 @@
 01526 Zoeken naar %1
 01525 Alle sensors en accessoires binnen bereik zoeken.
 01524 Zoeken naar sensor
+05977 Max. sensors bereikt. Verwijder een sensor en probeer opnieuw.
+05976 Maximum aantal sensors bereikt.
 05682 Sensor toegevoegd
 05866 Sensorfout
 03702 Verbind TruSwing toestel met mobiele app.
@@ -3113,6 +3174,17 @@
 05766 Rnd %1
 05754 Druk voor ronde
 00421 Positieformaat
+06051 Controleer of het horloge past
+06048 Hoge stress
+06050 Beweeg niet
+06046 Lage stress
+06049 Meten
+06047 Gemiddelde stress
+06056 Ontspantimer
+06045 Rust
+06055 Laatste %1 uur
+06052 Te actief. Meting niet mogelijk
+06053 Polshartslagmeter is uitgeschakeld.
 01297 Sch.achter:
 00081 Overzicht
 02959 TE aeroob:
@@ -3155,12 +3227,15 @@
 05428 Slagsnelh.
 01253 Tempo:
 01260 Cadans:
+05995 Herh.:
+05994 Rusttijd:
 01282 G. PMO r:
 01285 Gem PVF r:
 01284 Gem VF r:
 05425 Afst./slag:
 05427 Slagsnelh.
 01270 Swolf:
+05996 Sets:
 01266 Staplengte:
 01267 Slag./baan
 01252 Zwemtijd:
@@ -3175,11 +3250,15 @@
 01240 Ronde %1
 01249 Banen - %1
 05816 Afdaling %1
+05992 Set %1
 01275 TSS:
 01251 Tijd:
 01281 Tijd staand:
 01262 Vert. oscil.:
 01263 Vert. ratio:
+05997 Gewicht:
+05998 Gewicht:
+05993 Workouttijd
 05675 Afstand:
 01302 Hoogte:
 01303 Positie:
@@ -3194,6 +3273,7 @@
 01552 Rechts:
 01549 Sw.ver:
 01548 Serien.:
+05429 Tech:
 01559 Opladen
 01561 Verbonden
 01558 Kritiek
@@ -3245,6 +3325,8 @@
 00498 Schaal
 00349 Selecteer een DIP
 00342 Kies punt
+05987 Stel timer in
+05989 Set-tijd
 00156 Afdaling
 01083 Softwareversie
 00470 South African
@@ -3543,8 +3625,10 @@
 02765 %
 02745 lbs
 02771 rpm
+06044 Herhal.
 05441 spm
 05698 sec
+06043 Sets
 02780 spm
 02718 ° W
 02774 utc
@@ -3646,6 +3730,8 @@
 03301 Staptijd
 02540 Drempel niet gedetecteerd
 03298 Volg. stap:
+06040 Tot HS > %1
+06041 Tot HS < %1
 05354 Bestemmingsvia-punt
 00758 Bestemmingsvia-punt
 01047 Best.v-pnt

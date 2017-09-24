@@ -1,4 +1,4 @@
-006-D6593-00|v02.30
+006-D6593-00|v02.40
 00001 Dansk
 00252 12 timer
 00253 24 timer
@@ -166,6 +166,9 @@
 05374 Segmenthastighed
 02864 Segmenthastighed
 02905 Seg. fart
+06057 Ånd ind
+06058 Ånd ud
+06059 Hold
 02528 Ryg
 02586 Ryg
 00255 Plot
@@ -187,6 +190,8 @@
 05075 Ingen hændelser
 00127 Nu
 03624 Vælg felt %1
+05984 Gentagelser
+05985 Indstil timer
 00198 Kalibrer kompas
 00200 Kalibrer
 00199 Kalibrering fuldført
@@ -636,7 +641,7 @@
 02651 Brug af %1, %2, %3
 02652 Brug af %1, %2, %3, %4
 02653 Brug af %1, %2, %3, %4, %5
-05488 Stress
+05488 Stress-score
 05486 Høj stress
 05484 Lav stress
 05485 Moderat stress
@@ -1076,6 +1081,8 @@
 05797 %1 banepunkt maks. nået. Sidste %2 punkter vises ikke.
 03586 Distance til destination %1
 03587 Tid til destination %1
+05943 Batteriniveauet er lavt for udvidet display.
+05944 Batteriniveauet er lavt for Edge-display.
 01187 Fodsensorbatteriniveauet er lavt.
 05528 GroupTrack-bruger ikke fundet.
 02931 Skærmbillede vises, når der anvendes tilbehør til løbedynamik.
@@ -1106,6 +1113,7 @@
 02934 Batteriniveauet til RD-sensor er lavt.
 01216 Batteriniveauet til radar er lavt.
 01201 Restitutionspuls %1
+05990 Tryk for at starte og slutte sæt.
 02932 Batteriniveauet til skiftesensor er lavt.
 01188 Shimano Di2-batteriet er lavt.
 01198 Langsomme og hurtige alarmværdier justeret.
@@ -1118,6 +1126,7 @@
 02939 Batteriniveauet for baglygte %1 er lavt.
 01221 Tempe-batteriniveau er lavt.
 00036 Timer udført
+05991 Sæt %1
 01207 VIRB batteriniveau er lavt.
 01222 Hjulstørrelse beregnet.
 01118 Metronom
@@ -1213,6 +1222,7 @@
 02638 Tilsluttet
 03613 Bane startet
 02614 Di2 tilsluttet
+05948 Display tilsluttet
 05949 Edge tilsluttet
 02609 FP tilsluttet
 02603 GPS er klar
@@ -1262,11 +1272,15 @@
 05832 Løb to gange udendørs med puls for at se din status.
 05833 Løb udendørs med puls for at se din status.
 00237 Barometer
+06003 1 minut
+06002 Tilføj %1
 03015 Fødselsår
 03014 %1 kalorier
+06001 Rediger gentagelser
 05819 Indtast dist. på løbebånd
 03017 Højde
 03012 %1 baner
+06004 %1 minutter
 03013 %1 gentagelser
 03007 Indstil BPM
 02997 Indstil lysstyrke
@@ -1376,6 +1390,7 @@
 01359 Præstationskrav
 02682 PM
 05970 Højdemåler
+05982 Baggrundslys: %1%
 05969 Barometer
 05971 Kompas
 05827 Må ikke forstyr.: Deakt.
@@ -1520,6 +1535,8 @@
 05103 Gentagelse
 00525 Gentagelse
 00814 Gentag.
+05986 Gentagelser
+05988 Gntag.
 02478 Hvile
 05344 Hviletimer
 00748 Hviletimer
@@ -1557,6 +1574,11 @@
 01855 Enhed gendannes til standardindstillinger.
 01857 Kilometer
 01856 Miles
+06006 Rediger
+06008 Sidste sæt:
+06009 %1 gentagelse
+06010 %1 gentagelser
+06007 Hvile
 01858 Fod
 01859 Meter
 01860 Vis tempo
@@ -1662,6 +1684,7 @@
 03120 Strømsparetimeout
 03482 Slet segment?
 03121 Optagetilstand
+06012 Vil du slappe af et øjeblik?
 05612 Start %1?
 01829 Fjern?
 01830 Gentag
@@ -1713,6 +1736,7 @@
 01572 Gem session uden puls?
 01574 Søg igen
 01573 Ja
+05947 Tænd udvidet displayenhed for at oprette forbindelse.
 01533 Gå omkring for at aktivere sensoren.
 01532 Gå med pulsmåler for at oprette forbindelse.
 01538 Tænd lyset for at oprette forbindelse.
@@ -1734,8 +1758,8 @@
 05772 OK
 05499 Opdatering mislykkedes. Gå til sensormenuen, og forsøg igen.
 01888 Udført
-01887 Opdatering mislykkedes. \nPrøv igen fra Garmin Connect.
-00062 Opdatering mislykkedes. \nPrøv igen.
+01887 Opdatering mislykkedes. Prøv igen fra Garmin Connect.
+00062 Opdatering mislykkedes. Prøv igen.
 01589 Accepter
 01591 Tempo: %1
 01592 Fart: %1
@@ -1766,6 +1790,8 @@
 01394 Omgange
 05818 Løb %1
 05817 Løb
+06000 Sæt %1
+05999 Sæt
 01373 Aktiviteter
 01388 Fredag %1
 01378 Fredag
@@ -1798,6 +1824,7 @@
 01987 Omgange
 00063 Kort
 05823 Løb
+06013 Sæt
 03614 Lige linje
 00064 Tid i zone
 00046 TracBack
@@ -1900,6 +1927,7 @@
 03084 Vælg skærmbillede
 03085 Brugerdefinerede data
 01514 Vælg type
+05946 Udvidet display
 01517 Fodsensor
 01516 Ekstern pulsmåler
 01522 Lygter
@@ -2200,6 +2228,7 @@
 01116 %1 meter
 01115 %1 yards
 05501 Aktivitet %1
+06005 Rediger sæt %1
 02204 Aut kalibr.
 02203 Kalibreringsfaktor
 02205 Indstil værdi
@@ -2403,6 +2432,7 @@
 00012 Position
 05905 Tilføj widget
 03595 Kalibrer effekt
+06064 Rediger sidste sæt
 01745 Historik
 03592 Deaktiver metronom
 05864 Navigationsindstillinger
@@ -2532,7 +2562,6 @@
 03208 Timer
 03201 VIRB
 03205 Wi-Fi
-05502 Lås taster
 03184 Musikkontrol
 05556 Telefon
 03179 Menuen Styring
@@ -2610,8 +2639,11 @@
 01500 Barometer
 01508 Kadence - %1
 01496 Kompas
+05945 Display - %1
+05496 Bluetooth
 01530 Vælg for at tilføje
 01529 Sensorer fundet
+05497 Vis Bluetooth-sensorer
 01504 FP - %1
 01503 Puls - %1
 01512 Lygte - %1
@@ -2796,6 +2828,7 @@
 01795 Hvile-skærmbillede
 01780 Løbedynamik 2
 01779 Løbedynamik
+06011 Sæt
 03090 Skiløbeture i alt
 01603 Konkurrer i en aktivitet
 03067 Segmenter
@@ -2878,7 +2911,7 @@
 00415 Kalorier
 00215 Ur
 00223 Kompas
-03645 Etager op
+06065 Etager op
 00383 Intensitetsminutter
 00395 Sidste tur
 00394 Sidste løbetur
@@ -2893,6 +2926,7 @@
 03644 Ydeevne
 03648 Fjern
 03647 Omorganiser
+06066 Stress
 00220 Temperatur
 00224 VIRB
 00219 Vejr
@@ -2902,9 +2936,17 @@
 03215 Widgets
 02443 Automatisk overførsel
 02442 Tilslut til Wi-Fi
+06014 Mine netværk
 02444 Wi-Fi
+06027 Tilføj netværk
+06026 Mine netværk
+06028 Netværk fundet
+06030 Fjern
+06031 Fjern fra Mine netværk?
+06029 Opdater adgangskode
 05537 Telefon
 01606 Wi-Fi
+06039 Kardio
 02467 Cykling
 02471 Multisport
 02465 Min træning
@@ -2912,6 +2954,8 @@
 02470 Andre
 02468 Svømning i bassin
 02466 Løb
+06038 Styrketræning
+06036 Kardio
 02460 Cykling
 02458 Ugyldig
 02464 Multisport
@@ -2920,8 +2964,10 @@
 02463 Andre
 02461 Svømning i bassin
 02459 Løb
+06035 Styrke
 02455 I dag
 02457 I morgen
+06037 Fri
 02456 I går
 02476 1 trin
 02477 Annuller træning
@@ -2929,6 +2975,9 @@
 02472 Start træningen
 02475 %1 trin
 02473 Vis
+06062 Gentagelser
+06061 Hvile
+06060 Indstil timer
 04751 SØ
 02953 Hold nede under aktiviteter for at skifte til en anden sport.
 02951 Aktiviteten understøtter ikke metronom.
@@ -3048,7 +3097,7 @@
 05844 Intet kendt Wi-Fi-netværk fundet.
 05634 Ikke tilstrækkelig hukommelse på enhed.
 03560 Søger efter Wi-Fi-netværk.
-03567 Konfigurer Wi-Fi ved hjælp af Garmin Express.
+03567 Konfigurer Wi-Fi med Garmin Connect Mobile eller Garmin Express.
 03562 Overførsel allerede i gang.
 05631 Overførsel gennemført\n(1 fil mislykkedes)
 03563 Overførsel gennemført.
@@ -3077,6 +3126,15 @@
 03219 Gå til Indstillinger > Widgets for at administrere widgets senere.
 00050 Applikation
 00049 Start for at vise. (%1 bliver stoppet.)
+06022 Forbindelsen til telefonen kan ikke gendannes.
+06019 Opretter forbindelse til {1:32}
+06021 Der kunne ikke oprettes forbindelse.
+06020 Tilslutning gennemført
+06015 Wi-Fi-netværk fundet
+06016 Ingen Wi-Fi-netværk fundet
+06017 Gendanner forbindelse til telefon
+06023 Søger efter Wi-Fi-netværk
+06018 Prøv igen
 00051 Fjern enkeltsports-aktivitetsprofil for at tilføje sport i træning.
 00159 Ingen skiløbeture fundet
 02214 Kalibrerer effektsensor.
@@ -3099,6 +3157,8 @@
 01526 Søger efter %1
 01525 Søger efter alle sensorer og tilbehør i nærheden.
 01524 Søger efter sensor
+05977 Maksimalt antal sensorer nået. Slet en sensor, og prøv igen.
+05976 Maksimalt antal sensorer nået.
 05682 Sensor tilføjet
 05866 Sensorfejl
 03702 Tilslut TruSwing til mobile app.
@@ -3114,6 +3174,17 @@
 05766 Omg %1
 05754 Tryk for omgang
 00421 Positionsformat
+06051 Kontroller urets tilpasning
+06048 Høj stress
+06050 Stå stille
+06046 Lav stress
+06049 Måler
+06047 Middelhøj stress
+06056 Afslapningstimer
+06045 Hvile
+06055 Seneste %1 t.
+06052 For aktiv til at måle
+06053 Den håndledsbaserede pulsmåler er deaktiveret.
 01297 Bag. skift:
 00081 Total
 02959 Aerob TE:
@@ -3156,12 +3227,15 @@
 05428 Tag hastgh:
 01253 Tempo:
 01260 Kadence:
+05995 Gentagels.:
+05994 Hviletid:
 01282 Gn h. PCO:
 01285 Gn h. PPP:
 01284 Gn h. PP:
 05425 Dist pr. tag:
 05427 Tag hastgh:
 01270 Swolf:
+05996 Sæt:
 01266 Skridtlgd:
 01267 Tag/lng.:
 01252 Svøm.tid:
@@ -3176,11 +3250,15 @@
 01240 Omgang %1
 01249 Længder - %1
 05816 Løb %1
+05992 Sæt %1
 01275 TSS:
 01251 Tid:
 01281 Tid stå.:
 01262 Vert. udsv.:
 01263 Vrt. forh.:
+05997 Mængde:
+05998 Vægt:
+05993 Aktiv tid:
 05675 Distance:
 01302 Højde:
 01303 Position:
@@ -3195,6 +3273,7 @@
 01552 Højre:
 01549 SW vr:
 01548 Ser.nr:
+05429 Tekn:
 01559 Oplader
 01561 Tilsluttet
 01558 Kritisk
@@ -3246,6 +3325,8 @@
 00498 Skala
 00349 Vælg en DIP
 00342 Vælg punkt
+05987 Indstil timer
+05989 Indst timer
 00156 Løb
 01083 Softwareversion
 00470 South African
@@ -3345,7 +3426,7 @@
 03494 Vedligeholdelse af aerob kondition
 03495 Forbedring af aerob kondition
 03496 Stor forbedring af aerob kondition
-03497 Formforbedrende træning
+03497 Overtræning
 03498 Restitution
 03499 Mindre aerob nyttevirkning
 03500 Vedligeholdelse af aerob grundform
@@ -3391,7 +3472,7 @@
 03527 Vedligeholdelse
 05699 Ingen status
 03534 Optimal
-03530 Formforbedr.
+03530 Overtræning
 03529 Top
 05512 Tryk på START for at se mere.
 03528 Produktiv
@@ -3544,8 +3625,10 @@
 02765 %
 02745 lbs
 02771 rpm
+06044 Gntag.
 05441 spm
 05698 sek
+06043 Sæt
 02780 spm
 02718 ° T
 02774 utc
@@ -3647,6 +3730,8 @@
 03301 Trin, tid
 02540 Tærskelværdi ikke registreret
 03298 Næste trin:
+06040 Indtil puls > %1
+06041 Indtil puls < %1
 05354 Destinationswaypoint
 00758 Destinationswaypoint
 01047 Dest wpt

@@ -1,4 +1,4 @@
-006-D6593-02|v02.30
+006-D6593-02|v02.40
 00001 Suomi
 00252 12 tuntia
 00253 24 tuntia
@@ -13,7 +13,7 @@
 05881 Muistutus
 05883 Harjoitus
 05879 Herätys
-05880 Harjoitus
+05880 Kuntoilu
 01625 Mukautettu
 01621 Juo
 01622 Syö
@@ -166,6 +166,9 @@
 05374 Osuuden nopeus
 02864 Osuuden nopeus
 02905 OsuusNop
+06057 Hengitä sisään
+06058 Hengitä ulos
+06059 Pidätä hengitystä
 02528 Selkä
 02586 Selkä
 00255 Käyrä
@@ -187,6 +190,8 @@
 05075 Ei tapahtumia
 00127 Nyt
 03624 Valitse kenttä %1
+05984 Toistot
+05985 Aseta ajanotto
 00198 Kalibroi kompassi
 00200 Kalibroi
 00199 Kalibrointi valmis
@@ -592,6 +597,7 @@
 00377 Bogeyt
 00378 Tuplat
 00374 Eaglet
+00372 Väylät
 00371 GIR
 00373 Putit/rei
 00376 Parit
@@ -635,7 +641,7 @@
 02651 Käytössä %1, %2, %3
 02652 Käytössä: %1, %2, %3, %4
 02653 Käytössä: %1, %2, %3, %4, %5
-05488 Stressi
+05488 Stressitaso
 05486 Kova stressi
 05484 Vähäinen stressi
 05485 Kohtalainen stressi
@@ -1075,6 +1081,8 @@
 05797 Reittip. en.määrä %1 ylitetty. Viimeisimpiä %2 pistettä ei näytetä.
 03586 Matka määränpäähän %1
 03587 Aika määränpäähän %1
+05943 Laajennetun näytön akun varaustila on alhainen.
+05944 Laajennetun näytön akun virta on vähissä.
 01187 Jalka-anturin virta vähissä.
 05528 GroupTrack-käyttäjää ei löydy.
 02931 Näyttö näkyy, kun käytät juoksun dynam. mitt. lisävarustetta
@@ -1105,6 +1113,7 @@
 02934 RD Podin virta vähissä.
 01216 Tutkan akku vähissä.
 01201 Palautumissyke %1
+05990 Aloita ja lopeta sarjat painamalla.
 02932 Vaihdeanturin virta on vähissä.
 01188 Shimano Di2 -akku on lähes tyhjä.
 01198 Hidas- ja nopeahälytyksen arvot säädetty.
@@ -1117,6 +1126,7 @@
 02939 Takavalon %1 akku on vähissä.
 01221 Tempen akku on vähissä.
 00036 Ajanotto loppui
+05991 Sarja %1
 01207 VIRB-kameran akku on vähissä.
 01222 Pyöräkoko laskettu.
 01118 Metronomi
@@ -1212,6 +1222,7 @@
 02638 Yhdistetty
 03613 Harjoitus aloitettu
 02614 Di2 yhdistetty
+05948 Näyttö liitetty
 05949 Edge yhdistetty
 02609 Jalka-anturi yhdist.
 02603 GPS on valmis
@@ -1261,11 +1272,15 @@
 05832 Näet tilasi juoksem. ulkona käyttäen sykemittausta 2 kertaa.
 05833 Juokse ulkona käyttäen sykemittausta, jotta näet tilasi.
 00237 Ilmanpainem.
+06003 1 minuutti
+06002 Lisää %1
 03015 Syntymävuosi
 03014 %1 kaloria
+06001 Muokkaa toistoja
 05819 Anna juoksum. matka
 03017 Pituus
 03012 %1 altaanvälin välein
+06004 %1 minuuttia
 03013 %1 toistoa
 03007 Aseta lyönnit/min
 02997 Aseta kirkkaus
@@ -1375,6 +1390,7 @@
 01359 Suoritustaso
 02682 IP
 05970 Korkeusmittari
+05982 Taustavalo: %1%
 05969 Ilmanpaine​mittari
 05971 Kompassi
 05827 Älä häiritse: ei käytössä
@@ -1519,6 +1535,8 @@
 05103 Toisto
 00525 Toisto
 00814 Toisto
+05986 Toistot
+05988 Toistot
 02478 Lepo
 05344 Lepoajanotto
 00748 Lepoajanotto
@@ -1556,6 +1574,11 @@
 01855 Laitteen oletukset palautetaan.
 01857 Kilometriä
 01856 Mailia
+06006 Muokkaa
+06008 Viime sarja:
+06009 %1 toisto
+06010 %1 toistoa
+06007 Lepo
 01858 Jalkaa
 01859 Metriä
 01860 Näytä tahti
@@ -1661,6 +1684,7 @@
 03120 Virransäästön aikakatkaisu
 03482 Poistetaanko osuus?
 03121 Tallennustapa
+06012 Haluatko rentoutua hetken?
 05612 Käynnistetäänkö %1?
 01829 Poista?
 01830 Toisto
@@ -1712,6 +1736,7 @@
 01572 Tallennetaanko istunto ilman syketietoja?
 01574 Hae uudelleen
 01573 Kyllä
+05947 Yhdistä käynnistämällä laajennettu näyttölaite.
 01533 Aktivoi tunnistin kävelemällä.
 01532 Muodosta yhteys käyttämällä sykemittaria.
 01538 Yhdistä sytyttämällä valo.
@@ -1733,8 +1758,8 @@
 05772 OK
 05499 Päivitys epäonnistui. Yritä uudelleen anturivalikosta.
 01888 Valmis
-01887 Päivitys epäonnistui. \nYritä uudelleen Garmin Connectista.
-00062 Päivitys epäonnistui. \nYritä uudelleen.
+01887 Päivitys epäonnistui. Yritä uudelleen Garmin Connectista.
+00062 Päivitys epäonnistui. Yritä uudelleen.
 01589 Hyväksy
 01591 Tahti: %1
 01592 Nopeus: %1
@@ -1765,6 +1790,8 @@
 01394 Kierrokset
 05818 Laskukerta %1
 05817 Kerrat
+06000 Sarja %1
+05999 Sarjat
 01373 Suoritukset
 01388 Perjantai %1
 01378 Perjantai
@@ -1797,6 +1824,7 @@
 01987 Kierrokset
 00063 Kartta
 05823 Kerrat
+06013 Sarjat
 03614 Linnuntietä
 00064 Aika alueella
 00046 TracBack
@@ -1899,6 +1927,7 @@
 03084 Valitse näyttö
 03085 Mukautetut tiedot
 01514 Valitse tyyppi
+05946 Laajennettu näyttö
 01517 Jalka-anturi
 01516 Ulkoinen sykemittari
 01522 Valot
@@ -1954,7 +1983,7 @@
 03169 Arkipäivinä
 03172 Viikonloppuisin
 03171 Viikonloppuisin
-05872 Harjoitus
+05872 Kuntoilu
 01607 Lisää uusi
 01620 Hälytykset
 01617 Poljinnopeus
@@ -2199,6 +2228,7 @@
 01116 %1 metriä
 01115 %1 jaardia
 05501 Suoritus %1
+06005 Muokkaa sarjaa %1
 02204 Kalibroi automaattisesti
 02203 Kalibrointitekijä
 02205 Aseta arvo
@@ -2402,6 +2432,7 @@
 00012 Sijainti
 05905 Lisää widget
 03595 Kalibroi voima
+06064 Muokkaa viime sarjaa
 01745 Historia
 03592 Mykistä metronomi
 05864 Navigointiasetukset
@@ -2531,7 +2562,6 @@
 03208 Ajanotto
 03201 VIRB
 03205 Wi-Fi
-05502 Lukitse painikkeet
 03184 Musiikin hallinta
 05556 Puhelin
 03179 Säädinvalikko
@@ -2609,8 +2639,11 @@
 01500 Ilmanpainemittari
 01508 Polj.n. - %1
 01496 Kompassi
+05945 Näyttö - %1
+05496 Bluetooth
 01530 Lisää valitsemalla
 01529 Antureita löytyi
+05497 Näytä Bluetooth-anturit
 01504 Jalka-ant.,%1
 01503 Syke - %1
 01512 Valo - %1
@@ -2795,6 +2828,7 @@
 01795 Leponäyttö
 01780 Juoksun dynamiikka 2
 01779 Juoksun dynamiikka
+06011 Sarja
 03090 Kerrat yhteensä
 01603 Kilpailuta toiminto
 03067 Osuudet
@@ -2877,7 +2911,7 @@
 00415 Kalorit
 00215 Kello
 00223 Kompassi
-03645 Kiivetyt kerrokset
+06065 Kiivetyt kerrokset
 00383 Tehominuutit
 00395 Viimeisin matka
 00394 Viimeisin juoksu
@@ -2892,6 +2926,7 @@
 03644 Suorituskyky
 03648 Poista
 03647 Järjestä uudelleen
+06066 Stressi
 00220 Lämpötila
 00224 VIRB
 00219 Sää
@@ -2901,9 +2936,17 @@
 03215 Widgetit
 02443 Automaattinen lataus
 02442 Muodosta yhteys Wi-Fi-verkkoon
+06014 Omat verkot
 02444 Wi-Fi
+06027 Lisää verkko
+06026 Omat verkot
+06028 Verkkoja löytyi
+06030 Poista
+06031 Poistetaanko omista verkoista?
+06029 Päivitä salasana
 05537 Puhelin
 01606 Wi-Fi
+06039 Cardio
 02467 Pyöräily
 02471 Monilaji
 02465 Omat harjoitukset
@@ -2911,6 +2954,8 @@
 02470 Muu
 02468 Allasuinti
 02466 Juoksu
+06038 Voimaharjoittelu
+06036 Kardio
 02460 Pyöräily
 02458 Virheellinen
 02464 Monilaji
@@ -2919,8 +2964,10 @@
 02463 Muu
 02461 Allasuinti
 02459 Juoksu
+06035 Voimaharjoittelu
 02455 Tänään
 02457 Huomenna
+06037 Vapaauinti
 02456 Eilen
 02476 1 vaihe
 02477 Peruuta harjoitus
@@ -2928,6 +2975,9 @@
 02472 Tee harjoitus
 02475 %1 vaihetta
 02473 Näytä
+06062 Toistot
+06061 Lepo
+06060 Aseta ajanotto
 04751 KA
 02953 Vaihda lajia suorituksen aikana painamalla pitkään.
 02951 Suoritus ei tue metronomia.
@@ -3002,7 +3052,7 @@
 01931 Etsitään
 01933 Haetaan vasenta poljinta.  Tämä saattaa kestää muutaman minuutin.
 01932 Haetaan oikeaa poljinta.  Tämä saattaa kestää muutaman minuutin.
-01929 Päivitys on valmis
+01929 Päivitys valmis
 01936 Päivitetään
 01934 Odotetaan anturin uudelleenkäynnistymistä.
 01958 Maks. hap.kyky tarv. Selvitä maks. hap.kyky juoksemalla 10:00 min ulkona.
@@ -3047,7 +3097,7 @@
 05844 Tunnettuja Wi-Fi-verkkoja ei löydy.
 05634 Laitteen muisti ei riitä.
 03560 Haetaan Wi-Fi-verkkoa.
-03567 Määritä Wi-Fi Garmin Expressin avulla.
+03567 Määritä Wi-Fi Garmin Connect Mobile - tai Garmin Express -sovelluksella.
 03562 Siirto jo käynnissä.
 05631 Siirto valmis\n(1 tiedosto epäonnistui)
 03563 Siirto valmis.
@@ -3076,6 +3126,15 @@
 03219 Voit hallita widgetejä valitsemalla Asetukset > Widgetit.
 00050 Sovellus
 00049 Näytä START-painikkeella. (%1 keskeytetään.)
+06022 Ei yhteyttä puhelimeen.
+06019 Yhdistetään verkkoon {1:32}
+06021 Yhteys katkesi
+06020 Yhteys onnistui
+06015 Wi-Fi-verkkoja löytyi
+06016 Wi-Fi-verkkoja ei löytynyt
+06017 Yhdistetään uudelleen puhelimeen
+06023 Haetaan Wi-Fi-verkkoja
+06018 Yritä uud.
 00051 Poista yksitt. urh.suor.profiili, jotta voit lisätä tässä harj. käytetyn lajin.
 00159 Ei kertoja
 02214 Kalibroi voimatunnistinta
@@ -3098,6 +3157,8 @@
 01526 Haetaan kohdetta: %1
 01525 Haetaan kaikkia lähellä olevia antureita ja lisävarusteita.
 01524 Etsitään tunnistinta
+05977 Enimmäismäärä saavutettu. Poista anturi ja yritä uudelleen.
+05976 Antureiden enimmäismäärä saavutettu.
 05682 Anturi lisätty
 05866 Anturivirhe
 03702 Yhdistä TruSwing-laite mobiilisovellukseen.
@@ -3113,6 +3174,17 @@
 05766 Kierr %1
 05754 Kierr. painam.
 00421 Sijainnin muoto
+06051 Tarkista kellon istuvuus
+06048 Kova stressi
+06050 Pysy paikallasi
+06046 Vähäinen stressi
+06049 Mitataan
+06047 Keskitason stressi
+06056 Rentousajanotto
+06045 Lepo
+06055 Viim. %1 tuntia
+06052 Liian aktiivinen, ei voi mitata
+06053 Rannesykemittari ei ole käytössä.
 01297 Takavaihd:
 00081 Yhteensä
 02959 Aerob. TE:
@@ -3155,12 +3227,15 @@
 05428 Vetotahti:
 01253 Tahti:
 01260 Askeltih.:
+05995 Toistot:
+05994 Lepoaika:
 01282 O ka-POK:
 01285 O ka-PPP:
 01284 O ka-VV:
 05425 Vetomatka:
 05427 Vetotahti:
 01270 Swolf:
+05996 Sarjat:
 01266 Askelpit.:
 01267 Vedot/alt:
 01252 Uintiaika:
@@ -3175,16 +3250,20 @@
 01240 Kierros %1
 01249 Altaanv. - %1
 05816 Laskukerta %1
+05992 Sarja %1
 01275 TSS:
 01251 Aika:
 01281 AikaSeist:
 01262 Pystyliike:
 01263 PystSuhde:
+05997 Volyymi:
+05998 Paino:
+05993 Työsk.aika:
 05675 Matka:
 01302 Korkeus:
 01303 Sijainti:
 01542 Laite
-01544 Tunn. virheet
+01544 Tunnistimen virheet
 01543 Anturin tila
 01550 Akku:
 01545 Tunnus:
@@ -3194,6 +3273,7 @@
 01552 Oikea:
 01549 Ohj.v.:
 01548 Sarj.nro:
+05429 Tekn:
 01559 Ladataan
 01561 Yhdistetty
 01558 Kriittinen
@@ -3245,6 +3325,8 @@
 00498 Asteikko
 00349 Valitse DIP
 00342 Valitse piste
+05987 Aseta ajanotto
+05989 As. ajanott
 00156 Kerta
 01083 Ohjelmistoversio
 00470 South African
@@ -3543,8 +3625,10 @@
 02765 %
 02745 lbs
 02771 rpm
+06044 Toistot
 05441 vmin
 05698 s
+06043 Sarjat
 02780 spm
 02718 ° T
 02774 utc
@@ -3646,10 +3730,12 @@
 03301 Vaiheen aika
 02540 Kynnystä ei havaittu
 03298 Seur. vaihe:
+06040 Kunnes syke > %1
+06041 Kunnes syke < %1
 05354 Määränpään reittipiste
 00758 Määränpään reittipiste
 01047 MäärP Reit
-02538 Lopeta harj. LAP-painikk.
+02538 Lopeta harjoitus LAP-painikkeella
 02690 L
 00353 K
 02481 Lämmittely

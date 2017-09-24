@@ -1,4 +1,4 @@
-006-D6593-11|v02.30
+006-D6593-11|v02.40
 00001 Čeština
 00252 12 hodinový
 00253 24 hodinový
@@ -166,6 +166,9 @@
 05374 Rychlost segmentu
 02864 Rychlost segmentu
 02905 Rych. seg.
+06057 Nadechněte se
+06058 Vydechněte
+06059 Zadržte dech
 02528 Znak
 02586 Znak
 00255 Graf
@@ -187,6 +190,8 @@
 05075 Žádné události
 00127 Nyní
 03624 Vyberte pole %1
+05984 Opakovaní
+05985 Čas sady
 00198 Kalibrace kompasu
 00200 Kalibrovat
 00199 Kal. dokončena
@@ -636,7 +641,7 @@
 02651 Používání profilu %1, %2, %3
 02652 Používání profilu %1, %2, %3, %4
 02653 Použ pr%1,%2,%3,%4,%5
-05488 Stres
+05488 Skóre stresu
 05486 Vysoké přetížení
 05484 Nízké přetížení
 05485 Střední přetížení
@@ -1076,6 +1081,8 @@
 05797 Max. bodů trasy %1 překročen. Počet posl. zobrazených bodů: %2.
 03586 Vzdálenost k cíli %1
 03587 Čas do cíle %1
+05943 Baterie externího displeje je slabá.
+05944 Baterie displeje Edge je slabá.
 01187 Slabá baterie nožního snímače.
 05528 Uživatel funkce GroupTrack nenalezen.
 02931 Obrazovka se zobrazí při používání přísl. pro měř. dynamiky běhu.
@@ -1106,6 +1113,7 @@
 02934 Slabá baterie snímače dynamiky běhu.
 01216 Radar má slabou baterii.
 01201 Obnovení srdečního tepu %1
+05990 Stisknutím spustíte a ukončíte sady.
 02932 Slabá baterie snímače řazení.
 01188 Baterie Shimano Di2 je slabá.
 01198 Hodnoty alarmu nízkého a vysokého tempa byly upraveny.
@@ -1118,6 +1126,7 @@
 02939 Zadní světlo %1 má slabou baterii.
 01221 Slabá baterie Tempe.
 00036 Uplynula doba časovače
+05991 Sada %1
 01207 Slabá baterie zařízení VIRB.
 01222 Velikost kola vypočtena.
 01118 Metronom
@@ -1213,6 +1222,7 @@
 02638 Připojeno
 03613 Trasa zahájena
 02614 Sním. Di2 přip.
+05948 Displej připojen
 05949 Edge připojeno
 02609 Nož. sním. přip.
 02603 GPS připraveno
@@ -1262,11 +1272,15 @@
 05832 Jděte si dvakrát zaběhat ven se snímačem ST pro zobrazení stavu.
 05833 Jděte si zaběhat ven se snímačem ST pro zobrazení stavu.
 00237 Barometr
+06003 1 minuta
+06002 Přidat %1
 03015 Rok narození
 03014 %1 kcal
+06001 Upravit opakování
 05819 Zadejte vzdálenost
 03017 Výška
 03012 %1 délek
+06004 %1 min
 03013 %1 opakování
 03007 Nastavit tep/min.
 02997 Nastavit jas
@@ -1376,6 +1390,7 @@
 01359 Zhodnocení výkonu
 02682 o.
 05970 Výškoměr
+05982 Podsvícení: %1%
 05969 Barometr
 05971 Kompas
 05827 Nastavení Nerušit: Vyp.
@@ -1520,6 +1535,8 @@
 05103 Opakování
 00525 Opakování
 00814 Opakování
+05986 Opakovaní
+05988 Opakovaní
 02478 Odpočinek
 05344 Časovač odpočinku
 00748 Časovač odpočinku
@@ -1557,6 +1574,11 @@
 01855 Zařízení obnoví výchozí nastavení.
 01857 Kilometry
 01856 Míle
+06006 Upravit
+06008 Poslední sada:
+06009 %1 opakování
+06010 %1 opakování
+06007 Odpočinek
 01858 Stopy
 01859 Metry
 01860 Zobrazit tempo
@@ -1662,6 +1684,7 @@
 03120 Časový limit úsporného režimu
 03482 Odstranit segment?
 03121 Režim záznamu
+06012 Chcete si na chvíli odpočinout?
 05612 Spustit %1?
 01829 Odebrat?
 01830 Opakovat
@@ -1713,6 +1736,7 @@
 01572 Uložit aktivitu bez ST?
 01574 Vyhledat znovu
 01573 Ano
+05947 Pro připojení zapněte zařízení s externím displejem.
 01533 Projděte se, abyste aktivovali snímač.
 01532 Pro připojení umístěte snímač ST na tělo.
 01538 Světlo musí být pro párování zapnuto.
@@ -1734,8 +1758,8 @@
 05772 OK
 05499 Aktualizace se nezdařila. Přejděte do menu snímače a opakujte akci.
 01888 Hotovo
-01887 Aktualizace se nezdařila.  Opakujte akci ze služby Garmin Connect.
-00062 Aktualizace se nezdařila.  Opakujte akci.
+01887 Aktualizace se nezdařila. Opakujte akci ze služby Garmin Connect.
+00062 Aktualizace se nezdařila. Opakujte akci.
 01589 Přijmout
 01591 Tempo: %1
 01592 Rychl.: %1
@@ -1766,6 +1790,8 @@
 01394 Okruhy
 05818 Sjezd %1
 05817 Běhy
+06000 Sada %1
+05999 Sady
 01373 Aktivity
 01388 Pátek %1
 01378 Pátek
@@ -1798,6 +1824,7 @@
 01987 Okruhy
 00063 Mapa
 05823 Běhy
+06013 Sady
 03614 Přímo
 00064 Čas v zóně
 00046 TracBack
@@ -1900,6 +1927,7 @@
 03084 Vybrat obrazovku
 03085 Vlastní data
 01514 Vyberte typ
+05946 Externí displej
 01517 Krokoměr
 01516 Externí snímač srdečního tepu
 01522 Světla
@@ -2200,6 +2228,7 @@
 01116 %1 metrů
 01115 %1 yardů
 05501 Aktivita %1
+06005 Upravit sadu %1
 02204 Automatická kalibrace
 02203 Kalibrační faktor
 02205 Nastavit hodnotu
@@ -2403,6 +2432,7 @@
 00012 Pozice
 05905 Přidat pomůcku
 03595 Kalibrace výkonu
+06064 Upravit poslední sadu
 01745 Historie
 03592 Ztlumit metronom
 05864 Nastavení navigace
@@ -2532,7 +2562,6 @@
 03208 Časovač
 03201 VIRB
 03205 Wi-Fi
-05502 Uzamknout tlačítka
 03184 Ovládání hudby
 05556 Telefon
 03179 Menu Ovl. prvky
@@ -2610,8 +2639,11 @@
 01500 Barometr
 01508 Kadence – %1
 01496 Kompas
+05945 Displej – %1
+05496 Bluetooth
 01530 Vyberte pro přidání
 01529 Nalezeny snímače
+05497 Zobrazit snímače Bluetooth
 01504 NS – %1
 01503 ST – %1
 01512 Světlo – %1
@@ -2796,6 +2828,7 @@
 01795 Obrazovka odpočinku
 01780 Dynamika běhu 2
 01779 Dynamika běhu
+06011 Sada
 03090 Celkový počet sjezdů
 01603 Závodit v aktivitě
 03067 Segmenty
@@ -2878,7 +2911,7 @@
 00415 Kalorie (kcal)
 00215 Hodiny
 00223 Kompas
-03645 Počet pater
+06065 Počet pater
 00383 Min. inten. akt.
 00395 Poslední jízda
 00394 Poslední běh
@@ -2893,6 +2926,7 @@
 03644 Výkon
 03648 Odebrat
 03647 Změna pořadí
+06066 Stres
 00220 Teplota
 00224 VIRB
 00219 Počasí
@@ -2902,9 +2936,17 @@
 03215 Doplňky
 02443 Automatické nahrávání
 02442 Připojit k Wi-Fi
+06014 Moje sítě
 02444 Wi-Fi
+06027 Přidat síť
+06026 Moje sítě
+06028 Nalezeny sítě
+06030 Odebrat
+06031 Odebrat z mých sítí?
+06029 Heslo pro aktualizaci
 05537 Telefon
 01606 Wi-Fi
+06039 Kardio
 02467 Cyklistika
 02471 Multisport
 02465 Tréninky
@@ -2912,6 +2954,8 @@
 02470 Jiné
 02468 Plavání v bazénu
 02466 Běh
+06038 Silový trénink
+06036 Kardio
 02460 Cyklistika
 02458 Neplatná
 02464 Multisport
@@ -2920,8 +2964,10 @@
 02463 Jiné
 02461 Plavání v bazénu
 02459 Běh
+06035 Síla
 02455 Dnes
 02457 Zítra
+06037 Volný styl
 02456 Včera
 02476 1 krok
 02477 Zrušit trénink
@@ -2929,6 +2975,9 @@
 02472 Spustit trénink
 02475 %1 kroků
 02473 Zobrazit
+06062 Opakovaní
+06061 Odpočinek
+06060 Čas sady
 04751 SE
 02953 Podržením během aktivity přepněte na jiný sport.
 02951 Aktivita nepodporuje metronom.
@@ -3003,7 +3052,7 @@
 01931 Vyhledávání
 01933 Vyhledávání levého pedálu.  Může to chvíli trvat.
 01932 Vyhledávání pravého pedálu.  Může to chvíli trvat.
-01929 Aktualizace byla dokončena
+01929 Aktualizace dokončena
 01936 Aktualizace
 01934 Čekání na restart snímače.
 01958 Je nutná hodnota VO2 max. Běhejte 10 minut venku se snímačem ST pro zjištění VO2 max.
@@ -3048,7 +3097,7 @@
 05844 Nebyly nalezeny žádné známé sítě Wi-Fi.
 05634 Nedostatek paměti v zařízení.
 03560 Vyhledávání sítě Wi-Fi.
-03567 Nastavte síť Wi-Fi pomocí aplikace Garmin Express.
+03567 Nastavte síť Wi-Fi pomocí aplikace Garmin Connect Mobile nebo Garmin Express.
 03562 Přenos již probíhá.
 05631 Přenos dokončen\n(1 soubor selhal)
 03563 Přenos dokončen.
@@ -3077,6 +3126,15 @@
 03219 Doplňky můžete později spravovat v nabídce Nastavení > Doplňky.
 00050 Aplikace
 00049 Tlačítkem START přepnete na zobrazení. (%1 bude zastaveno.)
+06022 Nedaří se znovu připojit k telefonu.
+06019 Probíhá připojování: {1:32}
+06021 Připojení se nezdařilo
+06020 Připojení bylo úspěšné
+06015 Nalezeny sítě Wi-Fi
+06016 Nebyly nalezeny žádné sítě Wi-Fi
+06017 Opětovné připojování k telefonu
+06023 Hledání sítí Wi-Fi
+06018 Opakovat
 00051 Odebráním prf dal sportu přidáte sport použ trén.
 00159 Nenalezeny žádné sjezdy
 02214 Kalibrace snímače výkonu
@@ -3099,6 +3157,8 @@
 01526 Probíhá hledání %1
 01525 Vyhledávání všech snímačů a příslušenství v blízkosti.
 01524 Vyhledávání snímače
+05977 Dosažen max. počet snímačů. Odeberte snímač a opakujte akci.
+05976 Byl dosažen maximální počet snímačů.
 05682 Snímače přidány
 05866 Chyba snímače
 03702 Připojte zařízení TruSwing k mobilní aplikaci.
@@ -3114,6 +3174,17 @@
 05766 Okr. %1
 05754 Stisk. stopněte
 00421 Formát pozice
+06051 Zkontrolujte usazení hodinek
+06048 Vysoký stres
+06050 Buďte v klidu
+06046 Nízký stres
+06049 Měření
+06047 Střední stres
+06056 Časovač relaxace
+06045 Odpočinek
+06055 Posl. %1 h
+06052 Přílišná aktivita brání měření
+06053 Snímač srdečního tepu na zápěstí je vypnutý.
 01297 Zadní přev.:
 00081 Celkem
 02959 Aerobní TE:
@@ -3156,12 +3227,15 @@
 05428 Rychl. záb.:
 01253 Tempo:
 01260 Kadence:
+05995 Opakování:
+05994 Čas odpoč.:
 01282 Pr. PSZ P:
 01285 Pr. SSF P:
 01284 Pr. SF P:
 05425 Vzd./záběr:
 05427 Rychl. záb.:
 01270 SWOLF:
+05996 Sady:
 01266 Dél. kroku:
 01267 Záb/dél:
 01252 Čas plav:
@@ -3176,11 +3250,15 @@
 01240 Okruh %1
 01249 Délky – %1
 05816 Sjezd %1
+05992 Sada %1
 01275 TSS:
 01251 Čas:
 01281 Čas vest.:
 01262 Vert. osc.:
 01263 Vert. pom.:
+05997 Hlasitost:
+05998 Hmotnost:
+05993 Délka trén.:
 05675 Vzdál:
 01302 Nad.výš.:
 01303 Pozice:
@@ -3195,6 +3273,7 @@
 01552 Pravý:
 01549 Ver SW:
 01548 Sér. č.:
+05429 Tech.:
 01559 Nabíjení
 01561 Připojeno
 01558 Kritický
@@ -3246,6 +3325,8 @@
 00498 Měřítko
 00349 Vyberte DIP
 00342 Vyberte bod
+05987 Čas sady
+05989 Čas sady
 00156 Sjezd
 01083 Verze softwaru
 00470 South African
@@ -3544,8 +3625,10 @@
 02765 %
 02745 lb
 02771 ot/m
+06044 Opak.
 05441 zmin
 05698 s
+06043 Sady
 02780 krm
 02718 ° S
 02774 utc
@@ -3647,10 +3730,12 @@
 03301 Čas úseku
 02540 Práh nedetekován
 03298 Další krok:
+06040 Dokud je HR > %1
+06041 Dokud je HR < %1
 05354 Trasový bod cíle
 00758 Trasový bod cíle
 01047 TB cíle
-02538 LAP – konec tréninku
+02538 Trénink ukončíte tlačítkem LAP
 02690 W
 00353 S
 02481 Zahřívání

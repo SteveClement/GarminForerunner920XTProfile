@@ -1,4 +1,4 @@
-006-D6593-09|v02.30
+006-D6593-09|v02.40
 00001 Svenska
 00252 12 timmar
 00253 24 timmar
@@ -166,6 +166,9 @@
 05374 Segment, fart
 02864 Segment, fart
 02905 Frt. seg.
+06057 Andas in
+06058 Andas ut
+06059 Håll andan
 02528 Rygg
 02586 Rygg
 00255 Diagram
@@ -187,6 +190,8 @@
 05075 Inga händelser
 00127 Nu
 03624 Välj fält %1
+05984 Repetitioner
+05985 Ställ in tidur
 00198 Kalibrera kompass
 00200 Kalibrera
 00199 Kal. slutfördes
@@ -592,6 +597,7 @@
 00377 Bogeys
 00378 Dubbel
 00374 Eagles
+00372 Fairways
 00371 GIR
 00373 PPH
 00376 Par
@@ -635,7 +641,7 @@
 02651 Använder %1, %2, %3
 02652 Använder %1, %2, %3, %4
 02653 Använder %1, %2, %3, %4, %5
-05488 Stress
+05488 Träningsbel.
 05486 Hög belastning
 05484 Låg belastning
 05485 Måttlig belastning
@@ -1075,6 +1081,8 @@
 05797 %1 överskrider maxgräns för kontrollpunkter. %2 slutpunkt visas inte.
 03586 Distans till destination %1
 03587 Tid till destination %1
+05943 Batteriet i utökad display är lågt.
+05944 Batteriet i Edge-display är lågt.
 01187 Foot pod batteri är lågt.
 05528 GroupTrack-användare hittades inte.
 02931 Skärmen visas när ett tillbehör för löpdynamik används.
@@ -1105,6 +1113,7 @@
 02934 Lågt batteri i RD Pod.
 01216 Lågt batteri i radarn.
 01201 Återhämtningspuls %1
+05990 Tryck för att starta och avsluta set.
 02932 Lågt batteri i växlingssensorn.
 01188 Låg batterinivå för Shimano Di2.
 01198 Långsammaste och snabbaste varningsvärde har justerats.
@@ -1117,6 +1126,7 @@
 02939 Låg batterinivå i baklyktan %1.
 01221 Låg batterispänning i Tempe.
 00036 Tiduret är klart
+05991 Set %1
 01207 Låg batterinivå i VIRB.
 01222 Hjulstorlek har\nberäknats.
 01118 Metronom
@@ -1212,6 +1222,7 @@
 02638 Ansluten
 03613 Banan har startat
 02614 Di2 ansluten
+05948 Display ansluten
 05949 Edge ansluten
 02609 FP-sensor ansluten
 02603 GPS är klar
@@ -1261,11 +1272,15 @@
 05832 Spring utomhus med puls två gånger för att se din status.
 05833 Spring utomhus med puls för att se din status.
 00237 Barometer
+06003 1 minut
+06002 Lägg till %1
 03015 Födelseår
 03014 %1 kalorier
+06001 Redigera repetitioner
 05819 Ange avstånd för löpband
 03017 Längd
 03012 %1 längder
+06004 %1 minuter
 03013 %1 repetitioner
 03007 Ställ in metronomtal
 02997 Ställ in ljusstyrka
@@ -1375,6 +1390,7 @@
 01359 Prestationsförhållande
 02682 em
 05970 Höjdmätare
+05982 Bakgrundsbelysn: %1%
 05969 Barometer
 05971 Kompass
 05827 Stör ej-läge: avstängt
@@ -1486,6 +1502,7 @@
 05535 Maraton
 05531 Föruts. tävl.-tid
 00359 M.-RHR %1
+00358 Senaste 7 d
 05164 Medelkadens
 00581 Medelkadens
 00870 Med. kad.
@@ -1518,6 +1535,8 @@
 05103 Upprepning
 00525 Upprepning
 00814 Upprepn.
+05986 Repetitioner
+05988 Repetition
 02478 Vila
 05344 Vilotimer
 00748 Vilotimer
@@ -1555,6 +1574,11 @@
 01855 Enheten återställs till fabriksinställningarna.
 01857 Kilometer
 01856 Engelska mil
+06006 Ändra
+06008 Senaste set:
+06009 %1 repetitioner
+06010 %1 repetitioner
+06007 Vila
 01858 Fot
 01859 Meter
 01860 Visa tempo
@@ -1660,6 +1684,7 @@
 03120 Tidsgräns för energisparläge
 03482 Ta bort segment?
 03121 Inspelningsläge
+06012 Vill du ha en stunds vila?
 05612 Starta %1?
 01829 Ta bort?
 01830 Repetitioner
@@ -1711,6 +1736,7 @@
 01572 Spara aktivitet utan puls?
 01574 Sök igen
 01573 Ja
+05947 Slå på enheten med utökad display för att ansluta.
 01533 Aktivera sensorn genom att gå omkring.
 01532 Bär pulsmätare för att ansluta.
 01538 Sätt på lampan för att ansluta.
@@ -1732,8 +1758,8 @@
 05772 OK
 05499 Det gick inte att uppdatera. Gå till sensormenyn och försök igen.
 01888 Klar
-01887 Det gick inte att uppdatera. \nFörsök igen med Garmin Connect.
-00062 Det gick inte att uppdatera. \nFörsök igen.
+01887 Det gick inte att uppdatera. Försök igen med Garmin Connect.
+00062 Det gick inte att uppdatera. Försök igen.
 01589 Godkänn
 01591 Tempo: %1
 01592 Hast: %1
@@ -1764,6 +1790,8 @@
 01394 Varv
 05818 Skidåk %1
 05817 Löpning
+06000 Set %1
+05999 Set
 01373 Aktiviteter
 01388 Fredag %1
 01378 Fredag
@@ -1796,6 +1824,7 @@
 01987 Varv
 00063 Karta
 05823 Löpning
+06013 Set
 03614 Rak linje
 00064 Tid i zon
 00046 TracBack
@@ -1898,6 +1927,7 @@
 03084 Välj skärm
 03085 Anpassade data
 01514 Välj typ
+05946 Utökad display
 01517 Foot pod
 01516 Extern pulsmätare
 01522 Lampor
@@ -2198,6 +2228,7 @@
 01116 %1 meter
 01115 %1 yard
 05501 Aktivitet %1
+06005 Redigera set %1
 02204 Automatisk kalibrering
 02203 Kalibreringsfaktor
 02205 Ställ in värde
@@ -2401,6 +2432,7 @@
 00012 Position
 05905 Lägg till widget
 03595 Kalibrera kraft
+06064 Redigera senaste set
 01745 Historik
 03592 Stänger av ljudet på metronomen
 05864 Navigeringsinställningar
@@ -2530,7 +2562,6 @@
 03208 Timer
 03201 VIRB
 03205 Wi-Fi
-05502 Lås knappar
 03184 Musikkontroller
 05556 Telefon
 03179 Meny för kontroller
@@ -2608,8 +2639,11 @@
 01500 Barometer
 01508 Kadens – %1
 01496 Kompass
+05945 Display – %1
+05496 Bluetooth
 01530 Välj för att lägga till
 01529 Sensorer hittades
+05497 Visa Bluetooth-sensorer
 01504 Fotenhet - %1
 01503 Puls – %1
 01512 Lampa – %1
@@ -2794,6 +2828,7 @@
 01795 Viloskärm
 01780 Löpdynamik 2
 01779 Löpdynamik
+06011 Set
 03090 Åk totalt
 01603 Tävla i en aktivitet
 03067 Segment
@@ -2876,7 +2911,7 @@
 00415 Kalorier
 00215 Klocka
 00223 Kompass
-03645 Antal trappor
+06065 Antal trappor
 00383 Intensiva minuter
 00395 Senaste tur
 00394 Senaste löptur
@@ -2891,6 +2926,7 @@
 03644 Prestation
 03648 Ta bort
 03647 Sortera
+06066 Stress
 00220 Temperatur
 00224 VIRB
 00219 Väder
@@ -2900,9 +2936,17 @@
 03215 Widgets
 02443 Automatisk överföring
 02442 Anslut till Wi-Fi
+06014 Mina nätverk
 02444 Wi-Fi
+06027 Lägg till nätverk
+06026 Mina nätverk
+06028 Nätverk hittades
+06030 Ta bort
+06031 Ta bort från mina nätverk?
+06029 Uppdatera lösenord
 05537 Telefon
 01606 Wi-Fi
+06039 Kondition
 02467 Cykling
 02471 Multisport
 02465 Mina träningspass
@@ -2910,6 +2954,8 @@
 02470 Annan
 02468 Simbassäng
 02466 Löpning
+06038 Styrketräning
+06036 Konditionsträning
 02460 Cykling
 02458 Ogiltig
 02464 Multisport
@@ -2918,8 +2964,10 @@
 02463 Annan
 02461 Simbassäng
 02459 Löpning
+06035 Styrka
 02455 Idag
 02457 Imorgon
+06037 Frisim
 02456 I går
 02476 1 steg
 02477 Avbryt träningspass
@@ -2927,6 +2975,9 @@
 02472 Kör träningspass
 02475 %1 steg
 02473 Visa
+06062 Repetitioner
+06061 Vila
+06060 Ställ in tidur
 04751 SO
 02953 Håll ned under aktiviteter för att växla till annan sport.
 02951 Aktiviteten har inte stöd för metronom.
@@ -3046,7 +3097,7 @@
 05844 Inga kända Wi-Fi-nätverk hittades.
 05634 Inte tillräckligt med minne på enheten.
 03560 Söker efter Wi-Fi-nätverk.
-03567 Konfigurera Wi-Fi med Garmin Express.
+03567 Konfigurera Wi-Fi med Garmin Connect Mobile eller Garmin Express.
 03562 Överföring pågår.
 05631 Överföringen har slutförts\n(1 fil kunde inte överföras)
 03563 Överföringen klar.
@@ -3075,6 +3126,15 @@
 03219 Gå till Inställningar > Widgets för att hantera widgets senare.
 00050 Applikation
 00049 START för att visa. (%1 måste stoppas.)
+06022 Kan inte återansluta till telefon.
+06019 Ansluter till {1:32}
+06021 Det gick inte att ansluta
+06020 Anslutningen lyckades
+06015 Wi-Fi-nätverk hittades
+06016 Inga Wi-Fi-nätverk hittades
+06017 Återansluter till telefonen
+06023 Söker efter Wi-Fi-nätverk
+06018 Försök igen
 00051 Ta bort akt.profil för en sport för att lägga till den här.
 00159 Inga åk hittades
 02214 Kalibrerar kraftsensor
@@ -3097,6 +3157,8 @@
 01526 Söker efter %1
 01525 Söker efter alla närliggande sensorer och tillbehör.
 01524 Söker efter sensorn
+05977 Max. antal sensorer uppnått. Ta bort en sensor och försök igen.
+05976 Max. antal sensorer uppnått.
 05682 Sensor har lagts till
 05866 Sensorfel
 03702 Anslut TruSwing-enheten till Mobile-appen.
@@ -3112,6 +3174,17 @@
 05766 Varv %1
 05754 Tryck för varv
 00421 Positionsformat
+06051 Kontrollera klockans passning
+06048 Hög belastning
+06050 Stå stilla
+06046 Låg belastning
+06049 Mäta
+06047 Medelhög stressnivå
+06056 Avslappningstimer
+06045 Vila
+06055 Senaste %1 tim
+06052 För aktiv för att mäta
+06053 Pulsmätning vid handleden är avaktiverad.
 01297 Växl. bak:
 00081 Totalt
 02959 Aerob. TE:
@@ -3154,12 +3227,15 @@
 05428 Tagtempo:
 01253 Tempo:
 01260 Kadens:
+05995 Rep:
+05994 Vilotid:
 01282 Med PCO h:
 01285 Med TKF h:
 01284 Med-KF h:
 05425 Dist p simt:
 05427 Simt.tmpo:
 01270 Swolf:
+05996 Set:
 01266 Steglängd:
 01267 Simt./l.:
 01252 Simtid:
@@ -3174,11 +3250,15 @@
 01240 Varv %1
 01249 Längder – %1
 05816 Skidåk %1
+05992 Set %1
 01275 TSS:
 01251 Tid:
 01281 Tid stå:
 01262 Vert. rör.:
 01263 Kvot vert.
+05997 Volym:
+05998 Vikt:
+05993 Trän.tid:
 05675 Sträcka:
 01302 Höjd:
 01303 Position:
@@ -3193,6 +3273,7 @@
 01552 Höger:
 01549 Prgrmv:
 01548 Serienr:
+05429 Teknik:
 01559 Laddar
 01561 Ansluten
 01558 Kritisk
@@ -3244,6 +3325,8 @@
 00498 Skala
 00349 Välj DIP
 00342 Välj punkt
+05987 Ställ in tidur
+05989 Ange tidur
 00156 Åk
 01083 Programversion
 00470 South African
@@ -3542,8 +3625,10 @@
 02765 %
 02745 lbs
 02771 rpm
+06044 Rep.
 05441 tpm
 05698 sek
+06043 Set
 02780 spm
 02718 °gn
 02774 UTC
@@ -3645,6 +3730,8 @@
 03301 Stegtid
 02540 Hittade inget tröskelvärde
 03298 Nästa steg:
+06040 tills puls > %1
+06041 tills puls < %1
 05354 Destinationswaypoint
 00758 Destinationswaypoint
 01047 Dest.wpt.
