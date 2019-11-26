@@ -2,7 +2,7 @@
 
 GPSBABEL=`which gpsbabel` && echo "Got gpsbabel continuing…" || exit 1
 
-cd NEWFILES
+cd ACTIVITY
 
 for FIT_File in `ls *.FIT`; do
   if [ -a ${FIT_File}.gpx ]; then

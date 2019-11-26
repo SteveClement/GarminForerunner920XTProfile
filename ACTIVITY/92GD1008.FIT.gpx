@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - http://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2019-11-26T06:55:17.677Z</time>
+  <bounds minlat="12.936813763" minlon="77.695145317" maxlat="12.937167563" maxlon="77.695232238"/>
+  <trk>
+    <trkseg>
+      <trkpt lat="12.936850392" lon="77.695145317">
+        <time>2019-02-16T07:40:44Z</time>
+        <speed>1.532000</speed>
+      </trkpt>
+      <trkpt lat="12.936936725" lon="77.695232238">
+        <time>2019-02-16T07:42:25Z</time>
+        <speed>0.158000</speed>
+      </trkpt>
+      <trkpt lat="12.937167563" lon="77.695156717">
+        <time>2019-02-16T07:44:29Z</time>
+        <speed>1.214000</speed>
+      </trkpt>
+      <trkpt lat="12.936813763" lon="77.695204493">
+        <time>2019-02-16T07:44:49Z</time>
+        <speed>0.777000</speed>
+      </trkpt>
+      <trkpt lat="12.936843267" lon="77.695205248">
+        <time>2019-02-16T07:44:50Z</time>
+        <speed>0.587000</speed>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
