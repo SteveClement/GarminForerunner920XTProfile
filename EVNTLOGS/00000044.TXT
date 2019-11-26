@@ -1,4 +1,4 @@
-File Name: 0:\GARMIN\EVNTLOGS/00000042.TXT
+File Name: 0:\GARMIN\EVNTLOGS/00000044.TXT
 
 
 >>>>> EVL_CURR_LOGS <<<<<
@@ -12,15 +12,10 @@ archived:   00
 max_arch:   00
 num_recs:   80
 rec_size:   40
-next_evnt:  15
-timeDay:    2019/11/26  6:34:23 
-cycle_cnt:  23
+next_evnt:  1A
+timeDay:    2019/11/26  6:51:25 
+cycle_cnt:  24
 
-15: D3 10 00 00  543:52:45.598 HWM main (Loc:2019/ 6/12 18:54:18 ) (UTC:2019/ 6/12  9:54:18 ) F:0
-16: D3 10 00 00  544:18:19.570 HWM main (Loc:2019/ 6/12 19:19:52 ) (UTC:2019/ 6/12 10:19:52 ) F:0
-17: D3 10 00 00  545:41:33.547 HWM main (Loc:2019/ 6/12 20:43:06 ) (UTC:2019/ 6/12 11:43:06 ) F:0
-18: D3 10 00 00  546:16:40.588 HWM main (Loc:2019/ 6/12 21:18:13 ) (UTC:2019/ 6/12 12:18:13 ) F:0
-19: D3 10 00 00  546:48:46.739 HWM main (Loc:2019/ 6/12 21:50:19 ) (UTC:2019/ 6/12 12:50:19 ) F:0
 1A: D3 10 00 00  590:30:48.497 HWM misc (Loc:2019/ 6/14 17:32:21 ) (UTC:2019/ 6/14  8:32:21 ) F:0
 1B: D3 10 00 00  614:45:32.072 HWM misc (Loc:2019/ 6/15 17:47:05 ) (UTC:2019/ 6/15  8:47:05 ) F:0
 1C: D3 10 00 00  637:30:31.556 HWM main (Loc:2019/ 6/16 16:32:04 ) (UTC:2019/ 6/16  7:32:04 ) F:0
@@ -146,6 +141,12 @@ cycle_cnt:  23
 12: D3 10 00 00  827:08:36.936 HWM main (Loc:2019/11/26 15:12:58 ) (UTC:2019/11/26  6:12:58 ) F:0
 13: D3 10 00 00  827:21:14.903 HWM main (Loc:2019/11/26 15:25:36 ) (UTC:2019/11/26  6:25:36 ) F:0
 14: D3 10 00 00  827:30:01.782 HWM main (Loc:2019/11/26 15:34:23 ) (UTC:2019/11/26  6:34:23 ) F:0
+15: D3 10 00 00  827:31:15.437 HWM main (Loc:2019/11/26 15:35:36 ) (UTC:2019/11/26  6:35:36 ) F:0
+16: D3 10 00 00  827:46:20.619 HWM main (Loc:2019/11/26 15:50:42 ) (UTC:2019/11/26  6:50:42 ) F:0
+17: FE 01 02 00  827:46:37.377 HWM main 2019/11/26  6:50:58 V:0
+
+18: FF 00 00 00    0:00:00.766 HWM main 2019/11/26  6:51:09 C:24
+19: D3 10 00 00    0:00:16.521 HWM main (Loc:2019/11/26 15:51:25 ) (UTC:2019/11/26  6:51:25 ) F:0
 
 verNum:     8/13/2014 (00)
 ownerID:    00000008
@@ -156,42 +157,42 @@ archived:   10
 max_arch:   10
 num_recs:   20
 rec_size:   20
-next_evnt:  04
-timeDay:    2019/11/26  6:35:23 
-cycle_cnt:  23
+next_evnt:  03
+timeDay:    2019/11/26  6:52:27 
+cycle_cnt:  24
 
-04: D9 48 00 00  827:30:55.763 CDP main 506F696E7443616368652F3152547261 PointCache/1RTra
-05: D9 48 00 00  827:30:55.775 CDP main 506F696E7443616368652F3252547265 PointCache/2RTre
-06: D9 48 00 00  827:30:55.787 CDP main 506F696E7443616368652F3352496E64 PointCache/3RInd
-07: D9 48 00 00  827:30:55.801 CDP main 506F696E7443616368652F344342696B PointCache/4CBik
-08: D9 48 00 00  827:30:55.813 CDP main 506F696E7443616368652F354342696B PointCache/5CBik
-09: D9 48 00 00  827:30:55.828 CDP main 506F696E7443616368652F36434D5442 PointCache/6CMTB
-0A: D9 48 00 00  827:30:55.841 CDP main 506F696E7443616368652F37534F7065 PointCache/7SOpe
-0B: D9 48 00 00  827:30:55.853 CDP main 506F696E7443616368652F3853506F6F PointCache/8SPoo
-0C: D9 48 00 00  827:30:55.865 CDP main 506F696E7443616368652F3948696B65 PointCache/9Hike
-0D: D9 48 00 00  827:30:55.878 CDP main 506F696E7443616368652F3130536B69 PointCache/10Ski
-0E: D9 48 00 00  827:30:55.889 CDP main 506F696E7443616368652F3131536E6F PointCache/11Sno
-0F: D9 48 00 00  827:30:55.901 CDP main 506F696E7443616368652F313258435F PointCache/12XC_
-10: D9 48 00 00  827:30:55.913 CDP main 506F696E7443616368652F3133436C69 PointCache/13Cli
-11: D9 48 00 00  827:30:55.927 CDP main 506F696E7443616368652F3134575761 PointCache/14WWa
-12: D9 48 00 00  827:30:55.939 CDP main 506F696E7443616368652F3135535550 PointCache/15SUP
-13: D9 48 00 00  827:30:55.951 CDP main 506F696E7443616368652F3136526F77 PointCache/16Row
-14: D9 48 00 00  827:30:55.963 CDP main 506F696E7443616368652F3137526F77 PointCache/17Row
-15: D9 48 00 00  827:30:55.975 CDP main 506F696E7443616368652F3138547253 PointCache/18TrS
-16: D9 48 00 00  827:30:55.988 CDP main 506F696E7443616368652F3139547243 PointCache/19TrC
-17: D9 48 00 00  827:30:56.001 CDP main 506F696E7443616368652F32304A756D PointCache/20Jum
-18: D9 48 00 00  827:30:56.014 CDP main 506F696E7443616368652F3231546163 PointCache/21Tac
-19: D9 48 00 00  827:30:56.025 CDP main 506F696E7443616368652F3232426F61 PointCache/22Boa
-1A: D9 48 00 00  827:30:56.042 CDP main 506F696E7443616368652F3233474E61 PointCache/23GNa
-1B: D9 48 00 00  827:30:56.055 CDP main 506F696E7443616368652F3234475472 PointCache/24GTr
-1C: D9 48 00 00  827:30:56.067 CDP main 506F696E7443616368652F3235474F74 PointCache/25GOt
-1D: D9 48 00 00  827:30:56.080 CDP main 506F696E7443616368652F3236476F6C PointCache/26Gol
-1E: D9 48 00 00  827:30:56.092 CDP main 506F696E7443616368652F32374B6179 PointCache/27Kay
-1F: D9 48 00 00  827:30:56.105 CDP main 506F696E7443616368652F3336466C6F PointCache/36Flo
-00: D9 48 00 00  827:30:56.117 CDP main 506F696E7443616368652F3337464553 PointCache/37FES
-01: D9 48 00 00  827:30:56.130 CDP main 506F696E7443616368652F3338464545 PointCache/38FEE
-02: D9 48 00 00  827:30:56.143 CDP main 506F696E7443616368652F3339547259 PointCache/39TrY
-03: D9 48 00 00  827:31:01.971 CDP main 506F696E7443616368652F4465766963 PointCache/Devic
+03: D9 48 00 00    0:01:11.705 CDP main 506F696E7443616368652F3152547261 PointCache/1RTra
+04: D9 48 00 00    0:01:11.716 CDP main 506F696E7443616368652F3252547265 PointCache/2RTre
+05: D9 48 00 00    0:01:11.725 CDP main 506F696E7443616368652F3352496E64 PointCache/3RInd
+06: D9 48 00 00    0:01:11.735 CDP main 506F696E7443616368652F344342696B PointCache/4CBik
+07: D9 48 00 00    0:01:11.746 CDP main 506F696E7443616368652F354342696B PointCache/5CBik
+08: D9 48 00 00    0:01:11.758 CDP main 506F696E7443616368652F36434D5442 PointCache/6CMTB
+09: D9 48 00 00    0:01:11.768 CDP main 506F696E7443616368652F37534F7065 PointCache/7SOpe
+0A: D9 48 00 00    0:01:11.779 CDP main 506F696E7443616368652F3853506F6F PointCache/8SPoo
+0B: D9 48 00 00    0:01:11.789 CDP main 506F696E7443616368652F3948696B65 PointCache/9Hike
+0C: D9 48 00 00    0:01:11.801 CDP main 506F696E7443616368652F3130536B69 PointCache/10Ski
+0D: D9 48 00 00    0:01:11.811 CDP main 506F696E7443616368652F3131536E6F PointCache/11Sno
+0E: D9 48 00 00    0:01:11.821 CDP main 506F696E7443616368652F313258435F PointCache/12XC_
+0F: D9 48 00 00    0:01:11.831 CDP main 506F696E7443616368652F3133436C69 PointCache/13Cli
+10: D9 48 00 00    0:01:11.841 CDP main 506F696E7443616368652F3134575761 PointCache/14WWa
+11: D9 48 00 00    0:01:11.852 CDP main 506F696E7443616368652F3135535550 PointCache/15SUP
+12: D9 48 00 00    0:01:11.861 CDP main 506F696E7443616368652F3136526F77 PointCache/16Row
+13: D9 48 00 00    0:01:11.871 CDP main 506F696E7443616368652F3137526F77 PointCache/17Row
+14: D9 48 00 00    0:01:11.881 CDP main 506F696E7443616368652F3138547253 PointCache/18TrS
+15: D9 48 00 00    0:01:11.891 CDP main 506F696E7443616368652F3139547243 PointCache/19TrC
+16: D9 48 00 00    0:01:11.901 CDP main 506F696E7443616368652F32304A756D PointCache/20Jum
+17: D9 48 00 00    0:01:11.913 CDP main 506F696E7443616368652F3231546163 PointCache/21Tac
+18: D9 48 00 00    0:01:11.923 CDP main 506F696E7443616368652F3232426F61 PointCache/22Boa
+19: D9 48 00 00    0:01:11.933 CDP main 506F696E7443616368652F3233474E61 PointCache/23GNa
+1A: D9 48 00 00    0:01:12.475 CDP main 506F696E7443616368652F3234475472 PointCache/24GTr
+1B: D9 48 00 00    0:01:12.489 CDP main 506F696E7443616368652F3235474F74 PointCache/25GOt
+1C: D9 48 00 00    0:01:12.890 CDP main 506F696E7443616368652F3236476F6C PointCache/26Gol
+1D: D9 48 00 00    0:01:12.901 CDP main 506F696E7443616368652F32374B6179 PointCache/27Kay
+1E: D9 48 00 00    0:01:12.910 CDP main 506F696E7443616368652F3336466C6F PointCache/36Flo
+1F: D9 48 00 00    0:01:12.920 CDP main 506F696E7443616368652F3337464553 PointCache/37FES
+00: D9 48 00 00    0:01:12.930 CDP main 506F696E7443616368652F3338464545 PointCache/38FEE
+01: D9 48 00 00    0:01:12.941 CDP main 506F696E7443616368652F3339547259 PointCache/39TrY
+02: D9 48 00 00    0:01:18.520 CDP main 506F696E7443616368652F4465766963 PointCache/Devic
 
 verNum:     8/13/2014 (00)
 ownerID:    00000009
@@ -203,8 +204,8 @@ max_arch:   00
 num_recs:   03
 rec_size:   18
 next_evnt:  03
-timeDay:    2019/ 9/ 3  2:01:27 
-cycle_cnt:  23
+timeDay:    2019/11/26  6:51:10 
+cycle_cnt:  24
 
 00* 10 00 13 00  115:46:00.013 HWM misc 3DA0F10520C8F305 =... ...
 01* 11 00 05 00  103:55:48.235 HWM misc 05A9F64410000000 ...D....
@@ -220,8 +221,8 @@ max_arch:   00
 num_recs:   00
 rec_size:   18
 next_evnt:  00
-timeDay:    2019/ 9/ 3  2:01:27 
-cycle_cnt:  23
+timeDay:    2019/11/26  6:51:10 
+cycle_cnt:  24
 
 
 verNum:     8/13/2014 (00)
@@ -234,8 +235,8 @@ max_arch:   00
 num_recs:   96
 rec_size:   20
 next_evnt:  3E
-timeDay:    2019/10/23  7:20:28 
-cycle_cnt:  23
+timeDay:    2019/11/26  6:51:10 
+cycle_cnt:  24
 
 3E: D0 11 17 00  271:38:19.861 HWM misc  Fitness Wi-Fi Status: 0x2
 3F: D0 11 17 00  271:38:20.744 HWM misc  Fitness Wi-Fi Status: 0x2
@@ -397,210 +398,210 @@ archived:   00
 max_arch:   00
 num_recs:   C8
 rec_size:   20
-next_evnt:  49
-timeDay:    2019/11/26  6:34:28 
-cycle_cnt:  23
+next_evnt:  9D
+timeDay:    2019/11/26  6:52:10 
+cycle_cnt:  24
 
-49: D6 13 17 00  826:49:14.063 HWM misc  BCP Notification Sent (info type): 0x2
-4A: D6 12 17 00  826:49:14.064 HWM misc  BTM Notification Received (info type): 0x4
-4B* 16 17 17 00  826:49:14.065 HWM misc 0059D5010021CD010020D80520D88400 .Y...!... .. ...
-4C: DC 10 17 00  826:49:14.325 HWM main  Process BLE Event (event type): 0x2
-4D: DA 18 17 00  827:08:33.559 HWM main 00000000003FDE511001000000050000 .....?.Q........
-4E: D0 00 17 00  827:08:33.784 HWM misc  Local: 2019/11/26 15:12:55 , UTC: 2019/11/26  6:12:55 
-4F: D4 10 17 00  827:08:33.790 HWM misc  BTM Connection Status: 0xA
-50: DC 12 17 00  827:08:33.834 HWM main  Process BLE Event (event cmd): 0x6
-51: DC 12 17 00  827:08:33.835 HWM main  Process BLE Event (event cmd): 0x9
-52: DC 10 17 00  827:08:34.070 HWM main  Process BLE Event (event type): 0x1
-53: D2 11 17 00  827:08:34.071 HWM main 010000000065B5010018BF0520F51601 .....e...... ...
-54: D6 12 17 00  827:08:34.073 HWM main  BTM Notification Received (info type): 0x15
-55: D6 13 17 00  827:08:34.073 HWM main  BCP Notification Sent (info type): 0x4
-56: DC 12 17 00  827:08:34.075 HWM main  Process BLE Event (event cmd): 0xA
-57: DC 12 17 00  827:08:34.076 HWM main  Process BLE Event (event cmd): 0xF
-58: DC 12 17 00  827:08:34.078 HWM main  Process BLE Event (event cmd): 0x2E
-59: DC 10 17 00  827:08:34.594 HWM main  Process BLE Event (event type): 0x3
-5A: D6 12 17 00  827:08:34.594 HWM main  BTM Notification Received (info type): 0x20
-5B: DC 12 17 00  827:08:34.596 HWM main  Process BLE Event (event cmd): 0x38
-5C: DC 10 17 00  827:08:34.742 HWM main  Process BLE Event (event type): 0x12
-5D: DC 10 17 00  827:08:34.869 HWM main  Process BLE Event (event type): 0x3
-5E: D6 12 17 00  827:08:34.870 HWM main  BTM Notification Received (info type): 0x20
-5F: DC 12 17 00  827:08:34.872 HWM main  Process BLE Event (event cmd): 0xF
-60: D0 00 17 00  827:08:35.793 HWM misc  Local: 2019/11/26 15:12:57 , UTC: 2019/11/26  6:12:57 
-61: D4 10 17 00  827:08:35.793 HWM misc  BTM Connection Status: 0x9
-62: DC 10 17 00  827:08:36.738 HWM main  Process BLE Event (event type): 0x27
-63: DC 10 17 00  827:08:36.739 HWM main  Process BLE Event (event type): 0x1D
-64: DC 10 17 00  827:08:36.741 HWM main  Process BLE Event (event type): 0x3
-65: D6 12 17 00  827:08:36.741 HWM main  BTM Notification Received (info type): 0x20
-66: DC 10 17 00  827:08:36.793 HWM main  Process BLE Event (event type): 0x27
-67: D5 10 17 00  827:08:36.794 HWM misc 010005000104020202000C0C00000100 ................
-68: DC 10 17 00  827:08:36.795 HWM main  Process BLE Event (event type): 0x1D
-69: D6 12 17 00  827:08:36.795 HWM main  BTM Notification Received (info type): 0x3
-6A: DC 10 17 00  827:08:36.933 HWM main  Process BLE Event (event type): 0x27
-6B: DC 10 17 00  827:08:36.934 HWM main  Process BLE Event (event type): 0x1D
-6C: D6 12 17 00  827:08:36.935 HWM main  BTM Notification Received (info type): 0x3
-6D: D6 13 17 00  827:08:36.940 HWM main  BCP Notification Sent (info type): 0x0
-6E: DC 12 17 00  827:08:37.144 HWM main  Process BLE Event (event cmd): 0x2E
-6F: DC 10 17 00  827:08:37.283 HWM main  Process BLE Event (event type): 0x27
-70: DC 10 17 00  827:08:37.284 HWM main  Process BLE Event (event type): 0x1D
-71: DC 12 17 00  827:08:37.355 HWM main  Process BLE Event (event cmd): 0x2F
-72: D7 00 17 00  827:08:37.795 HWM misc  Protocol Connection Status: 0x2
-73: D6 12 17 00  827:08:37.923 HWM main  BTM Notification Received (info type): 0x17
-74: DC 12 17 00  827:08:37.928 HWM main  Process BLE Event (event cmd): 0x42
-75: DC 12 17 00  827:08:37.936 HWM main  Process BLE Event (event cmd): 0x2F
-76: D6 12 17 00  827:08:38.126 HWM main  BTM Notification Received (info type): 0x12
-77: D6 13 17 00  827:08:38.127 HWM main  BCP Notification Sent (info type): 0x3
-78: D7 00 17 00  827:08:38.968 HWM misc  Protocol Connection Status: 0x1
-79: D7 00 17 00  827:08:39.972 HWM misc  Protocol Connection Status: 0x4
-7A: D7 00 17 00  827:08:40.289 HWM misc  Protocol Connection Status: 0xB
-7B: DA 16 17 00  827:08:40.305 HWM misc  GNCS Subscription Time Out Operation: 0x0
-7C: DA 10 17 00  827:08:40.307 HWM misc  GNCS Subscription Intent Sent: 0x0
-7D: DA 16 17 00  827:08:40.312 HWM misc  GNCS Subscription Time Out Operation: 0x1
-7E: DA 15 17 00  827:08:40.383 HWM main  GNCS Subscription Acknowledgment Message Status: 0x0
-7F: DA 16 17 00  827:08:41.316 HWM misc  GNCS Subscription Time Out Operation: 0x1
-80: D2 11 17 00  827:08:55.324 HWM misc 003C88002059AF0100FFFF00005ED805 .<.. Y.......^..
-81: DC 12 17 00  827:08:55.325 HWM main  Process BLE Event (event cmd): 0xF
-82: DC 10 17 00  827:08:55.588 HWM main  Process BLE Event (event type): 0x3
-83: D6 12 17 00  827:08:55.588 HWM main  BTM Notification Received (info type): 0x20
-84: D8 11 17 00  827:13:40.327 HWM misc 00000000000000000000000000000000 ................
-85: DC 10 17 00  827:13:40.627 HWM main  Process BLE Event (event type): 0x1D
-86: DC 12 17 00  827:13:40.636 HWM main  Process BLE Event (event cmd): 0x2F
-87: D2 11 17 00  827:13:49.359 HWM misc 013C880020FBAE0100FFFF00005ED805 .<.. ........^..
-88: DC 12 17 00  827:13:49.360 HWM main  Process BLE Event (event cmd): 0xF
-89: DC 12 17 00  827:13:49.461 HWM main  Process BLE Event (event cmd): 0x2F
-8A: DC 10 17 00  827:13:50.923 HWM main  Process BLE Event (event type): 0x3
-8B: D6 12 17 00  827:13:50.923 HWM main  BTM Notification Received (info type): 0x20
-8C: DC 10 17 00  827:13:51.233 HWM main  Process BLE Event (event type): 0x1D
-8D: D2 11 17 00  827:14:10.361 HWM misc 003C88002059AF0100FFFF00005ED805 .<.. Y.......^..
-8E: DC 12 17 00  827:14:10.366 HWM main  Process BLE Event (event cmd): 0xF
-8F: DC 10 17 00  827:14:10.623 HWM main  Process BLE Event (event type): 0x3
-90: D6 12 17 00  827:14:10.623 HWM main  BTM Notification Received (info type): 0x20
-91: DC 10 17 00  827:18:55.348 HWM main  Process BLE Event (event type): 0x1B
-92: DC 12 17 00  827:18:55.350 HWM main  Process BLE Event (event cmd): 0x41
-93: D6 12 17 00  827:20:55.032 HWM misc  BTM Notification Received (info type): 0x4
-94: DC 12 17 00  827:20:55.033 HWM main  Process BLE Event (event cmd): 0x10
-95* 16 17 17 00  827:20:55.035 HWM misc 018C800020492346103C7F002070CE05 .... I#F.<.. p..
-96: D6 13 17 00  827:20:55.036 HWM misc  BCP Notification Sent (info type): 0x1
-97: D6 13 17 00  827:20:55.037 HWM misc  BCP Notification Sent (info type): 0x2
-98: D6 12 17 00  827:20:55.037 HWM misc  BTM Notification Received (info type): 0x4
-99* 16 17 17 00  827:20:55.038 HWM misc 0059D5010021CD010020D80520D88400 .Y...!... .. ...
-9A: DC 10 17 00  827:20:55.259 HWM main  Process BLE Event (event type): 0x2
-9B: DA 18 17 00  827:21:11.586 HWM main 00000000003FDE511001000000050000 .....?.Q........
-9C: D0 00 17 00  827:21:11.642 HWM misc  Local: 2019/11/26 15:25:33 , UTC: 2019/11/26  6:25:33 
-9D: D4 10 17 00  827:21:11.649 HWM misc  BTM Connection Status: 0xA
-9E: DC 10 17 00  827:21:11.848 HWM main  Process BLE Event (event type): 0x1
-9F: D2 11 17 00  827:21:11.849 HWM main 010000000065B5010018BF0520F51601 .....e...... ...
-A0: D6 12 17 00  827:21:11.851 HWM main  BTM Notification Received (info type): 0x15
-A1: D6 13 17 00  827:21:11.851 HWM main  BCP Notification Sent (info type): 0x4
-A2: DC 12 17 00  827:21:11.856 HWM main  Process BLE Event (event cmd): 0xA
-A3: DC 12 17 00  827:21:11.858 HWM main  Process BLE Event (event cmd): 0xF
-A4: DC 12 17 00  827:21:11.862 HWM main  Process BLE Event (event cmd): 0x2E
-A5: DC 10 17 00  827:21:12.453 HWM main  Process BLE Event (event type): 0x3
-A6: D6 12 17 00  827:21:12.454 HWM main  BTM Notification Received (info type): 0x20
-A7: DC 12 17 00  827:21:12.456 HWM main  Process BLE Event (event cmd): 0x38
-A8: DC 10 17 00  827:21:12.733 HWM main  Process BLE Event (event type): 0x12
-A9: DC 10 17 00  827:21:12.863 HWM main  Process BLE Event (event type): 0x3
-AA: D6 12 17 00  827:21:12.864 HWM main  BTM Notification Received (info type): 0x20
-AB: DC 12 17 00  827:21:12.871 HWM main  Process BLE Event (event cmd): 0xF
-AC: D0 00 17 00  827:21:13.650 HWM misc  Local: 2019/11/26 15:25:35 , UTC: 2019/11/26  6:25:35 
-AD: D4 10 17 00  827:21:13.650 HWM misc  BTM Connection Status: 0x9
-AE: DC 10 17 00  827:21:14.583 HWM main  Process BLE Event (event type): 0x27
-AF: DC 10 17 00  827:21:14.703 HWM main  Process BLE Event (event type): 0x1D
-B0: DC 10 17 00  827:21:14.704 HWM main  Process BLE Event (event type): 0x3
-B1: D6 12 17 00  827:21:14.705 HWM main  BTM Notification Received (info type): 0x20
-B2: DC 10 17 00  827:21:14.706 HWM main  Process BLE Event (event type): 0x27
-B3: D5 10 17 00  827:21:14.707 HWM misc 010005000104020202000C0C00000100 ................
-B4: DC 10 17 00  827:21:14.708 HWM main  Process BLE Event (event type): 0x1D
-B5: D6 12 17 00  827:21:14.709 HWM main  BTM Notification Received (info type): 0x3
-B6: DC 10 17 00  827:21:14.900 HWM main  Process BLE Event (event type): 0x27
-B7: DC 10 17 00  827:21:14.901 HWM main  Process BLE Event (event type): 0x1D
-B8: D6 12 17 00  827:21:14.902 HWM main  BTM Notification Received (info type): 0x3
-B9: D6 13 17 00  827:21:14.908 HWM main  BCP Notification Sent (info type): 0x0
-BA: DC 12 17 00  827:21:14.977 HWM main  Process BLE Event (event cmd): 0x2E
-BB: DC 10 17 00  827:21:15.216 HWM main  Process BLE Event (event type): 0x27
-BC: DC 10 17 00  827:21:15.217 HWM main  Process BLE Event (event type): 0x1D
-BD: DC 12 17 00  827:21:15.287 HWM main  Process BLE Event (event cmd): 0x2F
-BE: D7 00 17 00  827:21:15.710 HWM misc  Protocol Connection Status: 0x2
-BF: D6 12 17 00  827:21:15.785 HWM main  BTM Notification Received (info type): 0x17
-C0: DC 12 17 00  827:21:15.797 HWM main  Process BLE Event (event cmd): 0x42
-C1: DC 12 17 00  827:21:15.806 HWM main  Process BLE Event (event cmd): 0x2F
-C2: D6 12 17 00  827:21:16.127 HWM main  BTM Notification Received (info type): 0x12
-C3: D6 13 17 00  827:21:16.128 HWM main  BCP Notification Sent (info type): 0x3
-C4: D7 00 17 00  827:21:16.712 HWM misc  Protocol Connection Status: 0x1
-C5: D7 00 17 00  827:21:17.718 HWM misc  Protocol Connection Status: 0x4
-C6: D7 00 17 00  827:21:18.204 HWM misc  Protocol Connection Status: 0xB
-C7: DA 16 17 00  827:21:18.211 HWM misc  GNCS Subscription Time Out Operation: 0x0
-00: DA 10 17 00  827:21:18.213 HWM misc  GNCS Subscription Intent Sent: 0x0
-01: DA 15 17 00  827:21:18.445 HWM main  GNCS Subscription Acknowledgment Message Status: 0x0
-02: DA 16 17 00  827:21:19.217 HWM misc  GNCS Subscription Time Out Operation: 0x1
-03: D2 11 17 00  827:21:33.224 HWM misc 003C88002059AF0100FFFF00005ED805 .<.. Y.......^..
-04: DC 12 17 00  827:21:33.225 HWM main  Process BLE Event (event cmd): 0xF
-05: DC 10 17 00  827:21:33.484 HWM main  Process BLE Event (event type): 0x3
-06: D6 12 17 00  827:21:33.484 HWM main  BTM Notification Received (info type): 0x20
-07: D6 12 17 00  827:25:05.224 HWM misc  BTM Notification Received (info type): 0x4
-08* 16 17 17 00  827:25:05.229 HWM misc 018C800020492346103C7F002070CE05 .... I#F.<.. p..
-09: D6 13 17 00  827:25:05.231 HWM misc  BCP Notification Sent (info type): 0x1
-0A: D6 13 17 00  827:25:05.232 HWM misc  BCP Notification Sent (info type): 0x2
-0B: D6 12 17 00  827:25:05.232 HWM misc  BTM Notification Received (info type): 0x4
-0C* 16 17 17 00  827:25:05.233 HWM misc 0059D5010021CD010020D80520D88400 .Y...!... .. ...
-0D: DC 12 17 00  827:25:05.235 HWM main  Process BLE Event (event cmd): 0x10
-0E: DC 10 17 00  827:25:05.545 HWM main  Process BLE Event (event type): 0x2
-0F: DA 18 17 00  827:29:56.550 HWM main 00000000003FDE511000000000050000 .....?.Q........
-10: D0 00 17 00  827:29:56.624 HWM misc  Local: 2019/11/26 15:34:18 , UTC: 2019/11/26  6:34:18 
-11: D4 10 17 00  827:29:56.628 HWM misc  BTM Connection Status: 0xA
-12: DC 12 17 00  827:29:56.672 HWM main  Process BLE Event (event cmd): 0x6
-13: DC 12 17 00  827:29:56.673 HWM main  Process BLE Event (event cmd): 0x9
-14: DC 10 17 00  827:29:57.927 HWM main  Process BLE Event (event type): 0x1
-15: D2 11 17 00  827:29:57.934 HWM main 010000000065B5010018BF0520F51601 .....e...... ...
-16: D6 12 17 00  827:29:57.936 HWM main  BTM Notification Received (info type): 0x15
-17: D6 13 17 00  827:29:57.936 HWM main  BCP Notification Sent (info type): 0x4
-18: DC 12 17 00  827:29:57.938 HWM main  Process BLE Event (event cmd): 0xA
-19: DC 12 17 00  827:29:57.939 HWM main  Process BLE Event (event cmd): 0xF
-1A: DC 12 17 00  827:29:57.940 HWM main  Process BLE Event (event cmd): 0x2E
-1B: DC 10 17 00  827:29:58.457 HWM main  Process BLE Event (event type): 0x3
-1C: D6 12 17 00  827:29:58.457 HWM main  BTM Notification Received (info type): 0x20
-1D: DC 12 17 00  827:29:58.459 HWM main  Process BLE Event (event cmd): 0x38
-1E: DC 10 17 00  827:29:58.597 HWM main  Process BLE Event (event type): 0x12
-1F: DC 10 17 00  827:29:58.728 HWM main  Process BLE Event (event type): 0x3
-20: D6 12 17 00  827:29:58.729 HWM main  BTM Notification Received (info type): 0x20
-21: DC 12 17 00  827:29:58.730 HWM main  Process BLE Event (event cmd): 0xF
-22: D5 10 17 00  827:29:59.631 HWM misc 010005000104020202000C0C00000100 ................
-23: D0 00 17 00  827:29:59.631 HWM misc  Local: 2019/11/26 15:34:21 , UTC: 2019/11/26  6:34:21 
-24: D4 10 17 00  827:29:59.632 HWM misc  BTM Connection Status: 0x9
-25: DC 10 17 00  827:30:01.427 HWM main  Process BLE Event (event type): 0x27
-26: DC 10 17 00  827:30:01.441 HWM main  Process BLE Event (event type): 0x1D
-27: DC 10 17 00  827:30:01.449 HWM main  Process BLE Event (event type): 0x3
-28: D6 12 17 00  827:30:01.449 HWM main  BTM Notification Received (info type): 0x20
-29: DC 10 17 00  827:30:01.482 HWM main  Process BLE Event (event type): 0x27
-2A: DC 10 17 00  827:30:01.483 HWM main  Process BLE Event (event type): 0x1D
-2B: D6 12 17 00  827:30:01.484 HWM main  BTM Notification Received (info type): 0x3
-2C: DC 10 17 00  827:30:01.771 HWM main  Process BLE Event (event type): 0x27
-2D: DC 10 17 00  827:30:01.772 HWM main  Process BLE Event (event type): 0x1D
-2E: D6 12 17 00  827:30:01.781 HWM main  BTM Notification Received (info type): 0x3
-2F: D6 13 17 00  827:30:01.786 HWM main  BCP Notification Sent (info type): 0x0
-30: DC 12 17 00  827:30:01.834 HWM main  Process BLE Event (event cmd): 0x2E
-31: DC 10 17 00  827:30:02.112 HWM main  Process BLE Event (event type): 0x27
-32: DC 10 17 00  827:30:02.114 HWM main  Process BLE Event (event type): 0x1D
-33: DC 12 17 00  827:30:02.183 HWM main  Process BLE Event (event cmd): 0x2F
-34: D7 00 17 00  827:30:02.633 HWM misc  Protocol Connection Status: 0x2
-35: D6 12 17 00  827:30:02.838 HWM main  BTM Notification Received (info type): 0x17
-36: DC 12 17 00  827:30:02.849 HWM main  Process BLE Event (event cmd): 0x42
-37: DC 12 17 00  827:30:02.855 HWM main  Process BLE Event (event cmd): 0x2F
-38: D6 12 17 00  827:30:03.096 HWM main  BTM Notification Received (info type): 0x12
-39: D6 13 17 00  827:30:03.097 HWM main  BCP Notification Sent (info type): 0x3
-3A: D7 00 17 00  827:30:03.672 HWM misc  Protocol Connection Status: 0x1
-3B: D7 00 17 00  827:30:05.179 HWM misc  Protocol Connection Status: 0x4
-3C: D7 00 17 00  827:30:05.761 HWM misc  Protocol Connection Status: 0xB
-3D: DA 16 17 00  827:30:05.767 HWM misc  GNCS Subscription Time Out Operation: 0x0
-3E: DA 10 17 00  827:30:05.767 HWM misc  GNCS Subscription Intent Sent: 0x0
-3F: DA 15 17 00  827:30:05.834 HWM main  GNCS Subscription Acknowledgment Message Status: 0x0
-40: D6 12 17 00  827:30:07.461 HWM misc  BTM Notification Received (info type): 0x4
-41* 16 17 17 00  827:30:07.465 HWM misc 018C800020492346103C7F002070CE05 .... I#F.<.. p..
-42: D6 13 17 00  827:30:07.467 HWM misc  BCP Notification Sent (info type): 0x1
-43: DA 16 17 00  827:30:07.468 HWM misc  GNCS Subscription Time Out Operation: 0x2
-44: D6 13 17 00  827:30:07.470 HWM misc  BCP Notification Sent (info type): 0x2
-45: D6 12 17 00  827:30:07.473 HWM misc  BTM Notification Received (info type): 0x4
-46* 16 17 17 00  827:30:07.477 HWM misc 0059D5010021CD010020D80520D88400 .Y...!... .. ...
-47: DC 12 17 00  827:30:07.481 HWM main  Process BLE Event (event cmd): 0x10
-48: DC 10 17 00  827:30:07.483 HWM main  Process BLE Event (event type): 0x2
+9D: DC 10 17 00  827:46:20.294 HWM main  Process BLE Event (event type): 0x3
+9E: D6 12 17 00  827:46:20.294 HWM main  BTM Notification Received (info type): 0x20
+9F: DC 10 17 00  827:46:20.336 HWM main  Process BLE Event (event type): 0x27
+A0: DC 10 17 00  827:46:20.337 HWM main  Process BLE Event (event type): 0x1D
+A1: D6 12 17 00  827:46:20.338 HWM main  BTM Notification Received (info type): 0x3
+A2: DC 10 17 00  827:46:20.616 HWM main  Process BLE Event (event type): 0x27
+A3: DC 10 17 00  827:46:20.617 HWM main  Process BLE Event (event type): 0x1D
+A4: D6 12 17 00  827:46:20.618 HWM main  BTM Notification Received (info type): 0x3
+A5: D6 13 17 00  827:46:20.625 HWM main  BCP Notification Sent (info type): 0x0
+A6: DC 12 17 00  827:46:20.692 HWM main  Process BLE Event (event cmd): 0x2E
+A7: D7 00 17 00  827:46:20.770 HWM misc  Protocol Connection Status: 0x2
+A8: DC 12 17 00  827:46:20.795 HWM main  Process BLE Event (event cmd): 0x2F
+A9: DC 10 17 00  827:46:20.932 HWM main  Process BLE Event (event type): 0x27
+AA: DC 10 17 00  827:46:20.934 HWM main  Process BLE Event (event type): 0x1D
+AB: D6 12 17 00  827:46:21.005 HWM main  BTM Notification Received (info type): 0x17
+AC: DC 12 17 00  827:46:21.008 HWM main  Process BLE Event (event cmd): 0x42
+AD: DC 12 17 00  827:46:21.009 HWM main  Process BLE Event (event cmd): 0x2F
+AE: DC 12 17 00  827:46:21.011 HWM main  Process BLE Event (event cmd): 0x42
+AF: DC 12 17 00  827:46:21.014 HWM main  Process BLE Event (event cmd): 0x2F
+B0: D6 12 17 00  827:46:21.355 HWM main  BTM Notification Received (info type): 0x12
+B1: D6 13 17 00  827:46:21.356 HWM main  BCP Notification Sent (info type): 0x3
+B2: D7 00 17 00  827:46:21.797 HWM misc  Protocol Connection Status: 0x1
+B3: D7 00 17 00  827:46:22.816 HWM misc  Protocol Connection Status: 0x4
+B4: D7 00 17 00  827:46:23.218 HWM misc  Protocol Connection Status: 0xB
+B5: DA 16 17 00  827:46:23.225 HWM misc  GNCS Subscription Time Out Operation: 0x0
+B6: DA 10 17 00  827:46:23.228 HWM misc  GNCS Subscription Intent Sent: 0x0
+B7: DA 16 17 00  827:46:23.234 HWM misc  GNCS Subscription Time Out Operation: 0x1
+B8: DA 15 17 00  827:46:23.287 HWM main  GNCS Subscription Acknowledgment Message Status: 0x0
+B9: DA 16 17 00  827:46:24.237 HWM misc  GNCS Subscription Time Out Operation: 0x1
+BA: D6 12 18 00    0:00:09.626 HWM main  BTM Notification Received (info type): 0xF
+BB: D6 13 18 00    0:00:09.627 HWM main  BCP Notification Sent (info type): 0x4
+BC: D6 12 18 00    0:00:09.627 HWM main  BTM Notification Received (info type): 0xF
+BD: D6 13 18 00    0:00:09.628 HWM main  BCP Notification Sent (info type): 0x4
+BE: D1 10 18 00    0:00:09.629 HWM misc  BTM Init Status: 0x2
+BF: D1 10 18 00    0:00:09.890 HWM misc  BTM Init Status: 0x3
+C0: D1 10 18 00    0:00:09.992 HWM misc  BTM Init Status: 0x3
+C1: D1 10 18 00    0:00:10.094 HWM misc  BTM Init Status: 0x3
+C2: D1 10 18 00    0:00:10.195 HWM misc  BTM Init Status: 0x3
+C3: D1 10 18 00    0:00:10.295 HWM misc  BTM Init Status: 0x3
+C4: D1 10 18 00    0:00:10.395 HWM misc  BTM Init Status: 0x3
+C5: D1 10 18 00    0:00:10.495 HWM misc  BTM Init Status: 0x3
+C6: D1 10 18 00    0:00:10.595 HWM misc  BTM Init Status: 0x3
+C7: D1 10 18 00    0:00:10.695 HWM misc  BTM Init Status: 0x3
+00: D1 10 18 00    0:00:10.797 HWM misc  BTM Init Status: 0x4
+01: DC 12 18 00    0:00:10.798 HWM main  Process BLE Event (event cmd): 0x1
+02: D1 10 18 00    0:00:10.898 HWM misc  BTM Init Status: 0x5
+03: D1 10 18 00    0:00:10.998 HWM misc  BTM Init Status: 0x6
+04: D2 12 18 00    0:00:10.998 HWM misc  Init GAP Status: 0x0
+05: DC 12 18 00    0:00:11.000 HWM main  Process BLE Event (event cmd): 0x6
+06: D1 10 18 00    0:00:11.100 HWM misc  BTM Init Status: 0x6
+07: D2 12 18 00    0:00:11.100 HWM misc  Init GAP Status: 0x1
+08: DC 12 18 00    0:00:11.102 HWM main  Process BLE Event (event cmd): 0x37
+09: D1 10 18 00    0:00:11.201 HWM misc  BTM Init Status: 0x6
+0A: D2 12 18 00    0:00:11.201 HWM misc  Init GAP Status: 0x1
+0B: D1 10 18 00    0:00:11.302 HWM misc  BTM Init Status: 0x6
+0C: D2 12 18 00    0:00:11.302 HWM misc  Init GAP Status: 0x1
+0D: D1 10 18 00    0:00:11.403 HWM misc  BTM Init Status: 0x6
+0E: D2 12 18 00    0:00:11.403 HWM misc  Init GAP Status: 0x1
+0F: D1 10 18 00    0:00:11.505 HWM misc  BTM Init Status: 0x6
+10: D2 12 18 00    0:00:11.505 HWM misc  Init GAP Status: 0x1
+11: D1 10 18 00    0:00:11.606 HWM misc  BTM Init Status: 0x6
+12: D2 12 18 00    0:00:11.606 HWM misc  Init GAP Status: 0x1
+13: D1 10 18 00    0:00:11.707 HWM misc  BTM Init Status: 0x6
+14: D2 12 18 00    0:00:11.707 HWM misc  Init GAP Status: 0x1
+15: D1 10 18 00    0:00:11.809 HWM misc  BTM Init Status: 0x6
+16: D2 12 18 00    0:00:11.809 HWM misc  Init GAP Status: 0x1
+17: D1 10 18 00    0:00:11.910 HWM misc  BTM Init Status: 0x6
+18: D2 12 18 00    0:00:11.910 HWM misc  Init GAP Status: 0x1
+19: D1 10 18 00    0:00:12.012 HWM misc  BTM Init Status: 0x6
+1A: D2 12 18 00    0:00:12.012 HWM misc  Init GAP Status: 0x2
+1B: DC 12 18 00    0:00:12.014 HWM main  Process BLE Event (event cmd): 0x16
+1C: D1 10 18 00    0:00:12.114 HWM misc  BTM Init Status: 0x6
+1D: D2 12 18 00    0:00:12.114 HWM misc  Init GAP Status: 0x3
+1E: DC 12 18 00    0:00:12.116 HWM main  Process BLE Event (event cmd): 0x12
+1F: D1 10 18 00    0:00:12.215 HWM misc  BTM Init Status: 0x6
+20: D2 12 18 00    0:00:12.215 HWM misc  Init GAP Status: 0x4
+21: DC 12 18 00    0:00:12.217 HWM main  Process BLE Event (event cmd): 0x14
+22: D1 10 18 00    0:00:12.317 HWM misc  BTM Init Status: 0x6
+23: D2 12 18 00    0:00:12.317 HWM misc  Init GAP Status: 0x5
+24: DC 12 18 00    0:00:12.320 HWM main  Process BLE Event (event cmd): 0x8
+25: D1 10 18 00    0:00:12.419 HWM misc  BTM Init Status: 0x6
+26: D2 12 18 00    0:00:12.419 HWM misc  Init GAP Status: 0x6
+27: D1 10 18 00    0:00:12.520 HWM misc  BTM Init Status: 0x7
+28: D3 13 18 00    0:00:12.520 HWM misc  Init Services Status: 0x0
+29: DC 12 18 00    0:00:12.522 HWM main  Process BLE Event (event cmd): 0x29
+2A: D1 10 18 00    0:00:12.621 HWM misc  BTM Init Status: 0x7
+2B: D3 13 18 00    0:00:12.623 HWM misc  Init Services Status: 0x0
+2C: DC 12 18 00    0:00:12.627 HWM main  Process BLE Event (event cmd): 0x2B
+2D: DC 13 18 00    0:00:12.627 HWM main  Process BLE Event (CHAR UUID): 19584
+2E: D1 10 18 00    0:00:12.726 HWM misc  BTM Init Status: 0x7
+2F: D3 13 18 00    0:00:12.726 HWM misc  Init Services Status: 0x0
+30: DC 13 18 00    0:00:12.728 HWM main  Process BLE Event (CHAR UUID): 52520
+31: D1 10 18 00    0:00:12.828 HWM misc  BTM Init Status: 0x7
+32: D3 13 18 00    0:00:12.828 HWM misc  Init Services Status: 0x1
+33: DC 12 18 00    0:00:12.830 HWM main  Process BLE Event (event cmd): 0x29
+34: D1 10 18 00    0:00:12.930 HWM misc  BTM Init Status: 0x7
+35: D3 13 18 00    0:00:12.930 HWM misc  Init Services Status: 0x1
+36: DC 12 18 00    0:00:12.932 HWM main  Process BLE Event (event cmd): 0x2B
+37: DC 13 18 00    0:00:12.933 HWM main  Process BLE Event (CHAR UUID): 19584
+38: D1 10 18 00    0:00:13.032 HWM misc  BTM Init Status: 0x7
+39: D3 13 18 00    0:00:13.032 HWM misc  Init Services Status: 0x1
+3A: DC 13 18 00    0:00:13.034 HWM main  Process BLE Event (CHAR UUID): 52520
+3B: D1 10 18 00    0:00:13.042 HWM misc  BTM Init Status: 0x7
+3C: D3 13 18 00    0:00:13.043 HWM misc  Init Services Status: 0x2
+3D: DC 12 18 00    0:00:13.044 HWM main  Process BLE Event (event cmd): 0x29
+3E: D1 10 18 00    0:00:13.144 HWM misc  BTM Init Status: 0x7
+3F: D3 13 18 00    0:00:13.144 HWM misc  Init Services Status: 0x3
+40: DC 12 18 00    0:00:13.146 HWM main  Process BLE Event (event cmd): 0x2B
+41: DC 13 18 00    0:00:13.147 HWM main  Process BLE Event (CHAR UUID): 9474
+42: D1 10 18 00    0:00:13.246 HWM misc  BTM Init Status: 0x7
+43: D3 13 18 00    0:00:13.246 HWM misc  Init Services Status: 0x4
+44: DC 13 18 00    0:00:13.247 HWM main  Process BLE Event (CHAR UUID): 9475
+45: D1 10 18 00    0:00:13.347 HWM misc  BTM Init Status: 0x7
+46: D3 13 18 00    0:00:13.347 HWM misc  Init Services Status: 0x5
+47: DC 13 18 00    0:00:13.349 HWM main  Process BLE Event (CHAR UUID): 9476
+48: D1 10 18 00    0:00:13.449 HWM misc  BTM Init Status: 0x7
+49: D3 13 18 00    0:00:13.449 HWM misc  Init Services Status: 0x6
+4A: DC 13 18 00    0:00:13.451 HWM main  Process BLE Event (CHAR UUID): 9477
+4B: D1 10 18 00    0:00:13.551 HWM misc  BTM Init Status: 0x7
+4C: D3 13 18 00    0:00:13.552 HWM misc  Init Services Status: 0x7
+4D: DC 13 18 00    0:00:13.561 HWM main  Process BLE Event (CHAR UUID): 9473
+4E: D1 10 18 00    0:00:13.661 HWM misc  BTM Init Status: 0x7
+4F: D3 13 18 00    0:00:13.661 HWM misc  Init Services Status: 0x8
+50: DC 12 18 00    0:00:13.663 HWM main  Process BLE Event (event cmd): 0x29
+51: D1 10 18 00    0:00:13.762 HWM misc  BTM Init Status: 0x7
+52: D3 13 18 00    0:00:13.763 HWM misc  Init Services Status: 0x9
+53: DC 12 18 00    0:00:13.766 HWM main  Process BLE Event (event cmd): 0x2B
+54: DC 13 18 00    0:00:13.767 HWM main  Process BLE Event (CHAR UUID): 10243
+55: D1 10 18 00    0:00:13.865 HWM misc  BTM Init Status: 0x7
+56: D3 13 18 00    0:00:13.865 HWM misc  Init Services Status: 0xA
+57: DC 13 18 00    0:00:13.867 HWM main  Process BLE Event (CHAR UUID): 10256
+58: D1 10 18 00    0:00:13.967 HWM misc  BTM Init Status: 0x7
+59: D3 13 18 00    0:00:13.968 HWM misc  Init Services Status: 0xB
+5A: DC 13 18 00    0:00:13.971 HWM main  Process BLE Event (CHAR UUID): 10257
+5B: D1 10 18 00    0:00:14.070 HWM misc  BTM Init Status: 0x7
+5C: D3 13 18 00    0:00:14.070 HWM misc  Init Services Status: 0xC
+5D: DC 13 18 00    0:00:14.072 HWM main  Process BLE Event (CHAR UUID): 10258
+5E: D1 10 18 00    0:00:14.172 HWM misc  BTM Init Status: 0x7
+5F: D3 13 18 00    0:00:14.172 HWM misc  Init Services Status: 0xD
+60: DC 12 18 00    0:00:14.174 HWM main  Process BLE Event (event cmd): 0x6
+61: D6 12 18 00    0:00:14.176 HWM misc  BTM Notification Received (info type): 0x10
+62: DC 12 18 00    0:00:14.177 HWM main  Process BLE Event (event cmd): 0x9
+63: DC 10 18 00    0:00:15.133 HWM main  Process BLE Event (event type): 0x1
+64: D6 12 18 00    0:00:15.135 HWM main  BTM Notification Received (info type): 0x15
+65: D6 13 18 00    0:00:15.136 HWM main  BCP Notification Sent (info type): 0x4
+66: DC 12 18 00    0:00:15.139 HWM main  Process BLE Event (event cmd): 0xA
+67: DC 12 18 00    0:00:15.141 HWM main  Process BLE Event (event cmd): 0xF
+68: DC 12 18 00    0:00:15.143 HWM main  Process BLE Event (event cmd): 0x2E
+69: D0 00 18 00    0:00:15.177 HWM misc  Local: 2019/11/26 15:51:24 , UTC: 2019/11/26  6:51:24 
+6A: D4 10 18 00    0:00:15.177 HWM misc  BTM Connection Status: 0x8
+6B: DC 10 18 00    0:00:15.524 HWM main  Process BLE Event (event type): 0x3
+6C: D6 12 18 00    0:00:15.563 HWM main  BTM Notification Received (info type): 0x20
+6D: DC 12 18 00    0:00:15.693 HWM main  Process BLE Event (event cmd): 0x38
+6E: DC 10 18 00    0:00:15.734 HWM main  Process BLE Event (event type): 0x12
+6F: DC 10 18 00    0:00:15.804 HWM main  Process BLE Event (event type): 0x3
+70: D6 12 18 00    0:00:15.805 HWM main  BTM Notification Received (info type): 0x20
+71: DC 12 18 00    0:00:15.806 HWM main  Process BLE Event (event cmd): 0xF
+72: D0 00 18 00    0:00:16.178 HWM misc  Local: 2019/11/26 15:51:25 , UTC: 2019/11/26  6:51:25 
+73: D4 10 18 00    0:00:16.178 HWM misc  BTM Connection Status: 0x9
+74: DC 10 18 00    0:00:16.405 HWM main  Process BLE Event (event type): 0x27
+75: DC 10 18 00    0:00:16.406 HWM main  Process BLE Event (event type): 0x1D
+76: DC 10 18 00    0:00:16.420 HWM main  Process BLE Event (event type): 0x27
+77: DC 10 18 00    0:00:16.421 HWM main  Process BLE Event (event type): 0x1D
+78: D6 12 18 00    0:00:16.422 HWM main  BTM Notification Received (info type): 0x3
+79: DC 10 18 00    0:00:16.453 HWM main  Process BLE Event (event type): 0x3
+7A: D6 12 18 00    0:00:16.453 HWM main  BTM Notification Received (info type): 0x20
+7B: DC 10 18 00    0:00:16.518 HWM main  Process BLE Event (event type): 0x27
+7C: DC 10 18 00    0:00:16.519 HWM main  Process BLE Event (event type): 0x1D
+7D: D6 12 18 00    0:00:16.520 HWM main  BTM Notification Received (info type): 0x3
+7E: D6 13 18 00    0:00:16.524 HWM main  BCP Notification Sent (info type): 0x0
+7F: DC 12 18 00    0:00:16.589 HWM main  Process BLE Event (event cmd): 0x2E
+80: DC 10 18 00    0:00:16.728 HWM main  Process BLE Event (event type): 0x27
+81: DC 10 18 00    0:00:16.729 HWM main  Process BLE Event (event type): 0x1D
+82: DC 12 18 00    0:00:16.799 HWM main  Process BLE Event (event cmd): 0x2F
+83: D7 00 18 00    0:00:17.179 HWM misc  Protocol Connection Status: 0x2
+84: D6 12 18 00    0:00:17.224 HWM main  BTM Notification Received (info type): 0x17
+85: DC 12 18 00    0:00:17.227 HWM main  Process BLE Event (event cmd): 0x42
+86: DC 12 18 00    0:00:17.232 HWM main  Process BLE Event (event cmd): 0x2F
+87: D6 12 18 00    0:00:17.429 HWM main  BTM Notification Received (info type): 0x12
+88: D6 13 18 00    0:00:17.430 HWM main  BCP Notification Sent (info type): 0x3
+89: D7 00 18 00    0:00:18.182 HWM misc  Protocol Connection Status: 0x1
+8A: D7 00 18 00    0:00:19.186 HWM misc  Protocol Connection Status: 0x4
+8B: D7 00 18 00    0:00:19.573 HWM misc  Protocol Connection Status: 0xB
+8C: DA 16 18 00    0:00:19.597 HWM misc  GNCS Subscription Time Out Operation: 0x0
+8D: DA 10 18 00    0:00:19.597 HWM misc  GNCS Subscription Intent Sent: 0x0
+8E: DA 16 18 00    0:00:19.602 HWM misc  GNCS Subscription Time Out Operation: 0x1
+8F: DA 15 18 00    0:00:19.672 HWM main  GNCS Subscription Acknowledgment Message Status: 0x0
+90: DA 16 18 00    0:00:20.606 HWM misc  GNCS Subscription Time Out Operation: 0x1
+91: D2 11 18 00    0:00:36.615 HWM misc 003C88002059AF0100FFFF00005ED805 .<.. Y.......^..
+92: DC 12 18 00    0:00:36.616 HWM main  Process BLE Event (event cmd): 0xF
+93: DC 10 18 00    0:00:36.886 HWM main  Process BLE Event (event type): 0x3
+94: D6 12 18 00    0:00:36.886 HWM main  BTM Notification Received (info type): 0x20
+95: D6 12 18 00    0:01:00.963 HWM misc  BTM Notification Received (info type): 0x4
+96: DC 12 18 00    0:01:00.966 HWM main  Process BLE Event (event cmd): 0x10
+97* 16 17 18 00    0:01:00.968 HWM misc 018C800020492346103C7F002070CE05 .... I#F.<.. p..
+98: D6 13 18 00    0:01:00.971 HWM misc  BCP Notification Sent (info type): 0x1
+99: D6 13 18 00    0:01:00.971 HWM misc  BCP Notification Sent (info type): 0x2
+9A: D6 12 18 00    0:01:00.972 HWM misc  BTM Notification Received (info type): 0x4
+9B* 16 17 18 00    0:01:00.973 HWM misc 0059D5010021CD010020D80520D88400 .Y...!... .. ...
+9C: DC 10 18 00    0:01:01.537 HWM main  Process BLE Event (event type): 0x2
 
 verNum:     8/13/2014 (00)
 ownerID:    0000000E
@@ -611,16 +612,10 @@ archived:   08
 max_arch:   08
 num_recs:   20
 rec_size:   20
-next_evnt:  00
-timeDay:    2019/11/26  6:34:18 
-cycle_cnt:  23
+next_evnt:  06
+timeDay:    2019/11/26  6:51:18 
+cycle_cnt:  24
 
-00* 10 00 00 00  515:03:12.610 HWM misc  Update Error. Time between updates: 1854192599 ms
-01* 10 00 00 00  515:03:12.752 HWM main  Update Error. Time between updates: 0 ms
-02* 10 00 00 00  515:03:12.753 HWM main  Update Error. Time between updates: 0 ms
-03* 10 00 00 00  515:03:12.754 HWM main  Update Error. Time between updates: 0 ms
-04* 10 00 00 00  519:14:07.855 HWM misc  Update Error. Time between updates: 1869247853 ms
-05* 10 00 00 00  519:14:07.860 HWM main  Update Error. Time between updates: 0 ms
 06: D4 00 00 00  523:55:40.618 HWM main  Hits Midnight: 2019/11/14  0:00:00 
 07: D4 00 00 00  547:55:38.684 HWM main  Hits Midnight: 2019/11/15  0:00:00 
 08: D4 00 00 00  571:55:39.233 HWM main  Hits Midnight: 2019/11/16  0:00:00 
@@ -647,6 +642,13 @@ cycle_cnt:  23
 1D* 10 00 00 00  827:21:12.641 HWM misc  Update Error. Time between updates: -1316495654 ms
 1E* 10 00 00 00  827:29:56.617 HWM misc  Update Error. Time between updates: 285731 ms
 1F: D3 00 00 00  827:29:56.621 HWM misc  Time Jump From 2019/11/26  6:29:15  to 2019/11/26  6:34:18 
+00: D3 00 00 00  827:31:11.298 HWM misc  Time Jump From 2019/11/26  6:34:27  to 2019/11/26  6:35:32 
+01* 10 00 00 00  827:46:16.744 HWM misc  Update Error. Time between updates: 877335 ms
+02: D3 00 00 00  827:46:16.745 HWM misc  Time Jump From 2019/11/26  6:35:52  to 2019/11/26  6:50:38 
+03: FE 01 0E 00  827:46:37.384 HWM main 2019/11/26  6:50:58 V:0
+
+04: FF 00 00 00    0:00:01.368 HWM main 2019/11/26  6:51:10 C:24
+05: D3 00 00 00    0:00:09.396 HWM misc  Time Jump From 2019/11/26  6:50:45  to 2019/11/26  6:51:18 
 
 
 
