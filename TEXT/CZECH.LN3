@@ -1,4 +1,4 @@
-006-D6593-11|v02.40
+006-D6593-11|v03.10
 00001 Čeština
 00252 12 hodinový
 00253 24 hodinový
@@ -25,12 +25,12 @@
 01108 Sestup
 01095 Vzdálenost
 01096 Srdeční tep
-05424 Počet záběrů
+05424 Rychlost záběrů
 01098 Tempo
 01106 Výkon
 01102 Kadence
 01100 Běh
-01104 Počet záběrů
+01104 Rychlost záběrů
 01105 Rychlost
 01099 Čas
 01101 Chůze
@@ -62,12 +62,28 @@
 05022 Odebrat z oblíbených
 05021 Nastavit jako oblíbenou položku
 02594 Dub
+06327 Blahopřejeme! Plán dokončen.
+06316 Vynikající
+06317 Jen tak dál
+06318 Ještě máte rezervy
+06321 Nastavte si trénink. plán Trenér Garmin pomocí Garmin Connect Mobile.
+06322 Pro příští trénink synchron s aplikací Garmin Connect Mobile.
+06320 Odpočink. den
+06326 Synchr. pro příští trénink.
+06324 Dnes
+06325 Zítra
+06315 Týden %1
+06319 Trénink dokončen
+06323 Včera
 02598 Srp
 00158 Průměr
+06430 Abnormální ST
+06433 Byl detekován abnorm. srd. tep.
 00419 Aktivní
 03722 Aktivní kalorie
 00347 Přidat
 02894 Aerobní TE
+06223 Almaty
 00343 Výška (AGL) ve stopách
 05351 Šířka/Délka
 00755 Šířka/Délka
@@ -85,6 +101,12 @@
 02534 Jakýkoli
 02912 Výstup
 03740 Ztraceno spojení se sledovacím zařízením.
+06465 Žádný připojený pes.
+06224 Auckland
+06222 Adelaide
+06228 Brisbane
+06257 Perth
+06262 Tasmánie
 00439 Austrian Grid
 01498 Automatická kalibrace
 00204 Automaticky
@@ -117,8 +139,8 @@
 05253 Vyvážení posledního okruhu
 00668 Vyvážení posl okruhu
 00957 Vyv. PO
-05240 Výkon v posledním okruhu
-00655 Výkon v posl. okruhu
+05240 Výkon posledního okruhu
+00655 Výkon PO
 00944 Výk. PO
 05238 Průměrný výkon
 00653 Průměrný výkon
@@ -171,6 +193,7 @@
 06059 Zadržte dech
 02528 Znak
 02586 Znak
+06225 Bangkok
 00255 Graf
 05525 Úroveň nabití baterie
 05526 Úroveň nabití baterie
@@ -181,15 +204,22 @@
 01449 Nejlepší výkon!
 02487 Kolo
 02914 Adresa MAC Bluetooth
+06226 Bombaj
 00440 Borneo RSO
+06227 Brasília
 02529 Prsa
 02587 Prsa
 00441 Britská souřadnicová síť
 00126 Celý den
-03625 Žádné detaily k dispozici
+03625 Žádné podrobnosti
 05075 Žádné události
 00127 Nyní
 03624 Vyberte pole %1
+06506 Přiřaďte nebo odeberte nepřiřazené snímače holí.
+06505 Jeden nebo více snímačů holí je nepřiřazeno.
+06510 Funkce Skórování a Sled. statistik jsou zapnuté.
+06511 Pro pokroč. statis. nahr. skórkarty do Garmin Golf.
+06503 Vyberte hůl
 05984 Opakovaní
 05985 Čas sady
 00198 Kalibrace kompasu
@@ -201,6 +231,7 @@
 00195 Opakovat akci
 00194 Spustit
 00121 Čekání na data
+06229 Káhira
 00272 Kalibrace dokončena
 01499 Kalibrovat
 02491 kcal
@@ -211,7 +242,10 @@
 00528 Zbývající kCal
 00817 Zbýv. kal.
 01081 Zrušit
+06230 Kapské Město
+06231 Kapverdské ostrovy
 02707 Jednotky
+06232 Čita
 05301 Kadence vsedě
 00716 Kadence vsedě
 01005 Kad. vsedě
@@ -351,6 +385,7 @@
 00488 DX
 00489 DY
 00490 DZ
+06233 Darwin
 02913 Sestup
 05350 Poloha cíle
 00754 Poloha cíle
@@ -409,9 +444,11 @@
 00762 Čas k příštímu bodu
 01051 Čas k příš.
 02689 E
+06235 Jekatěrinburg
 05083 Uplynulý čas
 00507 Uplynulý čas
 00796 Uplynulý
+06234 Eniwetok
 00282 Zadat azimut
 00287 DA v metrech
 00286 DF v metrech
@@ -419,20 +456,27 @@
 00284 DY v metrech
 00285 DZ v metrech
 00292 Zadat nadmoř. výšku
-00275 Východ. směr v metrech
-00276 Severní směr v metrech
+00275 Vých. směr (m)
+00276 Severní směr v metrech
 00277 Zadat zem. šířku
 00278 Zadejte polohu
 00279 Zadat zeměp. délku
 00280 Zadat posun 1
 00281 Zadat posun 2
 00289 Magnetická variace
+06068 Zadejte tlak
 00288 Zadat měřítko
 00350 Zadat rychlost
 05084 Odhadovaný čas ukončení
 00508 Odhad čas kon
 02870 Odh. ukon.
+06178 Odhadovaná celková vzdálenost
+06179 Odh. celk. vzdálenost
+06180 Odh cel vz
 00444 Estonská souřadnicová síť
+06236 Evropa – střední
+06237 Evropa – východní
+06238 Evropa – západní
 02714 Platnost vypršela
 02852 Externí profil
 02592 Únr
@@ -443,6 +487,8 @@
 03303 Tip:
 03305 Stiskněte pro kroky, počasí a jiné doplňky.
 00018 Souřadnice
+06453 Okruhy: %1
+06454 Zbývá: %1
 01336 Zjištěno FTP
 01341 Přijmout
 01342 Odmítnout
@@ -465,13 +511,13 @@
 03023 Nejrychlejších 1000 yd!
 03018 Nejrychlejších 100 m!
 03019 Nejrychlejších 100 yd!
-01441 Nejrychlejších 10 km!
+01441 Nejrychlejších 10 km!
 03024 Nejrychlejších 1500 m!
 03025 Nejrychlejších 1650 yd!
 01442 Nejrychlejší 1 km!
 05729 Nejrychlejších 1000 m!
 03020 Nejrychlejších 400 m!
-01447 Nejrychlejších 40 km!
+01447 Nejrychlejších 40 km!
 03021 Nejrychlejších 500 yd!
 01443 Nejrychlejších 5 km!
 03022 Nejrychlejších 750 m!
@@ -492,8 +538,18 @@
 05373 Pole 4
 02863 Pole 4
 02904 Pole 4
+06239 Fidži
 05651 Najít můj telefon
 00445 Finská souřadnicová síť
+06087 Vystoupaná patra
+06090 Vystoupaná patra
+06093 Vyst. patra
+06088 Sestoupaná patra
+06091 Sestoupaná patra
+06094 Sest. patra
+06089 Patra za minutu
+06092 Patra za minutu
+06095 Patra/min
 00361 Patra
 02530 Motýlek
 02588 Motýlek
@@ -538,6 +594,7 @@
 00325 Minuté vlevo
 00326 Minuté vpravo
 03678 Žádné údery
+06483 Tres. rány
 00322 Putty
 05932 Hrubý
 03671 Skórování
@@ -615,12 +672,17 @@
 00840 DKZ
 05132 DKZ
 00551 DKZ
+06417 Později
+06418 Ne, děkuji
+06303 Zjistit více o funkci Physio TrueUp?
 05594 Již nezobrazovat
 05592 Nezapomeňte odstranit snímač dynamiky běhu.
 05593 OK
 03588 12hodinový
 03589 24hodinový
+06416 Ano
 05609 Zpět na start
+05912 Kalibrovat a uložit
 05610 Zrušit
 05608 Okruh
 05607 Obnovit později
@@ -630,10 +692,12 @@
 05758 Vynulovat
 05756 Obnovit
 05795 Zobrazit
+05770 Hotovo
 05755 Stopky
 03275 Spustit trénink
 03277 Přeskočit
 03274 Dnes: %1
+06287 Dnešní tréninky: %1
 03276 Zobrazit
 01315 Použ. %1
 02649 Používání profilu %1
@@ -641,6 +705,16 @@
 02651 Používání profilu %1, %2, %3
 02652 Používání profilu %1, %2, %3, %4
 02653 Použ pr%1,%2,%3,%4,%5
+06130 Odstranit
+06133 Upravit název
+06129 Odebrat spárované zařízení
+06125 Polohy XERO
+06128 Soukromé
+06127 Veřejné
+06132 Odeslat
+06126 Režim sdílení
+06138 Odebrat spár. zařízení?
+06137 Nová pol. XERO. Navig.?
 05488 Skóre stresu
 05486 Vysoké přetížení
 05484 Nízké přetížení
@@ -698,12 +772,43 @@
 00264 Hektopaskaly
 02640 Stisk. START
 03319 START start měření
+06240 Hongkong
+06140 Poloha XERO
 03776 hod.
 00443 EOV Hungarian
 05254 Intensity Factor
 00669 Intensity Factor
 00958 IF
 02532 IM
+06387 Zrušte stisk. lib. tlačítka.
+06388 Zahajování SOS. Mějte zařízení inReach zapnuté a poblíž.
+06386 Zahajování SOS v
+06389 Nepřip.! Zkontr., zda je zařízení inReach poblíž a zapnuté. SOS se odešle, pokud je zařízení připojené.
+06390 Nahlášeno SOS. Zkontrolujte, zda má zařízení inReach nezastíněný výhled na oblohu.
+06364 Odpověď
+06375 Vybrat rychlý text
+06373 Vybrat rychlý text
+06372 Odpověď
+06374 Zadat zprávu
+06394 Jsem v nouzové situaci a potřebuji poslat pomoc.
+06396 Došlo k nehodě. Pošlete prosím pomoc.
+06401 Smrtelná nehoda. Pošlete prosím pomoc.
+06402 Zdravotní problém. Potřebujeme pomoc.
+06399 Chybí člen skupiny.
+06400 Přírodní katastrofa. Potřebujeme pomoc.
+06398 Nedošlo k ohrožení života. Zavolejte pomoc.
+06397 Ztratil jsem se skupině.
+06404 Vážné zranění. Zavolejte pomoc.
+06395 Pokazilo se mi auto.
+06403 Nouzová situace na lodi. Potřebujeme pomoc.
+06371 Rušení SOS
+06366 Vzdálenost
+06369 Zahajování SOS
+06365 Spárování zař. inReach
+06370 Probíhá SOS
+06368 Probíhá hledání %1
+06367 Časovač
+06241 Island
 00447 Islandská souřadnicová síť
 00261 Palce (Hg)
 00451 India Zone 0
@@ -763,16 +868,23 @@
 00794 Čas int.
 00460 Irská souřadnicová síť
 00461 Irská (ITM)
+06242 Irkutsk
+06243 Islámábád
 02591 Led
 02597 Čvc
 02596 Čer
+06244 Jakarta
 00242 km
 00339 K-volný pád
 00341 K-otevření
 00340 K-statický
+06245 Kábul
+06246 Kaliningrad
+06247 Káthmándú
 05233 Výkon
 00648 Výkon
 00937 Výkon
+06248 Krasnojarsk
 01318 Test je dokončen po detekování prahu.
 01317 Cíle s vysokou intenzitou se zvýší každé 3 až 4 minuty.
 01316 Zahřejte se pomalým tempem po 10 až 15 min.
@@ -801,7 +913,6 @@
 03240 Podle
 03256 Podle
 03643 Režim
-03193 Ovládací prvky
 03641 Displej
 03210 Vzdálenost
 01778 Jazyk
@@ -863,17 +974,18 @@
 01735 Vybrat zónu
 01334 Přijmout
 01335 Odmítnout
-02966 tp/m
+02966 t/min.
 05846 /km
 05845 /míli
-02964 Nová lim. hodnota
-02963 tp/m
+02964 Nový limit
+02963 t/min.
 02962 Laktátový práh
 01330 Ruční zadání
 01328 Práh detekován
 05247 Vyvážení
 00662 Vyvážení
 00951 Vyvážení
+06249 Lagos
 00479 Lamb. systém 1
 00480 Lamb. systém 2
 05092 Délka okruhu
@@ -988,7 +1100,7 @@
 05343 Swolf poslední délky
 00747 Swolf poslední délky
 01036 Swolf PO
-00155 Poslední běh
+00155 Posl. sjezd
 00430 Zeměpisná šířka centrálního bodu
 00431 Zeměpisná šířka rovnoběžky 1
 00432 Zeměpisná šířka rovnoběžky 2
@@ -1015,6 +1127,7 @@
 00493 Spojovací hodnota
 00463 Loran TD
 03739 Ztracena komunikace s: %1.
+06298 Aktuální pozice
 02593 Bře
 00157 Max.
 02595 Kvě
@@ -1077,7 +1190,11 @@
 01208 Cyklosvětlo má slabou baterii.
 02935 Cyklosvětlo %1 má slabou baterii.
 01184 Slabá baterie snímače kadence.
+06391 Rušení SOS
 01178 Pro změnu výběru profilu dokončete aktivitu Multisport.
+06175 Nelze vytvořit upravitelnou kopii trasy.
+06083 Byl překročen maximální počet tras. Některé trasy nebyly importovány.
+06082 Překročena max. velikost úložiště tras. Některé trasy nebyly importovány.
 05797 Max. bodů trasy %1 překročen. Počet posl. zobrazených bodů: %2.
 03586 Vzdálenost k cíli %1
 03587 Čas do cíle %1
@@ -1092,6 +1209,8 @@
 02938 Čelní světlo %1 má slabou baterii.
 01232 Zařízení odemknete podržením libovolného tlačítka.
 01231 Podržením DOWN zobrazíte doplňky.
+06073 Podržením kombinace tlačítek zařízení zamknete/odemknete.
+06081 Upozornění po hodině
 01191 V požadovaném rozsahu
 01192 Neplatná zpráva
 03581 Opouštíte oblast varovného bodu %1.
@@ -1103,7 +1222,7 @@
 01195 Paměť aktivit je téměř plná. Odeslání do služby Garmin Connect.
 01196 Paměť aktivit je plná. Uvolněte místo odstraněním starých aktivit.
 03705 Nalezeno více zařízení TruSwing. Přesuňte se a zkuste to znovu.
-05495 Pro tuto aktivitu se uzamknou tlačítka. Zařízení odemknete podržením tlačítka.
+05495 Přechod k této aktiv. zamkne tlač. Odemknete podrž. libov. tlač.
 02949 Spuštění časovače uzamkne tlačítka. Odemknete podržením lib. tlač.
 03580 Blízko varovného bodu %1.
 01233 Přesnost snímání ST na zápěstí může v průběhu plavání kolísat.
@@ -1112,7 +1231,9 @@
 00308 Tlačítkem START zobrazíte více možností pro golf.
 02934 Slabá baterie snímače dynamiky běhu.
 01216 Radar má slabou baterii.
+06392 SOS zrušíte připojením k zařízení InReach.
 01201 Obnovení srdečního tepu %1
+06393 Zpráva SOS systému inReach zrušena
 05990 Stisknutím spustíte a ukončíte sady.
 02932 Slabá baterie snímače řazení.
 01188 Baterie Shimano Di2 je slabá.
@@ -1129,6 +1250,12 @@
 05991 Sada %1
 01207 Slabá baterie zařízení VIRB.
 01222 Velikost kola vypočtena.
+06336 Přerušené připojení k zařízení inReach. Zkontrolujte, zda je zařízení v dosahu.
+06335 Nízká kapacita baterie zařízení inReach.
+06410 Nepodařilo se odeslat zprávu. Zopakujte v zařízení inReach.
+06413 Nepodařilo se odeslat zprávu. Zpráva je příliš dlouhá.
+06411 Je-li umožněno ověřování, nelze odesílat zprávy do zařízení inReach.
+06412 Nepodařilo se odeslat zprávu. Snižte počet kontaktů a opakujte.
 01118 Metronom
 00465 MGRS
 02321 MOB
@@ -1141,6 +1268,7 @@
 03569 Náhodně
 05702 Spusťte hudbu v telefonu
 00351 P
+06250 Magadan
 00205 Magnetický
 00464 Maidenhead
 00423 Geodetická data
@@ -1170,6 +1298,10 @@
 00267 m/h
 00268 m/min
 00269 m/s
+06219 Mexiko – centrální
+06220 Mexiko – horský
+06221 Mexiko – Pacifik
+06251 Střední Atlantik
 00243 Míle
 00263 Milibary
 00262 mmHg
@@ -1178,10 +1310,11 @@
 00637 Minimální nad. výška
 00926 Min. nad.v.
 02713 Chybí
-02531 Smíšený
-02589 Smíšený
+02531 Smíšené
+02589 Smíšené
 00386 Střední
 01086 Po
+06252 Moskva
 01450 Největší výstup!
 05249 Průměr vyvážení 10 s
 00664 Průměr vyvážení 10 s
@@ -1204,9 +1337,10 @@
 05087 Čas pohybu
 02853 Čas pohybu
 02871 Čas pohyb.
-05086 Celkový čas více sportů
-00510 Celk. více sportů
+05086 Celkový čas Multisport
+00510 Čas Multisport
 00799 Čas MS
+06253 Maskat
 05378 Svalové okysličení %
 02868 Svalové okysličení %
 02909 SMO2
@@ -1220,6 +1354,7 @@
 02606 Sním. kaden. přip.
 03312 Vyberte rozvržení
 02638 Připojeno
+06154 Ovládání přidáno
 03613 Trasa zahájena
 02614 Sním. Di2 přip.
 05948 Displej připojen
@@ -1229,9 +1364,10 @@
 02636 Splněno!
 05654 Přidáno: %1
 05842 Odebráno: %1
-02608 Připojen ext. sn. ST
+02608 Ext. ST připojen
 02616 Čelní světlo přip.
 02619 Čelní světlo odpoj.
+06328 Jak obtíž. to bylo?
 02615 Světlo připojeno
 02618 Světlo odpojeno
 03311 Sním. MO2 připojen
@@ -1249,11 +1385,13 @@
 02623 Radar připojen
 02624 Blíží se vozidlo
 02633 Přečíst
-05563 Otevřete mobilní aplikaci v telefonu a obnovte data.
-05562 Znovu se připojte k telefonu a obnovte data.
+05563 Otevřete mobilní aplikaci v telefonu a obnovte data.
+05562 Znovu se připojte k telefonu a obnovte data.
 05617 Zbývá %1
+06450 Odpov.
 03459 Mimo segment
 02613 %1 připojen
+06459 Chyba snímače
 02637 Připraveno
 03309 Řazení připojeno
 02610 Sn rych/kad přip
@@ -1267,6 +1405,7 @@
 02611 Zař VIRB připojeno
 02604 Čekejte na GPS
 03313 Doplněk přidán
+06341 inReach připojeno
 02601 Lis
 05834 Jeďte s měřičem výkonu, aby se zobrazil váš stav.
 05832 Jděte si dvakrát zaběhat ven se snímačem ST pro zobrazení stavu.
@@ -1306,6 +1445,7 @@
 03004 Nastavit rychlost
 02991 Nastavit počet záběrů
 02990 Nastavit počet záběrů
+06428 Nast. prah. hod.
 03009 Nastavit počet zubů
 03010 Nastavit vert. rychl.
 02992 Nastavit hmotnost
@@ -1317,6 +1457,7 @@
 02687 N
 00466 Nový Zéland
 00467 Nový Zéland TM
+06254 Newfoundland
 01080 Ne
 01451 Nejsou nastaveny ani staženy žádné záznamy.
 05257 NP okruhu
@@ -1333,6 +1474,7 @@
 00931 Bar. tl.
 00202 Reference severu
 00245 Nepřipojeno
+06255 Novosibirsk
 00211 Stupně
 02600 Říj
 05643 Aktivity
@@ -1345,6 +1487,7 @@
 00625 Odchylka od kurzu
 00914 Mimo kurz
 00330 Výška otevření
+06452 Otevřít zbývající
 00385 nebo
 05330 Průměrná vzdálenost/záběr
 05397 Prům. vzdál./záběr
@@ -1371,8 +1514,8 @@
 05393 Záběry v PO
 05415 Záběry PO
 05417 Vzd./záb.
-05304 Počet záběrů
-05381 Počet záběrů
+05304 Rychlost záběrů
+05381 Rychlost záběrů
 05403 Záběr
 05328 Vzdálenost/záběr
 05395 Vzdálenost/záběr
@@ -1388,10 +1531,14 @@
 01363 Dobrý
 01360 Špatný
 01359 Zhodnocení výkonu
+06415 Funkce Physio TrueUp synchronizuje aktivity uskutečněné na jiných zařízeních Garmin, což umožňuje vašemu zařízení přesněji zobrazovat stav vašeho tréninku a fyzickou kondici.
 02682 o.
+06170 Budík
 05970 Výškoměr
 05982 Podsvícení: %1%
 05969 Barometr
+06167 Jas
+06187 Sdílení srdečního tepu
 05971 Kompas
 05827 Nastavení Nerušit: Vyp.
 05826 Nastavení Nerušit: Zap.
@@ -1400,15 +1547,22 @@
 05983 Svítilna
 05514 Uzamknout tlačítka
 03548 Ovládání hudby
-05794 Spárovat s kam. VIRB
+06171 Alarmy: %1
+05794 Spár.VIRB
+06342 Spárování zař. inReach
+06168 Telefon
 03544 Vypnout
+06343 Probíhá SOS
 03550 Uložit polohu
+06169 Výběrem změňte pořadí
 03554 Nast. čas pomocí GPS
 03555 Stopky
-03551 Synchronizace
+06194 Východ a západ Slunce
+03551 Synchronizovat
 03558 Najít můj telefon
 03557 Ovládání hudby
-03559 Synchronizace
+03559 Synchronizovat
+06206 Alternativní časové zóny
 03556 Časovač
 03549 VIRB
 03553 Wi-Fi
@@ -1491,6 +1645,7 @@
 05204 Zhodnocení výkonu
 00619 Zhodnocení výkonu
 00908 Zhod. výk.
+06256 Petropavlovsk-Kam.
 00422 Formát
 02981 Úsp. režim
 00259 Tlak
@@ -1501,6 +1656,11 @@
 05534 Půlmarat.
 05535 Maraton
 05531 Předp výs
+06331 Snadná
+06333 Obtížné
+06332 Střední
+06330 Velmi snadné
+06334 Velmi obtížné
 00359 Pr. KST %1
 00358 Posl. 7 dní
 05164 Průměrná kadence
@@ -1542,6 +1702,7 @@
 00748 Časovač odpočinku
 01037 Čas. odp.
 00417 Klidový
+06258 Rijád
 02486 Běh
 05676 Nad výška:
 05677 Pozice:
@@ -1557,7 +1718,7 @@
 05680 Ano
 01834 Pokračovat
 05911 Touto operací ukončíte relaci služby LiveTrack.
-05546 Vyžadováno připojení k mobilní aplikaci
+05546 Vyžadováno připojení k mobilní aplikaci
 01839 Párování se nezdařilo.
 01840 Opakovat akci
 03128 Opakovat
@@ -1570,7 +1731,7 @@
 01850 Délka pedálu
 01852 Manuálně
 01854 Každou sekundu
-01853 Úsporné
+01853 Inteligentní
 01855 Zařízení obnoví výchozí nastavení.
 01857 Kilometry
 01856 Míle
@@ -1578,7 +1739,7 @@
 06008 Poslední sada:
 06009 %1 opakování
 06010 %1 opakování
-06007 Odpočinek
+06007 Klidová
 01858 Stopy
 01859 Metry
 01860 Zobrazit tempo
@@ -1592,12 +1753,14 @@
 01984 Pravé
 01865 Centimetry
 01864 Stopy
+06385 Zrušit SOS?
+06384 Používejte SOS pouze v nouzi. Pokračovat?
 01678 Automaticky
 01679 Jednotlivě
 01867 Zrušit
 01866 Zadat ručně
 01326 Aktualiz. zóny ST pomocí hodn. LP?
-01868 K severu
+01868 Sever nahoře
 01869 Trasa nahoře
 01575 Chybí připojení k snímači ST
 01576 Vyhledat znovu
@@ -1616,6 +1779,7 @@
 00147 Srdeční tep
 05847 Spustit
 01877 Ne
+06299 Později
 05828 OK
 01879 Vypnuto
 01878 Zapnuto
@@ -1626,8 +1790,9 @@
 02646 Budou odstraněny %1 profily Multisport.
 02645 Bude odstr profil Multisport: %1.
 00148 Výkon
+06281 Přenos již probíhá.
 01902 Upozornění na výstup
-01798 Automatické zjištění
+01798 Automatická detekce
 03481 Odstranit segment?
 03099 Barva pozadí
 01800 Zrušit?
@@ -1639,6 +1804,7 @@
 01677 Konfigurace
 03665 Kolo právě probíhá.
 03101 Vytvořit novou položku?
+06176 Vytváření upravitelné kopie trasy. Může dojít ke ztrátě některých dat.
 03102 Nahrávání dat
 01806 Odstranit aktivity?
 01805 Odstranit aktivitu?
@@ -1653,6 +1819,7 @@
 01809 Zrušit?
 01810 Vzdálenost
 03104 Nadmořská výška
+06302 Přejete si povolit funkci Physio TrueUp?
 01811 Ukončit službu LiveTrack?
 00309 Ukončit hru?
 02323 Ukončit navigaci Muž přes palubu (MOB)?
@@ -1680,13 +1847,16 @@
 03116 Síla
 03112 Chůze
 03119 Tempo/rychlost
-03098 Párovat s telefonem?
+06504 Spárovat další snímač hole?
+03098 Párovat s telefonem?
 03120 Časový limit úsporného režimu
 03482 Odstranit segment?
+05913 Připraveni uložit aktivitu?
 03121 Režim záznamu
 06012 Chcete si na chvíli odpočinout?
 05612 Spustit %1?
 01829 Odebrat?
+06192 Přejmenovat zónu?
 01830 Opakovat
 05545 Vynulovat výkon. zóny na vých. nastavení?
 01826 Vynulovat celkové souhrny?
@@ -1702,17 +1872,20 @@
 01346 Stůjte a odpočívejte po dobu 3 minut.
 05752 Ukončit trasu?
 05753 Zastavit navigaci?
-01348 Stress Score je kalibrováno po několika výsledcích.
+01348 Stress Score bude nakalibr. po několika výsl.
 03124 Teplota
 01833 Použít pam. zař.?
 03125 Polohy uživatele
 03126 Hmotnost
 03213 K dispozici jsou další doplňky
+06145 Na kterém zápěstí hodinky nosíte?
 01876 Ano
 00113 Metry
 00114 Yardy
 01883 Vel baz byla změn na %1 metrů, aby odpov tréninku.
 01884 Vel baz byla zm na %1 yardů, aby odpovídala tréninku.
+06146 Nast. připom. na kalibr. před každou jízdou?
+06147 Chcete provést kalibraci?
 02213 Kalibrovat
 02218 Kalibrace se nezdařila, chyba: %1
 02211 Je dop. kalibrace. Pro kal. vysuňte nohy z klipsen na pedálech.
@@ -1730,6 +1903,7 @@
 01568 Ne
 01566 Odebrat?
 01567 Ano
+06282 Zapnout počítání opakování?
 01569 Stahování se nezdařilo. Zkusit znovu?
 01571 Ne
 01570 Ano
@@ -1745,6 +1919,7 @@
 01534 Pro aktivaci snímače šlapejte do pedálů.
 03061 Projděte se, abyste aktivovali snímač.
 01539 Radar musí být pro párování zapnut.
+06340 Připojte se zapnutím zařízení inReach a povolte nastavení ANT+.
 03060 Chcete-li připojit snímač řazení, přehoďte vpředu nebo vzadu.
 01537 Chcete-li připojit snímač Shimano Di2, přehoďte vpředu nebo vzadu.
 01535 Pro aktivaci snímače šlapejte do pedálů.
@@ -1756,10 +1931,11 @@
 01886 Manuálně
 05771 Zkontrolujte usazení hodinek a opakujte akci.
 05772 OK
-05499 Aktualizace se nezdařila. Přejděte do menu snímače a opakujte akci.
+05499 Chyba aktualizace.\nPřejděte do menu snímače a opak.
 01888 Hotovo
-01887 Aktualizace se nezdařila. Opakujte akci ze služby Garmin Connect.
-00062 Aktualizace se nezdařila. Opakujte akci.
+01887 Aktualizace se nezdařila.  Opakujte akci ze služby Garmin Connect.
+00062 Aktualizace se nezdařila.  Opakujte akci.
+05820 Přeskočit kalibraci běhu na pásu?
 01589 Přijmout
 01591 Tempo: %1
 01592 Rychl.: %1
@@ -1784,12 +1960,14 @@
 01901 Oblíbené
 03214 Zobrazit
 02599 Zář
+06432 Limit pro upozornění
+06431 Stav
 01397 Interval %1
 01396 Intervaly
 01395 Okruh %1
 01394 Okruhy
 05818 Sjezd %1
-05817 Běhy
+05817 Sjezdy
 06000 Sada %1
 05999 Sady
 01373 Aktivity
@@ -1823,26 +2001,30 @@
 01991 Neplatná
 01987 Okruhy
 00063 Mapa
-05823 Běhy
+05823 Sjezdy
 06013 Sady
 03614 Přímo
 00064 Čas v zóně
 00046 TracBack
 03492 Training Effect
-03145 Přidat aplikace
+06144 Přidat
 02009 Kolo uvnitř
 02008 Kolo
 05841 Loď
+06103 Box
 02017 Dvě discipl.
 02026 Kardio
 02020 Lezení
 02022 Běžky
 02002 Vlastní
 02016 Duatlon
+06101 Elipt. trenažér
+06104 Vyst. patra
 05867 Golf
 05500 Název aktivity
 02019 Turistika
 02031 Jumpmaster
+06283 Kajak
 03150 Horská kola
 02012 Horská
 03151 Navigovat
@@ -1859,6 +2041,7 @@
 02028 SUP
 02021 Lyže
 02023 Snowboard
+06100 Stepper
 02025 Síla
 04993 Swimrun
 02032 Taktické
@@ -1868,6 +2051,7 @@
 02005 Běžecký pas
 02015 Triatlon
 02027 Chůze
+06102 Jóga
 02000 Hotovo
 03148 Sport
 01999 Multisport
@@ -1886,12 +2070,16 @@
 02081 Automatický sjezd
 03620 Automatický sjezd
 02059 Automatické procházení
+06284 Automatická sada
+06285 BETA
 03156 Upozornění segmentu
 02078 Barva pozadí
 05824 Spouštění odpočtu
 02049 Datové obrazovky
+06280 Upravit hmotnost
 02068 Prodloužená
 02066 Rychlá
+06427 GPS + GALILEO
 03159 GPS + GLONASS
 03158 Norm. rež. (jen GPS)
 02060 GPS
@@ -1909,14 +2097,18 @@
 02075 Odebrat
 02076 Přejmenovat
 03160 Změna pořadí
+06084 Počítání opakování
 02051 Opakovat
 05549 Obnovit výchozí hodnoty
 02064 Pomalu
 02061 Detekce záběru
+06451 Aut. změna plavání/běh
 02048 Stránky tréninku
 02050 Přechody
 02063 Při zastavení
 02055 %1 yardů
+06420 Všechny běhy
+06419 Všechna plavání
 01981 Sledování aktivity
 05439 Upozornění na cíl
 01979 Výzva pohybu
@@ -1924,7 +2116,7 @@
 05440 Ne během aktivity
 00083 Aktuální pozice
 05759 Uložené pozice
-03084 Vybrat obrazovku
+03084 Vyberte obrazovku
 03085 Vlastní data
 01514 Vyberte typ
 05946 Externí displej
@@ -1992,13 +2184,13 @@
 01626 Vlastní
 01634 Vzdálenost
 01629 Srdeční tep
-05433 Počet záběrů
+05433 Rychlost záběrů
 01631 Tempo
 01635 Výkon
 03072 Varovné body
 01636 Kadence
 01630 Běh/chůze
-01638 Počet záběrů
+01638 Rychlost záběrů
 01632 Rychlost
 01633 Čas
 01619 Kalorie (kcal)
@@ -2007,13 +2199,13 @@
 01627 Vyberte typ upoz.
 01609 Srdeční tep
 01608 Zpráva
-05432 Počet záběrů
+05432 Rychlost záběrů
 01611 Tempo
 01615 Výkon
 03071 Varovné body
 01616 Kadence
 01610 Běh/chůze
-01618 Počet záběrů
+01618 Rychlost záběrů
 01612 Rychlost
 01613 Čas
 01669 Upozornění na výstup
@@ -2021,9 +2213,9 @@
 01665 Vysoká kadence
 01674 Nízká kadence
 01641 Kadence
-05434 Počet záběrů
+05434 Rychlost záběrů
 01640 Kadence
-01642 Počet záběrů
+01642 Rychlost záběrů
 01643 Kalorie
 03078 %1 (vlastní)
 01691 Vlastní
@@ -2050,6 +2242,7 @@
 05685 Upoz. na níz. hodn.
 01676 Minimální Nadmořská výška
 01662 Nejnižší rychlost
+06098 Odchylka od kurzu
 01694 Vypnuto
 01645 Tempo
 05435 Vysoká rychlost záběrů
@@ -2105,6 +2298,7 @@
 03621 Automatický sjezd
 02129 Upozornění na okruh
 02126 Okruhy
+06429 Upozornění na abnormální ST
 02141 15 sekund
 02143 1 minuta
 02142 30 sekund
@@ -2150,12 +2344,24 @@
 02187 Jiné
 02941 Nejvyšší intenzita
 01210 Nejvyšší intenzita
-02188 Úspora energie
+02188 Úsporný režim
 02185 Režim světla
 02186 Režim světla
 02157 Chytrá oznámení
 02158 Zastavit službu LiveTrack
 03651 Sdílení srdečního tepu
+06440 Zavolám ti později.
+06449 Mám tě moc rád.
+06443 Ne
+06447 Ne, děkuji.
+06441 OK
+06439 Jsem na cestě.
+06446 Jezdím.
+06444 Běhám venku.
+06438 Pardon, teď nemůžu mluvit.
+06448 Díky!
+06445 Cvičím.
+06442 Ano
 05494 Zvolte aktivitu %1
 03579 Vyberte polohu
 00133 Vybrat aplikaci
@@ -2166,6 +2372,13 @@
 03630 Synchronizovat s GPS
 00179 Časovač
 00176 Vzhled hodinek
+06485 Snímače hole
+06486 Spárované snímače
+06487 Spárované snímače
+06491 Změnit přiřazení
+06490 Nepřiřazeno
+06488 Nepřiřazené snímače
+06489 Neznámý
 00084 Přidat polohu
 00085 Uložit změny?
 00092 Trasy
@@ -2174,6 +2387,7 @@
 00095 Stažené závody
 00090 Odstranit
 00086 Spustit trasu
+06075 Spustit trasu opačným směrem
 00088 Graf nadmořské výšky
 00087 Mapa
 00089 Název
@@ -2252,9 +2466,6 @@
 00315 Skórkarta
 03669 Skórkarta
 00314 Spustit skóre
-03163 GPS + GLONASS
-03162 Normální režim (pouze GPS)
-02093 Vypnuto
 05539 Typy aktivity
 05540 Pouze kolo
 05541 Pouze běh
@@ -2319,7 +2530,9 @@
 02194 Manuálně
 02191 Na vyžádání/upozorn.
 02190 Nechat zapnuto
+06153 Budík
 03656 Barometr, rež. hodinek
+06184 Sdílet ST
 03268 Změnit sport
 02410 Duální síť
 02409 Přidržte tlačítko BACK
@@ -2343,6 +2556,31 @@
 02268 Vynulovat zóny
 02972 Prahová (Z4)
 02969 Zahřívání (Z1)
+06354 1 nová zpráva
+06383 Hotovo
+06382 Vybrat kontakty
+06358 Konverzace
+06357 Nová zpráva
+06347 Zahájit SOS
+06352 Načítání
+06363 Mně
+06362 (neznámý)
+06361 Zrušit SOS
+06359 Odpověď
+06360 Starší odp. viz zař. inReach.
+06349 Zprávy
+06380 Vybráno 1
+06377 Nová zpráva
+06379 Vybrat kontakty
+06381 Vybráno %1
+06378 Odeslat
+06355 %1 nové zprávy
+06356 Žádné nové zprávy
+06353 Nepřipojeno
+06376 Odeslat předn. zpr.
+06348 Probíhá SOS
+06350 Odeslat předn. zpr.
+06351 Sledování
 02553 Zklidnění
 02548 Upravit trénink
 02549 Interval
@@ -2351,10 +2589,7 @@
 02552 Zahřívání
 02547 Zrušit trénink
 02542 Spustit trénink
-02546 Zbývá: %1
 02543 Upravit
-02544 Kola: %1
-02545 Otevřít zbývající
 02554 Upravit odpočinek
 02556 Trvání
 02555 Upravit interval
@@ -2375,14 +2610,6 @@
 00004 Více
 00002 Uložené pozice
 02292 Upravit pozici
-05061 Čtyřkolky
-05056 Pláž
-05036 Cyklostezka
-05067 Blok, modrý
-05066 Blok, zelený
-05065 Blok, červený
-05057 Lodní rampa
-05047 Budova
 05027 Zvolte kategorii
 05029 Městský
 05034 Lov
@@ -2392,37 +2619,6 @@
 05032 Body zájmu
 05031 Znaky
 05030 Přeprava
-05037 Kemp
-05050 Automobil
-05068 Kruh, červený
-05058 Ponořený potápěč
-05038 Pitná voda
-05039 Rybářská oblast
-05071 Vlajka, modrá
-05070 Vlajka, zelená
-05069 Vlajka, červená
-05062 Lovecký revír (velký)
-05063 Lovecký revír (malý)
-05051 Čerpací stanice
-05040 Poklad
-05041 Poklad (nalezený)
-05042 Golfové hřiště
-05052 Ubytování
-05055 Zdravotnické zařízení
-05074 Kolík, modrý
-05073 Kolík, zelený
-05072 Kolík, červený
-05048 Sídlo
-05053 Restaurace
-05059 Zakázaná oblast
-05054 Toalety
-05043 Přírodní zajímavost
-05049 Škola
-05044 Lyžařská oblast
-05045 Vrchol
-05060 Plavecká oblast
-05046 Začátek stezky
-05064 Vodní ptáci
 00011 Odstranit
 00009 Podrobnosti
 00013 Nadmořská výška
@@ -2430,17 +2626,21 @@
 05026 Ikona
 00010 Název
 00012 Pozice
+06172 Přidat ovládání
 05905 Přidat pomůcku
+06191 Alarmy
 03595 Kalibrace výkonu
 06064 Upravit poslední sadu
 01745 Historie
+06297 Poloha
 03592 Ztlumit metronom
 05864 Nastavení navigace
 05595 Připojení v dosahu
-03600 Menu Ovládací prvky
 03599 Odebrat aplikaci
+06174 Odebrat ovládání
 03597 Odebrat doplněk
 03598 Změnit pořadí aplikací
+06173 Změnit pořadí ovládání
 03596 Změnit pořadí doplňků
 01747 Nastavení
 03594 Ukončit trasu
@@ -2452,7 +2652,7 @@
 03247 Automatické měřítko
 03248 Skrýt
 02295 Mapa
-02299 K severu
+02299 Sever nahoře
 02296 Orientace
 02301 Zobrazit
 02300 Prošlá trasa nahoře
@@ -2512,22 +2712,23 @@
 00145 Kroky
 02452 Zobrazit
 03046 Rekordy
-03229 Nová VO2 max.
+03229 Nová VO2 Max.
 03228 Zhodnocení výkonu
 03227 Oznámení výkonu
 03231 Doba regenerace
 03230 Training Effect
 05551 Připojeno
 05553 Připojení vypnuto
-05555 Otevřete apl. v telef.
-05552 Párovat s telefonem
-05686 Párovat s telefonem
+05555 Otev. apl. v tel.
+05552 Párovat s telefonem
+05686 Párovat s telefonem
 05550 Telefon
 05554 Čekání na telefon
 03221 Automatická detekce
 05743 Záznam VST
 03222 Oznámení výkonu
 03220 Fyziol. metriky
+06289 TrueUp
 00107 25 metrů
 00109 25 yardů
 00110 33 1/3 metrů
@@ -2537,14 +2738,19 @@
 00106 Velikost bazénu
 02172 Automaticky: %1 mm
 02174 Automatické vynulování
+06149 Přidat ovládání
 05652 Přidat novou položku
+06150 Budík
 05978 Podsvícení
+06182 Sdílení srdečního tepu
 03182 Nerušit
 03183 Najít můj telefon
 05979 Svítilna
+06151 Budík
 05957 Výškoměr
 05980 Podsvícení
 05956 Barometr
+06183 Sdílet ST
 05958 Kompas
 03198 Nerušit
 03199 Najít můj telefon
@@ -2558,22 +2764,28 @@
 03202 Uložit polohu
 03206 Nast. čas pom. GPS
 03207 Stopky
-03203 Synchronizace
+06196 Východ a západ
+03203 Synchronizovat
+06197 Altern. čas. zóny
 03208 Časovač
 03201 VIRB
 03205 Wi-Fi
+05502 Zamykací/odemykací tlačítka
 03184 Ovládání hudby
 05556 Telefon
-03179 Menu Ovl. prvky
+03179 Ovládací prvky
 03180 Vypnout
 03186 Uložit polohu
 03190 Nastavit čas pomocí GPS
 03191 Stopky
-03187 Synchronizace
+06195 Východ a západ Slunce
+03187 Synchronizovat
+06193 Alternativní časové zóny
 03192 Časovač
 03185 VIRB
 03189 Wi-Fi
 02175 Kalibrovat
+06152 Výzva ke kalibraci
 02171 Délka pedálu
 02177 Měřítko – L
 02173 Manuálně: %1 mm
@@ -2638,6 +2850,7 @@
 01497 Výškoměr
 01500 Barometr
 01508 Kadence – %1
+06484 Snímače hole
 01496 Kompas
 05945 Displej – %1
 05496 Bluetooth
@@ -2646,6 +2859,7 @@
 05497 Zobrazit snímače Bluetooth
 01504 NS – %1
 01503 ST – %1
+06097 Polohy XERO
 01512 Světlo – %1
 01502 Světla
 03055 Sval. okysl. %1
@@ -2658,7 +2872,9 @@
 01506 Rych/kad-%1
 01507 Rychlost – %1
 01510 Tempe – %1
+06457 DogTrack – %1
 01509 VIRB – %1
+06339 inReach – %1
 02166 Informace o
 01164 Vlastní
 01171 46-36T
@@ -2686,12 +2902,13 @@
 02343 Vypnuto
 02338 Vyhledávání
 02342 Vyhledávání
-03066 Informace o
+03066 Informace
 01583 Sledování aktivity
-01579 Činnosti a aplikace
-05683 Činnosti a aplikace
+01579 Aktivity a aplikace
+05683 Aktivity a aplikace
+06148 Ovládací prvky
 04991 Kopírovat aktivitu
-01580 Aktuální aplikace
+06143 Aktuální aktivita
 05536 GroupTrack
 03063 Mapa
 01584 Navigace
@@ -2725,6 +2942,7 @@
 02930 Předvolby výbavy
 02928 Zadní převody
 00118 Oznámení
+06434 Odpověď:
 02352 Během aktivity
 02353 Ne během aktivity
 02354 Během aktivity
@@ -2748,16 +2966,24 @@
 02558 Vzdálenost
 02560 Otevřený
 02559 Čas
-01237 K dispozici %1
+06310 Souřadnice
+06309 Historie %1
+06308 Uložené pozice
+06307 Vyberte polohu
+06423 Běh %1
+06421 Shrnutí běhu
+06424 Plavání %1
+06422 Shrnutí plavání
+01237 K dispozici %1
 01236 Odmítnout
 01239 Odh. čas: %1 min
 01234 Instalo​vat nyní
 02958 Nainstalovat dnes v noci
 05857 Automatická aktualizace
-05860 K dispozici %1
+05860 K dispozici %1
 05858 Instalo​vat nyní
 05859 Aktualiz. softwaru
-01238 Aktualizace k disp.
+01238 Aktualiz. k disp.
 01760 Automatický zámek
 01763 Podsvícení
 01762 Hodiny
@@ -2768,7 +2994,7 @@
 01759 Zkratky
 01761 Jazyk
 01770 Obnovit výchozí hodnoty
-01773 Úsporné
+01773 Inteligentní
 01771 Aktualizace softwaru
 01764 Zvuky
 01758 Systém
@@ -2785,6 +3011,7 @@
 00026 Spustit časovač
 02377 12hodinový
 02378 24hodinový
+06085 Každou hodinu
 00040 Do východu slunce
 00039 Do západu slunce
 02380 Automaticky
@@ -2798,6 +3025,12 @@
 02372 Čas: %1
 02373 Časový formát
 02375 Čas
+06201 Nová zóna
+06202 Nová zóna
+06203 Změnit zónu
+06199 Změnit zónu
+06200 Odstranit zónu
+06198 Přejmenovat zónu
 01596 Cyklistika
 05650 Počítadlo kilometrů
 01595 Běh
@@ -2809,10 +3042,11 @@
 03260 Režim
 03261 Jednoduché zobrazení
 02453 Trén kalendář
-03070 Test hodnoty FTP s pokyny
+03070 Test hodnoty FTP s pokyny
 01601 Intervaly
 03069 Test laktátového prahu s pokyny
 01599 Tréninky
+06099 Dýchání
 03095 Hodiny
 03091 Kompas
 03089 Aktuální sjezd
@@ -2862,6 +3096,10 @@
 02404 Výkonnostní zóny
 02398 Uživatelský profil
 02402 Hmotnost
+06270 Kalibrovat nyní?
+06269 Nastavit délku pedálu
+06271 Přeskočit
+06268 Vector připojen
 02418 Sekvenční snímání
 02416 Fotografie
 05887 Uspat kameru
@@ -2881,7 +3119,7 @@
 03271 2,7K Vysoký
 03272 Poměr stran
 03273 Rozšířený/vysoký
-02429 Pole zobrazení
+02429 Zorné pole
 02432 Rychlost videa (sn./s)
 02434 Video HD
 02430 Interval
@@ -2899,7 +3137,7 @@
 02437 Nepodporovaný režim
 02441 Aktualizace VIRB
 02425 Nastavení videa
-02438 Široký
+02438 Široké
 02439 Změna velikosti
 03212 Spušt./zast. stopek
 02412 Nastavit tempo
@@ -2912,6 +3150,7 @@
 00215 Hodiny
 00223 Kompas
 06065 Počet pater
+06346 Trenér Garmin
 00383 Min. inten. akt.
 00395 Poslední jízda
 00394 Poslední běh
@@ -2927,6 +3166,7 @@
 03648 Odebrat
 03647 Změna pořadí
 06066 Stres
+06207 Východ a západ Slunce
 00220 Teplota
 00224 VIRB
 00219 Počasí
@@ -2934,11 +3174,13 @@
 03217 Přidat doplňky
 03216 Přidat doplňky
 03215 Doplňky
+06034 Neplatná délka hesla
 02443 Automatické nahrávání
 02442 Připojit k Wi-Fi
 06014 Moje sítě
 02444 Wi-Fi
 06027 Přidat síť
+06032 Přidán maximální povolený počet sítí Wi-Fi. Odeberte síť a opakujte akci.
 06026 Moje sítě
 06028 Nalezeny sítě
 06030 Odebrat
@@ -2967,7 +3209,7 @@
 06035 Síla
 02455 Dnes
 02457 Zítra
-06037 Volný styl
+06037 Volné místo
 02456 Včera
 02476 1 krok
 02477 Zrušit trénink
@@ -2976,15 +3218,19 @@
 02475 %1 kroků
 02473 Zobrazit
 06062 Opakovaní
-06061 Odpočinek
+06061 Klidová
 06060 Čas sady
 04751 SE
 02953 Podržením během aktivity přepněte na jiný sport.
 02951 Aktivita nepodporuje metronom.
 02950 Neprobíhá žádná aktivita.
+06294 Chcete-li funkci povolit později, přejděte na Nastav. > Fyziol. metriky.
 05815 Hodnota bude dosazena po změření KST.
+06279 Opakovanou hmotnost lze během tréninku upravit.
 02952 Byl pořízen snímek obrazovky
 02954 Software aktualizován na verzi %1
+06337 Přesouvání zprávy do zařízení inReach
+06338 Zpráva bude přesunuta, až bude zařízení inReach v dosahu.
 00119 Žádná oznámení
 05596 Vyžadováno připojení k telefonu
 03626 %1 pro příští etapu
@@ -2996,6 +3242,27 @@
 05850 Zkušební verze je aktivní.
 05853 Platnost zkušební verze vypršela. Odemknete na stránce apps.garmin.com.
 02223 V zař Vector nutno dok akt měř.
+06500 Všechny hole jsou nyní spárovány.
+06508 Slabá baterie CR2032 snímače na holi %1
+06509 Slabá baterie CR2032 snímače hole.
+06497 Nalezeno více snímačů. Odložte všechny ostatní hole.
+06492 Vraťte hůl do tašky a vytáhněte další.
+06493 Párujte vždy jen jednu hůl. Nechte ostatní v tašce.
+06518 Párování se nezdařilo.
+06501 Odstraňte snímač, který byl na holi typu %1
+06502 Odstraňte snímač, který chcete znovu přiřadit.
+06495 Podržte hůl s rukojetí směřující nahoru.
+06494 Hledání snímače hole.
+06498 Tento snímač je již spárován.
+06499 Snímač přiřazen holi %1
+06496 Snímač hole byl nalezen. Párování.
+06512 Vytáhněte hůl %1.
+06513 Odstraňte snímač hole, který chcete aktualizovat.
+06514 Instalování aktualizace pro %1.
+06517 Příprava aktualizace
+06516 Aktualizace se nezdařila. Znovu připojte snímač a zkuste to znovu.
+06515 Aktualizace se nezdařila
+06507 Nepřiřazené snímače nebudou zaznamenávat údery správně.
 01324 Je doporučeno zklidnění
 00175 Aktivní profil nelze odebrat.
 01905 Všechny profily odebrat nelze.
@@ -3017,8 +3284,9 @@
 01908 Načítání souhrnů
 01924 Pokud chcete získat přístup do tohoto menu, dokončete aktuální aktivitu.
 01904 Nahradit nebo odstr Connect IQ na dat obr pro další.
+06177 Vytváření upravitelné kopie trasy.
 05799 Kriticky vybito, vypíná se
-05773 Kriticky vybito, ukládání aktivity
+05773 Kriticky vybitá baterie\nUkládání aktivity
 01911 Všechny aktivity byly odstraněny
 01912 Odstraňování všech aktivit
 01913 Všechny záznamy byly smazány
@@ -3031,6 +3299,9 @@
 01917 Profil aktivity již existuje
 01947 Stahování uložených dat ST
 01325 Je doporučeno zklidnění
+06135 Nebyly nalezeny žádné informace o poloze XERO.
+06136 Odesílání údajů o poloze XERO.
+06134 Informace o poloze XERO byly odeslány.
 01355 Je vyžadován hrudní snímač HRM a snímač výkonu
 01354 Vyžadován hrudní snímač HRM
 01950 Stahování dat ST proběhlo úspěšně
@@ -3054,6 +3325,7 @@
 01932 Vyhledávání pravého pedálu.  Může to chvíli trvat.
 01929 Aktualizace dokončena
 01936 Aktualizace
+06300 Aktualizace Vector\n\nBěhem aktualizace bliká LED pedálu.
 01934 Čekání na restart snímače.
 01958 Je nutná hodnota VO2 max. Běhejte 10 minut venku se snímačem ST pro zjištění VO2 max.
 01959 Je vyžadováno GPS. Zapněte režim GPS a dokončete test venku.
@@ -3087,13 +3359,15 @@
 00320 Výsledková listina byla uložena
 01954 Zrušením nebo dokončením aktivního tréninku změníte nastavení.
 01953 Ukončením aktuální aktivity změníte nastavení.
-03568 Baterie je příliš slabá, aby bylo možné připojení k síti Wi-Fi.
+03568 Baterie je příliš slabá, aby bylo možné připojení k síti Wi-Fi.
 05700 Nelze přenášet během aktivity.
 05633 Připojení se nezdařilo. Opakujte akci.
+06344 Synchronizace s aplikací Explore
+06345 Probíhá synchron
 05629 Nekompatibilní typ sítě.
 05630 Chyba sítě. Opakujte akci později.
 03566 Není k dispozici připojení k aplikaci.
-03565 Není k dispozici připojení k aplikaci nebo připojení Wi-Fi.
+03565 Není k dispozici připojení k aplikaci nebo připojení Wi-Fi.
 05844 Nebyly nalezeny žádné známé sítě Wi-Fi.
 05634 Nedostatek paměti v zařízení.
 03560 Vyhledávání sítě Wi-Fi.
@@ -3117,25 +3391,28 @@
 00131 Nalez VO2mx. pro jíz kole
 01957 Nalezeno nové VO2 max.
 00141 Jeďte stab s vys int 20 min se ST a výk pro zjišť VO2mx.
-05615 Vyžadována VO2 max. Jeďte venku 20 min se snímači ST a výk. pro zjištění VO2 max.
+05615 Je nutné VO2 max. Jeďte venku 20 min se sním. ST a výk. pro detekci VO2 max.
 01956 Běžte 10:00 venku s ST pro dosažení VO2 max.
-03616 Signál GPS je silnější venku, v dostatečné vzd. od stromů a vysokých budov.
+03616 GPS je silnější venku, v dost. vz. od stromů a vys. budov.
 03615 Synchronizace dokončena.
 00048 Čekejte na GPS.
 03218 Stáhněte si další doplňky z obchodu Connect IQ.
-03219 Doplňky můžete později spravovat v nabídce Nastavení > Doplňky.
+03219 Doplňky můžete později spravovat v nabídce Nastavení > Doplňky.
 00050 Aplikace
 00049 Tlačítkem START přepnete na zobrazení. (%1 bude zastaveno.)
 06022 Nedaří se znovu připojit k telefonu.
-06019 Probíhá připojování: {1:32}
+06019 Připojování k síti %1
 06021 Připojení se nezdařilo
 06020 Připojení bylo úspěšné
 06015 Nalezeny sítě Wi-Fi
 06016 Nebyly nalezeny žádné sítě Wi-Fi
+06025 Otevřená
 06017 Opětovné připojování k telefonu
 06023 Hledání sítí Wi-Fi
+06024 Zabezpečená
 06018 Opakovat
 00051 Odebráním prf dal sportu přidáte sport použ trén.
+06291 Stávající aktivita nepodporuje sledování. Doplněk XERO není aktivní.
 00159 Nenalezeny žádné sjezdy
 02214 Kalibrace snímače výkonu
 02215 Kal. úspěšná
@@ -3157,11 +3434,15 @@
 01526 Probíhá hledání %1
 01525 Vyhledávání všech snímačů a příslušenství v blízkosti.
 01524 Vyhledávání snímače
-05977 Dosažen max. počet snímačů. Odeberte snímač a opakujte akci.
+05977 Byl dosažen max. počet snímačů. Odeberte snímač a opakujte akci.
 05976 Byl dosažen maximální počet snímačů.
 05682 Snímače přidány
 05866 Chyba snímače
-03702 Připojte zařízení TruSwing k mobilní aplikaci.
+06286 Chyba zařízení Varia
+06437 Nelze odeslat textovou odpověď.
+06436 Odpověď odeslána
+06435 Odesílání odpovědi
+03702 Připojte zařízení TruSwing k mobilní aplikaci.
 03704 Připojení bylo úspěšné
 03703 Stahování holí
 03701 Párování
@@ -3173,6 +3454,9 @@
 05898 Požadavek byl úspěšný
 05766 Okr. %1
 05754 Stisk. stopněte
+05767 Okruhů: %1
+05768 Okruhy: %1
+05769 Uložit jako aktivitu?
 00421 Formát pozice
 06051 Zkontrolujte usazení hodinek
 06048 Vysoký stres
@@ -3205,6 +3489,7 @@
 01250 Vzdál:
 01301 %1 Motýl:
 01298 %1 Volný:
+06096 Patra:
 01296 Před. řaz.
 01265 Vyv. DKZ:
 01264 DKZ:
@@ -3256,9 +3541,10 @@
 01281 Čas vest.:
 01262 Vert. osc.:
 01263 Vert. pom.:
-05997 Hlasitost:
+05997 Hmotnost:
 05998 Hmotnost:
 05993 Délka trén.:
+06288 Zdroj:
 05675 Vzdál:
 01302 Nad.výš.:
 01303 Pozice:
@@ -3284,6 +3570,12 @@
 01553 Neodpovídá
 01554 Nový
 01556 OK
+06425 Všechny běhy
+06426 Všechna plav.
+06314 pobl.%1
+06208 Vých. sl.
+06209 Zpad sl.
+06210 Stmívání
 05329 Průměrná vzdálenost/záběr
 05396 Prům. vzd./záb.
 05418 Pr. vz./záb.
@@ -3309,8 +3601,8 @@
 05392 Záběry v PO
 05414 Záběry PD
 05416 Vzd./záběr
-05303 Počet záběrů
-05380 Počet záběrů
+05303 Rychlost záběrů
+05380 Rychlost záběrů
 05402 Záběr
 05327 Vzdálenost/záběr
 05394 Vzdálenost/záběr
@@ -3321,6 +3613,8 @@
 02688 S
 00356 S
 00338 Bezpečnostní faktor
+06259 Samara
+06260 Samoa
 01091 So
 00498 Měřítko
 00349 Vyberte DIP
@@ -3342,8 +3636,8 @@
 05146 Rychlost okruhu
 00565 Rychlost okruhu
 00854 Rych. okr.
-05147 Rychlost posled​ního okruhu
-00566 Rychlost posl. okruhu
+05147 Rychlost posledního okruhu
+00566 Rychlost PO
 00855 Rych. PO
 05836 Průměrná námořní rychlost
 05838 Prům. nám. rychlost
@@ -3403,6 +3697,7 @@
 00472 SWEREF 99 TM
 03278 Plavání
 00473 Švýcarská souřadnicová síť
+06261 Sydney
 00495 Posun 1
 00497 Posun 2
 00494 Stanice 1
@@ -3437,11 +3732,11 @@
 03518 Zlepšuje spotřebu a anaer. základ
 03519 Zlepšuje anaer. kapacitu a rychlost
 03520 Velmi zlepšuje anaer. kapacitu a rychlost
-03521 Velmi zlepšuje spotřebu a anaerobní základ
+03521 Velmi zlepšuje úspornost a anaerobní základ
 03522 Menší anaerobní přínos
 03510 Udržuje anaerobní kondici
 03511 Zlepšuje anaerobní základ
-03512 Velmi zlepšuje anaerobní kapacitu a výkon
+03512 Velmi zlepšuje anaerobní kondici
 03513 Menší rychlostní přínos
 03514 Udržení rychlosti
 03515 Udržuje anaerobní výkon
@@ -3460,15 +3755,16 @@
 03633 Posun
 03639 Rozvržení
 05491 Sekund
+06204 Stiskn. START a přidejte čas. zónu.
 00116 Celkový čas
-03538 Posledních 7 dní
+03538 Posledních 7 dní
 05513 Pro výpočet 7denní zátěže je nutný týden používání.
 03537 Tréninková zátěž
 03524 Podtrénování
 03531 Fitness
 03535 Vysoká
 03532 Zátěž
-03533 Nízký
+03533 Nízká
 03527 Udržování
 05699 Žádný stav
 03534 Optimální
@@ -3487,6 +3783,7 @@
 00959 TSS
 00352 Ú
 00474 Tchaj-wanská souřadnicová síť
+06263 Teherán
 00239 Teplota
 00354 Č
 01089 Čt
@@ -3505,21 +3802,26 @@
 05079 Čas posledního okruhu
 00503 Čas posledního okruhu
 00792 Čas PO
-05077 Stopky
-00501 Stopky
-00790 Stopky
+05077 Časovač
+00501 Časovač
+00790 Časovač
 02911 Čas
 05108 Zbývající čas
 00527 Zbývající čas
 00816 Zbýv. čas
 05214 Hodiny
 00629 Hodiny
-00918 D.DOBA
+00918 HODINY
 00270 Zadat akt nad výšku?
+06067 Zadat tlak při hladině moře?
+06264 Tokio
 05246 Účinnost šlapání
 00661 Účinnost šlapání
 02899 Účin. šlap.
 00154 Sjezdy celk.
+06070 Celkový čas
+06071 Celkový čas
+06072 Celk. čas
 05205 Směr pohybu
 00620 Směr pohybu
 00909 Směr poh.
@@ -3558,7 +3860,7 @@
 00206 Skutečný
 01087 Út
 02772 d
-02720 tp/m
+02720 t/m
 02721 kCal
 02722 °C
 02723 cm
@@ -3573,6 +3875,7 @@
 02733 fpmu
 02731 fa
 02734 st.
+06124 pat.
 02735 gal
 02736 G
 02716 ° G
@@ -3629,7 +3932,7 @@
 05441 zmin
 05698 s
 06043 Sady
-02780 krm
+02780 z/m
 02718 ° S
 02774 utc
 02717 ° M
@@ -3639,7 +3942,15 @@
 02778 yd
 03389 ft/h
 03390 m/h
+06211 USA – Aljaška
+06212 USA – Arizona
+06213 USA – Atlantik
+06214 USA – střed
+06215 USA – východ
+06216 USA – Havaj
+06217 USA – horský
 00475 U.S. National
+06218 USA – Pacifik
 00487 UTM
 00476 UTM UPS
 01084 ID přístroje
@@ -3651,7 +3962,7 @@
 02494 Dokud je ST < %1 tepů/minutu
 02495 Dokud je ST < %1 % RST
 02496 Dokud je ST < %1 % maximální
-02501 Stiskněte tlačítko LAP
+02501 Do stisknutí tlačítka Lap
 02513 Max. výk. posl. kr. > %1% FTP
 02512 Max. výk. posl. kr. > %1 W
 02506 Max. výk. posl. kr. < %1 W
@@ -3668,17 +3979,17 @@
 00273 Použít GPS
 00478 Uživatelská souřadnicová síť
 00208 Uživatel
-05787 Stiskem START spáruj.
+06414 Spár.VIRB
 05149 VMG
 00568 VMG
 00857 VMG
-03540 Vynikající
+03540 Velmi dobré
 03542 Uspokojivá
 03541 Dobrý
 03543 Špatný
-03539 Mimořádně vysoká
+03539 Vynikající
 00137 Nová VO2 max. Kolo
-03627 Nová VO2 max.
+03627 Nová VO2 Max.
 03628 Cyklistika
 01796 VO2 max.
 05517 Běžte 10:00 venku s ST pro dosažení VO2 max.
@@ -3693,6 +4004,7 @@
 02878 Vert. pom.
 00260 Vertikální rychlost
 00387 Vysoká
+06265 Vladivostok
 01117 Nalezeny hodinky!
 00171 Pá
 00167 Po
@@ -3711,20 +4023,22 @@
 00413 Pro zobrazení dat uložte aktivitu.
 03730 Tempo
 00400 Tempo
-03728 Běhy
+03728 Sjezdy
 03725 Rychlost
 00405 Kroky
 03729 Počet záb.
 03732 Záběry
 05855 Tento týden
 00399 Čas
-03734 běhy
+06139 patra
+03734 sjezdy
 03733 záběry
 00391 Poslední jízda
 00390 Poslední běh
 00389 Poslední aktivita
 00392 Poslední plavání
 00362 Můj den
+06033 Aktualizace seznamu sítí Wi-Fi
 03300 Opak.: %1
 03302 Vzdál. úseku
 03301 Čas úseku
@@ -3756,8 +4070,11 @@
 02915 Adresa MAC Wi-Fi
 00348 Pro výpočet HARP jsou nutné údaje o větru.
 00336 Vítr
+06266 Windhoek
 02524 Trénink skončil
 00247 Srd. tep na záp.
+06205 Připraveno k přijímání
+06458 Čekejte na GPS
 01079 Ano
 02692 Z0
 02693 Z1
@@ -3769,7 +4086,7 @@
 02699 Z7
 02683 dop.
 02685 dop.
-02519 tp/m
+02519 t/m
 04951 dny
 00297 Dogleg
 03738 %1 má slabou baterii.
@@ -3777,10 +4094,14 @@
 00436 hddd.ddddd°
 00437 hddd°mm.mmm'
 00438 hddd°mm'ss.s"
+06077 %1 hPa za 3 hod.
+06078 %1 in. za 3 hod.
 03736 %1 je na stopě.
 03735 %1 ztratil příjem GPS.
+06076 %1 mb za 3 hod.
+06079 %1 mmHg za 3 hod.
 02535 na %1
 02684 odp.
 02686 odp
 02520 o/m
-02521 krm
+02521 z/m

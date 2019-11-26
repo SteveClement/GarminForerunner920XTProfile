@@ -1,10 +1,10 @@
-006-D6593-01|v02.40
+006-D6593-01|v03.10
 00001 Nederlands
 00252 12-uurs
 00253 24-uurs
 00254 48-uurs
 00251 6-uurs
-00236 Hoogtemeter
+00236 Hoogte​meter
 02977 Voeg toe
 05882 Afspraak
 05886 Bedtijd
@@ -13,7 +13,7 @@
 05881 Herinnering
 05883 Training
 05879 Opstaan
-05880 Workouts
+05880 Workout
 01625 Aangepast
 01621 Drinken
 01622 Eten
@@ -34,7 +34,7 @@
 01105 Snelheid
 01099 Tijd
 01101 Wandelen
-00238 Hoogtemeter
+00238 Hoogte​meter
 05218 Stijging ronde
 00633 Stijging ronde
 00922 Stijg. rnd
@@ -62,12 +62,28 @@
 05022 Verwijder uit favorieten
 05021 Stel als favoriet in
 02594 Apr
+06327 Gefeliciteerd. Plan voltooid.
+06316 Uitstekend
+06317 Goed zo.
+06318 Ruimte v verbetering
+06321 Stel een Garmin Coach trainings-plan in met Garmin Connect Mobile.
+06322 Synchroniseren met Garmin Connect Mobile voor vlgn workout.
+06320 Rustdag
+06326 Synchr. voor vlgnd workout.
+06324 Vandaag
+06325 Morgen
+06315 Week %1
+06319 Workout voltooid
+06323 Gisteren
 02598 Aug
 00158 Gem.
+06430 Abnormale hartslag
+06433 Abnormale HS gedetecteerd.
 00419 Actief
 03722 Actieve calor.
 00347 Voeg toe
 02894 Aeroob TE
+06223 Almaty
 00343 Hoogte (AGL) in voet
 05351 Lengte/Breedte
 00755 Lengte/Breedte
@@ -85,6 +101,12 @@
 02534 Elke
 02912 Stijging
 03740 Verbinding met asset tracker verbroken.
+06465 Gn honden aangesl.
+06224 Auckland
+06222 Adelaide
+06228 Brisbane
+06257 Perth
+06262 Tasmanië
 00439 Oostenrijks grid
 01498 Automatisch kalibreren
 00204 Automatisch
@@ -171,6 +193,7 @@
 06059 Houd adem in
 02528 Terug
 02586 Terug
+06225 Bangkok
 00255 Grafiek
 05525 Batterijniveau
 05526 Batterijniveau
@@ -181,7 +204,9 @@
 01449 Beste vermogen!
 02487 Fietsen
 02914 Bluetooth MAC-adres
+06226 Bombay
 00440 Borneo RSO
+06227 Brasilia
 02529 Borst
 02587 Borst
 00441 Brits grid
@@ -190,6 +215,11 @@
 05075 Geen gebeurtenissen
 00127 Nu
 03624 Kies veld %1
+06506 Niet-toegew clubsensoren opnw toewijzen of verwijderen.
+06505 Een of meer clubsensoren zijn niet toegewezen.
+06510 Tracking van scores/statistieken ingeschakeld.
+06511 Upload scorekrten nr Garmin Golf v geavanc. stats.
+06503 Welke club?
 05984 Herhalingen
 05985 Stel timer in
 00198 Kalibreer kompas
@@ -201,6 +231,7 @@
 00195 Opnieuw
 00194 Start
 00121 Wachten op gegevens
+06229 Caïro
 00272 Kalibratie gereed
 01499 Kalibreer
 02491 Cal.
@@ -211,7 +242,10 @@
 00528 Calorieën te gaan
 00817 Cal. te gn
 01081 Annuleer
+06230 Kaapstad
+06231 Kaapverdië
 02707 Eenheden
+06232 Chita
 05301 Cadans zittend
 00716 Cadans zittend
 01005 Cad. zit.
@@ -269,9 +303,9 @@
 05282 Ronde PMO
 00697 Ronde PMO
 00986 Rnd PMO
-05280 PCO
-00695 PCO
-00984 PCO
+05280 PMO
+00695 PMO
+00984 PMO
 05279 Pedaalgewicht
 00694 Pedaalgewicht
 00983 Pdl gew.
@@ -351,6 +385,7 @@
 00488 DX
 00489 DY
 00490 DZ
+06233 Darwin
 02913 Daling
 05350 Bestemmings​locatie
 00754 Bestemmings​locatie
@@ -409,9 +444,11 @@
 00762 Tijd tot volgende
 01051 ETE volg.
 02689 O
+06235 Ekaterinburg
 05083 Verstreken tijd
 00507 Verstreken tijd
 00796 Verstreken
+06234 Eniwetok
 00282 Voer azimut in
 00287 DA in meters
 00286 DF in meters
@@ -421,28 +458,37 @@
 00292 Voer hoogte in
 00275 Oostwaarde in meters
 00276 Noordwaarde in meters
-00277 Invoeren: breedtegraad
+00277 Breedtegr inv
 00278 Voer locatie in
 00279 Voer lengtegraad in
 00280 Voer offset 1 in
 00281 Voer offset 2 in
 00289 Mag. afwijking
+06068 Voer druk in
 00288 Voer schaal in
 00350 Voer snelheid in
 05084 Geschatte finishtijd
 00508 Geschatte finishtijd
 02870 Ges. finish
+06178 Geschatte totale afstand
+06179 Gesch. totale afstand
+06180 Sch. t. afst
 00444 Ests grid
+06236 Europa - Centraal
+06237 Europa - Oost
+06238 Europa - West
 02714 Verlopen
 02852 Extern profiel
 02592 Feb
 03304 Druk in voor hardlopen, fietsen en meer.
-05709 Indrukken voor activiteitinstell., training en meer.
+05709 Houd ingedrukt v activit-instell, training en meer
 03307 Indrukken voor muziek, locatie opsl. & and. bed.
-03306 Houd ingedr. om watch face en inst. te wijzigen.
+03306 Hd ingedr om watch face en instell te wijz.
 03303 Tip:
 03305 Druk in voor stappen, weer en andere widgets.
 00018 Coördinaten
+06453 %1 ronden
+06454 %1 rust
 01336 FTP gedetec.
 01341 Accepteer
 01342 Weiger
@@ -492,13 +538,23 @@
 05373 Veld 4
 02863 Veld 4
 02904 Veld 4
+06239 Fiji
 05651 Vind mijn telefoon
 00445 Fins grid
+06087 Verdiepingen omhoog
+06090 Verdiepingen omhoog
+06093 Trp. omhg.
+06088 Verdiepingen omlaag
+06091 Verdiepingen omlaag
+06094 Trp. omlg.
+06089 Verdiepingen per minuut
+06092 Verdiepingen/minuut
+06095 Trap./min.
 00361 Verdiepingen
 02530 Vlinder
 02588 Vlinder
 00331 Voorwaartse beweging
-02527 Gratis
+02527 Vrij
 02585 Vrij
 01090 Vr
 05361 Voor
@@ -538,6 +594,7 @@
 00325 Gemist - links
 00326 Gemist - rechts
 03678 Geen shots vastgelegd
+06483 Straffen
 00322 Putts
 05932 Rough
 03671 Score
@@ -615,25 +672,32 @@
 00840 GCT
 05132 Grondcontacttijd
 00551 Grondcontacttijd
+06417 Later
+06418 Nee bedankt
+06303 Meer weten over Physio TrueUp?
 05594 Niet meer tonen
 05592 Verwijder uw RD-sensor.
 05593 OK
 03588 12-uurs
 03589 24-uurs
+06416 Ja
 05609 Ga naar start
+05912 Kalibreren/opslaan
 05610 Gooi weg
 05608 Ronde
 05607 Hervat later
 05605 Hervat
 05606 Sla op
 05757 OK
-05758 Herstel
+05758 Herstellen
 05756 Hervat
 05795 Bekijk
+05770 OK
 05755 Stopwatch
 03275 Start workout
 03277 Sla over
-03274 Vndg: %1
+03274 Vandaag: %1
+06287 Vandaag: %1 workouts
 03276 Bekijk
 01315 Met %1
 02649 Met %1
@@ -641,6 +705,16 @@
 02651 Met %1, %2, %3
 02652 Met %1, %2, %3, %4
 02653 Met %1, %2, %3, %4, %5
+06130 Verwijder
+06133 Wijzig naam
+06129 Vergeet gekoppeld toestel
+06125 XERO locaties
+06128 Privé
+06127 Openbaar
+06132 Verzend
+06126 Deelmodus
+06138 Gekoppeld toestel vergeten?
+06137 Nieuwe XERO loc. Navigeren?
 05488 Stressscore
 05486 Hoge stress
 05484 Lage stress
@@ -687,8 +761,8 @@
 05195 Tijd in hartslagzone 6
 00611 Tijd in hartslagzone 6
 00900 HS zone 6
-05188 HS te gaan
-00604 HS te gaan
+05188 Hartslag te gaan
+00604 Hartslag te gaan
 00893 HS te gaan
 02518 HS-zone %1
 05173 HS-zone
@@ -698,12 +772,43 @@
 00264 Hectopascal
 02640 Druk op START
 03319 Drk op START om te meten
+06240 Hong Kong
+06140 XERO locatie
 03776 uur
 00443 EOV Hungarian
 05254 Intensity Factor
 00669 Intensity Factor
 00958 IF
 02532 IM
+06387 Knop indruk. voor annul.
+06388 SOS wordt gestart. Houd het inReach toestel ingeschakeld en in de buurt.
+06386 SOS wordt gestart over
+06389 Niet verbonden. Contr of inReach dichtbij is en ingesch. SOS wordt verz als tstl is verb.
+06390 SOS verzonden. Controleer of het inReach toestel vrij zicht heeft op de lucht.
+06364 Antwoord
+06375 Snel bericht kiezen
+06373 Snel bericht kiezen
+06372 Antwoord
+06374 Typ bericht
+06394 Dit is een noodgeval, ik vraag u om hulp te sturen.
+06396 Er is een ongeluk geweest. Stuur hulp.
+06401 Dodelijk ongeval. Stuur hulp.
+06402 Medisch noodgeval. Hulp nodig.
+06399 Een lid van onze groep is vermist.
+06400 Natuurramp. Hulp nodig.
+06398 Niet-levensbedreigend noodgeval. Stuur hulp.
+06397 Ik ben mijn groep kwijtgeraakt.
+06404 Ernstig letsel. Stuur hulp.
+06395 Mijn voertuig werkt niet.
+06403 Noodgeval met vaartuig. Hulp nodig.
+06371 SOS wordt geannul.
+06366 Afstand
+06369 SOS wordt gestart
+06365 Koppel inReach
+06370 SOS bezig
+06368 Zoeken naar %1
+06367 Timer
+06241 IJsland
 00447 IJslands grid
 00261 Inch (Hg)
 00451 India Zone 0
@@ -716,7 +821,7 @@
 00458 India Zone IVA
 00459 India Zone IVB
 00448 Indon. Equat.
-00449 Indonesian Irian
+00449 Indonesisch Irian grid
 00450 Indon. South.
 05197 Interval gem. %HSR
 00613 Interval gem. %HSR
@@ -745,13 +850,13 @@
 05325 Interval slag/baan
 00733 Interval slag/baan
 01022 Int slgn/bn
-00384 Doelaant. min. intens. training
+00384 Doel min intens. training
 05095 Interval Afstand
 00517 Interval Afstand
 00806 Int afstand
 05336 Intervalbanen
 00740 Intervalbanen
-01029 Int. banen
+01029 Int.banen
 05118 Intervaltempo
 00537 Intervaltempo
 00826 Int tempo
@@ -763,16 +868,23 @@
 00794 Intervaltijd
 00460 Iers (IG)
 00461 Iers (ITM)
+06242 Irkutsk
+06243 Islamabad
 02591 Jan
 02597 Jul
 02596 Jun
+06244 Jakarta
 00242 Km
 00339 K-vrije val
 00341 K-open
 00340 K-statisch
+06245 Kaboel
+06246 Kaliningrad
+06247 Kathmandu
 05233 Arbeid
 00648 Arbeid
 00937 Arbeid
+06248 Krasnoyarsk
 01318 De test is voltooid als de drempel is gedetecteerd.
 01317 Intensiteitsdoelen worden elke 3 à 4 min. verhoogd.
 01316 Warm 10 tot 15 minuten op met een laag tempo.
@@ -801,7 +913,6 @@
 03240 Op basis van
 03256 Op basis van
 03643 Modus
-03193 Bediening
 03641 Scherm
 03210 Afstand
 01778 Taal voor tekst
@@ -874,6 +985,7 @@
 05247 Balans
 00662 Balans
 00951 Balans
+06249 Lagos
 00479 Lambert Conic 1-parallel
 00480 Lambert Conic 2-parallel
 05092 Rondeafstand
@@ -988,7 +1100,7 @@
 05343 Swolf laatste baan
 00747 Swolf laatste baan
 01036 LR Swolf
-00155 L. afdaling
+00155 Ltste run
 00430 Breedtegraad centraal punt
 00431 Breedtegraad parallel 1
 00432 Breedtegraad parallel 2
@@ -1015,6 +1127,7 @@
 00493 Ketennummer
 00463 Loran TD
 03739 Communicatie met %1 weggevallen.
+06298 Huidige locatie
 02593 Mrt
 00157 Max.
 02595 Mei
@@ -1077,8 +1190,12 @@
 01208 Batterij fietslamp is bijna leeg.
 02935 Batterij fietslamp %1 is bijna leeg.
 01184 Batterij cadanssensor bijna leeg.
+06391 SOS wordt geannuleerd
 01178 Voltooi multisportactiviteit om profielselectie te wijzigen.
-05797 Max. koerspunten van %1 is bereikt. Laatste %2 punten niet getoond.
+06175 Er kon geen bewerkbare kopie van de koers worden gemaakt.
+06083 Max.antal koersen overschreden. Sommige koersen niet geïmporteerd.
+06082 Max. koersopslag overschreden. Sommige koersen niet geïmporteerd.
+05797 Max. koerspunt %1 overschreden. Ltste %2 pt niet tonen.
 03586 Afstand tot bestemming %1
 03587 Tijd tot bestemming %1
 05943 Batterij extra scherm bijna leeg.
@@ -1092,15 +1209,17 @@
 02938 Batterij koplamp %1 is bijna leeg.
 01232 Houd een knop ingedrukt om het toestel te ontgrendelen.
 01231 Houd DOWN ingedrukt voor widgets.
+06073 Houd de sneltoets vast om toestel te vergrendelen/ontgrendelen.
+06081 Waarschuwing ieder uur
 01191 In gewenste zone
 01192 Ongeldig bericht
 03581 Gevarenzone %1 verlaten.
 01229 LiveTrack gestopt
 01228 LiveTrack gestart
 02948 LiveTrack mislukt
-01197 Meldingswaarden Hoog en Laag aangepast.
+01197 Meldings​waarden Hoog en Laag aangepast.
 02933 Batterij SMO2-sensor bijna leeg.
-01195 Activiteitenopslag-ruimte is bijna vol. Uploaden naar Garmin Connect.
+01195 Activit.opsl.ruimte bijna vol. Uploaden naar Garmin Connect.
 01196 Activiteitenopslag-ruimte is vol. Wis activiteiten om ruimte vrij te maken.
 03705 Meerdere TruSwing. Verplaats en prob. opnieuw.
 05495 Vergrendeld na overgang. Houd een knop ingedrukt om te ontgrendelen.
@@ -1112,11 +1231,13 @@
 00308 Druk op START voor meer golfopties.
 02934 Batterij RD-sensor bijna leeg.
 01216 Batterij radar is bijna leeg.
+06392 Maak verbinding met inReach toestel om SOS te annuleren.
 01201 Herstelhartslag %1
+06393 inReach SOS geannuleerd
 05990 Druk om sets te starten/stoppen.
 02932 Batterij schakelsensor bijna leeg.
 01188 Shimano Di2 batterij is bijna leeg.
-01198 Meldingswaarden Traag en Snel aangepast.
+01198 Meldings​waarden Traag en Snel aangepast.
 01202 Batterij snelheid-/cadanssensor bijna leeg.
 01204 Batterij snelheidsensor\nbijna leeg.
 01206 Start de timer om de workout te beginnen.
@@ -1129,6 +1250,12 @@
 05991 Set %1
 01207 VIRB batterij bijna leeg.
 01222 Wielmaat berekend.
+06336 Verbinding met inReach verbroken. Zorg dat toestel binnen bereik is.
+06335 De inReach batterij is bijna leeg.
+06410 Kan bericht niet verzenden. Probeer opnieuw op het inReach toestel.
+06413 Kan bericht niet verzenden. Bericht is te lang.
+06411 Kan geen berichten verzenden naar inReach toestel als verificatie aan is.
+06412 Niet verzonden. Verklein aantal contactpersonen en probeer opnieuw.
 01118 Metronoom
 00465 MGRS
 02321 MOB
@@ -1141,6 +1268,7 @@
 03569 Shuffle
 05702 Start muziek op telefoon
 00351 M
+06250 Magadan
 00205 Magnetisch
 00464 Maidenhead
 00423 Datum
@@ -1163,25 +1291,30 @@
 05241 Maximum vermogen
 00656 Maximum vermogen
 00945 Max verm.
-05148 Maximumsnelheid
-00567 Maximumsnelheid
+05148 Maximum​snelheid
+00567 Maximum​snelheid
 00856 Max snlhd
 05796 Meten
 00267 meter/uur
 00268 meter/min.
 00269 meter/sec.
+06219 Mexico - Central
+06220 Mexico - Mountain
+06221 Mexico - Pacific
+06251 Mid-Atlantic
 00243 Mijlen
 00263 Millibars
 00262 mmHg
 00212 Mils
-05222 Min. Hoogte
-00637 Min. Hoogte
+05222 Min. hoogte
+00637 Min. hoogte
 00926 Min. hoog.
 02713 Ontbreekt
 02531 Wissel
 02589 Wissel
 00386 Licht
 01086 Ma
+06252 Moskou
 01450 Meeste stijging!
 05249 Gemiddelde balans 10 seconden
 00664 Gem. balans 10 s.
@@ -1207,6 +1340,7 @@
 05086 Multisporttijd
 00510 Multisporttijd
 00799 Tijd MS
+06253 Muscat
 05378 Spierzuurstof​verzadiging %
 02868 Spierzuurstofverz. %
 02909 SMO2
@@ -1218,8 +1352,9 @@
 00103 Koers
 04609 NO
 02606 Cadans verbonden
-03312 Kies lay-out
+03312 Kies indeling
 02638 Verbonden
+06154 Functie toegevoegd
 03613 Koers gestart
 02614 Di2 verbonden
 05948 Scherm verbonden
@@ -1232,6 +1367,7 @@
 02608 Ext. HS verbonden
 02616 Koplamp verbonden
 02619 Koplamp ontkopp.
+06328 Hoe zwaar was het?
 02615 Lamp gekoppeld
 02618 Lamp losgekoppeld
 03311 MO2 verbonden
@@ -1252,8 +1388,10 @@
 05563 Open mobiele app op tel. om gegevens te vernieuwen.
 05562 Verbind opnieuw met tel. om data te vernieuwen.
 05617 %1 resterend
+06450 Antw.
 03459 Segment verlaten
 02613 %1 verbonden
+06459 Sensorfout
 02637 Klaar
 03309 Schakelen verbond.
 02610 Snelh/cad verbond.
@@ -1267,6 +1405,7 @@
 02611 VIRB verbonden
 02604 Wacht op GPS
 03313 Widget toegevoegd
+06341 inReach verbonden
 02601 Nov
 05834 Ga fietsen met vermogensmeter om uw status te zien.
 05832 Ga twee keer buiten hardlopen met hartslagmeter om uw status te zien.
@@ -1306,6 +1445,7 @@
 03004 Stel snelheid in
 02991 Stel slagsnelheid in
 02990 Stel slagsnelheid in
+06428 Stel drempel in
 03009 Stel aantal tanden in
 03010 Stel verticale snelheid in
 02992 Stel gewicht in
@@ -1317,6 +1457,7 @@
 02687 N
 00466 Nieuw-Zeeland
 00467 Nieuw Zeeland TM
+06254 Newfoundland
 01080 Nee
 01451 Geen records gevestigd of gedownload.
 05257 Normalized Power ronde
@@ -1333,6 +1474,7 @@
 00931 Barometer
 00202 Noordreferentie
 00245 Niet verbonden
+06255 Novosibirsk
 00211 Graden
 02600 Okt
 05643 Activiteiten
@@ -1345,6 +1487,7 @@
 00625 Uit koers
 00914 Uit koers
 00330 Openhoogte
+06452 Open ruststap
 00385 of
 05330 Gemiddelde afstand per slag
 05397 Gem. afstand per slag
@@ -1388,10 +1531,14 @@
 01363 Goed
 01360 Slecht
 01359 Prestatieconditie
+06415 Physio TrueUp synchroniseert activiteiten die op andere Garmin toestellen worden uitgevoerd, waardoor uw toestel uw trainingsstatus en fitness nauwkeurig kan weergeven.
 02682 PM
-05970 Hoogtemeter
+06170 Wekker
+05970 Hoogte​meter
 05982 Schermverlichting: %1%
 05969 Barometer
+06167 Helderheid
+06187 Deel hartslag
 05971 Kompas
 05827 Niet storen: Uit
 05826 Niet storen: Aan
@@ -1400,15 +1547,22 @@
 05983 Zaklamp
 05514 Vergrendel knoppen
 03548 Muziek​regelaars
+06171 %1 alarmen
 05794 Koppel VIRB
+06342 Koppel inReach
+06168 Telefoon
 03544 Schakel uit
-03550 Sla locatie op
+06343 SOS bezig
+03550 Locatie opslaan
+06169 Select. v. opnw ordenen
 03554 Stel tijd in met GPS
 03555 Stopwatch
+06194 Zon op en onder
 03551 Synchroni​seren
 03558 Vind mijn telefoon
 03557 Muziek​regelaars
 03559 Synchroni​seren
+06206 Tijdzones hoogte
 03556 Timer
 03549 VIRB
 03553 Wi-Fi
@@ -1491,16 +1645,22 @@
 05204 Prestatie​omstandigheden
 00619 Prestatiecondit.
 00908 Prst. omst.
+06256 Petropavlovsk-Kam.
 00422 Formaat
 02981 Energ. besp.
 00259 Druk
-02705 Projec. via-p
+02705 Projec. wayp
 00468 QNG-grid
 05533 10 km
 05532 5 km
 05534 Halve
 05535 Marathon
 05531 Raceprognose
+06331 Makkelijk
+06333 Moeilijk
+06332 Gematigd
+06330 Zeer eenvoud.
+06334 Erg moeilijk
 00359 Gem. HSR %1
 00358 Afg. 7 dag.
 05164 Gemiddelde cadans
@@ -1538,10 +1698,11 @@
 05986 Herhalingen
 05988 Herhal.
 02478 Rust
-05344 Rust-timer
-00748 Rust-timer
-01037 Rust-timer
+05344 Rusttijd
+00748 Rusttijd
+01037 Rusttijd
 00417 In rust
+06258 Riyadh
 02486 Hardlopen
 05676 Hoogte:
 05677 Positie:
@@ -1570,7 +1731,7 @@
 01850 Pedaallengte
 01852 Handmatig
 01854 Iedere seconde
-01853 Smart
+01853 Slim
 01855 Standaardinstellingen van het toestel worden hersteld.
 01857 Kilometers
 01856 Mijlen
@@ -1592,6 +1753,8 @@
 01984 Rechts
 01865 Centimeter
 01864 Voet
+06385 SOS annuleren?
+06384 Gebruik SOS alleen bij nood. Doorgaan?
 01678 Auto
 01679 Individueel
 01867 Annuleer
@@ -1616,6 +1779,7 @@
 00147 Hartslag
 05847 Start
 01877 Nee
+06299 Niet nu
 05828 OK
 01879 Uit
 01878 Aan
@@ -1626,6 +1790,7 @@
 02646 Hiermee verwijdert u %1 multisportprofielen.
 02645 Hiermee verwijdert u multisportprofiel %1.
 00148 Vermogen
+06281 Overdracht al bezig.
 01902 Stijgings​waarschuwing
 01798 Autodetectie
 03481 Segment verwijderen?
@@ -1639,20 +1804,22 @@
 01677 Configuratie
 03665 R momenteel gaande.
 03101 Nieuwe maken?
-03102 Gegevensopslag
+06176 Bewerkbare kopie van koers maken. Sommige gegevens gaan verloren.
+03102 Gege​vens​opslag
 01806 Activiteiten wissen?
 01805 Activiteit wissen?
 01807 Alles wissen?
 00096 Koers wissen?
 00100 Locatie wissen?
 03582 Gevarenzonepunt verwijderen?
-03127 Watch face verwijderen?
+03127 Wijzerplaat verwijderen?
 01808 Workout wissen?
 03154 App wordt verwijderd van het toestel.
 01903 Dalings​waarschuwing
 01809 Gooi weg?
 01810 Afstand
 03104 Hoogte
+06302 Wilt u Physio TrueUp inschakelen?
 01811 LiveTrack beëindigen?
 00309 Einde ronde?
 02323 MOB-navigatie sluiten?
@@ -1670,7 +1837,7 @@
 03106 Oriëntatie
 03111 Alpineskiën
 03115 Cardio
-03110 XC-ski
+03110 Langlaufen
 03108 Fietsen
 03109 Hiken
 03113 Klimmen
@@ -1680,13 +1847,16 @@
 03116 Kracht
 03112 Wandelen
 03119 Tempo/snelheid
+06504 Een andere clubsensor koppelen?
 03098 Met telefoon koppelen?
 03120 Time-out spaarstand
 03482 Segment verwijderen?
+05913 Klaar om uw activiteit op te slaan?
 03121 Opnamemodus
 06012 Even uitrusten?
 05612 %1 starten?
 01829 Wissen?
+06192 Zone hernoemen?
 01830 Herhaal
 05545 Std.instellingen vermogenszones herstellen?
 01826 Totalen herstellen?
@@ -1708,11 +1878,14 @@
 03125 Gebruikers​locaties
 03126 Gewicht
 03213 Er zijn meer widgets besch.
+06145 Aan welke pols zit uw horloge nu?
 01876 Ja
 00113 Meters
 00114 Yards
 01883 Zwembadgrootte wordt gewijzigd in %1 meter, o.b.v. workout.
 01884 Zwembadgrootte wordt gewijzigd in %1 yards, o.b.v. workout.
+06146 Kalibratieherinnering instellen voor elke rit?
+06147 Wilt u kalibreren?
 02213 Kalibreer
 02218 Kalibratie mislukt\nFout: %1
 02211 Kalibratie is aanbev. Maak los van pedalen voor kalibratie.
@@ -1730,6 +1903,7 @@
 01568 Nee
 01566 Wissen?
 01567 Ja
+06282 Tellen van herhalingen inschakelen?
 01569 Downloaden mislukt. Opnieuw?
 01571 Nee
 01570 Ja
@@ -1745,6 +1919,7 @@
 01534 Trap om sensor te activeren.
 03061 Loop rond om de sensor te activeren.
 01539 Zet de radar aan om te verbinden.
+06340 Zet inReach aan en schakel de ANT+ instelling in om te verbinden.
 03060 De schakelsensor verbinden: Schakel de voor- of achter​versnellingen.
 01537 Shimano Di2 sensor verbinden: Schakel de voor- of achter​versnellingen.
 01535 Trap om sensor te activeren.
@@ -1756,10 +1931,11 @@
 01886 Handmatig
 05771 Controleer of het horloge past en probeer het opnieuw.
 05772 OK
-05499 Update mislukt. Ga naar sensormenu en probeer het opnieuw.
+05499 Bijw mislukt.\nGa naar sensormenu en probeer opnw.
 01888 OK
-01887 Bijwerken mislukt. Probeer opnieuw vanaf Garmin Connect.
-00062 Bijwerken mislukt. Probeer het opnieuw.
+01887 Bijwerken mislukt. \nProbeer opnieuw vanaf Garmin Connect.
+00062 Bijwerken mislukt. \nProbeer opnieuw.
+05820 Loopbandkalibratie overslaan?
 01589 Accepteer
 01591 Tempo: %1
 01592 Snelh: %1
@@ -1784,6 +1960,8 @@
 01901 Opgeslagen
 03214 Bekijk
 02599 Sep
+06432 Waarschuwings​drempel
+06431 Status
 01397 Interval %1
 01396 Intervallen
 01395 Ronde %1
@@ -1815,7 +1993,7 @@
 01382 Gisteren
 00080 Overzicht
 00079 Overgang %1
-01990 Wis
+01990 Verwijder
 01986 Details
 01989 Download hartslag
 00045 Ga
@@ -1829,45 +2007,51 @@
 00064 Tijd in zone
 00046 TracBack
 03492 Training Effect
-03145 Voeg apps toe
+06144 Voeg toe
 02009 Fiets binnen
 02008 Fietsen
 05841 Varen
+06103 Boksen
 02017 Brick
 02026 Cardio
 02020 Klimmen
-02022 XC-ski
+02022 Langlaufen
 02002 Aangepast
 02016 Duatlon
+06101 Crosstrainer
+06104 Floor Climb
 05867 Golfen
 05500 Activiteitnaam
 02019 Hiken
 02031 Jumpmaster
-03150 Mountainbike
-02012 Mountain
+06283 Kajakken
+03150 MTB
+02012 MTB
 03151 Navigeer
 02014 Open water
 02018 Overig
 02013 Zwembad
 02007 Race
-02011 Weg
+02011 Wielrennen
 02030 Indoorroeien
 02029 Roeien
 02004 Hardl.binnen
 05458 Indoortrack
 02003 Hardlopen
-02028 Peddelsurfen
+02028 Peddel​surfen
 02021 Skiën
-02023 Snowboarden
+02023 Snow​boarden
+06100 Stair stepper
 02025 Kracht
 04993 Zwemloop
 02032 Tactisch
 03152 Volg me
-02006 Boslopen
+02006 Trail run
 02010 Trainer
 02005 Loopband
 02015 Triatlon
 02027 Wandelen
+06102 Yoga
 02000 OK
 03148 Sport
 01999 Multisport
@@ -1878,7 +2062,7 @@
 02082 3D-snelheid
 02079 Accentkleur
 02077 Voeg activiteit toe
-02052 Waarschuwingen
+02052 Waar​schu​wingen
 00230 Automatisch klimmen
 02070 Autom. - %1
 02080 Auto Lap
@@ -1886,12 +2070,16 @@
 02081 Automatische afdaling
 03620 Automatische afdaling
 02059 Auto Scroll
+06284 Automatisch instellen
+06285 BÈTA
 03156 Segment​waarschuwingen
 02078 Achtergrondkleur
 05824 Aftellen starten
 02049 Gegevens​schermen
+06280 Bewerk gewicht
 02068 Verlengd
 02066 Snel
+06427 GPS + GALILEO
 03159 GPS + GLONASS
 03158 Normaal (alleen GPS)
 02060 GPS
@@ -1909,19 +2097,23 @@
 02075 Verwijder
 02076 Wijzig naam
 03160 Sorteer
+06084 Herhalingsteller
 02051 Herhaal
 05549 Standaard​instellingen
 02064 Langzaam
 02061 Slagdetectie
+06451 Zwemloop Auto Sport Wijzigen
 02048 Trainingpagina's
 02050 Overgangen
 02063 Zodra gestopt
 02055 %1 yards
-01981 Activiteit tracken
+06420 Alle hard​loopsessies
+06419 Alle zwemsessies
+01981 Activiteiten volgen
 05439 Doelwaar​schuwingen
-01979 Bewegingsmelding
+01979 Bewegings​melding
 03143 Move IQ
-05440 Niet tijdens activiteit
+05440 Niet tij​dens activiteit
 00083 Huidige locatie
 05759 Opgeslagen locaties
 03084 Kies scherm
@@ -1944,7 +2136,7 @@
 02095 Voeg alarm toe
 02094 Alarmen
 05874 Afspraak
-02099 Schermverlichting
+02099 Scherm​verlichting
 05878 Bedtijd
 05876 Les
 02101 Aangepast
@@ -1952,7 +2144,7 @@
 02102 Aangepast
 02105 Dagelijks
 02104 Dagelijks
-02100 Wis
+02100 Verwijder
 02123 Vr
 02122 Vrijdag
 05869 Label
@@ -1983,9 +2175,9 @@
 03169 Werkdagen
 03172 Weekenden
 03171 Weekenden
-05872 Workouts
+05872 Workout
 01607 Voeg nieuw toe
-01620 Waarschuwingen
+01620 Waar​schu​wingen
 01617 Cadans
 01637 Cadans
 01639 Calorieën
@@ -2050,6 +2242,7 @@
 05685 Melding Laag
 01676 Min. hoogte
 01662 Laagste snelheid
+06098 Koersfout
 01694 Uit
 01645 Tempo
 05435 Hoge slagsnelheid
@@ -2099,12 +2292,13 @@
 03223 Auto detectie
 03226 FTP
 03225 Lactaatdrempel
-03224 Max. HS
+03224 Maximum hartslag
 02128 Automatische afstand
 02127 Auto Lap
 03621 Automatische afdaling
 02129 Ronde​waarschuwing
 02126 Ronden
+06429 Waarschuwing abnormale hartslag
 02141 15 seconden
 02143 1 minuut
 02142 30 seconden
@@ -2113,7 +2307,7 @@
 02151 Na zon onder
 02135 Waarschuwingen
 03174 Waarschuwingen
-02130 Schermverlichting
+02130 Scherm​verlichting
 02133 Helderheid
 02136 Beweging
 03176 Beweging
@@ -2121,14 +2315,14 @@
 03173 Knoppen
 05776 Tijdens activiteit
 05774 Tijdens activiteit
-05915 Niet tijdens activiteit
+05915 Niet tij​dens activiteit
 05914 Niet tijdens activit.
 05740 Geen timeout
 02132 Time-out
 03177 Time-out
 05671 Automatisch
 05672 Automatisch
-03655 Baro-horlogemod.
+03655 Barom-horl.modus
 03654 Horlogestand
 02940 Auto
 01209 Auto
@@ -2153,9 +2347,21 @@
 02188 Spaarstand
 02185 Lichtmodus
 02186 Lichtmodus
-02157 Smart Notifications
+02157 Smartphone meldingen
 02158 Stop LiveTrack
 03651 Deel hartslag
+06440 Ik bel je later.
+06449 Hou van je!
+06443 Nee
+06447 Nee, liever niet.
+06441 OK
+06439 Onderweg!
+06446 Onderweg.
+06444 Aan het hardlopen.
+06438 Kan nu niet praten.
+06448 Bedankt!
+06445 Aan het trainen.
+06442 Ja
 05494 Kies activiteit %1
 03579 Selecteer locatie
 00133 Kies app
@@ -2166,18 +2372,26 @@
 03630 Synchroniseer met GPS
 00179 Timer
 00176 Wijzerplaat
+06485 Clubsensoren
+06486 Gekoppelde sensoren
+06487 Gekoppelde sensoren
+06491 Wijs opnieuw toe
+06490 Niet toegewezen
+06488 Niet-toegew sensoren
+06489 Onbekend
 00084 Voeg locatie toe
 00085 Wijziging opslaan?
 00092 Koersen
 00093 Koersen
 00094 Maak nieuw
 00095 Gedownloade races
-00090 Wis
+00090 Verwijder
 00086 Start koers
+06075 Voer koers omgekeerd uit
 00088 Hoogteprofiel
 00087 Kaart
 00089 Naam
-00091 Race
+00091 Wedstrijd
 05516 Aangepast scherm
 00056 Veld 1
 00057 Veld 2
@@ -2195,7 +2409,7 @@
 01728 Kompasvelden
 01717 ConnectIQ velden
 01724 Fiets dynamiek
-03081 Gegevensvelden
+03081 Gege​vens​velden
 01726 Debugvelden
 01712 Afstandsvelden
 01715 Hoogtevelden
@@ -2252,9 +2466,6 @@
 00315 Scorekaart
 03669 Scorekaart
 00314 Score bijhouden
-03163 GPS + GLONASS
-03162 Normaal (alleen GPS)
-02093 Uit
 05539 Activiteittypen
 05540 Alleen fietsen
 05541 Alleen hardlopen
@@ -2264,7 +2475,7 @@
 02249 Fietsen
 03233 Hartslag
 02254 LDHS
-02252 Max. HS
+02252 Maximum hartslag
 03238 Verwijder fietshartslag
 03237 Verwijder hardloophartslag
 03239 Verwijder zwemhartslag
@@ -2319,7 +2530,9 @@
 02194 Handmatig
 02191 Handm./bij waarsch.
 02190 Blijft aan
+06153 Wekker
 03656 Baro-horlogemodus
+06184 Zend hartslag uit
 03268 Wijzig sport
 02410 Dubbel grid
 02409 Houd BACK ingedrukt
@@ -2328,7 +2541,7 @@
 02407 Sneltoetsen
 03265 Ronde
 03266 Navigatie
-02411 Sla locatie op
+02411 Locatie opslaan
 03267 Schermafdruk
 03269 Synchroniseer tijd
 05483 Laatste 7 dagen
@@ -2343,6 +2556,31 @@
 02268 Herstel zones
 02972 Drempel (Z4)
 02969 Warm-up (Z1)
+06354 1 nieuw bericht
+06383 OK
+06382 Select. contactpers
+06358 Conversatie
+06357 Nieuw bericht
+06347 SOS starten
+06352 Laden...
+06363 Ik
+06362 (onbekend)
+06361 Annuleer SOS
+06359 Antwoord
+06360 Zie oudere op inReach
+06349 Berichten
+06380 1 geselecteerd
+06377 Nieuw bericht
+06379 Selecteer contactpersonen
+06381 %1 geselecteerd
+06378 Verzend
+06355 %1 nieuwe bericht.
+06356 Geen nieuwe berichten
+06353 Niet verbonden
+06376 Verz. voorinstell.
+06348 SOS bezig
+06350 Verzend voorinstelling
+06351 Volgen
 02553 Cooldown
 02548 Wijzig workout
 02549 Interval
@@ -2351,12 +2589,9 @@
 02552 Warm-up
 02547 Annuleer workout
 02542 Start workout
-02546 %1 rust
 02543 Wijzig
-02544 %1 ronden
-02545 Open ruststap
 02554 Wijzig rust
-02556 Tijdsduur
+02556 Duur
 02555 Wijzig interval
 02557 Type
 01309 Circa 20-30 min.
@@ -2375,14 +2610,6 @@
 00004 Meer
 00002 Opgeslag. locaties
 02292 Wijzig locatie
-05061 ATV
-05056 Strand
-05036 Fietspad
-05067 Blok, blauw
-05066 Blok, groen
-05065 Blok, rood
-05057 Boothelling
-05047 Gebouw
 05027 Selecteer cat.
 05029 Civiel
 05034 Jagen
@@ -2392,61 +2619,34 @@
 05032 Nuttige punten
 05031 Tekens
 05030 Transport
-05037 Camping
-05050 Auto
-05068 Cirkel, rood
-05058 Duiker in water vlag
-05038 Drinkwater
-05039 Visgebied
-05071 Vlag, blauw
-05070 Vlag, groen
-05069 Vlag, rood
-05062 Wild (groot)
-05063 Wild (klein)
-05051 Tankstation
-05040 Geocaching
-05041 Geocache (gevonden)
-05042 Golfbaan
-05052 Logies
-05055 Medische post
-05074 Punaise, blauw
-05073 Punaise, groen
-05072 Punaise, rood
-05048 Woning
-05053 Restaurant
-05059 Verboden gebied
-05054 Toiletten
-05043 Panorama
-05049 School
-05044 Vakantieoord
-05045 Bergtop
-05060 Zwemwater
-05046 Begin van spoor
-05064 Watergevogelte
-00011 Wis
+00011 Verwijder
 00009 Details
 00013 Hoogte
 00008 Ga naar
 05026 Pictogram
 00010 Naam
 00012 Positie
+06172 Voeg functies toe
 05905 Voeg widget toe
+06191 Waar​schu​wingen
 03595 Kalibreer vermogen
 06064 Wijzig laatste set
 01745 Geschiedenis
+06297 Locatie
 03592 Demp metronoom
 05864 Navigatie-instellingen
 05595 Nabije connecties
-03600 Bedieningsmenu
 03599 Verwijder app
+06174 Verwijder functies
 03597 Verwijder widget
 03598 App opnieuw rangschikken
+06173 Orden functies opnieuw
 03596 Widget opnieuw rangschikken
 01747 Instellingen
 03594 Stop koers
 03488 Stop segment
 01744 Training
-03593 Metronoom weer inschakelen
+03593 Schakel metronoom in
 00005 Bekijk afdalingen
 00006 Pan/Zoom
 03247 Automatisch zoomen
@@ -2465,7 +2665,7 @@
 02312 Bekijk
 02308 Dempen uit
 03255 Vergr. knoppen
-03602 Waarschuwingen
+03602 Waar​schu​wingen
 00016 Ga naar start
 03601 Terug naar start
 00022 Koersen
@@ -2488,7 +2688,7 @@
 00250 Gebruik tijdens het zwemmen
 02920 Alpineskiën
 02924 Cardio
-02919 XC-ski
+02919 Langlaufen
 01121 Fietsen
 02918 Hiken
 02922 Klimmen
@@ -2512,7 +2712,7 @@
 00145 Stappen
 02452 Toon
 03046 Records
-03229 Nieuwe VO2 Max.
+03229 Nieuwe VO2 max.
 03228 Prestatie Conditie
 03227 Prest. Meldingen
 03231 Hersteltijd
@@ -2528,6 +2728,7 @@
 05743 Registreer HSV
 03222 Prestatie​meldingen
 03220 Fysiologie Stat.
+06289 TrueUp
 00107 25 meter
 00109 25 yard
 00110 33 1/3 meter
@@ -2537,14 +2738,19 @@
 00106 Grootte van bad
 02172 Automatisch: %1 mm
 02174 Automatisch nul
+06149 Voeg functies toe
 05652 Voeg nieuw toe
-05978 Schermverlichting
+06150 Wekker
+05978 Scherm​verlichting
+06182 Deel hartslag
 03182 Niet storen
 03183 Vind mijn telefoon
 05979 Zaklamp
-05957 Hoogtemeter
-05980 Schermverlichting
+06151 Wekker
+05957 Hoogte​meter
+05980 Scherm​verlichting
 05956 Barometer
+06183 Zend hartslag uit
 05958 Kompas
 03198 Niet storen
 03199 Vind mijn telefoon
@@ -2555,25 +2761,31 @@
 03196 Schakel uit
 03194 Verwijder
 03195 Sorteer
-03202 Sla locatie op
+03202 Locatie opslaan
 03206 Stel tijd in met GPS
 03207 Stopwatch
+06196 Zon op en onder
 03203 Synchroni​seren
+06197 Tijdzones hoogte
 03208 Timer
 03201 VIRB
 03205 Wi-Fi
+05502 Vergr./ontgr. knoppen
 03184 Muziek​regelaars
 05556 Telefoon
-03179 Bedieningsmenu
+03179 Bediening
 03180 Schakel uit
-03186 Sla locatie op
+03186 Locatie opslaan
 03190 Stel tijd in met GPS
 03191 Stopwatch
+06195 Zon op en onder
 03187 Synchroni​seren
+06193 Tijdzones hoogte
 03192 Timer
 03185 VIRB
 03189 Wi-Fi
 02175 Kalibreer
+06152 Kalibratie​melding
 02171 Pedaallengte
 02177 Schaalfactor - L
 02173 Handmatig: %1 mm
@@ -2630,14 +2842,15 @@
 03458 %1 helling
 03456 Garmin segmenten
 03457 Strava live segmenten
-03463 Wis
+03463 Verwijder
 03462 Hoogteprofiel
 03461 Kaart
 03460 Racetijd
 01501 Voeg nieuwe toe
-01497 Hoogtemeter
+01497 Hoogte​meter
 01500 Barometer
 01508 Cadans - %1
+06484 Clubsensoren
 01496 Kompas
 05945 Scherm - %1
 05496 Bluetooth
@@ -2646,19 +2859,22 @@
 05497 Toon Bluetooth sensors
 01504 Voetsensor - %1
 01503 Hartslag - %1
+06097 XERO locaties
 01512 Lamp - %1
 01502 Lichten
 03055 Spier O2 - %1
 01505 Vermogen - %1
-03054 RD-sensor - 1%
+03054 RD-sensor - %1
 01513 Radar - %1
-03052 Sensors en accessoires
+03052 Sensoren en accessoires
 03053 Schakelen - %1
 01511 Di2 - %1
 01506 Snelh./cad. - %1
 01507 Snelheid - %1
 01510 Tempe - %1
+06457 DogTrack - %1
 01509 VIRB - %1
+06339 inReach - %1
 02166 Over
 01164 Aangepast
 01171 46-36T
@@ -2687,20 +2903,21 @@
 02338 Zoeken
 02342 Zoeken
 03066 Over
-01583 Activiteiten tracken
+01583 Activiteiten volgen
 01579 Activiteiten en apps
 05683 Activiteiten en apps
+06148 Bediening
 04991 Kopieer activiteit
-01580 Huidige app
+06143 Huidige activiteit
 05536 GroupTrack
 03063 Kaart
 01584 Navigatie
 03064 Fysiologische meetwaarden
-01581 Sensors en accessoires
+01581 Sensoren en accessoires
 05649 Instellingen voor %1
 01578 Instellingen
 01585 Systeem
-03065 Gebruikersprofiel
+03065 Gebrui​kers​profiel
 00214 Widgets
 02572 10 km
 02573 1 mijl
@@ -2725,6 +2942,7 @@
 02930 Voorinstellingen versnelling
 02928 Versnelling achter
 00118 Meldingen
+06434 Antwoord met
 02352 Tijdens activiteit
 02353 Niet tijdens activ.
 02354 Tijdens activiteit
@@ -2748,6 +2966,14 @@
 02558 Afstand
 02560 Open
 02559 Tijd
+06310 Coördinaten
+06309 Geschiedenis %1
+06308 Opgeslagen locaties
+06307 Selecteer locatie
+06423 Hardlopen %1
+06421 Hardloopoverzicht
+06424 Zwemmen %1
+06422 Zwemoverzicht
 01237 %1 beschikbaar
 01236 Negeer
 01239 Geschatte tijd: %1 min.
@@ -2759,16 +2985,16 @@
 05859 Software-update
 01238 Update beschikb.
 01760 Automatische vergrendeling
-01763 Schermverlichting
+01763 Scherm​verlichting
 01762 Klok
-01769 Gegevensopslag
+01769 Gege​vens​opslag
 03087 Niet storen
 01774 Iedere seconde
 01768 Notatie
 01759 Sneltoetsen
 01761 Taal voor tekst
 01770 Standaard​instellingen
-01773 Smart
+01773 Slim
 01771 Software-update
 01764 Geluiden
 01758 Systeem
@@ -2778,13 +3004,14 @@
 01775 USB-modus
 01413 Status
 00030 Start opnieuw
-00028 Herstel
-00029 Herstel
+00028 Herstellen
+00029 Herstellen
 00027 Hervat timer
 03610 Geluiden
 00026 Start timer
 02377 12-uurs
 02378 24-uurs
+06085 Per uur
 00040 Tot zonsopgang
 00039 Tot zonsondergang
 02380 Automatisch
@@ -2798,6 +3025,12 @@
 02372 Tijd %1
 02373 Tijdweergave
 02375 Tijd
+06201 Zone toevoegen
+06202 Zone toevoegen
+06203 Wijzig zone
+06199 Wijzig zone
+06200 Verwijder zone
+06198 Hernoem zone
 01596 Fietsen
 05650 Kilometerteller
 01595 Hardlopen
@@ -2813,6 +3046,7 @@
 01601 Intervallen
 03069 Lactaatdrempel-test
 01599 Mijn workouts
+06099 Ademhaling
 03095 Klok
 03091 Kompas
 03089 Huidige afdaling
@@ -2826,9 +3060,9 @@
 03093 Virtual Partner
 03094 Vermogen
 01795 Pauzescherm
-01780 Hardloopdynamiek 2
+01780 Hardloop​dynamiek 2
 01779 Hardloop​dynamiek
-06011 Stel in
+06011 Ingesteld
 03090 Totaal afdalingen
 01603 Race een activiteit
 03067 Segmenten
@@ -2860,8 +3094,12 @@
 02401 Lengte
 02405 Man
 02404 Vermogenszones
-02398 Gebruikersprofiel
+02398 Gebrui​kers​profiel
 02402 Gewicht
+06270 Nu kalibreren?
+06269 Cranklengte instellen
+06271 Sla over
+06268 Vector verbonden
 02418 Burst
 02416 Foto
 05887 Slaapmodus camera
@@ -2905,16 +3143,17 @@
 02412 Stel tempo in
 02413 Stel snelheid in
 00226 ABC
-00222 Hoogtemeter
+00222 Hoogte​meter
 00221 Barometer
 00218 Agenda
 00415 Calorieën
 00215 Klok
 00223 Kompas
-06065 Verdiepingen omhoog
+06065 Trappen omhoog
+06346 Garmin Coach
 00383 Min. intens. train.
 00395 Laatste rit
-00394 Laatste hardloopact.
+00394 Laatste hard​loopact.
 00393 Laatste sport
 00396 Laatste zwemact.
 00229 Omlaag
@@ -2927,6 +3166,7 @@
 03648 Verwijder
 03647 Sorteer
 06066 Stress
+06207 Zon op en onder
 00220 Temperatuur
 00224 VIRB
 00219 Weer
@@ -2934,14 +3174,16 @@
 03217 Voeg widgets toe
 03216 Voeg widgets toe
 03215 Widgets
+06034 Wachtwoordlengte ongeldig
 02443 Automatisch uploaden
 02442 Verbind met Wi-Fi
 06014 Mijn netwerken
 02444 Wi-Fi
 06027 Voeg netwerk toe
+06032 Max. aantal Wi-Fi-netwerken bereikt. Wis netwerk en probeer opnieuw.
 06026 Mijn netwerken
 06028 Netwerken gev.
-06030 Wis
+06030 Verwijderen
 06031 Verwijderen uit mijn netwerken?
 06029 Wachtwoord bijwerken
 05537 Telefoon
@@ -2971,7 +3213,7 @@
 02456 Gisteren
 02476 1 stap
 02477 Annuleer workout
-02474 Wis
+02474 Verwijder
 02472 Start workout
 02475 %1 stappen
 02473 Bekijk
@@ -2982,11 +3224,15 @@
 02953 Houd ingedrukt tijdens activiteiten om te wisselen naar een andere sport.
 02951 Activiteit ondersteunt geen metronoom.
 02950 Geen activiteit bezig.
+06294 Ga naar Instell. > Fysiologische meetwaarden om dit later in te schakelen.
 05815 De waarde wordt ingevuld zodra HSR is gemeten.
+06279 Herh.gewicht kan tijdens workouts worden bewerkt.
 02952 Schermafbeelding gemaakt
 02954 Software bijgewerkt naar %1
+06337 Bericht wordt overgedragen naar inReach toestel.
+06338 Het bericht wordt overgedragen als het inReach toestel in bereik is.
 00119 Geen meldingen
-05596 Telefoonverbinding vereist
+05596 Telefoonver​binding vereist
 03626 %1 voor volgende deel
 00128 START: beginnen
 03299 %1 voor elke rust
@@ -2996,6 +3242,27 @@
 05850 Proefversie actief.
 05853 Proefversie verlopen. Ga naar apps.garmin.com om te ontgrendelen.
 02223 Kan geen nieuwe waarde instellen tot schaalfactor-update op Vector is voltooid.
+06500 Al uw clubs zijn nu gekoppeld.
+06508 Batterij %1 CR2032 is bijna leeg
+06509 CR2032-batterij van clubsensor bijna leeg.
+06497 Meerdere sensoren gevonden. Doe alle overige clubs weg.
+06492 Doe de club terug in uw tas en haal de volgende eruit.
+06493 Koppel één club tegelijk. Laat de overige in uw tas zitten.
+06518 Koppelen mislukt.
+06501 Verwijder de sensor van uw %1
+06502 Verwijder de sensor die u opnieuw wilt toewijzen.
+06495 Houd de club vast met de greep omhoog gericht.
+06494 Zoeken naar clubsensor.
+06498 Deze sensor is al gekoppeld.
+06499 Sensor toegewezen aan %1
+06496 Clubsensor gevonden. Wordt gekoppeld.
+06512 Haal uw %1 tevoorschijn.
+06513 Verwijder de clubsensor die u wilt bijwerken.
+06514 Update voor %1 wordt geïnstalleerd.
+06517 Update voorbereiden
+06516 Bijwerken mislukt. Sluit de sensor weer aan.
+06515 Update mislukt
+06507 Een niet-toegewezen clubsensor legt slagen niet correct vast.
 01324 Cool-down aanbevolen
 00175 Kan actief profiel niet verwijderen
 01905 Niet alle profielen kunnen worden verwijderd.
@@ -3017,8 +3284,9 @@
 01908 Totalen laden...
 01924 Voltooi de huidige activiteit voor toegang tot dit menu.
 01904 Vervang/wis Connect IQ veld op scherm en voeg ander toe.
+06177 Bewerkbare kopie van de koers maken.
 05799 Bijna leeg, toestel wordt uitgeschakeld
-05773 Bijna leeg, activiteit wordt opgeslagen
+05773 Kritisch laag\nActiviteit opslaan
 01911 Alle activiteiten gewist
 01912 Alle activiteiten wissen...
 01913 Alle records gewist
@@ -3031,6 +3299,9 @@
 01917 Activiteitenprofiel bestaat al
 01947 Opgeslagen hartslaggegevens downloaden
 01325 Cool-down aanbevolen
+06135 Geen XERO locatiegegevens gevonden.
+06136 XERO locatiegegevens verzenden.
+06134 XERO locatiegegevens verzonden.
 01355 Hartslagmeter rond de borst en vermogenssensor vereist
 01354 Hartslagmeter rond de borst vereist
 01950 Downloaden hartslaggegeven geslaagd
@@ -3054,6 +3325,7 @@
 01932 Zoeken naar rechterpedaal.  Dit kan enkele minuten duren.
 01929 Update voltooid
 01936 Bijwerken
+06300 Vector bijw\n\npedaallampje knippert bij uitv update.
 01934 Wachten op opnieuw starten sensor.
 01958 VO2 max. vereist. Ga 10 min hardlopen met hs-meter voor VO2 max.
 01959 GPS vereist. Schakel GPS in en voltooi de test buiten.
@@ -3090,11 +3362,13 @@
 03568 Batterijvermogen te laag om te verbinden met Wi-Fi.
 05700 Kan niet overdragen tijdens activiteit.
 05633 Verbinding mislukt. Probeer het opnieuw.
+06344 Synchroniseren met Explore
+06345 Synchronisatie bezig
 05629 Incompatibel netwerktype.
 05630 Netwerkfout. Probeer het later opnieuw.
 03566 Geen app-verbinding beschikbaar.
 03565 Geen app- of Wi-Fi-verbinding beschikbaar.
-05844 Kan geen bestaand Wi-Fi-netwerk vinden.
+05844 Geen bekend WiFi-netwerk gevonden.
 05634 Onvoldoende geheugen in het toestel.
 03560 Zoeken naar Wi-Fi-netwerk.
 03567 Stel de Wi-Fi in via Garmin Connect Mobile of Garmin Express.
@@ -3127,15 +3401,18 @@
 00050 App
 00049 START om te bekijken. (%1 wordt gestopt.)
 06022 Kan niet opnieuw verbinding maken met de telefoon.
-06019 Verbinding maken met {1:32}
+06019 Verbinden met %1
 06021 Verbinding mislukt
 06020 Verbinding gemaakt
 06015 Wi-Fi-netwerken gevonden
 06016 Geen Wi-Fi-netwerken gevonden
+06025 Open
 06017 Opnieuw verbinden met de telefoon
 06023 Zoeken naar Wi-Fi-netwerken
+06024 Beveiligd
 06018 Opnieuw
 00051 Verwijder een activiteitenprofiel om de sport in deze workout toe te voegen.
+06291 Activiteit ondersteunt geen tracking. XERO widget is uitgeschakeld.
 00159 Geen afdalingen gevonden
 02214 Vermogenssensor kalibreren...
 02215 Cal. Geslaagd
@@ -3157,10 +3434,14 @@
 01526 Zoeken naar %1
 01525 Alle sensors en accessoires binnen bereik zoeken.
 01524 Zoeken naar sensor
-05977 Max. sensors bereikt. Verwijder een sensor en probeer opnieuw.
+05977 Max. sensoren bereikt. Verw sensor en probeer opnw.
 05976 Maximum aantal sensors bereikt.
 05682 Sensor toegevoegd
 05866 Sensorfout
+06286 Varia fout
+06437 Kan geen tekstantwoord verzenden
+06436 Antwoord verzonden
+06435 Antwoord wordt verzonden
 03702 Verbind TruSwing toestel met mobiele app.
 03704 Verbinding gemaakt
 03703 Clubs downloaden...
@@ -3173,6 +3454,9 @@
 05898 Aanvraag geslaagd
 05766 Rnd %1
 05754 Druk voor ronde
+05767 %1 ronde
+05768 %1 ronden
+05769 Opslaan als activiteit?
 00421 Positieformaat
 06051 Controleer of het horloge past
 06048 Hoge stress
@@ -3205,7 +3489,8 @@
 01250 Afstand:
 01301 %1 - Vlndr:
 01298 %1 - Vrij:
-01296 Vrst schkl.:
+06096 Verdiep.:
+01296 Shifts vrz:
 01265 Bal. GCT:
 01264 GCT:
 01274 IF:
@@ -3259,6 +3544,7 @@
 05997 Gewicht:
 05998 Gewicht:
 05993 Workouttijd
+06288 Bron:
 05675 Afstand:
 01302 Hoogte:
 01303 Positie:
@@ -3284,6 +3570,12 @@
 01553 Verkeerd
 01554 Nieuw
 01556 OK
+06425 Hardloopsess.
+06426 Zwemsessies
+06314 Bij %1
+06208 Zon op
+06209 Zon ond.
+06210 Schemering
 05329 Gemiddelde afstand per slag
 05396 Gem afst./slag
 05418 G. afst/slg
@@ -3321,6 +3613,8 @@
 02688 Z
 00356 Z
 00338 Veiligheidsfactor
+06259 Samara
+06260 Samoa
 01091 Za
 00498 Schaal
 00349 Selecteer een DIP
@@ -3403,6 +3697,7 @@
 00472 SWEREF 99 TM
 03278 Zwemmen
 00473 Zwitsers grid
+06261 Sydney
 00495 Offset 1
 00497 Offset 2
 00494 Station 1
@@ -3435,8 +3730,8 @@
 03509 Geen anaeroob voordeel
 03517 Vloeiende en aerobe basis aanhouden
 03518 Vloeiende en aerobe basis verbeteren
-03519 Anaer. capaciteit en snelheid verbeteren
-03520 Anaer. capaciteit en snelheid sterk verbeteren
+03519 Verbeter anaer. capaciteit en snelh
+03520 Verbeter anaer. capaciteit en snelh sterk
 03521 Vloeiende en aerobe basis sterk verbeteren
 03522 Klein anaeroob voordeel
 03510 Anaerobe fitness onderhouden
@@ -3445,7 +3740,7 @@
 03513 Klein snelheidsvoordeel
 03514 Snelheid behouden
 03515 Anaeroob vermogen aanhouden
-03516 Anaer. capaciteit en vermogen verbeteren
+03516 Verbeter anaer. capaciteit en verm.
 03490 Aeroob
 03491 Anaeroob
 03489 Training Effect
@@ -3454,12 +3749,13 @@
 03637 Achtergrondkleur
 03576 Aanpassen
 05492 Gegevens
-03577 Wis
+03577 Verwijder
 05493 Wijzerplaat
 03640 OK
 03633 Wijzers
 03639 Indeling
 05491 Seconden
+06204 Druk op START v. toev. tijdzones.
 00116 Totale tijd
 03538 Afgelopen 7 dagen
 05513 Eén week gebruik benodigd voor berekenen van 7-daagse belasting.
@@ -3477,7 +3773,7 @@
 05512 Druk op START voor meer.
 03528 Productief
 03526 Herstel
-05831 Ga een week rennen met HS-meter of fietsen met verm.-meter voor status.
+05831 Loop week buiten hard met hart.meter of fiets met verm.meter v status.
 03523 Trainingsstatus
 03525 Niet productief
 05830 Gebruik 1 week
@@ -3487,6 +3783,7 @@
 00959 TSS
 00352 D
 00474 Taiwanees grid
+06263 Teheran
 00239 Temperatuur
 00354 D
 01089 Do
@@ -3516,10 +3813,15 @@
 00629 Tijd
 00918 TIJD
 00270 Huidige hoogte invoeren?
+06067 Zeeniveaudruk invoeren?
+06264 Tokyo
 05246 Effectief draaimoment
 00661 Effectief draaimoment
 02899 Eff. draai
 00154 Totaal afdal.
+06070 Totale tijd
+06071 Totale tijd
+06072 Totale tijd
 05205 Koers
 00620 Koers
 00909 Koers
@@ -3573,6 +3875,7 @@
 02733 fpmu
 02731 va
 02734 ft
+06124 trpn
 02735 gal
 02736 G
 02716 ° G
@@ -3639,7 +3942,15 @@
 02778 yd
 03389 ft/u
 03390 m/u
+06211 US - Alaska
+06212 US - Arizona
+06213 US - Atlantic
+06214 US - Central
+06215 US - Eastern
+06216 US - Hawaii
+06217 US - Mountain
 00475 U.S. National
+06218 US - Pacific
 00487 UTM
 00476 UTM UPS
 01084 Toestel-id
@@ -3668,7 +3979,7 @@
 00273 Gebruik GPS
 00478 Gebruikergrid
 00208 Gebruiker
-05787 Druk START voor kopp.
+06414 Koppel VIRB
 05149 VMG
 00568 VMG
 00857 VMG
@@ -3678,7 +3989,7 @@
 03543 Slecht
 03539 Voortreffelijk
 00137 Nieuw VO2 max. fiets.
-03627 Nieuwe VO2 Max.
+03627 Nieuwe VO2 max.
 03628 Fietsen
 01796 VO2 max.
 05517 Ga buiten 10 min. hardlopen met HS-meter om VO2 max. te meten.
@@ -3693,7 +4004,8 @@
 02878 Vert. ratio
 00260 Verticale snelheid
 00387 Intensief
-01117 Horloge gevonden.
+06265 Vladivostok
+01117 Watch gevonden.
 00171 Vr
 00167 Ma
 00172 Za
@@ -3706,7 +4018,7 @@
 00411 Calorieën
 03727 Daling
 00398 Afstand
-03731 HS
+03731 Hartslag
 00408 Max snlhd
 00413 Sla een activiteit op om gegevens te bekijken.
 03730 Tempo
@@ -3718,13 +4030,15 @@
 03732 Slagen
 05855 Deze week
 00399 Tijd
+06139 verdiep.
 03734 runs
 03733 slagen
 00391 Laatste rit
-00390 Laatste hardloopact.
+00390 Laatste hard​loopact.
 00389 Laatste sport
-00392 Laatste zwemactiviteit
+00392 Laatste \nzwemactiviteit
 00362 Mijn dag
+06033 Wi-Fi-netwerklijst wordt bijgewerkt
 03300 Herh. %1
 03302 Stapafstand
 03301 Staptijd
@@ -3732,9 +4046,9 @@
 03298 Volg. stap:
 06040 Tot HS > %1
 06041 Tot HS < %1
-05354 Bestemmingsvia-punt
-00758 Bestemmingsvia-punt
-01047 Best.v-pnt
+05354 Bestemmingswaypoint
+00758 Bestemmingswaypoint
+01047 Best.wayp.
 02538 LAP voor eind workout
 02690 W
 00353 W
@@ -3745,9 +4059,9 @@
 05234 Vermogen per gewicht
 00649 Vermogen per gewicht
 00938 W/Kg
-05355 Volgend via-punt
-00759 Volgend via-punt
-01048 Volg v-pnt
+05355 Volgend waypoint
+00759 Volgend waypoint
+01048 Volg wayp.
 00165 Per dag
 00164 Per uur
 01088 Wo
@@ -3756,8 +4070,11 @@
 02915 Wi-Fi MAC-adres
 00348 Windgegevens nodig voor HARP-berekening.
 00336 Wind
+06266 Windhoek
 02524 Workout geëindigd
 00247 Polshartslag
+06205 Klaar om te ontvangen
+06458 Wacht op GPS
 01079 Ja
 02692 Z0
 02693 Z1
@@ -3777,8 +4094,12 @@
 00436 hddd,ddddd°
 00437 hddd° mm,mmm'
 00438 hddd°mm' ss,s"
+06077 %1 hPa per 3 uur.
+06078 %1 in. per 3 uur.
 03736 %1 wijst aan.
 03735 %1 heeft geen GPS-ontvangst meer.
+06076 %1 mb per 3 uur.
+06079 %1 mmHg per 3 uur.
 02535 om %1
 02684 p
 02686 pm

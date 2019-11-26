@@ -1,4 +1,4 @@
-006-D6593-00|v02.40
+006-D6593-00|v03.10
 00001 Dansk
 00252 12 timer
 00253 24 timer
@@ -62,12 +62,28 @@
 05022 Fjern fra favoritter
 05021 Indstil som favorit
 02594 Apr
+06327 Tillykke! Plan færdig.
+06316 Fremragende
+06317 Godt klaret
+06318 Plads til forbedring
+06321 Lav Garmin Coach-træningsplan m. Garmin Connect Mobile.
+06322 Synkroniser med Garmin Connect Mobile for næste træning.
+06320 Hviledag
+06326 Synkroniser for næste træning.
+06324 I dag
+06325 I morgen
+06315 Uge %1
+06319 Træning gennemført
+06323 I går
 02598 Aug
 00158 Gn.snit
+06430 Unormal puls
+06433 Unormal puls registreret.
 00419 Aktiv
 03722 Aktive kalorier
 00347 Tilføj
 02894 Aerob TE
+06223 Almaty
 00343 Højde (AGL) i fod
 05351 Længde/bredde
 00755 Længde/bredde
@@ -82,9 +98,15 @@
 05175 Anaerob TE
 02857 Anaerob TE
 02895 Anaer. TE
-02534 Enhver
+02534 Alle
 02912 Stigning
 03740 Mistede forbindelse til aktivtracker.
+06465 Ingen hunde forbundet.
+06224 Auckland
+06222 Adelaide
+06228 Brisbane
+06257 Perth
+06262 Tasmanien
 00439 Austrian Grid
 01498 Automatisk kalibrering
 00204 Automatisk
@@ -171,6 +193,7 @@
 06059 Hold
 02528 Ryg
 02586 Ryg
+06225 Bangkok
 00255 Plot
 05525 Batteriniveau
 05526 Batteriniveau
@@ -179,9 +202,11 @@
 00621 Retning
 00910 Retning
 01449 Bedste effekt!
-02487 Cykling
+02487 Cykel
 02914 Bluetooth MAC-adresse
+06226 Bombay
 00440 Borneo RSO
+06227 Brasilia
 02529 Bryst
 02587 Bryst
 00441 British Grid
@@ -190,6 +215,11 @@
 05075 Ingen hændelser
 00127 Nu
 03624 Vælg felt %1
+06506 Utilkn. kølle-sensorer skal tilknyttes på ny eller fjernes.
+06505 En eller flere køllesensorer er ikke tilknyttede.
+06510 Scorer og statistikregistrering er nu aktiveret.
+06511 Upload scorecard til Garmin Golf for av. stat.
+06503 Hvilken kølle?
 05984 Gentagelser
 05985 Indstil timer
 00198 Kalibrer kompas
@@ -201,6 +231,7 @@
 00195 Prøv igen
 00194 Start
 00121 Venter på data
+06229 Cairo
 00272 Kalibrering fuldført
 01499 Kalibrer
 02491 Kal.
@@ -211,7 +242,10 @@
 00528 Kalorier tilbage
 00817 Rest. kal.
 01081 Annuller
+06230 Cape Town
+06231 Cape Verde Islands
 02707 Enheder
+06232 Chita
 05301 Siddende kadence
 00716 Siddende kadence
 01005 Sidd kad.
@@ -343,7 +377,7 @@
 00160 mi
 00163 m
 02655 km
-02654 miles
+02654 mil
 01113 Drill slut
 02916 %1 for at starte drill
 02917 %1 for at afslutte drill
@@ -351,9 +385,10 @@
 00488 DX
 00489 DY
 00490 DZ
+06233 Darwin
 02913 Nedstign.
-05350 Destination Position
-00754 Destination Position
+05350 Destinationsposition
+00754 Destinationsposition
 01043 Dest.pos.
 05363 Di2 batteri
 00767 Di2 batteri
@@ -409,9 +444,11 @@
 00762 Tid til næste
 01051 ETE næste
 02689 Ø
+06235 Ekaterinburg
 05083 Tidsforbrug
 00507 Tidsforbrug
 00796 Forløbet
+06234 Eniwetok
 00282 Indtast azimut
 00287 DA in Meters
 00286 DF in Meters
@@ -419,7 +456,7 @@
 00284 DY in Meters
 00285 DZ in Meters
 00292 Indtast højde
-00275 Østaflæsning in Meters
+00275 Østaflæsning i meter
 00276 Nordlig in Meters
 00277 Indtast breddegrad
 00278 Indtast position
@@ -427,22 +464,31 @@
 00280 Indsæt offset 1
 00281 Indsæt offset 2
 00289 Magnetisk variation
+06068 Angiv tryk
 00288 Indtast skala
 00350 Indtast hastighed
 05084 Ansl. sluttidspunkt
 00508 Ansl. sluttidspunkt
 02870 Ca. sluttid
+06178 Anslået samlet afstand
+06179 Anslået samlet afstand
+06180 Ans sm afs
 00444 Estonian Grid
+06236 Centraleuropa
+06237 Østeuropa
+06238 Vesteuropa
 02714 Udløbet
 02852 Ekstern profil
 02592 Feb
 03304 Tryk for løb, cykel med mere.
 05709 Hold nede for aktivitetsindst., træning m.m.
 03307 Hold nede for musik, gem position osv.
-03306 Hold nede for at skifte urskive og andet.
+03306 Hold nede for at skifte urskive & andre indst.
 03303 Tip:
 03305 Tryk for skridt, vejr andre widgets.
 00018 Koordinater
+06453 %1 omgange
+06454 %1 hvile
 01336 FTP registr.
 01341 Accepter
 01342 Afslå
@@ -492,8 +538,18 @@
 05373 Felt 4
 02863 Felt 4
 02904 Felt 4
+06239 Fiji
 05651 Find min telefon 
 00445 Finnish Grid
+06087 Etager op
+06090 Etager op
+06093 Etager Op
+06088 Etager ned
+06091 Etager ned
+06094 Etager Fld.
+06089 Etager pr. minut
+06092 Etager pr. minut
+06095 Etag/min.
 00361 Etager
 02530 Butterfly
 02588 Butterfly
@@ -538,6 +594,7 @@
 00325 Forbi til venstre
 00326 Forbi til højre
 03678 Ingen slag registreret
+06483 Strafslag
 00322 Put
 05932 Rough
 03671 Scorer
@@ -615,12 +672,17 @@
 00840 GCT
 05132 GCT
 00551 GCT
+06417 Senere
+06418 Nej tak
+06303 Få mere at vide om Physio TrueUp?
 05594 Vis ikke igen
 05592 Husk at fjerne din RD Pod.
 05593 OK
 03588 12 timer
 03589 24 timer
+06416 Ja
 05609 Tilbage til Start
+05912 Kalibrer og spar
 05610 Slet
 05608 Omgang
 05607 Fortsæt senere
@@ -630,10 +692,12 @@
 05758 Nulstil
 05756 Fortsæt
 05795 Gennemse
+05770 Udført
 05755 Stopur
 03275 Start træningen
 03277 Spring over
 03274 I dag: %1
+06287 I dag: %1 træningsture
 03276 Vis
 01315 Brug af %1
 02649 Brug af %1
@@ -641,6 +705,16 @@
 02651 Brug af %1, %2, %3
 02652 Brug af %1, %2, %3, %4
 02653 Brug af %1, %2, %3, %4, %5
+06130 Slet
+06133 Rediger navn
+06129 Glem parrede enheder
+06125 XERO-positioner
+06128 Privat
+06127 Offentlig
+06132 Send
+06126 Delingstilstand
+06138 Glem parret enhed?
+06137 Ny XERO-pos.\nNavigér?
 05488 Stress-score
 05486 Høj stress
 05484 Lav stress
@@ -698,12 +772,43 @@
 00264 Hektopascal
 02640 Tryk på START
 03319 Tryk START for at måle
+06240 Hongkong
+06140 XERO placering
 03776 t
 00443 EOV Hungarian
 05254 Intensity Factor
 00669 Intensity Factor
 00958 IF
 02532 IM
+06387 Tryk på en knap for annull.
+06388 Starter SOS. Hold inReach-enheden tændt og i nærheden.
+06386 Starter SOS om
+06389 Ikke tilsluttet! inReach-enhedskal være tændt og tæt på. SOS sendes, når enheden er tilsluttet.
+06390 SOS sendt. Sørg for, at inReach-enheden har frit udsyn til himlen.
+06364 Svar
+06375 Vælg hurtig tekst
+06373 Vælg hurtig tekstmeddelelse
+06372 Svar
+06374 Indtast besked
+06394 Jeg står i en nødsituation, og jeg har brug for, at du sender hjælp.
+06396 Der er sket en ulykke. Send venligst hjælp.
+06401 Dødsfald. Send venligst hjælp.
+06402 Akut behov for læge. Har brug for hjælp.
+06399 Et medlem af gruppen er blevet væk.
+06400 Naturkatastrofe. Har brug for hjælp.
+06398 Ikke-livstruende nødsituation. Send hjælp.
+06397 Jeg er kommet væk fra min gruppe.
+06404 Alvorlige kvæstelser. Send hjælp.
+06395 Mit køretøj fungerer ikke.
+06403 Skibsnød. Har brug for hjælp.
+06371 Annullerer SOS
+06366 Distance
+06369 Starter SOS
+06365 Par inReach
+06370 SOS i gang
+06368 Søger efter %1
+06367 Timer
+06241 Island
 00447 Icelandic Grid
 00261 Tommer (Hg)
 00451 India Zone 0
@@ -763,16 +868,23 @@
 00794 Intervaltid
 00460 Irish (IG)
 00461 Irish (ITM)
+06242 Irkutsk
+06243 Islamabad
 02591 Jan
 02597 Jul
 02596 Jun
+06244 Jakarta
 00242 Km
 00339 K-Frit fald
 00341 K-Åbn
 00340 K-Statisk
+06245 Kabul
+06246 Kaliningrad
+06247 Kathmandu
 05233 Arbejde
 00648 Arbejde
 00937 Arbejde
+06248 Krasnoyarsk
 01318 Testen er fuldført, når tærsklen er registreret.
 01317 Intensitetsmål øges hvert 3 til 4 minut.
 01316 Varm op i langsomt tempo i 10 til 15 minutter.
@@ -801,7 +913,6 @@
 03240 Baseret på
 03256 Baseret på
 03643 Tilstand
-03193 Kontrolfunktioner
 03641 Display
 03210 Distance
 01778 Sprog
@@ -874,6 +985,7 @@
 05247 Balance
 00662 Balance
 00951 Balance
+06249 Lagos
 00479 Lamb kon 1 Par
 00480 Lamb kon 2 Par
 05092 Omgangsdistance
@@ -1015,6 +1127,7 @@
 00493 Kædenummer
 00463 Loran TD
 03739 Mistede kommunikation med %1.
+06298 Aktuel position
 02593 Mar
 00157 Maks.
 02595 Maj
@@ -1045,7 +1158,7 @@
 03037 Hurtigste 100 yd
 01463 Hurtigste 10k
 03042 Hurtigste 1500 m
-03043 Hurtigste 1650 yd
+03043 Hurtig. 1650 yd
 05730 Hurtigste 1000 m
 01464 Hurtigste 1k
 03038 Hurtigste 400 m
@@ -1063,7 +1176,7 @@
 01472 Længste løb
 03044 Længste svømmet.
 03045 Længste svømmet.
-01473 Marathon
+01473 Maraton
 01474 Største stigning
 01475 Største stigning
 01476 Forrige
@@ -1077,7 +1190,11 @@
 01208 Cykelbatteriniveauet er lavt.
 02935 Batteriniveauet for cykellygte %1 er lavt.
 01184 Batteriniveauet til kadencesensor er lavt.
+06391 Annullerer SOS
 01178 Fuldfør multisportaktivitet for at ændre profilvalg.
+06175 Kunne ikke oprette en redigerbar kopi af banen.
+06083 Maks. antal baner overskredet. Nogle baner blev ikke importeret.
+06082 Overskredet max for banelagring. Nogle baner er ikke importeret.
 05797 %1 banepunkt maks. nået. Sidste %2 punkter vises ikke.
 03586 Distance til destination %1
 03587 Tid til destination %1
@@ -1092,6 +1209,8 @@
 02938 Batteriniveauet for forlygte %1 er lavt.
 01232 Hold en vilkårlig tast nede for at låse enheden op.
 01231 Hold DOWN nede for at se widgets.
+06073 Hold genvejstasten nede for at låse/låse op for enheden.
+06081 Alarm hver time
 01191 I ønsket zone
 01192 Ugyldig meddelelse
 03581 Forlader alarmpunkt %1.
@@ -1104,15 +1223,17 @@
 01196 Aktivitetslager er fuld. Slet aktiviteter for at frigøre plads.
 03705 Flere TruSwing enheder fundet. Bevæg dig, og prøv igen.
 05495 Tasterne låses efter skift til denne aktiv. Hold vilkårlig tast nede for at låse op.
-02949 Tasterne låses efter start af timer. Hold en vilkårlig tast nede for at låse op.
+02949 Taster låses efter timerstart. Hold vilkårlig tast nede for at låse op.
 03580 Nær alarmpunkt %1.
-01233 Nøjagtigh håndledsb pulsmåL. kan variere under svømning.
+01233 Nøjagtigheden af håndledspulsmåling kan variere under svømning.
 01200 Batteri til effektmåler er lavt.
 01227 Lavt telefonbatteri
 00308 Tryk på START for flere golffunktioner.
 02934 Batteriniveauet til RD-sensor er lavt.
 01216 Batteriniveauet til radar er lavt.
+06392 Opret forbindelse til inReach-enheden for at annullere SOS.
 01201 Restitutionspuls %1
+06393 inReach SOS annulleret
 05990 Tryk for at starte og slutte sæt.
 02932 Batteriniveauet til skiftesensor er lavt.
 01188 Shimano Di2-batteriet er lavt.
@@ -1129,6 +1250,12 @@
 05991 Sæt %1
 01207 VIRB batteriniveau er lavt.
 01222 Hjulstørrelse beregnet.
+06336 Mistet forb. til inReach-enhed. Tjek rækkevidde.
+06335 Batteriniveauet for inReach er lavt.
+06410 Afsendelse mislykkedes. Prøv igen på inReach-enheden.
+06413 Afsendelse af besked mislykkedes. Besked er for lang.
+06411 Kan ikke sende besk. til en inReach-enhed med godk. aktiveret.
+06412 Ikke sendt. Reducer antal kontakter, og prøv igen.
 01118 Metronom
 00465 MGRS
 02321 MOB
@@ -1141,6 +1268,7 @@
 03569 Bland
 05702 Start musik på telefon
 00351 M
+06250 Magadan
 00205 Magnetisk
 00464 Maidenhead
 00423 Referencepunkt
@@ -1170,6 +1298,10 @@
 00267 meter/time
 00268 meter/min.
 00269 meter/sek.
+06219 Mexico - Central
+06220 Mexico - Mountain
+06221 Mexico - Pacific
+06251 Mid-Atlantic
 00243 Miles
 00263 Millibar
 00262 mmHg
@@ -1182,6 +1314,7 @@
 02589 Blandet
 00386 Moderat
 01086 Man
+06252 Moskva
 01450 Største stigning
 05249 10s gennemsnitlig balance
 00664 10s gnsn balance
@@ -1207,8 +1340,9 @@
 05086 Multisport-tid
 00510 Multisport-tid
 00799 Multisp.tid
-05378 Iltmætning i muskler %
-02868 Iltmætning i muskler %
+06253 Muscat
+05378 Iltmætning i muskler i %
+02868 Iltmæt. i muskler i %
 02909 SMO2
 05379 Total hæmoglobin
 02869 Total hæmoglobin
@@ -1220,6 +1354,7 @@
 02606 Kadence tilsluttet
 03312 Vælg layout
 02638 Tilsluttet
+06154 Kont.element tilføj.
 03613 Bane startet
 02614 Di2 tilsluttet
 05948 Display tilsluttet
@@ -1232,6 +1367,7 @@
 02608 Ekst pulsmåler tilsl.
 02616 Forlygte tilsluttet
 02619 Forlygteplade
+06328 Hvor svært var det?
 02615 Lygte tilsluttet
 02618 Lygte frakoblet
 03311 MO2 tilsluttet
@@ -1252,8 +1388,10 @@
 05563 Åbn mobil-app på telefonen for at opdatere data.
 05562 Genopret forb. til telefonen for at opdatere data.
 05617 %1 tilbage
+06450 Svar
 03459 Segment fra
 02613 %1 tilsluttet
+06459 Sensorfejl
 02637 Klar
 03309 Skiftesensor tilslut.
 02610 Fart/kad. tilsluttet
@@ -1267,6 +1405,7 @@
 02611 VIRB tilsluttet
 02604 Vent på GPS
 03313 Widget tilføjet
+06341 inReach tilsluttet
 02601 Nov
 05834 Kør med effekt for at se din status.
 05832 Løb to gange udendørs med puls for at se din status.
@@ -1306,6 +1445,7 @@
 03004 Indstil hastighed
 02991 Indstl hastgh/tag
 02990 Indst. hast. tag
+06428 Indstil grænse
 03009 Angiv antal tænder
 03010 Angiv lodret hastighed
 02992 Indstil vægt
@@ -1317,6 +1457,7 @@
 02687 N
 00466 New Zealand
 00467 New Zealand TM
+06254 Newfoundland
 01080 Nej
 01451 Ingen rekorder indstillet eller downloadet.
 05257 Omgang - NP
@@ -1332,7 +1473,8 @@
 00642 Barometertryk
 00931 Barometer
 00202 Nordreference
-00245 Ikke tilsluttet
+00245 Ikke forbundet
+06255 Novosibirsk
 00211 Grader
 02600 Okt.
 05643 Aktiviteter
@@ -1345,6 +1487,7 @@
 00625 Afvigelse
 00914 Afvigelse
 00330 Åbningshøjde
+06452 Åbn Hvile
 00385 eller
 05330 Gennemsnitlig distance pr. tag
 05397 Gns. distance pr. tag
@@ -1388,10 +1531,14 @@
 01363 God
 01360 Dårlig
 01359 Præstationskrav
+06415 Physio TrueUp synkroniserer aktiviteter udført på andre Garmin-enheder, så din enhed afspejler din træningsstatus og form mere præcist.
 02682 PM
+06170 Alarm
 05970 Højdemåler
 05982 Baggrundslys: %1%
 05969 Barometer
+06167 Lysstyrke
+06187 Send pulsdata
 05971 Kompas
 05827 Må ikke forstyr.: Deakt.
 05826 Må ikke forstyr.: Aktiver.
@@ -1400,16 +1547,23 @@
 05983 Lommelygte
 05514 Lås taster
 03548 Musikkontrol
+06171 %1 alarmer
 05794 Par VIRB
+06342 Par inReach
+06168 Telefon
 03544 Sluk
+06343 SOS i gang
 03550 Gem position
+06169 Vælg for at omarrangere
 03554 Angiv tid med GPS
 03555 Stopur
-03551 Synkroniser
+06194 Solopgang og -nedgang
+03551 Synkronisering
 03558 Find min telefon 
 03557 Musikkontrol
-03559 Synkroniser
-03556 Timer
+03559 Synkronisering
+06206 Alternative tidszoner
+03556 Tidtagning
 03549 VIRB
 03553 Wi-Fi
 01480 Blå
@@ -1491,6 +1645,7 @@
 05204 Præstationskrav
 00619 Præstationskrav
 00908 Præst.krav
+06256 Petropavlovsk-Kam.
 00422 Format
 02981 Strømsparer
 00259 Tryk
@@ -1499,8 +1654,13 @@
 05533 10 km
 05532 5 km
 05534 Halvmar.
-05535 Marathon
+05535 Maraton
 05531 Løbsberegner
+06331 Let
+06333 Svær
+06332 Moderat
+06330 Meget let
+06334 Meget svær
 00359 Gns h.pls %1
 00358 Snst. 7 dage
 05164 Gennemsnitlig kadence
@@ -1525,7 +1685,7 @@
 05362 Bageste
 00766 Bageste
 01055 Bageste
-02479 Gendan
+02479 Restitution
 02536 Rep.tid
 02489 Gentag %1
 05345 Gentag til
@@ -1542,6 +1702,7 @@
 00748 Hviletimer
 01037 Hviletimer
 00417 Hvile
+06258 Riyadh
 02486 Løb
 05676 Højde:
 05677 Position:
@@ -1592,6 +1753,8 @@
 01984 Højre
 01865 Centimeter
 01864 Fod
+06385 Annuller SOS?
+06384 Brug kun SOS i en nødsituation. Fortsæt?
 01678 Auto
 01679 Enkelte
 01867 Annuller
@@ -1612,20 +1775,22 @@
 01881 Deaktiver
 03103 Slet
 05848 Afslut
-01882 Aktiver
+01882 Aktivér
 00147 Puls
 05847 Start
 01877 Nej
+06299 Ikke nu
 05828 OK
 01879 Sluk
 01878 Til
 02642 Fjern
-02647 Dette fjerner %1 og redigerer %2 multisportprofiler
+02647 Dette fjerner %1 og redigerer %2 multisportprofiler.
 02644 Dette redigerer %1 multisportprofiler.
 02643 Dette redigerer multisportprofilen: %1.
 02646 Dette fjerner %1 multisportprofiler.
 02645 Dette fjerner multisportprofilen: %1.
 00148 Effekt
+06281 Overførsel allerede i gang.
 01902 Opstigningsalarm
 01798 Find automatisk
 03481 Slet segment?
@@ -1639,6 +1804,7 @@
 01677 Konfiguration
 03665 Runde i gang i øjeblikket.
 03101 Opret ny?
+06176 Oprettelse af redigerbar kopi af banen. Nogle detaljer kan gå tabt.
 03102 Dataregistrering
 01806 Slet aktiviteter?
 01805 Slet aktivitet?
@@ -1653,6 +1819,7 @@
 01809 Slet?
 01810 Distance
 03104 Højde
+06302 Vil du aktivere Physio TrueUp?
 01811 Afslut LiveTrack?
 00309 Afslut runde?
 02323 Afslut MOB-navigation?
@@ -1680,13 +1847,16 @@
 03116 Styrke
 03112 Gang
 03119 Tempo/fart
+06504 Par en anden køllesensor?
 03098 Par med telefon?
 03120 Strømsparetimeout
 03482 Slet segment?
+05913 Klar til at gemme din aktivitet?
 03121 Optagetilstand
 06012 Vil du slappe af et øjeblik?
 05612 Start %1?
 01829 Fjern?
+06192 Omdøb zone?
 01830 Gentag
 05545 Nulstil effektzoner til standard?
 01826 Nulstil totaler?
@@ -1708,11 +1878,14 @@
 03125 Brugerpositioner
 03126 Vægt
 03213 Flere widgets er tilgængelige
+06145 Hvilket håndled bærer du dit ur på?
 01876 Ja
 00113 Meter
 00114 Yards
-01883 Poolstørrelse ændres til %1 m for at matche træning.
+01883 Poolstørrelsen ændres til %1 m for at passe til træningen.
 01884 Poolstørrelse ændres til %1 yards for at matche træning.
+06146 Indst. påmind. om kalibrere før hver tur?
+06147 Vil du kalibrere?
 02213 Kalibrer
 02218 Kalibrering mislykkedes Mislykkedes\nFejl: %1
 02211 Kalibrering anbefales. Frigør pedalklemmerne for at kalibrere.
@@ -1730,6 +1903,7 @@
 01568 Nej
 01566 Fjern?
 01567 Ja
+06282 Aktivér tælling af gentagelser?
 01569 Download mislykkedes. Prøv igen?
 01571 Nej
 01570 Ja
@@ -1745,6 +1919,7 @@
 01534 Træd i pedalerne for at aktivere sensor.
 03061 Gå omkring for at aktivere sensoren.
 01539 Tænd radaren for at oprette forbindelse.
+06340 Tænd for inReach-enheden, og aktivér ANT+ indstil for at oprette forbindelse.
 03060 Tilslut skiftesensor: Skift forreste/ bageste gear.
 01537 Ved tilsl af Shimano Di2 sensor, skift forr. eller bag. gear.
 01535 Træd i pedalerne for at aktivere sensor.
@@ -1758,8 +1933,9 @@
 05772 OK
 05499 Opdatering mislykkedes. Gå til sensormenuen, og forsøg igen.
 01888 Udført
-01887 Opdatering mislykkedes. Prøv igen fra Garmin Connect.
-00062 Opdatering mislykkedes. Prøv igen.
+01887 Opdatering mislykkedes. \nPrøv igen fra Garmin Connect.
+00062 Opdatering mislykkedes. \nPrøv igen.
+05820 Spring kalibrering af løbebånd over?
 01589 Accepter
 01591 Tempo: %1
 01592 Fart: %1
@@ -1784,6 +1960,8 @@
 01901 Gemte
 03214 Vis
 02599 Sep
+06432 Tærskelværdi for advarsel
+06431 Status
 01397 Interval %1
 01396 Intervaller
 01395 Omgang %1
@@ -1829,20 +2007,24 @@
 00064 Tid i zone
 00046 TracBack
 03492 Training Effect (TE)
-03145 Tilføj apps
+06144 Tilføj
 02009 Cykling inde
 02008 Cykling
 05841 Båd
+06103 Boksning
 02017 Brick
 02026 Kardio
 02020 Klatring
 02022 Langrend
 02002 Brugerdefineret
-02016 Duathlon
+02016 Duatlon
+06101 Elliptisk
+06104 Etager op
 05867 Golf
 05500 Aktivitetsnavn
 02019 Vandring
 02031 Jumpmaster
+06283 Kajak
 03150 MTB
 02012 Mountain
 03151 Navigation
@@ -1859,6 +2041,7 @@
 02028 Std paddleb
 02021 Ski
 02023 Snowboard
+06100 Stepper
 02025 Styrke
 04993 Swimrun
 02032 Taktsk aktv.
@@ -1868,6 +2051,7 @@
 02005 Løbebånd
 02015 Triathlon
 02027 Gang
+06102 Yoga
 02000 Udført
 03148 Sport
 01999 Multisport
@@ -1886,12 +2070,16 @@
 02081 Automatisk løb
 03620 Automatisk løb
 02059 Automatisk rullefunktion
+06284 Automatisk sæt
+06285 BETA
 03156 Segmentalarmer
 02078 Baggrundsfarve
 05824 Nedtælling starter
 02049 Skærmbilleder
+06280 Rediger vægt
 02068 Udvidet
 02066 Hurtig
+06427 GPS + GALILEO
 03159 GPS + GLONASS
 03158 Normal (kun GPS)
 02060 GPS
@@ -1909,14 +2097,18 @@
 02075 Fjern
 02076 Omdøb
 03160 Omorganiser
+06084 Tælling af gentagelser
 02051 Gentag
 05549 Gend. stand.indstillinger
 02064 Langsom
 02061 Tagregistrering
+06451 Swimrun auto sportsskift
 02048 Træningssider
 02050 Overgange
 02063 Når stoppet
 02055 %1 yards
+06420 Alle løbeture
+06419 Alle svømmeture
 01981 Registr. af aktivitet
 05439 Alarm ved mål
 01979 Aktivitetsalarm
@@ -2050,6 +2242,7 @@
 05685 Lav alarm
 01676 Minimum Højde
 01662 Laveste hastighed
+06098 Kursafvigelse
 01694 Sluk
 01645 Tempo
 05435 Højt antal tag
@@ -2105,6 +2298,7 @@
 03621 Automatisk løb
 02129 Lap-alarm
 02126 Omgange
+06429 Unormal puls alarm
 02141 15 sekunder
 02143 1 minut
 02142 30 sekunder
@@ -2156,6 +2350,18 @@
 02157 Smart Notifications
 02158 Stop LiveTrack
 03651 Send pulsdata
+06440 Jeg ringer tilbage senere.
+06449 Elsker dig!
+06443 Nej
+06447 Nej tak.
+06441 OK
+06439 Er på vej!
+06446 Ude på tur.
+06444 Ude at løbe.
+06438 Kan ikke tale nu.
+06448 Tak!
+06445 Træner.
+06442 Ja
 05494 Vælg aktivitet %1
 03579 Vælg position
 00133 Vælg app
@@ -2164,8 +2370,15 @@
 02160 Ur
 00180 Stopur
 03630 Synkroniser med GPS
-00179 Timer
+00179 Tidtagning
 00176 Urskive
+06485 Køllesensorer
+06486 Parrede sensorer
+06487 Parrede sensorer
+06491 Omtildel
+06490 Utilknyttet
+06488 Utilknyttede sensorer
+06489 Ukendt
 00084 Tilføj position
 00085 Gem ændringer?
 00092 Baner
@@ -2174,6 +2387,7 @@
 00095 Downloadede løb
 00090 Slet
 00086 Start på banen
+06075 Gennemfør bane fra slut til start
 00088 Højdeplot
 00087 Kort
 00089 Navn
@@ -2252,9 +2466,6 @@
 00315 Scorekort
 03669 Scorekort
 00314 Start scoring
-03163 GPS + GLONASS
-03162 Normal (kun GPS)
-02093 Fra
 05539 Aktivitetstyper
 05540 Kun cykling
 05541 Kun løb
@@ -2319,7 +2530,9 @@
 02194 Manuel
 02191 På foresp/alarmer
 02190 Bliver på
+06153 Alarm
 03656 Barometer urtilstand
+06184 Send pulsdata
 03268 Skift sport
 02410 Dual gitter
 02409 Hold BACK nede
@@ -2343,6 +2556,31 @@
 02268 Nulstil zoner
 02972 Threshold (Z4)
 02969 Opvarmning (Z1)
+06354 1 ny besked
+06383 Udført
+06382 Vælg kontaktpers.
+06358 Samtale
+06357 Ny besked
+06347 Start SOS
+06352 Indlæser
+06363 Mig
+06362 (ukendt)
+06361 Annuller SOS
+06359 Svar
+06360 Se ældre svar på inReach.
+06349 Beskeder
+06380 1 markeret
+06377 Ny besked
+06379 Vælg kontaktpersoner
+06381 %1 Markerede
+06378 Send
+06355 %1 nye beskeder
+06356 Ingen nye beskeder
+06353 Ikke forbundet
+06376 Send forudindst.
+06348 SOS i gang
+06350 Send forudindstilling
+06351 Sporing
 02553 Nedkøling
 02548 Rediger træning
 02549 Interval
@@ -2351,10 +2589,7 @@
 02552 Opvarmning
 02547 Annuller træning
 02542 Start træningen
-02546 %1 hvile
 02543 Rediger
-02544 %1 omgange
-02545 Åbn Hvile
 02554 Rediger hvile
 02556 Varighed
 02555 Rediger interval
@@ -2375,14 +2610,6 @@
 00004 Flere
 00002 Gemte positioner
 02292 Rediger position
-05061 ATV
-05056 Strand
-05036 Cykel rute
-05067 Blok, blå
-05066 Blok, grøn
-05065 Blok, rød
-05057 Slæbested
-05047 Bygning
 05027 Vælg kategori
 05029 Civil
 05034 Jagt
@@ -2392,37 +2619,6 @@
 05032 Interessepunkter
 05031 Skilte
 05030 Transport
-05037 Camping
-05050 Bil
-05068 Cirkel, rød
-05058 Dykker nede flag
-05038 Drikkevand
-05039 Fiskeområde
-05071 Flag, blåt
-05070 Flag, grønt
-05069 Flag, rødt
-05062 Vildt (stort)
-05063 Vildt (småt)
-05051 Benzintank
-05040 Geocache
-05041 Geocache (fundet)
-05042 Golfbane
-05052 Overnatning
-05055 Lægehus
-05074 Nål, blå
-05073 Nål, grøn
-05072 Nål, rød
-05048 Beboelse
-05053 Restaurant
-05059 Afspærret område
-05054 Toiletter
-05043 Naturområde
-05049 Skole
-05044 Ski område
-05045 Højdepunkt
-05060 Badeområde
-05046 Trail Head
-05064 Vandfugle
 00011 Slet
 00009 Oplysninger
 00013 Højde
@@ -2430,17 +2626,21 @@
 05026 Ikon
 00010 Navn
 00012 Position
+06172 Tilføj kontrolelementer
 05905 Tilføj widget
+06191 Alarmer
 03595 Kalibrer effekt
 06064 Rediger sidste sæt
 01745 Historik
+06297 Position
 03592 Deaktiver metronom
 05864 Navigationsindstillinger
 05595 Forbindelser i nærheden
-03600 Menuen Styring
 03599 Fjern app
+06174 Fjern kontrolelementer
 03597 Fjern widget
 03598 Omarranger app
+06173 Omarranger kontrolelementer
 03596 Omarranger widget
 01747 Indstillinger
 03594 Stop banen
@@ -2514,7 +2714,7 @@
 03046 Rekorder
 03229 Ny VO2-max
 03228 Præstation krav
-03227 Præstationsmedd.
+03227 Medd. om præst.
 03231 Restitutionstid
 03230 Training Effect (TE)
 05551 Tilsluttet
@@ -2527,7 +2727,8 @@
 03221 Automatisk registrering
 05743 Log HRV
 03222 Meddelelser om præstation
-03220 Fysiolog. målinger
+03220 Fysio. målinger
+06289 TrueUp
 00107 25 meter
 00109 25 yards
 00110 33 1/3 meter
@@ -2537,14 +2738,19 @@
 00106 Poolstørrelse
 02172 Automatisk: %1 mm
 02174 Automatisk nulstilling
+06149 Tilføj kontrolelem.
 05652 Tilføj ny
+06150 Alarm
 05978 Baggrundslys
+06182 Send pulsdata
 03182 Må ikke forstyrres
 03183 Find min telefon 
 05979 Lommelygte
+06151 Alarm
 05957 Højdemåler
 05980 Baggrundslys
 05956 Barometer
+06183 Send pulsdata
 05958 Kompas
 03198 Må ikke forstyrres
 03199 Find min telefon 
@@ -2558,22 +2764,28 @@
 03202 Gem position
 03206 Angiv tid med GPS
 03207 Stopur
-03203 Synkroniser
-03208 Timer
+06196 Solopg og solnedg
+03203 Synkronisering
+06197 Alt. tidszoner
+03208 Tidtagning
 03201 VIRB
 03205 Wi-Fi
+05502 Lås/lås op for taster
 03184 Musikkontrol
 05556 Telefon
-03179 Menuen Styring
+03179 Kontrolfunktioner
 03180 Sluk
 03186 Gem position
 03190 Angiv tid med GPS
 03191 Stopur
-03187 Synkroniser
-03192 Timer
+06195 Solopgang og solnedgang
+03187 Synkronisering
+06193 Alternative tidszoner
+03192 Tidtagning
 03185 VIRB
 03189 Wi-Fi
 02175 Kalibrer
+06152 Kalibreringsmeddelelser
 02171 Pedallængde
 02177 Skalafaktor - V
 02173 Manuel: %1 mm
@@ -2629,7 +2841,7 @@
 03455 Garmin segmenter
 03458 %1 stigning
 03456 Garmin segmenter
-03457 Strava aktive segmenter
+03457 Strava Live segmenter
 03463 Slet
 03462 Højdeplot
 03461 Kort
@@ -2638,6 +2850,7 @@
 01497 Højdemåler
 01500 Barometer
 01508 Kadence - %1
+06484 Køllesensorer
 01496 Kompas
 05945 Display - %1
 05496 Bluetooth
@@ -2646,6 +2859,7 @@
 05497 Vis Bluetooth-sensorer
 01504 FP - %1
 01503 Puls - %1
+06097 XERO-positioner
 01512 Lygte - %1
 01502 Lygter
 03055 Ilt muskler - %1
@@ -2658,7 +2872,9 @@
 01506 Fart/kad - %1
 01507 Fart - %1
 01510 Tempe - %1
+06457 DogTrack - %1
 01509 VIRB - %1
+06339 inReach - %1
 02166 Om
 01164 Brugerdefineret
 01171 46-36T
@@ -2682,7 +2898,7 @@
 02168 Fra
 02339 Tilsluttet
 02345 Tilsluttet
-02344 Ikke tilsluttet
+02344 Ikke forbundet
 02343 Sluk
 02338 Søger
 02342 Søger
@@ -2690,8 +2906,9 @@
 01583 Registrering af aktivitet
 01579 Aktiviteter og apps
 05683 Aktiviteter og apps
+06148 Kontrolfunktioner
 04991 Kopier aktivitet
-01580 Aktuel app
+06143 Aktuel aktivitet
 05536 GroupTrack
 03063 Kort
 01584 Navigation
@@ -2725,6 +2942,7 @@
 02930 Forudindstillede gear
 02928 Bageste gear
 00118 Meddelelser
+06434 Svar med
 02352 Under aktivitet
 02353 Ikke ved aktivitet
 02354 Under aktivitet
@@ -2748,6 +2966,14 @@
 02558 Distance
 02560 Åben
 02559 Tid
+06310 Koordinater
+06309 Historik %1
+06308 Gemte positioner
+06307 Vælg position
+06423 Løb %1
+06421 Oversigt over løbeture
+06424 Svømmetur %1
+06422 Oversigt over svømmeture
 01237 %1 tilgængelig
 01236 Afslut
 01239 Anslået tid: %1 min.
@@ -2785,6 +3011,7 @@
 00026 Start timer
 02377 12 timer
 02378 24 timer
+06085 Hver time
 00040 Til solopgang
 00039 Til solnedgang
 02380 Automatisk
@@ -2798,6 +3025,12 @@
 02372 Tid %1
 02373 Tidsformat
 02375 Tid
+06201 Tilføj zone
+06202 Tilføj zone
+06203 Skift zone
+06199 Skift zone
+06200 Slet zone
+06198 Omdøb zone
 01596 Cykling
 05650 Triptæller
 01595 Løb
@@ -2813,6 +3046,7 @@
 01601 Intervaller
 03069 Guidet test for syregrænse
 01599 Min træning
+06099 Åndedræt
 03095 Ur
 03091 Kompas
 03089 Aktuel skiløbetur
@@ -2833,7 +3067,7 @@
 01603 Konkurrer i en aktivitet
 03067 Segmenter
 01602 Angiv et mål
-03068 Strava aktive segmenter
+03068 Strava Live segmenter
 01600 Træningskalender
 01598 Træning
 03716 Skift kølle
@@ -2862,6 +3096,10 @@
 02404 Effektzoner
 02398 Brugerprofil
 02402 Vægt
+06270 Kalibrer nu?
+06269 Indstil pedallængde
+06271 Spring over
+06268 Vector forbundet
 02418 Burst
 02416 Foto
 05887 Sæt kamera i dvaletilstand
@@ -2912,6 +3150,7 @@
 00215 Ur
 00223 Kompas
 06065 Etager op
+06346 Garmin Coach
 00383 Intensitetsminutter
 00395 Sidste tur
 00394 Sidste løbetur
@@ -2927,6 +3166,7 @@
 03648 Fjern
 03647 Omorganiser
 06066 Stress
+06207 Solopgang og solnedgang
 00220 Temperatur
 00224 VIRB
 00219 Vejr
@@ -2934,11 +3174,13 @@
 03217 Tilføj widgets
 03216 Tilføj widgets
 03215 Widgets
+06034 Ugyldig adgangskodelængde
 02443 Automatisk overførsel
 02442 Tilslut til Wi-Fi
 06014 Mine netværk
 02444 Wi-Fi
 06027 Tilføj netværk
+06032 Max. antal Wi-Fi-netværk tilføjet. Slet et netværk, og prøv igen.
 06026 Mine netværk
 06028 Netværk fundet
 06030 Fjern
@@ -2967,7 +3209,7 @@
 06035 Styrke
 02455 I dag
 02457 I morgen
-06037 Fri
+06037 Ledig
 02456 I går
 02476 1 trin
 02477 Annuller træning
@@ -2982,9 +3224,13 @@
 02953 Hold nede under aktiviteter for at skifte til en anden sport.
 02951 Aktiviteten understøtter ikke metronom.
 02950 Ingen aktivitet er i gang.
+06294 Gå til Indstillinger > Fysiologiske målinger for at aktivere det senere.
 05815 Værdien udfyldes, når RHR (hvilepuls) er blevet målt.
+06279 Rep vægt kan redigeres under træningen.
 02952 Screenshot taget
 02954 Softwareopdatering til %1
+06337 Overførsel af besked til inReach-enhed.
+06338 Beskeden vil blive overført, når inReach-enheden er inden for rækkevidde.
 00119 Ingen meddelelser
 05596 Telefonforbindelse nødvendig
 03626 %1 for næste etape
@@ -2996,6 +3242,27 @@
 05850 Prøveversion er aktiv.
 05853 Prøveversion udløbet. Gå til apps.garmin.com for at låse op.
 02223 Kan ikke indstille ny værdi, før skalafaktoropdateringen er fuldført på Vector.
+06500 Alle køller er nu parrede.
+06508 %1 CR2032 har lavt batteri
+06509 Batteriniveau for køllesensor CR2032 er lavt.
+06497 Flere sensorer registreret. Læg alle andre køller væk.
+06492 Læg køllen tilbage i tasken, og tag den næste frem.
+06493 Par én kølle ad gangen. Lad de andre blive i tasken.
+06518 Parring mislykkedes.
+06501 Find den sensor frem, der var på din %1
+06502 Find den sensor frem, som du vil tilknytte på ny.
+06495 Hold kølle med grebet pegende opad.
+06494 Søger efter køllesensor.
+06498 Denne sensor er allerede parret.
+06499 Sensor tilknyttet %1
+06496 Køllesensor registreret. Parrer.
+06512 Find din %1 frem.
+06513 Find den køllesensor frem, som du vil opdatere.
+06514 Installerer opdatering til %1.
+06517 Forbereder opdatering
+06516 Opdatering mislykkedes. Tilslut sensor for at forsøge igen.
+06515 Opdatering mislykkedes
+06507 Utilknyttede køllesensorer vil ikke registrere slag korrekt.
 01324 Nedkøling anbefales
 00175 Kan ikke fjerne aktivitetsprofil
 01905 Kan ikke fjerne alle profiler.
@@ -3017,8 +3284,9 @@
 01908 Indlæser totaler
 01924 Fuldfør den aktuelle aktivitet for at komme til denne menu.
 01904 Udskift eller fjern et Connect IQ felt på ethvert skærmbillede for at tilføje et nyt.
+06177 Oprettelse af redigerbar kopi af banen.
 05799 Slukker pga kritisk lavt batteriniveau
-05773 Gemmer aktivitet pga kritisk lavt batteriniveau
+05773 Kritisk lav\nGemmer aktivitet
 01911 Alle aktiviteter slettet
 01912 Sletning af alle aktiviteter
 01913 Alle rekorder slettet
@@ -3031,6 +3299,9 @@
 01917 Aktivitetsprofilen findes allerede
 01947 Download gemte pulsdata
 01325 Nedkøling anbefales
+06135 Ingen XERO-positionsdata fundet.
+06136 Sender XERO-positionsdata.
+06134 Sendt XERO-positionsdata.
 01355 Brystpulssensor og effektsensor er påkrævet
 01354 Bryst pulssensor kræves
 01950 Download af pulsdata gennemført
@@ -3054,6 +3325,7 @@
 01932 Søger efter højre pedal.  Dette kan tage et par minutter.
 01929 Opdatering fuldført
 01936 Opdaterer
+06300 Opdat. af Vector\n\nPedal-LED blinker, når opdat. er i gang.
 01934 Venter på at sensor genstarter.
 01958 VO2 max. påkrævet. Løb 10 min. udendørs m pulsmåler for maks VO2.
 01959 GPS påkrævet. Tænd GPS, og gennemfør testen udendørs.
@@ -3090,6 +3362,8 @@
 03568 Batteriniveauet er for lavt til at oprette forbindelse til Wi-Fi.
 05700 Kan ikke overføre under aktivitet.
 05633 Der kunne ikke oprettes forbindelse. Prøv igen.
+06344 Synkroniserer med Explore
+06345 Synkronisering i gang
 05629 Inkompatibel netværkstype.
 05630 Netværksfejl. Prøv igen senere.
 03566 Ingen app-forbindelse tilgængelig.
@@ -3127,15 +3401,18 @@
 00050 Applikation
 00049 Start for at vise. (%1 bliver stoppet.)
 06022 Forbindelsen til telefonen kan ikke gendannes.
-06019 Opretter forbindelse til {1:32}
+06019 Tilslutter til %1
 06021 Der kunne ikke oprettes forbindelse.
 06020 Tilslutning gennemført
 06015 Wi-Fi-netværk fundet
 06016 Ingen Wi-Fi-netværk fundet
+06025 Åben
 06017 Gendanner forbindelse til telefon
 06023 Søger efter Wi-Fi-netværk
+06024 Sikker
 06018 Prøv igen
 00051 Fjern enkeltsports-aktivitetsprofil for at tilføje sport i træning.
+06291 Aktuel aktivitet understøtter ikke sporing. XERO-widget er deaktiveret.
 00159 Ingen skiløbeture fundet
 02214 Kalibrerer effektsensor.
 02215 Kal. gnm.ført
@@ -3161,6 +3438,10 @@
 05976 Maksimalt antal sensorer nået.
 05682 Sensor tilføjet
 05866 Sensorfejl
+06286 Varia fejl
+06437 Kan ikke sende sms-svar
+06436 Svar sendt
+06435 Sender svar
 03702 Tilslut TruSwing til mobile app.
 03704 Tilslutning gennemført
 03703 Downloader køller
@@ -3173,6 +3454,9 @@
 05898 Anmodning gennemført
 05766 Omg %1
 05754 Tryk for omgang
+05767 %1 omgang
+05768 %1 omgange
+05769 Gem som en aktivitet?
 00421 Positionsformat
 06051 Kontroller urets tilpasning
 06048 Høj stress
@@ -3205,7 +3489,8 @@
 01250 Distance:
 01301 %1 - Fly:
 01298 %1 - Fri:
-01296 Front Skift:
+06096 Etager:
+01296 F. gearskift:
 01265 GCT bal:
 01264 GCT:
 01274 IF:
@@ -3259,6 +3544,7 @@
 05997 Mængde:
 05998 Vægt:
 05993 Aktiv tid:
+06288 Kilde:
 05675 Distance:
 01302 Højde:
 01303 Position:
@@ -3284,6 +3570,12 @@
 01553 Passer ikke
 01554 Ny
 01556 OK
+06425 Alle løbeture
+06426 Svømmeture
+06314 Nær %1
+06208 Sol op
+06209 Solnedg.
+06210 Skumring
 05329 Gennemsnitlig distance pr. tag
 05396 Gns dist.pr. tag
 05418 Gn dist/tag
@@ -3319,8 +3611,10 @@
 05410 Tag
 04823 SV
 02688 S
-00356 S
+00356 L
 00338 Sikkerhedsfaktor
+06259 Samara
+06260 Samoa
 01091 Lør
 00498 Skala
 00349 Vælg en DIP
@@ -3342,8 +3636,8 @@
 05146 Omgangsfart
 00565 Omgangsfart
 00854 Omg.fart
-05147 Sidste omgangsfart
-00566 Sidste omgangsfart
+05147 Sidste omgang - fart
+00566 Sidste omgang - fart
 00855 S omg hast
 05836 Gennemsnitlig nautisk fart
 05838 Gns. nautisk fart
@@ -3403,6 +3697,7 @@
 00472 SWEREF 99 TM
 03278 Svømning
 00473 Swiss Grid
+06261 Sydney
 00495 Udgangspunkt 1
 00497 Udgangspunkt 2
 00494 Pejlestation 1
@@ -3460,6 +3755,7 @@
 03633 Visere
 03639 Sidelayout
 05491 Sekunder
+06204 Tryk START for at tilføje tidszoner.
 00116 Total tid
 03538 Seneste 7 dage
 05513 Der kræves en uges forbrug for at beregne en 7-dages belastning.
@@ -3487,6 +3783,7 @@
 00959 TSS
 00352 T
 00474 Taiwan Grid
+06263 Teheran
 00239 Temperatur
 00354 T
 01089 Tor
@@ -3502,8 +3799,8 @@
 05078 Omgangstid
 00502 Omgangstid
 00791 Omg.tid
-05079 Sidste omgangstid
-00503 Sidste omgangstid
+05079 Tid for seneste omgang
+00503 Sen. omg.tid
 00792 S omg tid
 05077 Timer
 00501 Timer
@@ -3516,10 +3813,15 @@
 00629 Klokkeslæt
 00918 TID
 00270 Indtast aktuel højde?
+06067 Angiv tryk ved havoverfladen?
+06264 Tokyo
 05246 Effektivitet i tråd
 00661 Effektivitet i tråd
 02899 Eff. i tråd
 00154 Skiløb ialt
+06070 Total tid
+06071 Total tid
+06072 Total tid
 05205 Retning
 00620 Retning
 00909 Retning
@@ -3573,6 +3875,7 @@
 02733 fpmu
 02731 fa
 02734 fod
+06124 etager
 02735 gal
 02736 G
 02716 ° G
@@ -3639,7 +3942,15 @@
 02778 yd
 03389 fod/t
 03390 m/t
+06211 US - Alaska
+06212 US - Arizona
+06213 US - Atlantic
+06214 US - Central
+06215 US - Eastern
+06216 US - Hawaii
+06217 US - Mountain
 00475 U.S. National
+06218 US - Pacific
 00487 UTM
 00476 UTM UPS
 01084 Enheds-id
@@ -3651,15 +3962,15 @@
 02494 Indtil puls < %1BPM
 02495 Indtil puls < %1% HRR
 02496 Indtil puls < %1% Maksimal
-02501 Indtil tryk på Lap
+02501 Indtil tryk på Omgang
 02513 Indt s trin maks eff > %1% FTP
-02512 Indt s trin maks eff > %1 W
-02506 Indt s trin maks eff < %1 W
+02512 Til maks.eff. s. trin > %1 W
+02506 Til maks.eff. s. trin < %1 W
 02507 Indt s trin maks eff < %1% FTP
 02508 Indt s trin effekt < %1 W
-02511 Indtil sen. trin effekt > %1% FTP
+02511 Indtil sidste trin EFF > %1% FTP
 02510 Indt s trin effekt < %1 W
-02509 Indt s trin effekt > %1% FTP
+02509 Indtil sidste trin EFF < %1% FTP
 02505 Indtil effekt > %1% FTP
 02502 Indtil effekt > %1 W
 02504 Indtil effekt < %1% FTP
@@ -3668,7 +3979,7 @@
 00273 Brug GPS
 00478 Brugernet
 00208 Bruger
-05787 Tryk START for at parre
+06414 Par VIRB
 05149 VMG
 00568 VMG
 00857 VMG
@@ -3693,6 +4004,7 @@
 02878 Vrt. forh.
 00260 Lodret fart
 00387 Kraftig
+06265 Vladivostok
 01117 Ur fundet!
 00171 Fre
 00167 Man
@@ -3718,6 +4030,7 @@
 03732 Tag
 05855 Denne uge
 00399 Tid
+06139 etager
 03734 løb
 03733 tag
 00391 Sidste tur
@@ -3725,6 +4038,7 @@
 00389 Sidste sport
 00392 Sidste svømmetur
 00362 Min dag
+06033 Opdaterer Wi-Fi-netværksliste
 03300 Rep %1
 03302 Dist for trin
 03301 Trin, tid
@@ -3756,8 +4070,11 @@
 02915 Wi-Fi MAC-adresse
 00348 Vinddata påkrævet til HARP-beregning.
 00336 Vind
+06266 Windhoek
 02524 Træning afsluttet
 00247 Pulsmål. håndled
+06205 Klar til at modtage
+06458 Vent på GPS
 01079 Ja
 02692 Z0
 02693 Z1
@@ -3777,8 +4094,12 @@
 00436 hddd.ddddd°
 00437 hddd°mm.mmm'
 00438 hddd°mm'ss.s"
+06077 %1 hPa pr. 3 timer
+06078 %1 tommer pr. 3 timer
 03736 %1 er på stand.
 03735 %1 har mistet GPS-modtagelse.
+06076 %1 mb pr. 3 timer
+06079 %1 mmHg pr. 3 tim.
 02535 %1
 02684 p
 02686 pm

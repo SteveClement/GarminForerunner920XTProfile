@@ -1,4 +1,4 @@
-006-D6593-15|v02.40
+006-D6593-15|v03.10
 00001 Slovenski
 00252 12-urni
 00253 24-urni
@@ -30,7 +30,7 @@
 01106 Moč
 01102 Kadenca
 01100 Tek
-01104 Tempo zaves.
+01104 Hitr. zaves.
 01105 Hitrost
 01099 Cas
 01101 Hoja
@@ -62,12 +62,28 @@
 05022 Odstrani iz priljubljenih
 05021 Nastavi za privzetega
 02594 Apr
+06327 Čestitamo! Načrt končan.
+06316 Odlično
+06317 Dobro opravljeno
+06318 Možnost za izboljš.
+06321 Nast. načrt vadbe trenerja Garmin z Garmin Connect Mobile.
+06322 Za naslednjo vadbo sinhronizirajte z Garmin Connect Mobile.
+06320 Dan počitka
+06326 Za nasl. vadbo sinhronizirajte.
+06324 Danes
+06325 Jutri
+06315 Teden %1
+06319 Vadba je opravljena
+06323 Včeraj
 02598 Avg
 00158 Povpr.
+06430 Nenorm. srčni utrip
+06433 Zaznan je bil nenorm. srč. utr.
 00419 Aktivne
 03722 Aktiv. kalorije
 00347 Dodaj
 02894 Aer. TE
+06223 Almaty
 00343 Višina (AGL) v čevljih
 05351 Širina/dolžina
 00755 Širina/dolžina
@@ -82,9 +98,15 @@
 05175 Anerobni TE
 02857 Anerobni TE
 02895 Anaer. TE
-02534 Katera koli
+02534 Kateri koli
 02912 Vzpon
 03740 Prekinjena povezava s sledilnikom lastnine.
+06465 Ni povezanih psov.
+06224 Auckland
+06222 Adelaide
+06228 Brisbane
+06257 Perth
+06262 Tazmanija
 00439 Avstrijska mreža
 01498 Samodejno umerjanje
 00204 Samodejno
@@ -117,8 +139,8 @@
 05253 Uravnoteženost v zadnjem krogu
 00668 Uravn. v zad. krogu
 00957 Urav. z. kr.
-05240 Moč zadnjega kroga
-00655 Moč zadnjega kroga
+05240 Moč v zadnjem krogu
+00655 Moč v zadnjem krogu
 00944 Moč z. kr.
 05238 Povprečna moč
 00653 Povprečna moč
@@ -171,6 +193,7 @@
 06059 Držite
 02528 Nazaj
 02586 Nazaj
+06225 Bangkok
 00255 Risanje
 05525 Napolnjenost baterije
 05526 Napolnjenost baterije
@@ -181,7 +204,9 @@
 01449 Najboljša moč!
 02487 Kolo
 02914 Nasl. MAC za Bluetooth
+06226 Bombaj
 00440 Borneo RSO
+06227 Brasilia
 02529 Prsno
 02587 Prsno
 00441 Britanska mreža
@@ -190,6 +215,11 @@
 05075 Ni dogodkov
 00127 Zdaj
 03624 Izberite polje %1
+06506 Znova dodelite ali odstranite nedodeljene senzorje palic.
+06505 En ali več senzorjev palic ni dodeljenih.
+06510 Belež. rezult. in spremlj. stat. podatov sta omogočena.
+06511 Za napr. stat. podat. naložite kart. z rezult. v Garmin Golf.
+06503 S katero palico?
 05984 Ponovitve
 05985 Časovnik serije
 00198 Umeri kompas
@@ -201,6 +231,7 @@
 00195 Poskusi znova
 00194 Začni
 00121 Čakanje na podatke
+06229 Kairo
 00272 Umerjanje končano
 01499 Umeri
 02491 Kal.
@@ -211,7 +242,10 @@
 00528 Preostale kalorije
 00817 Preos. kal.
 01081 Prekliči
+06230 Cape Town
+06231 Zelenortsko otočje
 02707 Enote
+06232 Chita
 05301 Kadenca med sedenjem
 00716 Kad. med sed.
 01005 Kad. sede
@@ -333,7 +367,7 @@
 00622 Smer
 00911 Smer
 00332 Smer do HARP-a
-00153 Trenutni tek
+00153 Trenut. vož.
 02715 Trenutno
 00491 DA
 02602 Dec
@@ -351,6 +385,7 @@
 00488 DX
 00489 DY
 00490 DZ
+06233 Darwin
 02913 Spust
 05350 Cilj Položaj
 00754 Cilj Položaj
@@ -399,8 +434,8 @@
 05352 PREDVIDENI ČAS PRIHODA
 00756 PREDV. ČAS PRIH.
 01045 P. Č. PR.
-05357 Predv. čas do nasl.
-00761 Predv. čas do nasl.
+05357 Predvideni čas do naslednje
+00761 Pr. č. do n.
 01050 Č. pr. nasl.
 05353 ČAS POTI
 00757 ČAS POTI
@@ -409,9 +444,11 @@
 00762 Čas do naslednjega
 01051 Čas nasl.
 02689 V
+06235 Ekaterinburg
 05083 Pretečeni čas
 00507 Pretečeni čas
 00796 Preteklo
+06234 Eniwetok
 00282 Vnesite azimut
 00287 DA v metrih
 00286 DF v metrih
@@ -419,35 +456,44 @@
 00284 DY v metrih
 00285 DZ v metrih
 00292 Vnesite višino
-00275 Pomik proti V v metrih
-00276 Pomik proti S v metrih
+00275 Pom. proti V v metrih
+00276 Pom. proti S v metrih
 00277 Vnesite zemlj. širino
 00278 Vnesite lokacijo
 00279 Vnesite zemlj. dolžino
 00280 Vnesite zamik 1
 00281 Vnesite zamik 2
 00289 Magnetna variacija
+06068 Vnesite pritisk
 00288 Vnesite merilo
 00350 Vnesite hitrost
 05084 Predvideni končni čas
 00508 Predvideni končni čas
 02870 Pred. kon.
+06178 Predvidena skupna razdalja
+06179 Predvid. skup. razdalja
+06180 Pr. sk. raz.
 00444 Estonska mreža
+06236 Evropa – srednja
+06237 Evropa – vzhodna
+06238 Evropa – zahodna
 02714 Poteklo
 02852 Zunanji profil
 02592 Feb
 03304 Pritisnite za tek, kolesarjenje in drugo.
 05709 Pridržite za nastav. dejav., vadbo in drugo.
 03307 Pridržite za glasbo, shr. lok. in drugo uprav.
-03306 Pridržite za sprem. videza in drugih nastav.
+03306 Pridrž. za sprem. videza ure in dr. nast.
 03303 Namig:
-03305 Pritisnite za korake, vreme in druge pripom.
+03305 Pritisnite za korake, vreme in dr. pripom.
 00018 Koordinate
+06453 Št. krog.: %1
+06454 %1 počitka
 01336 FTP zaznan
 01341 Sprejmi
 01342 Zavrni
 02967 Nov FTP
-02968 Z
+02968 W
 01322 Test je končan, ko je zaznan FTP.
 01321 Ciljna intenzivnost se poveča vsake 3–4 minute.
 01320 10–20 minut se ogrevajte počasi in lahkotno.
@@ -492,13 +538,23 @@
 05373 Polje 4
 02863 Polje 4
 02904 Polje 4
+06239 Fidži
 05651 Poišči moj telefon
 00445 Finska mreža
+06087 Nadstropja navzgor
+06090 Nadstropja navzgor
+06093 Nadst. gor
+06088 Nadstropja navzdol
+06091 Nadstropja navzdol
+06094 Nadst. dol
+06089 Nadstropja na minuto
+06092 Nadstropja na minuto
+06095 Nadst./min
 00361 Nadstropja
-02530 Delfin
-02588 Delfin
+02530 Metulj
+02588 Metulj
 00331 Premik naprej
-02527 Prosto
+02527 Prosti slog
 02585 Prosto
 01090 Pet
 05361 Spredaj
@@ -538,6 +594,7 @@
 00325 Zgrešila v levo
 00326 Zgrešila v desno
 03678 Ni zabeleženih udarcev
+06483 Kaz. udar.
 00322 Pati
 05932 Ledina
 03671 Beleženje rezultata
@@ -597,7 +654,7 @@
 00377 Bogiji
 00378 Dvojni
 00374 Igli
-00372 Zelenice
+00372 Čistine
 00371 GIR
 00373 Pati/luk.
 00376 Pari
@@ -615,12 +672,17 @@
 00840 ČST
 05132 ČST
 00551 ČST
+06417 Pozneje
+06418 Ne, hvala
+06303 Ali želite izvedeti več o Physio TrueUp?
 05594 Ne prikaži več
 05592 Ne pozabite si sneti senzorja RD Pod.
 05593 V redu
 03588 12-urni
 03589 24-urni
+06416 Da
 05609 Nazaj na začet.
+05912 Umeri in shrani
 05610 Zavrzi
 05608 krog
 05607 Nadaljuj pozneje
@@ -630,10 +692,12 @@
 05758 Ponastavi
 05756 Nadaljuj
 05795 Pregled
+05770 Končano
 05755 Štoparica
 03275 Začni z vadbo
 03277 Preskoči
 03274 Danes: %1
+06287 Danes: število vadb – %1
 03276 Ogled
 01315 Uporablja %1
 02649 Uporablja %1
@@ -641,6 +705,16 @@
 02651 Uporablja %1, %2, %3
 02652 Uporablja %1, %2, %3, %4
 02653 Uporablja %1, %2, %3, %4, %5
+06130 Izbriši
+06133 Urejanje imena
+06129 Pozabi združeno napravo
+06125 Lokacije XERO
+06128 Zasebno
+06127 Javno
+06132 Pošlji
+06126 Način deljenja
+06138 Pozabim združ. napravo?
+06137 Nova l. XERO.\nUpor. navig.?
 05488 Učinek na telo
 05486 Visoka raven stresa
 05484 Nizka raven stresa
@@ -698,12 +772,43 @@
 00264 Hektopaskali
 02640 Pritis. START
 03319 Za merjenje pritis. START
+06240 Hong Kong
+06140 Lokacija XERO
 03776 h
 00443 Madžarska mreža EOV
 05254 Intensity Factor
 00669 Intensity Factor
 00958 IF
 02532 IM
+06387 Za preklic prit. poljub. tipko.
+06388 Zaganjanje SOS. Naprava inReach mora biti vklopljena in v bližini.
+06386 Zagon SOS čez
+06389 Ni povezave! Naprava inReach mora biti vklopljena in v bližini. SOS bo poslan, ko bo naprava povezana.
+06390 Prijavljen je SOS. Prepričajte se, da ima naprava inReach neoviran pogled na nebo.
+06364 Odgovori
+06375 Izberite hitro bes.
+06373 Izberite hitro besedilo
+06372 Odgovori
+06374 Napišite sporočilo
+06394 Nastopil je nujen primer. Prosim, pošlji pomoč.
+06396 Zgodila se je nesreča. Pošljite pomoč.
+06401 Smrtna žrtev. Pošljite pomoč.
+06402 Zdravstveni nujni primer. Potrebujem pomoč.
+06399 Pogrešan član skupine.
+06400 Naravna nesreča. Potrebujem pomoč.
+06398 Nujni primer, ki ni smrtno nevaren. Pošljite pomoč.
+06397 Ločil(-a) sem se od skupine.
+06404 Huda telesna poškodba. Pošljite pomoč.
+06395 Moje vozilo je pokvarjeno.
+06403 Plovilo v stiski. Potrebujem pomoč.
+06371 Preklicevanje SOS
+06366 Razdalja
+06369 Zaganjanje SOS
+06365 Združevanje z inReach
+06370 Poteka SOS
+06368 Iskanje %1
+06367 Časovnik
+06241 Islandija
 00447 Islandska mreža
 00261 Palci (Hg)
 00451 Indijsko območje 0
@@ -729,7 +834,7 @@
 00901 P. SU int.
 05200 Int. najviš. % RSU
 00616 Int. najviš. % RSU
-00905 N. % RSU i.
+00905 N.% RSU I.
 05201 Intervalni najvišji % najvišjega
 00617 Int. najviš. % najviš.
 00906 N. % n. int.
@@ -745,7 +850,7 @@
 05325 Zavesljajev na dolžino na intervalu
 00733 Zav./dolž. na int.
 01022 Zam./d. i.
-00384 Ciljno število minut intenziv.
+00384 Ciljno štev. min. intenziv.
 05095 Razdalja na intervalu
 00517 Razdalja na intervalu
 00806 Raz. int.
@@ -763,16 +868,23 @@
 00794 Čas int.
 00460 Irska mreža (IG)
 00461 Irska mreža (ITM)
+06242 Irkutsk
+06243 Islamabad
 02591 Jan
 02597 Jul
 02596 Jun
+06244 Džakarta
 00242 km
 00339 K-prosti pad
 00341 K-odprto
 00340 K-statičen
+06245 Kabul
+06246 Kaliningrad
+06247 Katmandu
 05233 Delo
 00648 Delo
 00937 Delo
+06248 Krasnojarsk
 01318 Test je končan, ko je zaznan prag.
 01317 Ciljna intenzivnost se poveča vsake 3–4 minute.
 01316 10–15 minut se ogrevajte v počasnem tempu.
@@ -801,7 +913,6 @@
 03240 Glede na
 03256 Glede na
 03643 Nacin
-03193 Kontrolniki
 03641 Zaslon
 03210 Razdalja
 01778 Jezik
@@ -863,17 +974,18 @@
 01735 Izberite območje
 01334 Sprejmi
 01335 Zavrni
-02966 u/mi
+02966 u/m
 05846 /km
 05845 /mi
 02964 Nov prag
-02963 u/mi
+02963 u/m
 02962 Laktatni prag
 01330 Ročni vnos
 01328 Prag je bil zaznan
 05247 Uravnoteženost
 00662 Uravnoteženost
 00951 Uravnot.
+06249 Lagos
 00479 Lamb. ko. 1 vzp.
 00480 Lamb. ko. 2 vzp.
 05092 Razdalja kroga
@@ -951,7 +1063,7 @@
 00889 %RSU ZK
 05185 % najvisjega SU zadnj. kroga
 00601 % najv. SU z. kr.
-00890 %n.SU z. k.
+00890 %N.SU Z.K
 05183 Srčni utrip zadnjega kroga
 00599 SU zadnjega kroga
 00888 SU z. kr.
@@ -1007,7 +1119,7 @@
 02706 Nastavi smer
 01448 Najdaljša vožnja!
 01440 Najdaljši tek!
-03026 Najdaljša prepl. razdalja!
+03026 Najdaljša\nprepl. razd.!
 00426 Osrednja točka dolžine
 00427 Točka 1 dolžine
 00428 Točka 2 dolžine
@@ -1015,11 +1127,12 @@
 00493 Številka v verigi
 00463 Mreža Loran TD
 03739 Prekinjena komunikacija z %1.
+06298 Trenutna lokacija
 02593 Mar
 00157 Največ
 02595 Maj
 01140 Mesecno
-01142 Sk. meseč. vredn.
+01142 Skup. meseč. vr.
 01139 Tedenski
 01141 Sk. ted. vrednosti
 03032 1000 yd
@@ -1077,13 +1190,17 @@
 01208 Baterija kolesarske luči je skoraj prazna.
 02935 Baterija kolesarske luči %1 je skoraj prazna.
 01184 Baterija senzorja kadence je skoraj prazna.
+06391 Preklicevanje SOS
 01178 Za sprem. izbire profila končajte dejav. z več športi.
+06175 Uredljive kopije proge ni bilo mogoče ustvariti.
+06083 Preseženo je najv. dovol. število prog. Nekatere proge niso bile uvožene.
+06082 Presež. najv. dovol. količ. za shranj. prog. Nekatere proge niso uvožene.
 05797 Preseženo najv. število tč. proge %1. Končnih %2 točk ne bo prikazanih.
 03586 Razdalja do cilja %1
 03587 Čas do cilja %1
 05943 Baterija razširjenega zaslona je skoraj prazna.
 05944 Baterija zaslona Edge je skoraj prazna.
-01187 Nizka raven baterije senzorja korakov.
+01187 Baterija senzorja korakov je skoraj prazna.
 05528 Uporabnika funkcije GroupTrack ni bilo mogoče najti.
 02931 Zaslon je prikazan med uporabo dodatne opreme za dinamiko teka.
 02957 Zaslon je prikazan med uporabo opreme HRM-Tri ali HRM-Swim.
@@ -1092,15 +1209,17 @@
 02938 Baterija žarometa %1 je skoraj prazna.
 01232 Za odklepanje naprave pridržite katero koli tipko.
 01231 Za pripomočke držite tipko DOWN.
+06073 Za zaklepanje/odklepanje naprave pridržite bližnjično tipko.
+06081 Opozorilo vsako uro
 01191 V zelenem obmocju
 01192 Neveljavno sporočilo
 03581 Oddaljevanje od bližinske točke %1.
 01229 LiveTrack končan
-01228 LiveTrack se je začel
+01228 Seja LiveTrack se je začela
 02948 Seje LiveTrack ni bilo mogoče začeti
 01197 Najnižja in najvišja vrednost za opozorila spremenjeni.
 02933 Baterija senzorja saturacije kisika v mišicah je skoraj prazna.
-01195 Pomnilnik dejavnosti je skoraj poln. Prenesite v Garmin Connect.
+01195 Prostor za shr. dejav. skoraj poln. Naložite v Garmin Connect.
 01196 Pomnilnik dejavn. je poln. Za sprostitev prostora izbrišite dejavnosti.
 03705 Najdenih je bilo več naprav TruSwing. Premaknite se in poskusite znova.
 05495 Po prehodu na to dejavnost se tipke zaklenejo. Za odkl. držite poljub. tipko.
@@ -1112,12 +1231,14 @@
 00308 Za več možnosti za golf pritisnite tipko START.
 02934 Baterija senzorja RD Pod je skoraj prazna.
 01216 Baterija radarja je skoraj prazna.
+06392 Za preklic SOS vzpostavite povezavo z napravo inReach.
 01201 Srčni utrip med regeneracijo %1
+06393 Preklicana sporočila SOS naprave inReach
 05990 Pritisnite za začetek in konec serij.
 02932 Baterija senzorja za prestavljanje je skoraj prazna.
 01188 Baterija senzorja Shimano Di2 je skoraj prazna.
 01198 Najpočasnejša in najhitrejša vrednost za opozorila spremenjeni.
-01202 Baterija hitrosti/kadence je skoraj prazna.
+01202 Baterija senzorja hitrosti/kadence je skoraj prazna.
 01204 Baterija senzorja hitrosti je skoraj prazna.
 01206 Za zacetek vadbe zazenite casovnik.
 01194 Čas do sončnega vzhoda %1
@@ -1129,6 +1250,12 @@
 05991 Serija %1
 01207 Raven baterije kamere VIRB je nizka.
 01222 Velikost kolesa je izracunana.
+06336 Povezava z napravo inReach je prekinj. Prepričajte se, da je naprava v dosegu.
+06335 Baterija naprave inReach je skoraj prazna.
+06410 Sporočila ni bilo mogoče poslati. Poskusite znova v napravi inReach.
+06413 Sporočila ni bilo mogoče poslati. Sporočilo je predolgo.
+06411 Sporočil ni mogoče poslati v inReach, če je omogočeno prever. pristnosti.
+06412 Sporoč. ni bilo mogoče poslati. Zmanjš. štev. stikov in poskusite znova.
 01118 Metronom
 00465 MGRS
 02321 ČVV
@@ -1141,6 +1268,7 @@
 03569 Premešaj
 05702 Zaženite predvajanje glasbe v telef.
 00351 P
+06250 Magadan
 00205 Magnetno
 00464 Maidenhead
 00423 Oznaka
@@ -1170,6 +1298,10 @@
 00267 m/h.
 00268 m/min.
 00269 m/s.
+06219 Mehika – osrednja
+06220 Mehika – gorska
+06221 Mehika – pacifiška
+06251 Srednji Atlantik
 00243 Milje
 00263 Milibari
 00262 mmHg
@@ -1178,10 +1310,11 @@
 00637 Najmanjša višina
 00926 Najm. viš.
 02713 Manjka
-02531 Mesano
-02589 Mesano
+02531 Mešano
+02589 Mešano
 00386 Zmerna
 01086 Pon
+06252 Moskva
 01450 Največji vzpon!
 05249 Pov. urav. za 10 s
 00664 Pov. urav. za 10 s
@@ -1207,8 +1340,9 @@
 05086 Čas več športov
 00510 Čas več športov
 00799 Čas več š.
-05378 % saturacije kisika v mišicah
-02868 % sat. kisika v mišicah
+06253 Muškat
+05378 % nasičenosti mišic s kisikom
+02868 % nasič. miš. s kisik.
 02909 SMO2
 05379 Skupni hemoglobin
 02869 Skupni hemoglobin
@@ -1220,6 +1354,7 @@
 02606 Senz. kad. povezan
 03312 Izberite postavitev
 02638 Povezano
+06154 Uprav. elem. dodan
 03613 Začeli ste progo
 02614 Di2 je povezan
 05948 Zaslon je povezan
@@ -1232,6 +1367,7 @@
 02608 Zunan. SU povezan
 02616 Žaromet je povezan
 02619 Pov. žarom. prekin.
+06328 Kako napor. je bilo?
 02615 Luč je povezana
 02618 Povez. luči prekin.
 03311 Meril. MO2 povezan
@@ -1249,11 +1385,13 @@
 02623 Radar je povezan
 02624 Približuje se vozilo
 02633 Branje
-05563 Za osvežitev podat. v telefonu odprite progr. za mob. napr.
+05563 Za osvež. pod. odpr. pr. za mob. nap. v telef.
 05562 Za osvežitev podat. vzpostavite povez. s telefonom.
 05617 Preost. n.: %1
+06450 Odgov.
 03459 Izven odseka
 02613 %1 povezan
+06459 Napaka senzorja
 02637 Pripravljeno
 03309 Senz. pr. povezan
 02610 S. hit./kad. prikl.
@@ -1267,6 +1405,7 @@
 02611 VIRB je povezana
 02604 Počakajte na GPS
 03313 Dodan je pripomoč.
+06341 N. inReach povez.
 02601 Nov
 05834 Za ogled stanja kolesarite z merilnikom moči.
 05832 Za ogled stanja dvakrat tecite na prostem z meril. srčnega utripa.
@@ -1304,8 +1443,9 @@
 02984 Nastavitev ponovitev
 02999 Nastavitev sekund
 03004 Nastavitev hitrosti
-02991 Nast. hitr. zaves.
+02991 Nastavite hit. zaves.
 02990 Nast. hitr. zam.
+06428 Nastavite pragove
 03009 Nastavitev števila zob
 03010 Nastavite navp. hitrost
 02992 Nastavitev teže
@@ -1317,13 +1457,14 @@
 02687 S
 00466 Nova Zelandija
 00467 Novozelandski TM
+06254 Nova Fundlandija
 01080 Ne
 01451 Ni nastavljenih ali prenesenih rekordov.
 05257 NP v krogu
 00672 NP v krogu
 00961 NP v krogu
-05258 Normaliziran zadnji krog
-00673 Normal. zadnji krog
+05258 NP v zadnjem krogu
+00673 NP v zadnjem krogu
 00962 NP z. kr.
 05256 NP
 00671 NP
@@ -1333,6 +1474,7 @@
 00931 Barom.
 00202 Referenčni sever
 00245 Ni priključeno
+06255 Novosibirsk
 00211 Stopinje
 02600 Okt
 05643 Dejavnosti
@@ -1345,6 +1487,7 @@
 00625 S proge
 00914 S proge
 00330 Višina odpiranja
+06452 Odpri počitek
 00385 ali
 05330 Povpr. razdalja na zavesljaj
 05397 Pov. razd. na zavesljaj
@@ -1388,27 +1531,38 @@
 01363 Dobro
 01360 Slabo
 01359 Stanje zmogljivosti
+06415 Funkcija Physio TrueUp sinhronizira dejavnosti, ki jih opravite z drugimi napravami Garmin, zato lahko vaša naprava natančneje prikaže stanje vadbe in telesne pripravljenosti.
 02682 Pop
+06170 Budilka
 05970 Višinomer
 05982 Osvet. zaslona: %1 %
 05969 Barometer
+06167 Svetlost
+06187 Oddajanje srčnega utripa
 05971 Kompas
-05827 Ne moti: izklopljeno
+05827 Način "Ne moti": izkl.
 05826 Ne moti: vklopljeno
 03546 Ne moti
 03547 Poišči moj telefon
 05983 Svetilka
 05514 Zakleni tipke
 03548 Upravljanje glasbe
+06171 Število alarmov: %1
 05794 Združi VIRB
+06342 Združevanje z inReach
+06168 Telefon
 03544 Izklop
+06343 Poteka SOS
 03550 Shrani položaj
+06169 Izberite za prerazpored.
 03554 Nastavite čas z GPS-om
 03555 Štoparica
+06194 Sončni vzhod in zahod
 03551 Sinhronizacija
 03558 Poišči moj telefon
 03557 Upravljanje glasbe
 03559 Sinhronizacija
+06206 Drugi časovni pasovi
 03556 Časovnik
 03549 VIRB
 03553 Wi-Fi
@@ -1491,6 +1645,7 @@
 05204 Stanje zmogljivosti
 00619 Stanje zmogljivosti
 00908 St. zmoglj.
+06256 Petropavlovsk-Kam.
 00422 Formatiraj
 02981 Varč. z ener.
 00259 Tlak
@@ -1501,6 +1656,11 @@
 05534 Polmarat.
 05535 Maraton
 05531 Predv. tek.
+06331 Lahko
+06333 Težka
+06332 Zmerna
+06330 Zelo lahka
+06334 Zelo težka
 00359 P. SU mir. %1
 00358 Zad. 7 dni
 05164 Povprečna kadenca
@@ -1542,6 +1702,7 @@
 00748 Časovnik počitka
 01037 Čas. počit.
 00417 V mirov.
+06258 Riyadh
 02486 Tek
 05676 Višina:
 05677 Položaj:
@@ -1561,7 +1722,7 @@
 01839 Združevanje ni bilo uspešno.
 01840 Poskusi znova
 03128 Ponovi
-01841 Seje LiveTrack ni bilo mogoce koncati.
+01841 Seje LiveTrack ni bilo mogoče končati.
 01847 Črna
 01846 Bela
 01848 Nadaljujte
@@ -1592,6 +1753,8 @@
 01984 Desno
 01865 Centimetri
 01864 Čevlji
+06385 Ali želite preklicati SOS?
+06384 SOS uporabite samo v nujnem primeru. Naprej?
 01678 Samodejno
 01679 Posamezna
 01867 Prekliči
@@ -1616,16 +1779,18 @@
 00147 Srčni utrip
 05847 Zaženi
 01877 Ne
+06299 Ne zdaj
 05828 V redu
 01879 Izklopljeno
 01878 Vklop
 02642 Odstrani
 02647 S tem boste odstranili %1 in spremenili %2 pr. za več športov.
-02644 S tem boste spremenili %1 profilov za več športov.
+02644 S tem boste sprem. to štev. profilov za več športov: %1.
 02643 S tem boste spremenili ta profil za več športov: %1
 02646 S tem boste odstranili %1 profilov za več športov.
 02645 S tem boste odstranili ta profil za več športov: %1
 00148 Moč
+06281 Prenos že poteka.
 01902 Opozorilo za vzpon
 01798 Samodejno zaznavanje
 03481 Ali želite izbrisati odsek?
@@ -1639,6 +1804,7 @@
 01677 Konfiguracija
 03665 Trenutno poteka krog.
 03101 Ali želite ustvariti novo?
+06176 Ustvarj. uredlj. kopije proge. Nekaj podrob. bo morda izgubljenih.
 03102 Snemanje podatkov
 01806 Izbrisem dejavnosti?
 01805 Izbrišem dejavnost?
@@ -1653,6 +1819,7 @@
 01809 Zavrzem?
 01810 Razdalja
 03104 Višina
+06302 Ali želite omogočiti Physio TrueUp?
 01811 Koncam LiveTrack?
 00309 Ali želite končati krog?
 02323 Ali želite zapreti navigacijo ČVV?
@@ -1680,13 +1847,16 @@
 03116 Moč
 03112 Hoja
 03119 Tempo/hitrost
+06504 Ali želite združiti še en senzor palic?
 03098 Ali želite združiti s telefonom?
 03120 Cas. om. var. z en.
 03482 Ali želite izbrisati odsek?
+05913 Ali želite shraniti dejavnost?
 03121 Način snemanja
 06012 Ali si želite vzeti trenutek za sprostitev?
 05612 Zaženem %1?
 01829 Odstranim?
+06192 Ali želite preimenovati časovni pas?
 01830 Ponovi
 05545 Ponastavim območja moči na privz. vrednosti?
 01826 Ponastavim skupne vrednosti?
@@ -1708,11 +1878,14 @@
 03125 Uporabniške točke poti
 03126 Teža
 03213 Na voljo so dod. pripomočki
+06145 Na katerem zapestju imate uro?
 01876 Da
 00113 Metri
 00114 Jardi
 01883 Vel. baz. bo spremenjena v %1 m, da se bo ujem. z vadbo.
 01884 Vel. baz. bo spremenjena v %1 jardov, da se bo uj. z vadbo.
+06146 Nastavim opom. za umer. pred vsako vožnjo?
+06147 Ali želite opraviti umerjanje?
 02213 Umeri
 02218 Napaka zaradi neuspelega umerjanja: %1
 02211 Priporočamo umerjanje. Če želite senzor umeriti, ga odpnite s pedala.
@@ -1730,6 +1903,7 @@
 01568 Ne
 01566 Odstranim?
 01567 Da
+06282 Ali želite vklopiti štetje ponovitev?
 01569 Prenos neuspešen. Poskusim znova?
 01571 Ne
 01570 Da
@@ -1745,6 +1919,7 @@
 01534 Za aktiviranje senzorja zacnite poganjati.
 03061 Ce zelite aktivirati senzor, se sprehodite.
 01539 Za vzpostavitev povezave vklopite radar.
+06340 Za vzp. povez. vklop. napr. inReach in omog. nast. ANT+.
 03060 Za povezavo s senz. prestav. prestavite spred. ali zadaj.
 01537 Za povez. s Shimano Di2 prestavite spred. ali zad. prestavo.
 01535 Za aktiviranje senzorja zacnite poganjati.
@@ -1758,8 +1933,9 @@
 05772 V redu
 05499 Posodobitev ni bila uspešna. Odprite meni senzorja in poskusite znova.
 01888 Končano
-01887 Posodobitev ni bila uspešna. Poskusite znova v storitvi Garmin Connect.
-00062 Posodobitev ni bila uspešna. Poskusite znova.
+01887 Posodobitev ni bila uspešna.  Poskusite znova iz storitve Garmin Connect.
+00062 Posodobitev ni uspela.  Poskusite znova.
+05820 Preskočim umerjanje tekalne steze?
 01589 Sprejmi
 01591 Tempo: %1
 01592 Hitrost: %1
@@ -1784,6 +1960,8 @@
 01901 Shranjeno
 03214 Ogled
 02599 Sep
+06432 Prag za opozorilo
+06431 Stanje
 01397 Interval %1
 01396 Intervali
 01395 Krog %1
@@ -1829,20 +2007,24 @@
 00064 Čas v območju
 00046 TracBack
 03492 Training Effect
-03145 Dodaj programe
+06144 Dodaj
 02009 Notranje kolo
 02008 Kolo
 05841 Plovilo
+06103 Boks
 02017 Več športov
 02026 Kardio
 02020 Plezanje
 02022 Tek na smuč.
 02002 Po meri
 02016 Duatlon
+06101 Eliptična vad.
+06104 Vzp. po stopn.
 05867 Golf
 05500 Ime dejavnosti
 02019 Pohodništvo
 02031 Jumpmaster
+06283 Kajak
 03150 Gorsko koles.
 02012 Gorsko
 03151 Navigacija
@@ -1859,6 +2041,7 @@
 02028 SUP
 02021 Smučanje
 02023 Desk. na sn.
+06100 Vadbene stop.
 02025 Moč
 04993 Plavanje/tek
 02032 Taktično
@@ -1868,6 +2051,7 @@
 02005 Tekoči trak
 02015 Triatlon
 02027 Hoja
+06102 Joga
 02000 Končano
 03148 Šport
 01999 Več športov
@@ -1886,12 +2070,16 @@
 02081 Samodejni tek
 03620 Samodejni tek
 02059 Samodejno pomikanje
+06284 Samodejna serija
+06285 BETA
 03156 Opozorila o odsekih
 02078 Barva ozadja
 05824 Začetek odštevanja
 02049 Podatkovni zasloni
+06280 Urejanje teže
 02068 Razsirjeno
 02066 Hitro
+06427 GPS + GALILEO
 03159 GPS + GLONASS
 03158 Običajno (samo GPS)
 02060 GPS
@@ -1909,14 +2097,18 @@
 02075 Odstrani
 02076 Preimenuj
 03160 Ponovno razvrsti
+06084 Štetje ponovitev
 02051 Ponovi
 05549 Ponastavi privzete vrednosti
 02064 Počasi
 02061 Zaznavanje zavesljajev.
+06451 Sam. sprem. šp. za plavanje/tek
 02048 Strani za vadbo
 02050 Prehodi
 02063 Med postankom
 02055 %1 jardov
+06420 Vsi teki
+06419 Vsa plavanja
 01981 Merjenje aktivnosti
 05439 Opozorila o ciljih
 01979 Opozorilo o premiku
@@ -1970,7 +2162,7 @@
 02124 Sobota
 02113 Ned
 02112 Nedelja
-02121 Cet
+02121 Čet
 02120 Četrtek
 02098 Čas
 05875 Trening
@@ -1998,9 +2190,9 @@
 03072 Bližina
 01636 Kadenca
 01630 Tek/hoja
-01638 Tempo zavesljajev
+01638 Hitrost zavesljajev
 01632 Hitrost
-01633 Cas
+01633 Čas
 01619 Kalorije
 01614 Razdalja
 01628 Izberite sporočilo
@@ -2013,9 +2205,9 @@
 03071 Bližina
 01616 Kadenca
 01610 Tek/hoja
-01618 Tempo zavesljajev
+01618 Hitrost zavesljajev
 01612 Hitrost
-01613 Cas
+01613 Čas
 01669 Opozorilo za vzpon
 01670 Vzpon
 01665 Visoka kadenca
@@ -2023,7 +2215,7 @@
 01641 Kadenca
 05434 Hitrost zavesljajev
 01640 Kadenca
-01642 Tempo zavesljajev
+01642 Hitrost zavesljajev
 01643 Kalorije
 03078 %1 (po meri)
 01691 Po meri
@@ -2050,6 +2242,7 @@
 05685 Opoz. - niz.
 01676 Najmanj Višina
 01662 Najnizja hitrost
+06098 Iz smeri
 01694 Izklopljeno
 01645 Tempo
 05435 Visoka hitrost zavesljajev
@@ -2099,12 +2292,13 @@
 03223 Sam. zaznavanje
 03226 FTP
 03225 Laktatni prag
-03224 Najvisji SU
+03224 Najvišji SU
 02128 Samodejno razdalja
 02127 Auto Lap
 03621 Samodejni tek
 02129 Opozorilo o krogu
 02126 Krogi
+06429 Opozorilo o nenorm. srč. utripu
 02141 15 sekund
 02143 1 minuta
 02142 30 sekund
@@ -2148,14 +2342,26 @@
 01215 Izklopljeno
 05825 Drugo
 02187 Drugo
-02941 Najvišja intenzivnost
-01210 Najvišja intenzivnost
+02941 Najsvetlejše
+01210 Najsvetlejše
 02188 Varčevanje z energijo
 02185 Način osvetlitve
 02186 Način osvetlitve
 02157 Pametna obvestila
 02158 Ustavi LiveTrack
 03651 Oddajanje srčnega utripa
+06440 Pokličem pozneje.
+06449 Pozdravček.
+06443 Ne
+06447 Ne, hvala.
+06441 V redu
+06439 Na poti sem!
+06446 Na vožnji sem.
+06444 Tečem.
+06438 Žal zdaj ne morem govoriti.
+06448 Hvala!
+06445 Vadim.
+06442 Da
 05494 Izberite dejavnost %1
 03579 Izberite lokacijo
 00133 Izberite program
@@ -2166,6 +2372,13 @@
 03630 Sinhronizacija z GPS-om
 00179 Časovnik
 00176 Videz ure
+06485 Senzorji palic
+06486 Združeni senzorji
+06487 Združeni senzorji
+06491 Znova dodeli
+06490 Nedodeljeno
+06488 Nedodeljeni senzorji
+06489 Neznano
 00084 Dodaj lokacijo
 00085 Shranim sprem.?
 00092 Igrišča
@@ -2174,6 +2387,7 @@
 00095 Prenesene tekme
 00090 Izbriši
 00086 Začni s progo
+06075 Opravljanje proge v obratni smeri
 00088 Izris višine
 00087 Zemljevid
 00089 Ime
@@ -2252,9 +2466,6 @@
 00315 Kartica z rezultati
 03669 Kartica z rezultati
 00314 Zacetek belezenja rezultatov
-03163 GPS + GLONASS
-03162 Običajno (samo GPS)
-02093 Izklopljeno
 05539 Vrste dejavnosti
 05540 Samo kolesarjenje
 05541 Samo tek
@@ -2264,7 +2475,7 @@
 02249 Kolesarjenje
 03233 Srčni utrip
 02254 Srčni utrip pri laktatnem pragu
-02252 Najvisji SU
+02252 Najvišji SU
 03238 Odstrani SU za kolesarjenje
 03237 Odstrani srčni utrip za tek
 03239 Odstrani srčni utrip za plavanje
@@ -2290,10 +2501,10 @@
 01126 Dejavnosti
 01125 Zgodovina
 01158 Izbriši vse dejavnosti
-01157 Moznosti
+01157 Možnosti
 01159 Ponastavi skupne vrednosti
 05642 Možnosti dejavnosti %1
-01129 Moznosti
+01129 Možnosti
 02926 Rekordi
 01155 Zadnji teden
 01146 April
@@ -2319,7 +2530,9 @@
 02194 Ročno
 02191 Na zahtev./ob opozor.
 02190 Ostane vklopljeno
+06153 Budilka
 03656 Barometer v načinu ure
+06184 Oddajanje SU
 03268 Spreminjanje športa
 02410 Dvojna mreža
 02409 Držite tipko BACK
@@ -2343,6 +2556,31 @@
 02268 Ponastavi območja
 02972 Prag (Z4)
 02969 Ogrevanje (Z1)
+06354 Štev. nov. spor.: 1
+06383 Končano
+06382 Izberite stike
+06358 Pogovor
+06357 Novo sporočilo
+06347 Zaženi SOS
+06352 Nalagam
+06363 Jaz
+06362 (neznano)
+06361 Prekliči SOS
+06359 Odgovori
+06360 Starejše odgov. si oglejte v inReach.
+06349 Sporočila
+06380 Število izbranih: 1
+06377 Novo sporočilo
+06379 Izberite stike
+06381 Število izbranih: %1
+06378 Pošlji
+06355 Štev. nov. spor.: %1
+06356 Ni novih sporočil
+06353 Ni priključeno
+06376 Pošlji predn. spor.
+06348 Poteka SOS
+06350 Pošlji predn. spor.
+06351 Sledenje
 02553 Ohlajanje
 02548 Urejanje vadbe
 02549 Interval
@@ -2351,10 +2589,7 @@
 02552 Ogrevanje
 02547 Prekliči vadbo
 02542 Začni z vadbo
-02546 %1 počitka
 02543 Uredi
-02544 Št. krog.: %1
-02545 Odpri počitek
 02554 Urejanje počitka
 02556 Trajanje
 02555 Urejanje intervala
@@ -2375,14 +2610,6 @@
 00004 Več
 00002 Shranjene lokacije
 02292 Urejanje lokacije
-05061 Štirikolesnik
-05056 Plaža
-05036 Kolesarska pot
-05067 Kocka, modra
-05066 Kocka, zelena
-05065 Kocka, rdeča
-05057 Ladijska rampa
-05047 Stavba
 05027 Izbira kategorije
 05029 Javno
 05034 Lovišče
@@ -2392,37 +2619,6 @@
 05032 Destinacije
 05031 Znaki
 05030 Prevoz
-05037 Kamp
-05050 Avtomobil
-05068 Krog, rdeč
-05058 Zastavica potapljača
-05038 Pitna voda
-05039 Ribolovno območje
-05071 Zastavica, modra
-05070 Zastavica, zelena
-05069 Zastavica, rdeča
-05062 Divjad (velika)
-05063 Divjad (majhna)
-05051 Bencinska črpalka
-05040 Geocache
-05041 Geocache (najdena)
-05042 Igrišče za golf
-05052 Prenočišča
-05055 Zdravstvena ustanova
-05074 Bucika, modra
-05073 Bucika, zelena
-05072 Bucika, rdeča
-05048 Prebivališče
-05053 Restavracija
-05059 Zaprto območje
-05054 Stranišča
-05043 Razgledna točka
-05049 Šola
-05044 Smučarsko središče
-05045 Vrh
-05060 Kopališče
-05046 Začetek sledi
-05064 Vodna ptica
 00011 Izbriši
 00009 Podrobnosti
 00013 Višina
@@ -2430,17 +2626,21 @@
 05026 Ikona
 00010 Ime
 00012 Položaj
+06172 Dodaj upravljalne elemente
 05905 Dodaj pripomoček
+06191 Alarmi
 03595 Umeri moč
 06064 Urejanje zadnje serije
 01745 Zgodovina
+06297 Položaj
 03592 Izklopi zvok metronoma
 05864 Nastavitve navigacije
 05595 Bližnje povezave
-03600 Meni upravljalnih elementov
 03599 Odstrani program
+06174 Odstrani upravlj. elemente
 03597 Odstrani pripomoček
 03598 Prerazporedi program
+06173 Prerazporedi upravlj. elemente
 03596 Prerazporedi pripomoček
 01747 Nastavitve
 03594 Prekini progo
@@ -2463,7 +2663,7 @@
 02306 Metronom
 02307 Nemo
 02312 Predogled
-02308 Glasno
+02308 Vklopi zvok
 03255 Zakleni tipke
 03602 Alarmi
 00016 Nazaj na začet.
@@ -2520,14 +2720,15 @@
 05551 Povezano
 05553 Povez. onemogoč.
 05555 Odprite prog. v telef.
-05552 Združite s telefonom
-05686 Združite s telefonom
+05552 Združi s telefonom
+05686 Združi s telefonom
 05550 Telefon
 05554 Čakanje na telefon
 03221 Samodejno zaznavanje
 05743 Beleži spremenl. srčnega utripa
 03222 Obvestila o zmogljivosti
-03220 Fiziološke meritve
+03220 Fiziološki param.
+06289 TrueUp
 00107 25 metrov
 00109 25 jardov
 00110 33 1/3 m
@@ -2537,14 +2738,19 @@
 00106 Velikost bazena
 02172 Samodejno: %1 mm
 02174 Samodejna ničla
+06149 Dodaj uprav. elem.
 05652 Dodaj novo
+06150 Budilka
 05978 Osvetlitev
+06182 Oddajanje srčnega utripa
 03182 Ne moti
 03183 Poišči moj telefon
 05979 Svetilka
+06151 Budilka
 05957 Višinomer
 05980 Osvetlitev
 05956 Barometer
+06183 Oddajanje SU
 05958 Kompas
 03198 Ne moti
 03199 Poišči moj telefon
@@ -2558,22 +2764,28 @@
 03202 Shrani položaj
 03206 Nastav. čas z GPS
 03207 Štoparica
+06196 Sončni vzh. in zah.
 03203 Sinhronizacija
+06197 Drugi čas. pasovi
 03208 Časovnik
 03201 VIRB
 03205 Wi-Fi
+05502 Zakleni/odkleni tipke
 03184 Upravljanje glasbe
 05556 Telefon
-03179 Meni uprav. elem.
+03179 Kontrolniki
 03180 Izklop
 03186 Shrani položaj
 03190 Nastavite čas z GPS-om
 03191 Štoparica
+06195 Sončni vzhod in zahod
 03187 Sinhronizacija
+06193 Drugi časovni pasovi
 03192 Časovnik
 03185 VIRB
 03189 Wi-Fi
 02175 Umeri
+06152 Opozorilo za umerjanje
 02171 Dolžina gonilke
 02177 Faktor merila – L
 02173 Ročno: %1 mm
@@ -2629,7 +2841,7 @@
 03455 Odseki Garmin
 03458 Naklon: %1
 03456 Odseki Garmin
-03457 Segmenti Strava v živo
+03457 Strava Live Segments
 03463 Izbriši
 03462 Izris višine
 03461 Zemljevid
@@ -2638,6 +2850,7 @@
 01497 Višinomer
 01500 Barometer
 01508 Kadenca – %1
+06484 Senzorji palic
 01496 Kompas
 05945 Zaslon – %1
 05496 Bluetooth
@@ -2646,6 +2859,7 @@
 05497 Prikaži senzorje Bluetooth
 01504 FP – %1
 01503 SU – %1
+06097 Lokacije XERO
 01512 Luč – %1
 01502 Luči
 03055 O2 v miš. – %1
@@ -2658,7 +2872,9 @@
 01506 Hit/kad - %1
 01507 Hitrost – %1
 01510 Tempe – %1
+06457 DogTrack – %1
 01509 VIRB – %1
+06339 inReach – %1
 02166 O napravi
 01164 Po meri
 01171 46–36 Z
@@ -2686,12 +2902,13 @@
 02343 Izklopljeno
 02338 Iskanje
 02342 Iskanje
-03066 O napravi
+03066 Vizitka
 01583 Merjenje aktivnosti
 01579 Dejavnosti in programi
 05683 Dejavnosti in programi
+06148 Kontrolniki
 04991 Kopiraj dejavnost
-01580 Trenutni program
+06143 Trenutna dejavnost
 05536 GroupTrack
 03063 Zemljevid
 01584 Navigacija
@@ -2725,6 +2942,7 @@
 02930 Prednastavitve prestav
 02928 Zadnje prestave
 00118 Obvestila
+06434 Odgovori z
 02352 Med dejavnostjo
 02353 Ne med dejavnostjo
 02354 Med dejavnostjo
@@ -2748,6 +2966,14 @@
 02558 Razdalja
 02560 Odprto
 02559 Čas
+06310 Koordinate
+06309 Zgodovina %1
+06308 Shranjene lokacije
+06307 Izberite lokacijo
+06423 Tek %1
+06421 Povzetek tekov
+06424 Plavanje %1
+06422 Povzetek plavanj
 01237 %1 na voljo
 01236 Opusti
 01239 Predvideni čas: %1 min
@@ -2757,7 +2983,7 @@
 05860 %1 na voljo
 05858 Namesti
 05859 Posod. pr. opr.
-01238 Posod. je na voljo
+01238 Na voljo je pos.
 01760 Samodejno zaklepanje
 01763 Osvetlitev
 01762 Ura
@@ -2785,6 +3011,7 @@
 00026 Zaženi časovnik
 02377 12-urni
 02378 24-urni
+06085 Vsako uro
 00040 Do sončnega vzhoda
 00039 Do sončnega zahoda
 02380 Samodejno
@@ -2798,6 +3025,12 @@
 02372 Cas %1
 02373 Oblika zapisa časa
 02375 Čas
+06201 Dodaj časovni pas
+06202 Dodaj časovni pas
+06203 Spremeni čas. pas
+06199 Spremeni časovni pas
+06200 Izbriši časovni pas
+06198 Preimenuj časovni pas
 01596 Kolesarstvo
 05650 Merilnik opravljene poti
 01595 Tek
@@ -2813,9 +3046,10 @@
 01601 Intervali
 03069 Vodeni test laktatnega praga
 01599 Moje vadbe
+06099 Dihanje
 03095 Ura
 03091 Kompas
-03089 Trenutni tek
+03089 Trenutna vožnja
 01794 Dnevnik vadbe
 03092 Dvojna mreža
 03097 Višina
@@ -2833,7 +3067,7 @@
 01603 Tekma z dejavnostjo
 03067 Odseki
 01602 Nastavi cilj
-03068 Segmenti Strava v živo
+03068 Odseki Strava Live Segments
 01600 Koledar vadb
 01598 Trening
 03716 Zamenjava palice
@@ -2862,6 +3096,10 @@
 02404 Območja moči
 02398 Profil uporabnika
 02402 Teža
+06270 Ali želite opraviti umerjanje zdaj?
+06269 Nastavite dolžino gonilke
+06271 Preskoči
+06268 Pov. z Vector vzp.
 02418 Zaporedni posnetki
 02416 Fotografije
 05887 Mirovanje kamere
@@ -2886,7 +3124,7 @@
 02434 Video visoke ločljivosti
 02430 Interval
 05892 Samo spredaj
-05894 NEOBDELANO
+05894 RAW
 05893 Samo zadaj
 05895 Neznano
 05891 Način objektiva
@@ -2911,7 +3149,8 @@
 00415 Kalorije
 00215 Ura
 00223 Kompas
-06065 Nadstropja - vzpenj.
+06065 Nadstropja navzgor
+06346 Trener Garmin
 00383 Minute intenzivnosti
 00395 Zadnja vožnja
 00394 Zadnji tek
@@ -2922,11 +3161,12 @@
 00225 Upravljanje glasbe
 00363 Moj dan
 00217 Obvestila
-03646 Moznosti
+03646 Možnosti
 03644 Zmogljivost
 03648 Odstrani
 03647 Ponovno razvrsti
 06066 Stres
+06207 Sončni vzhod in zahod
 00220 Temperatura
 00224 VIRB
 00219 Vreme
@@ -2934,11 +3174,13 @@
 03217 Dodaj pripomočke
 03216 Dodaj pripomočke
 03215 Pripomočki
+06034 Neveljavna dolžina gesla
 02443 Samodejni prenos
 02442 Poveži z brezž. omr.
 06014 Moja omrežja
 02444 Wi-Fi
 06027 Dodajanje omrežja
+06032 Dodano je največje dovoljeno število omrežij Wi-Fi. Odstranite omrežje in poskusite znova.
 06026 Moja omrežja
 06028 Najdena omrežja
 06030 Odstrani
@@ -2982,9 +3224,13 @@
 02953 Za preklop na drug šport držite med dejavnostjo.
 02951 Dejavnost ne podpira metronoma.
 02950 Nobena dejavnost ne poteka.
+06294 Pozneje jo lahko omogočite v Nastavitve > Fiziološki parametri.
 05815 Vrednost se prikaže, ko se izmeri srčni utrip v mirovanju.
+06279 Utež za ponovitev je mogoče urediti med vadbo.
 02952 Posnetek zaslona je zajet
 02954 Programska oprema je posodobljena na različico %1
+06337 Prenašanje sporočila v napravo inReach.
+06338 Sporočilo se bo preneslo, ko bo naprava inReach v dosegu.
 00119 Ni obvestil
 05596 Potrebna je povezava s telefonom
 03626 %1 za naslednji del
@@ -2996,6 +3242,27 @@
 05850 Preskus je aktiven.
 05853 Preskus je potekel. Za odklepanje obiščite apps.garmin.com.
 02223 N. vr. ni m. nast., dokler se v Vect. ne dok. pos. fakt. mer.
+06500 Vse palice so zdaj združene.
+06508 Baterija CR2032 senz. %1 je skoraj prazna
+06509 Baterija CR2032 senzorja palic je skoraj prazna.
+06497 Zaznanih je bilo več senzorjev. Pospravite vse druge palice.
+06492 Palico pospravite nazaj v torbo in izvlecite naslednjo.
+06493 Hkrati združite samo eno palico. Druge pustite v torbi.
+06518 Združevanje ni bilo uspešno.
+06501 Izvlecite senzor, ki je bil na palici %1
+06502 Izvlecite senzor, ki ga želite znova dodeliti.
+06495 Držite palico tako, da je ročaj obrnjen navzgor.
+06494 Iskanje senzorja palic.
+06498 Ta senzor je že združen.
+06499 Senzor je dodeljen palici %1
+06496 Zaznan je bil senzor palic. Združevanje.
+06512 Izvlecite palico %1.
+06513 Izvlecite senzor palic, ki ga želite posodobiti.
+06514 Nameščanje posodobitve za palico %1.
+06517 Pripravljanje posodobitve
+06516 Posodobitev ni uspela. Za vnov. poskus znova vzpost. povezavo s senzorjem.
+06515 Posodobitev ni bila uspešna
+06507 Nedodeljeni senzorji palic ne bodo pravilno beležili udarcev.
 01324 Priporočamo ohlajanje
 00175 Aktivnega profila ni mogoče odstraniti
 01905 Vseh profilov ni mogoče odstraniti.
@@ -3017,8 +3284,9 @@
 01908 Nalaganje skupnih vrednosti
 01924 Če želite dostop do menija, dokončajte trenutno dejavnost.
 01904 Zam. ali od. Connect IQ na kat. koli p. za. za dod. dr. pol.
-05799 Izklop zaradi kritično izpraznjene baterije
-05773 Shranjevanje dejavnosti zaradi kritično izpraznjene baterije
+06177 Ustvarjanje uredljive kopije proge.
+05799 Kritično izpraznjena\nIzklapljanje
+05773 Kritično izpraznjena\nShranjevanje dejavnosti
 01911 Vse dejavnosti so bile izbrisane
 01912 Brisanje vseh dejavnosti
 01913 Vsi zapisi so počiščeni
@@ -3031,6 +3299,9 @@
 01917 Profil dejavnosti že obstaja
 01947 Prenašanje shranjenih podatkov o srčnem utripu
 01325 Priporočamo ohlajanje
+06135 Podatkov o lokaciji XERO ni bilo mogoče najti.
+06136 Pošiljanje podatkov o lokaciji XERO.
+06134 Poslani podatki o lokaciji XERO.
 01355 Potrebna sta prsni merilnik srčnega utripa in senzor moči
 01354 Potreben je prsni merilnik srčnega utripa
 01950 Prenos podatkov o srčnem utripu je bil uspešen
@@ -3054,6 +3325,7 @@
 01932 Iskanje desnega pedala.  To lahko traja nekaj minut.
 01929 Posodobitev je končana
 01936 Posodabljanje
+06300 Posod. pedalov Vector\n\nMed pos. utripa indikator pedala.
 01934 Čakanje na ponoven zagon senzorja.
 01958 Potreben je najv. VO2. Za najv. VO2 tecite zunaj 10:00 in merite srčni utrip.
 01959 Potreben je GPS. Vklopite GPS in test dokončajte na prostem.
@@ -3061,7 +3333,7 @@
 00098 Nalagam
 00082 Nalagam
 01327 Območja srčnega utripa so posodobljena
-00143 Zabeležen nov najv. kolesar. SU
+00143 Zab. nov najv. SU med koles.
 00144 Zabeležen nov privz. najv. SU
 00142 Zabeležen nov najv. tek. SU
 01955 Če želite dostop do menija, dokončajte trenutno dejavnost z več športi.
@@ -3087,9 +3359,11 @@
 00320 Kartica z rezultati je bila shranjena
 01954 Za spr. nast. prekličite ali dokončajte aktivno dejavnost.
 01953 Ce zelite spremeniti nastavitev, dokoncajte trenutno dejavnost.
-03568 Napolnjenost baterije je prenizka za brezžično povezavo Wi-Fi.
+03568 Napolnjenost baterije je prenizka za povezavo z omrežjem Wi-Fi.
 05700 Prenos med dejavnostjo ni mogoč.
 05633 Povezave ni bilo mogoče vzpostaviti. Poskusite znova.
+06344 Sinhronizacija s programom Explore
+06345 Poteka sinhroniz.
 05629 Nezdružljiva vrsta omrežja.
 05630 Napaka omrežja. Poskusite znova pozneje.
 03566 Na voljo ni nobene povezave s programom.
@@ -3099,9 +3373,9 @@
 03560 Iskanje omrežja Wi-Fi.
 03567 Nastavite Wi-Fi s programom Garmin Connect Mobile ali Garmin Express.
 03562 Prenos že poteka.
-05631 Prenos je končan (%1 datoteke ni bilo mogoče prenesti)
+05631 Prenos je končan\n(1 datoteke ni bilo mogoče prenesti)
 03563 Prenos je končan.
-05632 Prenos je končan (%1 datotek ni bilo mogoče prenesti)
+05632 Prenos je končan\n(%1 datotek ni bilo mogoče prenesti)
 03564 Prenos ni uspel.
 05701 Poteka prenos
 03561 Prenašanje
@@ -3127,18 +3401,21 @@
 00050 Program
 00049 START za ogled. (Program %1 se bo ustavil.)
 06022 Povezave s telefonom ni mogoče znova vzpostaviti.
-06019 Vzpostavljanje povezave z omrežjem {1:32}
+06019 Vzpostavljanje povezave z omrežjem %1
 06021 Povezave ni bilo mogoče vzpostaviti
 06020 Povezava je uspešno vzpostavljena
 06015 Najdena omrežja Wi-Fi
 06016 Najti ni bilo mogoče nobenega omrežja Wi-Fi
+06025 Odprto
 06017 Ponovno vzpostavljanje povezave s telefonom
 06023 Iskanje omrežij Wi-Fi
+06024 Zaščiteno
 06018 Ponovi
 00051 Če želite dodati šport te vadbe, odstranite profil dejavnosti z enim športom.
+06291 Trenutna dejavnost ne podpira sledenja. Pripomoček XERO je onemogočen.
 00159 Ni tekov
 02214 Umerjanje senzorja moci
-02215 Umer. uspešno
+02215 Umer. uspelo
 02216 Razlika
 02217 Navor
 02209 Za nast. nam. kot. pog. z 80-90 obr/min.
@@ -3149,7 +3426,7 @@
 02980 Lahkot. vadite ali počivajte
 01422 Za ogled časa regeneracije tecite z merjenjem srčnega utripa.
 02978 Vadite kot običajno
-01421 dnevi
+01421 dni
 01419 ura
 01420 ur
 01528 Senzor %1 je povezan
@@ -3161,6 +3438,10 @@
 05976 Doseženo je največje število senzorjev.
 05682 Senzorji so dodani
 05866 Napaka senzorja
+06286 Napaka naprave Varia
+06437 Besedilnega odgovora ni mogoče poslati
+06436 Odgovor je poslan
+06435 Pošiljanje odgovora
 03702 Povežite napravo TruSwing s programom za mobilne naprave.
 03704 Povezava je uspešno vzpostavljena
 03703 Prenašanje palic
@@ -3173,6 +3454,9 @@
 05898 Zahteva je bila uspešna
 05766 Krog %1
 05754 Pritis. za krog
+05767 %1 krog
+05768 Število krogov: %1
+05769 Ali želite shraniti kot dejavnost?
 00421 Oblika položaja
 06051 Preverite prileganje ure
 06048 Visoka raven stresa
@@ -3187,7 +3471,7 @@
 06053 Merilnik srčnega utripa na zapestju je onemogočen.
 01297 Zad. prest.:
 00081 Skupaj
-02959 Aerobni TE:
+02959 Aer. uč. v.:
 02960 Anaer. TE:
 01279 Vzpon:
 01294 P. k. sede:
@@ -3205,6 +3489,7 @@
 01250 Razdalja:
 01301 %1 – delf.:
 01298 %1 – pros:
+06096 Nadstropja:
 01296 Spr. prest.
 01265 Uravn. ČST:
 01264 CST:
@@ -3257,8 +3542,9 @@
 01262 Navp. nih.:
 01263 Navp. raz.:
 05997 Količina:
-05998 Teža:
+05998 Utež:
 05993 Čas vadbe:
+06288 Vir:
 05675 Razdalja:
 01302 Višina:
 01303 Položaj:
@@ -3284,6 +3570,12 @@
 01553 Neujemanje
 01554 Novo
 01556 V redu
+06425 Vsi teki
+06426 Vsa plavanja
+06314 Bliz. %1
+06208 S. vzh.
+06209 Sonč. z.
+06210 Somrak
 05329 Povp. razd./zav.
 05396 Povp. razd./zav.
 05418 P. raz./z.
@@ -3321,6 +3613,8 @@
 02688 J
 00356 S
 00338 Varnostni faktor
+06259 Samara
+06260 Samoa
 01091 Sob
 00498 Merilo
 00349 Izberite točko DIP
@@ -3403,6 +3697,7 @@
 00472 SWEREF 99 TM
 03278 Plavanje
 00473 Švicarska mreža
+06261 Sydney
 00495 Odmik 1
 00497 Odmik 2
 00494 Postaja 1
@@ -3460,6 +3755,7 @@
 03633 Kazalci
 03639 Postavitev
 05491 Sekunde
+06204 Za dod. čas. pas. pritisnite START.
 00116 Skupni čas
 03538 Zadnjih 7 dni
 05513 Za izračun 7-dnevne obremen. je potreben en teden uporabe.
@@ -3468,7 +3764,7 @@
 03531 Vadba
 03535 Visoka
 03532 Obrem.v
-03533 Nizek
+03533 Nizko
 03527 Ohranjanje
 05699 Ni stanja
 03534 Optimalno
@@ -3487,6 +3783,7 @@
 00959 TSS
 00352 T
 00474 Tajvanska mreža
+06263 Teheran
 00239 Temperatura
 00354 Č
 01089 Čet
@@ -3512,14 +3809,19 @@
 05108 Preostali čas
 00527 Preostali čas
 00816 Preos. čas
-05214 Ura
-00629 Ura
+05214 Čas dneva
+00629 Čas dneva
 00918 URA
 00270 Ali želite vnesti trenutno višino?
+06067 Vnesem tlak na morski gladini?
+06264 Tokio
 05246 Učinkovitost navora
 00661 Učinkovitost navora
 02899 Učink. nav.
 00154 Skup. voženj
+06070 Skupni čas
+06071 Skupni čas
+06072 Skupni čas
 05205 Smer gibanja
 00620 Smer gibanja
 00909 Smer
@@ -3558,7 +3860,7 @@
 00206 Resnično
 01087 Tor
 02772 a
-02720 u/mi
+02720 u/m
 02721 K
 02722 °C
 02723 cm
@@ -3573,6 +3875,7 @@
 02733 fpmu
 02731 fa
 02734 ft
+06124 nadst.
 02735 gal
 02736 G
 02716 ° G
@@ -3587,9 +3890,9 @@
 02743 km/h
 02742 km
 02744 kt
-02746 l
+02746 L
 02758 m/md
-02759 m/mu
+02759 m/mg
 02761 m/sd
 02760 m/s2
 02762 m/su
@@ -3635,11 +3938,19 @@
 02717 ° M
 02776 V
 02788 W/kg
-02777 Z
+02777 W
 02778 jd
 03389 ft/h
 03390 m/h
+06211 US – Alaska
+06212 US – Arizona
+06213 US – Atlantic
+06214 US – Central
+06215 US – Eastern
+06216 US – Hawaii
+06217 US – Mountain
 00475 Ameriški državni
+06218 US – Pacific
 00487 UTM
 00476 UTM UPS
 01084 ID naprave
@@ -3651,7 +3962,7 @@
 02494 Dokler SU ni < %1 BPM
 02495 Dokler SU ni < %1 % RSU
 02496 Dokler SU ni < %1 % najv.
-02501 Do pritiska gumba Lap
+02501 Do pritiska gumba za krog
 02513 Do najv. moč z. k. > %1 % FTP
 02512 Do najv. moč z. k. > %1 W
 02506 Do najv. moč z. k. < %1 W
@@ -3668,7 +3979,7 @@
 00273 Uporabi GPS
 00478 Uporabniška mreža
 00208 Uporabnik
-05787 Za združ. prit. START.
+06414 Združi kamero VIRB
 05149 HITROST DO CILJA
 00568 HITROST DO CILJA
 00857 HIT DO C
@@ -3693,12 +4004,13 @@
 02878 Nav. razm.
 00260 Navpična hitrost
 00387 Živahna
+06265 Vladivostok
 01117 Ura je bila najdena.
 00171 Pet
 00167 Pon
 00172 Sob
 00173 Ned
-00170 Cet
+00170 Čet
 00168 Tor
 00169 Sre
 05738 Min. intenziv.
@@ -3718,6 +4030,7 @@
 03732 Zavesljaji
 05855 Ta teden
 00399 Čas
+06139 nadstr.
 03734 voženj
 03733 zaveslj.
 00391 Zadnja vožnja
@@ -3725,6 +4038,7 @@
 00389 Zadnji šport
 00392 Zadnje plavanje
 00362 Moj dan
+06033 Posodabljanje seznama omrežij Wi-Fi
 03300 Ponov. %1
 03302 Razd. koraka
 03301 Čas koraka
@@ -3741,7 +4055,7 @@
 02481 Ogrevanje
 02480 Ogrevanje
 02482 Ogrevanje
-02522 Z
+02522 W
 05234 Moc v tezi
 00649 Moc v tezi
 00938 W/kg
@@ -3756,8 +4070,11 @@
 02915 Naslov MAC za Wi-Fi
 00348 Za izračun točke HARP so potrebni podatki o vetru.
 00336 Veter
+06266 Windhoek
 02524 Vadba je končana
 00247 SU na zapestju
+06205 Pripr. za prejemanje
+06458 Počakajte na GPS
 01079 Da
 02692 Z0
 02693 Z1
@@ -3769,7 +4086,7 @@
 02699 Z7
 02683 a
 02685 dop
-02519 u/mi
+02519 u/m
 04951 dni
 00297 Zavoj
 03738 Baterija ovratnice %1 je skoraj prazna.
@@ -3777,8 +4094,12 @@
 00436 hddd.ddddd°
 00437 hddd°mm.mmm'
 00438 hddd°mm'ss.s"
+06077 %1 hPa na 3 h
+06078 %1 in na 3 h
 03736 Pes %1 je v stoji.
 03735 Ovratnica %1 je izgubila signal GPS.
+06076 %1 mbar na 3 h
+06079 %1 mmHg na 3 h
 02535 na %1
 02684 p
 02686 pop.
